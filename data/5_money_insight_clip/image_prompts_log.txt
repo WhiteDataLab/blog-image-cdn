@@ -1,0 +1,30 @@
+
+[2026-05-16 16:54:53] MZ세대를 위한 2026 스마트 재테크: ETF와 AI 활용한 글로벌 분산투자 로드맵
+
+[2026-05-16 18:03:55] 2026년 AI 투자 패러다임 전환: '금광' 아닌 '삽'에 주목해야 할 이유
+
+[2026-05-17 14:01:09] 2026년 AI 투자, '금광'보다 '삽'에 주목하라: 반도체 및 인프라 투자 기회와 개인 투자 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D render of interconnected circuit boards forming a stylized brain, surrounded by glowing data streams and subtle geometric patterns, symbolizing AI infrastructure and investment. The color palette is deep blues, purples, and electric greens, conveying technology and growth.
+🖼️ [BODY PROMPT 1]
+A close-up, highly detailed 3D render of interconnected microchips and high-bandwidth memory (HBM) stacks, glowing with intricate data pathways, symbolizing advanced AI semiconductor technology. The background is a subtle, futuristic circuit board pattern.
+🖼️ [BODY PROMPT 2]
+A conceptual 3D render of a futuristic data center server rack with visible liquid cooling tubes and glowing energy efficiency indicators, set against a backdrop of abstract network connections, emphasizing advanced infrastructure.
+🖼️ [BODY PROMPT 3]
+An abstract, glowing network of interconnected lines and nodes, representing ultra-high-speed data transmission and AI connectivity, with a sense of rapid flow and complex architecture. The colors are vibrant and dynamic.
+🖼️ [BODY PROMPT 4]
+A minimalist, glowing holographic chart displaying various investment sectors (semiconductors, infrastructure, network), with upward trend lines and abstract financial symbols, representing a strategic investment roadmap.
+------------------------------------------------------------
+
+[2026-05-17 18:36:05] 2026년 베이비부머 세대를 위한 연금 자산 최적화: 은퇴 후에도 든든한 노후 설계 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist 3D rendering of a balanced financial portfolio, represented by glowing holographic charts and abstract geometric shapes, with a subtle golden glow symbolizing wealth and security. No human elements.
+🖼️ [BODY PROMPT 1]
+A holographic projection of a financial timeline, showing an upward trajectory of pension growth over several decades, with key milestones marked by abstract glowing symbols. No human figures.
+🖼️ [BODY PROMPT 2]
+A digital display showing a diversified investment portfolio with various asset classes represented by dynamic, interconnected data points and lines, emphasizing stability and growth. No human presence.
+🖼️ [BODY PROMPT 3]
+An abstract representation of continuous learning and knowledge sharing, with interconnected brain-like nodes glowing brightly, surrounded by digital data streams and stylized growth charts. No human figures.
+🖼️ [BODY PROMPT 4]
+A futuristic, glowing city skyline at dawn, symbolizing a secure and prosperous future, with abstract financial graphs subtly integrated into the architecture. No human presence.
+------------------------------------------------------------

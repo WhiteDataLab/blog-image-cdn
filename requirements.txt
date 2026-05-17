@@ -1,0 +1,9 @@
+streamlit
+google-genai
+requests
+python-dotenv
+markdown
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib

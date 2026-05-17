@@ -1,0 +1,14 @@
+- The Future of Data Engineering: Why Real-Time Analytics is Changing the Game
+- The Evolution of Data Warehousing: Navigating the Modern Cloud Ecosystem
+- Bridging the Gap: Essential Data Engineering Practices for Machine Learning Models
+- Mastering AI Agents: A Practical Guide to Building and Deploying Autonomous Systems in the Enterprise.
+- Mastering AI Agents: A Practical Guide to Building and Deploying Autonomous Systems in the Enterprise
+- Mastering Generative AI & Agentic AI in 2026: An Enterprise Playbook for Data Professionals.
+- Mastering Generative AI & Agentic AI in 2026: An Enterprise Playbook for Data Professionals
+- Navigating the Autonomous Enterprise: Practical Strategies for Agentic AI Deployment in 2026.
+- Navigating the Autonomous Enterprise: Practical Strategies for Agentic AI Deployment in 2026
+- The Rise of Agentic AI: How Autonomous Data Agents are Reshaping Data Engineering Workflows in 2026
+- The Rise of Agentic AI: How Autonomous Data Agents are Reshaping Data Engineering Workflows in 2026
+- From Pilot to Production: Architecting Your Enterprise for Agentic AI in 2026.
+- From Pilot to Production: Architecting Your Enterprise for Agentic AI in 2026
+- The Power of Small: Deploying Edge AI with Small Language Models and Neuromorphic Hardware in 2026
