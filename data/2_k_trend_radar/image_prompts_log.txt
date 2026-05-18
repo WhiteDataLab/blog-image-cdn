@@ -26,3 +26,16 @@ A dynamic, futuristic graphic depicting a network of interconnected food product
 🖼️ [BODY PROMPT 4]
 A beautifully composed still life of a modern Korean table setting featuring small, elegant bowls of diverse, colorful Hansik dishes. One bowl contains a plant-based protein dish, another a vibrant fermented vegetable mix, and a third a nutrient-dense soup. The background is blurred, suggesting a cozy, inviting atmosphere.
 ------------------------------------------------------------
+
+[2026-05-18 23:35:45] The Rise of "Poetcore" and "Granola Core": Decoding 2026's New K-Fashion Narratives for Global Style Enthusiasts.
+📸 [THUMBNAIL PROMPT]
+A minimalist abstract design featuring intertwining threads of muted earth tones and deep, rich jewel tones, forming a dynamic, flowing pattern against a soft, diffused light background. The composition suggests both organic growth and sophisticated artistry, with subtle holographic accents.
+🖼️ [BODY PROMPT 1]
+A beautifully arranged flat lay of vintage-inspired writing tools, including a quill pen, aged parchment paper with elegant script, a small inkwell, and a delicate, pressed dried flower, all against a textured, soft-focus background.
+🖼️ [BODY PROMPT 2]
+A minimalist composition featuring a stack of natural fabric swatches in earthy tones (hemp, organic cotton, linen), alongside a single, perfectly smooth river stone and a small, vibrant green moss patch, all on a clean, light wooden surface.
+🖼️ [BODY PROMPT 3]
+A sophisticated 3D holographic projection of intertwining geometric patterns, one side in soft, flowing, muted colors and the other in rugged, textured, earth-toned hues, symbolizing the fusion of diverse fashion narratives.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract rendering of a serene forest path leading into a distant, softly glowing cityscape, depicted with clean lines and a harmonious blend of natural and architectural elements.
+------------------------------------------------------------
