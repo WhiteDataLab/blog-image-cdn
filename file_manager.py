@@ -1,4 +1,8 @@
 import os
+import datetime
+
+# 🌟 대한민국 표준시(KST) 타임존 정의 (해외 클라우드 서버 시각 동기화용)
+KST = datetime.timezone(datetime.timedelta(hours=9))
 
 def read_markdown_file(file_path):
     """지정된 경로의 마크다운 파일을 읽어옵니다."""
@@ -14,8 +18,8 @@ def append_to_history(file_path, title, content):
     # 폴더가 없으면 생성
     os.makedirs(os.path.dirname(file_path), exist_ok=True)
     
-    import datetime
-    today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    # 🌟 미국 서버에서도 무조건 한국 시간 기준으로 히스토리 타임스탬프 생성
+    today = datetime.datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S")
     
     with open(file_path, 'a', encoding='utf-8') as f:
         f.write(f"\n\n---\n")
