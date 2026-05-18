@@ -117,11 +117,21 @@ def generate_blog_content(topic, brand_guide, titles_history, language="Korean")
 
 
 def extract_and_format_prompts(content):
-    """본문에서 썸네일 및 본문 이미지 프롬프트를 정규식으로 추출합니다."""
-    thumbnail_match = re.search(r'\[THUMBNAIL_PROMPT\](.*?)\[/?THUMBNAIL_PROMPT\]', content, re.DOTALL | re.IGNORECASE)
+    """
+    본문에서 썸네일 및 본문 이미지 프롬프트를 정규식으로 추출합니다.
+    🌟 AI의 오타(예: THUMBNANAIL)도 잡아내도록 유연한 정규식으로 개선!
+    """
+    
+    # --- [수정] 썸네일 정규식 유연화 ---
+    # THUMB와 NAIL 사이에 어떤 문자가 와도, 심지어 NAIL이 빠져도 THUMB...PROMPT 구조면 잡아냅니다.
+    # 예) THUMBNAIL, THUMBNANAIL, THUMB_PROMPT 모두 매칭 성공
+    thumb_fuzzy_pattern = r'\[\s*THUMB\w*?PROMPT\s*\](.*?)\[/?\s*THUMB\w*?PROMPT\s*\]'
+    thumbnail_match = re.search(thumb_fuzzy_pattern, content, re.DOTALL | re.IGNORECASE)
     thumbnail_prompt = thumbnail_match.group(1).strip() if thumbnail_match else ""
     
-    body_matches = re.finditer(r'\[BODY_IMAGE_PROMPT\](.*?)\[/?BODY_IMAGE_PROMPT\]', content, re.DOTALL | re.IGNORECASE)
+    # --- 본문 이미지 정규식 (기존 유지) ---
+    body_pattern = r'\[BODY_IMAGE_PROMPT\](.*?)\[/?BODY_IMAGE_PROMPT\]'
+    body_matches = re.finditer(body_pattern, content, re.DOTALL | re.IGNORECASE)
     body_prompts = [match.group(1).strip() for match in body_matches]
     
     return thumbnail_prompt, body_prompts
