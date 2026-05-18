@@ -22,7 +22,10 @@ CHANNEL_CONFIG = {
     "6": {"name": "웰니스 라이프 레시피", "id": "6001598686226598495", "dir": "data/6_wellness_life_recipe", "lang": "Korean"}
 }
 
-# 🌟 클라우드 초기화 방지: 파일 변경 시 GitHub에 즉시 덮어쓰기(Push) 하는 함수
+# 🌟 대한민국 표준시(KST) 타임존 정의 (Streamlit Cloud 서버 시각 동기화용)
+KST = datetime.timezone(datetime.timedelta(hours=9))
+
+# 클라우드 초기화 방지: 파일 변경 시 GitHub에 즉시 덮어쓰기(Push) 하는 함수
 def sync_text_to_github(file_path):
     token = os.getenv("GITHUB_TOKEN")
     repo = f"{os.getenv('GITHUB_USERNAME')}/{os.getenv('GITHUB_REPO')}"
@@ -108,7 +111,9 @@ def run_auto_posting(channel_key, progress_bar, status_text):
     status_text.markdown(f"🎨 **[진행 2/4] AI 이미지 생성 및 GitHub 호스팅 저장 중...**\n\n💡 *FLUX 엔진으로 무인물 이미지를 제작 중입니다. (약 1분 소요)*")
     
     thumbnail_prompt, body_prompts = gemini_agent.extract_and_format_prompts(draft_content)
-    now_str = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    
+    # 🌟 임시 디렉토리 생성 시에도 한국 시간(KST) 기준으로 폴더명 포맷팅
+    now_str = datetime.datetime.now(KST).strftime("%Y%m%d_%H%M%S")
     image_dir = os.path.join(config['dir'], "images", now_str)
     
     # 백엔드 이미지 대량 생산 가동 (블로킹 구간)
