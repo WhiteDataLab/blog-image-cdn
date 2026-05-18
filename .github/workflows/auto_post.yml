@@ -42,11 +42,18 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # 이미지 CDN 업로드용 깃허브 토큰
       run: python main.py
 
-    # 6. 글이 써지면 히스토리 파일이 업데이트되므로, 변경된 파일({블로그제목}_포스팅.md)을 깃허브에 다시 저장(Push)합니다.
+    # 6. 글이 써지면 히스토리 파일이 업데이트되므로, 변경된 파일이 있을 때만 깃허브에 저장(Push)합니다.
     - name: Commit and Push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add .
-        git diff-index --quiet HEAD || git commit -m "🤖 아침 정기 포스팅 완료 및 히스토리 업데이트"
-        git push
+        
+        # 💡 [핵심 안전장치] 변경된 파일이 있는지 확인하는 조건문입니다.
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "🤖 아침 정기 포스팅 완료 및 히스토리 업데이트"
+          git push
+          echo "✅ 새로운 포스팅 히스토리가 성공적으로 저장되었습니다."
+        else
+          echo "✨ 변경된 파일이 없으므로 커밋을 건너뜁니다."
+        fi
