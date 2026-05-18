@@ -1,0 +1,52 @@
+name: Blog Auto Posting Bot
+
+# 언제 이 로봇을 실행할지 결정합니다.
+on:
+  schedule:
+    # ⚠️ 깃허브는 세계 표준시(UTC) 기준입니다. 한국 시간(KST)은 UTC보다 9시간 빠릅니다.
+    # 아래 설정은 UTC 00:00 이므로, 한국 시간(KST)으로 매일 오전 9시 00분에 자동으로 시작됩니다.
+    - cron: '0 0 * * *' 
+  
+  # 이 코드가 있으면 깃허브 웹사이트에서 우리가 원할 때 '수동 실행 버튼'을 누를 수 있습니다!
+  workflow_dispatch: 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    # 1. 깃허브 저장소에 있는 우리의 소스코드를 가상 컴퓨터로 가져옵니다.
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # 2. 파이썬 환경을 설치합니다.
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. 필요한 라이브러리(requirements.txt)를 설치합니다.
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    # 4. Streamlit Secrets처럼 token.json 파일 내용을 환경변수에서 읽어와 파일로 복원합니다.
+    - name: Create Google Token File
+      run: |
+        echo '${{ secrets.GOOGLE_TOKEN_JSON }}' > token.json
+
+    # 5. 블로그 자동화 메인 스크립트를 실행합니다!
+    - name: Run Auto Posting Script
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # 이미지 CDN 업로드용 깃허브 토큰
+      run: python main.py
+
+    # 6. 글이 써지면 히스토리 파일이 업데이트되므로, 변경된 파일({블로그제목}_포스팅.md)을 깃허브에 다시 저장(Push)합니다.
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git diff-index --quiet HEAD || git commit -m "🤖 아침 정기 포스팅 완료 및 히스토리 업데이트"
+        git push
