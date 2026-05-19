@@ -33,3 +33,14 @@ A sleek, holographic display showing personalized health data, genetic sequences
 🖼️ [BODY PROMPT 4]
 A conceptual image of a glowing, interconnected global network, symbolizing the ethical and societal implications of advanced scientific breakthroughs. Abstract and futuristic.
 ------------------------------------------------------------
+
+[2026-05-19 12:09:14] 2026년, 기후위기가 당신의 건강을 위협한다: '지구건강' 시대의 현명한 웰니스 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D render of a globe intertwined with stylized health icons (heartbeat, leaf, shield), against a backdrop of minimalist, glowing data visualizations. The overall aesthetic is clean, futuristic, and emphasizes interconnectedness without human figures.
+🖼️ [BODY PROMPT 1]
+A complex holographic display showing interconnected data points: rising temperature graphs, a stylized lung icon with pollution particles, and a wilting plant symbol, all rendered in cool blue and green tones with subtle light effects.
+🖼️ [BODY PROMPT 2]
+A minimalist graphic of a green leaf sprouting from a digital circuit board, symbolizing sustainable technology and nature's integration. The background is a soft gradient of earth tones and sky blues.
+🖼️ [BODY PROMPT 3]
+A serene, abstract landscape rendered in soft, glowing colors, with gentle undulating forms and a single, luminous sphere representing hope and balance. No human elements are present.
+------------------------------------------------------------
