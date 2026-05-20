@@ -54,3 +54,16 @@ An elegant, abstract composition of geometric shapes and textures, subtly hintin
 🖼️ [BODY PROMPT 4]
 A clear, organized infographic displaying various investment pathways, represented by clean lines and simple icons. A central holographic sphere shows a diversified portfolio, emphasizing strategic allocation and accessibility.
 ------------------------------------------------------------
+
+[2026-05-20 12:08:12] 2026년 국민연금 대개혁: 보험료 인상부터 소득대체율 변화까지, 내 노후는 어떻게 달라지나?
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist 3D graphic of a rising line graph intertwined with a stylized coin, set against a background of digital data streams, symbolizing financial growth and policy changes.
+🖼️ [BODY PROMPT 1]
+A holographic projection of a financial chart showing an upward trend, with abstract geometric shapes representing increasing contributions and long-term stability.
+🖼️ [BODY PROMPT 2]
+A digital representation of multiple interconnected gears, symbolizing the various components of a comprehensive financial plan working in synergy.
+🖼️ [BODY PROMPT 3]
+A sleek, modern tablet displaying a complex financial dashboard with various charts and graphs, reflecting real-time market data and personal asset allocation.
+🖼️ [BODY PROMPT 4]
+A stylized, glowing hourglass with sand flowing, representing the passage of time and the importance of timely financial planning, against a deep blue, abstract background.
+------------------------------------------------------------
