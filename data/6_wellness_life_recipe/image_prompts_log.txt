@@ -68,3 +68,16 @@ A clean, futuristic dashboard interface displaying a variety of real-time health
 🖼️ [BODY PROMPT 4]
 A conceptual image of interconnected neural networks and data points forming a protective shield around a stylized, glowing human silhouette, emphasizing data security and trust in AI healthcare.
 ------------------------------------------------------------
+
+[2026-05-22 12:19:31] 뉴로 피트니스: 뇌와 몸을 함께 단련하는 2026년 최신 웰니스 전략
+📸 [THUMBNAIL PROMPT]
+Abstract representation of brain activity intertwined with athletic movement, glowing neural pathways connecting to stylized muscle fibers, set against a minimalist, futuristic background with subtle data visualizations.
+🖼️ [BODY PROMPT 1]
+Minimalist, sleek wearable device designed for head, emitting subtle holographic brainwave patterns, against a dark, futuristic background.
+🖼️ [BODY PROMPT 2]
+Dynamic virtual reality interface displaying complex cognitive tasks overlaid on a simulated athletic environment, with glowing data points and geometric shapes.
+🖼️ [BODY PROMPT 3]
+Sophisticated digital dashboard displaying real-time biofeedback data: heart rate, brainwave patterns, and muscle activity, presented as elegant holographic charts.
+🖼️ [BODY PROMPT 4]
+Stylized infographic showing interconnected gears and circuits, representing brain and body synergy, with arrows indicating flow of information and energy, in a clean, modern design.
+------------------------------------------------------------
