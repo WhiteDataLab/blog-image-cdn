@@ -80,3 +80,16 @@ A holographic 3D chart displaying stablecoin market capitalization growth and va
 🖼️ [BODY PROMPT 4]
 An abstract representation of a secure digital vault or a complex lock mechanism, composed of interlocking geometric shapes and glowing energy lines, symbolizing the robust security and regulatory frameworks evolving around digital assets. No human elements are present.
 ------------------------------------------------------------
+
+[2026-05-22 12:12:07] 2026년 복합 위기 시대: 전통적 안전자산 공식이 깨질 때, 나만의 포트폴리오 방어 전략 재정의
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D rendering of interconnected gears and abstract financial charts, with some gears appearing to break or shift, against a dark, futuristic background. Emphasize complexity and change, with subtle neon blue and gold accents.
+🖼️ [BODY PROMPT 1]
+A digital rendering of a complex, interwoven network of abstract lines and nodes, with a central glowing sphere representing global finance, surrounded by smaller, fluctuating data points. Emphasize interconnectedness and volatility.
+🖼️ [BODY PROMPT 2]
+A minimalist 3D graphic of a balanced scale, with various abstract geometric shapes representing different asset classes on each side, some glowing with stability, others showing subtle cracks. Emphasize equilibrium and diversified strength.
+🖼️ [BODY PROMPT 3]
+A holographic projection of a dynamic financial dashboard, displaying various asset classes as glowing data streams and intricate charts, with a spotlight on risk management indicators. Emphasize real-time data and strategic oversight.
+🖼️ [BODY PROMPT 4]
+An abstract representation of a robust, fortified shield made of interlocking metallic plates, reflecting subtle light and surrounded by swirling, soft-focus financial data. Emphasize protection and resilience.
+------------------------------------------------------------
