@@ -101,3 +101,16 @@ A 3D rendering of interconnected digital modules forming a cohesive, intuitive w
 🖼️ [BODY PROMPT 8]
 A conceptual image of a tranquil digital landscape with soft, glowing lines representing focus and mental clarity. Abstract, serene, and tech-inspired. No human figures.
 ------------------------------------------------------------
+
+[2026-05-23 11:35:31] 온디바이스 AI, 개인 맞춤형 업무 비서로 활용하는 5가지 실용 팁
+📸 [THUMBNAIL PROMPT]
+Minimalist 3D render of a glowing brain-like neural network integrated into a sleek, futuristic smartphone or laptop silhouette, surrounded by abstract data streams and holographic icons representing productivity and privacy. Dark background with subtle neon blue and purple accents.
+🖼️ [BODY PROMPT 1]
+Abstract representation of data flowing securely within a device's internal architecture, depicted as glowing circuits and nodes. A digital shield icon subtly integrated, emphasizing privacy and on-device processing. Dark, high-tech aesthetic.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist digital calendar and task management interface rendered in a holographic style, with AI-generated suggestions and automated scheduling displayed. No hands or human interaction, just the glowing interface.
+🖼️ [BODY PROMPT 3]
+Abstract visualization of a seamless digital workflow, with data points connecting and transforming into actionable insights on a futuristic tablet screen. Focus on smooth transitions and efficient data processing, without human presence.
+🖼️ [BODY PROMPT 4]
+A conceptual image of a sleek, glowing digital assistant icon floating above a minimalist desk setup with a laptop and a smartphone, symbolizing intelligent, personalized support. The background is a soft, futuristic office environment, devoid of people.
+------------------------------------------------------------
