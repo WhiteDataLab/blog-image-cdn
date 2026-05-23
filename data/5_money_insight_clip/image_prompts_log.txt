@@ -93,3 +93,16 @@ A holographic projection of a dynamic financial dashboard, displaying various as
 🖼️ [BODY PROMPT 4]
 An abstract representation of a robust, fortified shield made of interlocking metallic plates, reflecting subtle light and surrounded by swirling, soft-focus financial data. Emphasize protection and resilience.
 ------------------------------------------------------------
+
+[2026-05-23 11:43:37] 2026년 행동 재무학: 투자 심리 함정을 극복하고 성공적인 의사결정을 내리는 법
+📸 [THUMBNAIL PROMPT]
+A stylized, minimalist 3D graphic of a complex, glowing financial labyrinth with a clear, illuminated path leading out, set against a dark, futuristic background. No humans.
+🖼️ [BODY PROMPT 1]
+A complex, abstract network of glowing lines and nodes, with some paths tangled and chaotic, while others are clear and straight. No humans.
+🖼️ [BODY PROMPT 2]
+A minimalist, glowing holographic display showing various financial charts and data points, with a perfectly balanced, abstract scale in the foreground. No humans.
+🖼️ [BODY PROMPT 3]
+A serene, minimalist landscape with a single, clear, upward-trending holographic financial graph projected over a calm body of water. No humans.
+🖼️ [BODY PROMPT 4]
+A minimalist, abstract representation of a strong, steady compass needle pointing towards a distant, glowing horizon, surrounded by subtle, swirling data patterns. No humans.
+------------------------------------------------------------
