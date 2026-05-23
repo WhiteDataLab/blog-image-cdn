@@ -81,3 +81,16 @@ Sophisticated digital dashboard displaying real-time biofeedback data: heart rat
 🖼️ [BODY PROMPT 4]
 Stylized infographic showing interconnected gears and circuits, representing brain and body synergy, with arrows indicating flow of information and energy, in a clean, modern design.
 ------------------------------------------------------------
+
+[2026-05-23 11:50:31] AI 기반 맞춤형 영양 코칭: 나를 위한 최적의 식단과 영양제 조합 찾기
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D holographic projection of a human body overlaid with intricate data visualizations of nutrients, DNA helixes, and food molecules, set against a minimalist, futuristic laboratory backdrop. No human figures.
+🖼️ [BODY PROMPT 1]
+A sleek, minimalist interface displaying complex data visualizations: DNA strands, microbiome charts, and real-time biometric readings converging into a personalized nutrition profile. No human elements.
+🖼️ [BODY PROMPT 2]
+A futuristic kitchen counter with a holographic display showing a personalized meal plan, complete with ingredient lists and nutritional breakdowns. Minimalist design, no human interaction.
+🖼️ [BODY PROMPT 3]
+A stylized representation of various nutrient molecules and supplement capsules arranged in a harmonious, balanced composition, illuminated by soft, futuristic lighting. No human elements.
+🖼️ [BODY PROMPT 4]
+A vibrant, abstract digital artwork depicting interconnected nodes and pathways, symbolizing data flow and personalized health insights, with a central glowing core representing optimal wellness. No human figures.
+------------------------------------------------------------
