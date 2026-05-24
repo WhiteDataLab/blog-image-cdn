@@ -106,3 +106,16 @@ A serene, minimalist landscape with a single, clear, upward-trending holographic
 🖼️ [BODY PROMPT 4]
 A minimalist, abstract representation of a strong, steady compass needle pointing towards a distant, glowing horizon, surrounded by subtle, swirling data patterns. No humans.
 ------------------------------------------------------------
+
+[2026-05-24 12:03:57] 2026년 ESG 투자, '착한 투자' 넘어 '수익 전환'을 위한 핵심 전략: 기후금융과 탄소배출권 시장 활용법
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic showing interlocking gears with leaf motifs, representing the synergy between finance and sustainability, bathed in a soft green and gold glow. No humans.
+🖼️ [BODY PROMPT 1]
+A holographic chart displaying interconnected data points and upward trending lines, symbolizing ESG performance and financial growth. The background features subtle, abstract representations of renewable energy sources.
+🖼️ [BODY PROMPT 2]
+A sleek, futuristic digital display showing a global map with green energy flow lines and financial transaction symbols overlayed. No human figures or faces.
+🖼️ [BODY PROMPT 3]
+A vibrant, abstract representation of a carbon molecule transforming into currency symbols, surrounded by a swirling vortex of economic data. No human elements.
+🖼️ [BODY PROMPT 4]
+A stylized, interconnected network of glowing nodes and lines, representing global financial markets and sustainable investment pathways. The color palette is cool blues and greens, with touches of gold.
+------------------------------------------------------------
