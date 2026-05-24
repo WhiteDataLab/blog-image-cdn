@@ -94,3 +94,14 @@ A stylized representation of various nutrient molecules and supplement capsules 
 🖼️ [BODY PROMPT 4]
 A vibrant, abstract digital artwork depicting interconnected nodes and pathways, symbolizing data flow and personalized health insights, with a central glowing core representing optimal wellness. No human figures.
 ------------------------------------------------------------
+
+[2026-05-24 12:11:05] 구강 마이크로바이옴과 전신 건강: 2026년, 입속부터 시작하는 웰니스 혁명
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D rendering of a human mouth cavity filled with glowing, interconnected microbial networks, symbolizing a complex ecosystem. The background is a blurred, futuristic wellness clinic setting with subtle holographic elements.
+🖼️ [BODY PROMPT 1]
+A minimalist infographic showing a stylized human head with a glowing oral cavity connected by subtle energy lines to various organs like the heart, brain, and gut, all rendered in a clean, futuristic aesthetic.
+🖼️ [BODY PROMPT 2]
+A close-up, macro shot of a toothbrush head gently cleaning a stylized tooth, surrounded by a subtle, glowing aura representing beneficial microbes. The background is a soft, clean bathroom setting.
+🖼️ [BODY PROMPT 3]
+A holographic display showing a complex data visualization of microbial diversity and interactions, with a sleek, futuristic device scanning a transparent liquid sample. No human hands visible.
+------------------------------------------------------------
