@@ -21,3 +21,4 @@
 - Synthetic Data as the New AI Fuel: Strategies for Enterprise Adoption in 2026.
 - Causal AI: Beyond Correlation – Building Trustworthy and Explainable Decision Intelligence in 2026.
 - Data Observability for AI Readiness: Building Trustworthy Data Pipelines for Autonomous Systems in 2026.
+- Decentralized Identity (DID) in 2026: Building a New Paradigm for Digital Trust and Verifiable Credentials.
