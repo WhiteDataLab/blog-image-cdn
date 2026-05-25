@@ -105,3 +105,16 @@ A close-up, macro shot of a toothbrush head gently cleaning a stylized tooth, su
 🖼️ [BODY PROMPT 3]
 A holographic display showing a complex data visualization of microbial diversity and interactions, with a sleek, futuristic device scanning a transparent liquid sample. No human hands visible.
 ------------------------------------------------------------
+
+[2026-05-25 12:16:29] 신경계 조절을 통한 멘탈 웰니스: 호흡법과 감각 관리의 힘
+📸 [THUMBNAIL PROMPT]
+Abstract 3D rendering of interconnected neural pathways glowing with soft, calming lights, symbolizing mental wellness and nervous system regulation. Minimalist design with a focus on intricate, flowing lines.
+🖼️ [BODY PROMPT 1]
+A minimalist abstract representation of rhythmic breathing, with expanding and contracting geometric shapes in calming blue and green tones. Emphasize flow and balance.
+🖼️ [BODY PROMPT 2]
+A sleek, futuristic wearable device on a wrist, displaying abstract biometric data like heart rate variability and brain waves in a glowing, minimalist UI. Focus on technology aiding self-regulation.
+🖼️ [BODY PROMPT 3]
+A serene natural landscape with soft morning light filtering through trees, symbolizing peace and restoration. No human presence, focus on tranquil nature.
+🖼️ [BODY PROMPT 4]
+A stylized illustration of a balanced mind and body, represented by interlocking gears or abstract geometric shapes, with a central glowing orb symbolizing mental clarity.
+------------------------------------------------------------
