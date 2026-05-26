@@ -118,3 +118,16 @@ A serene natural landscape with soft morning light filtering through trees, symb
 🖼️ [BODY PROMPT 4]
 A stylized illustration of a balanced mind and body, represented by interlocking gears or abstract geometric shapes, with a central glowing orb symbolizing mental clarity.
 ------------------------------------------------------------
+
+[2026-05-26 12:06:24] 장수 주거: 2026년, 집이 당신의 건강을 디자인한다
+📸 [THUMBNAIL PROMPT]
+A minimalist, futuristic architectural rendering of a healthy home interior, bathed in soft, natural light, with integrated smart sensors subtly glowing. Focus on clean lines, natural materials, and a serene atmosphere. No humans.
+🖼️ [BODY PROMPT 1]
+A sophisticated, minimalist diagram showing interconnected smart home sensors monitoring air quality, water purity, and light spectrum within a stylized living space. Holographic data overlays indicate optimal levels. No humans.
+🖼️ [BODY PROMPT 2]
+A sleek, futuristic smart home control panel displaying personalized health metrics and wellness recommendations. The interface shows data visualizations of sleep quality, activity levels, and environmental factors. No humans.
+🖼️ [BODY PROMPT 3]
+A stylized 3D bar chart showing the significant growth of the global wellness real estate market from 2020 to 2026, with futuristic glowing lines and data points. The background is a subtle architectural blueprint. No humans.
+🖼️ [BODY PROMPT 4]
+A serene indoor garden space within a modern home, featuring lush green plants, a small water feature, and abundant natural light streaming through large windows. Emphasize biophilic design elements. No humans.
+------------------------------------------------------------
