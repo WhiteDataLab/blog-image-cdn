@@ -130,3 +130,14 @@ A stylized digital brain icon composed of intricate circuits and data streams, s
 🖼️ [BODY PROMPT 3]
 An abstract representation of a secure digital vault or network, with glowing lines connecting various financial symbols and data points, against a dark, futuristic backdrop. No humans.
 ------------------------------------------------------------
+
+[2026-05-26 12:00:07] 2026년 우주 경제 시대, 개인 투자자를 위한 K-우주 산업 투자 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist 3D rendering of a satellite orbiting a stylized Earth, with a holographic chart showing upward growth trends in the foreground, against a dark blue, star-filled cosmic background.
+🖼️ [BODY PROMPT 1]
+A futuristic, glowing holographic projection of a complex space industry ecosystem, with interconnected nodes representing satellite manufacturing, launch services, and data processing, against a dark, high-tech laboratory backdrop.
+🖼️ [BODY PROMPT 2]
+A sophisticated, minimalist financial dashboard displaying various investment portfolios, with a prominent section highlighting "Space Tech" stocks and a holographic bar chart showing their performance, set against a blurred background of a modern trading floor.
+🖼️ [BODY PROMPT 3]
+A sleek, modern satellite dish array pointed towards a vibrant, star-filled nebula, symbolizing connection and exploration, with subtle data streams flowing around it.
+------------------------------------------------------------
