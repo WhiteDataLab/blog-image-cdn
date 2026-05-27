@@ -141,3 +141,16 @@ A sleek, futuristic holographic display showing a dynamic chart of rising region
 🖼️ [BODY PROMPT 4]
 A close-up, artistic shot of a traditional Korean ceramic bowl filled with vibrant, fresh regional ingredients, like colorful vegetables and unique herbs, arranged aesthetically on a rustic wooden table. Focus on texture and color.
 ------------------------------------------------------------
+
+[2026-05-27 11:47:13] The Resurgence of Analog: Exploring Korea's 2026 Trend Towards Nondigital Hobbies and Experiential Pursuits.
+📸 [THUMBNAIL PROMPT]
+A minimalist, sleek turntable with a vinyl record spinning, surrounded by abstract, warm-toned geometric shapes and soft, diffused light, symbolizing nostalgia and modern design.
+🖼️ [BODY PROMPT 1]
+A vintage film camera resting on a wooden table, surrounded by rolls of film and subtly diffused natural light, evoking a sense of timeless craftsmanship and quiet contemplation.
+🖼️ [BODY PROMPT 2]
+A beautifully arranged pottery studio with various ceramic pieces in different stages of completion, bathed in soft, natural light, emphasizing texture and the creative process.
+🖼️ [BODY PROMPT 3]
+An abstract representation of sound waves emanating from a vintage record player, rendered in glowing neon lines against a dark, minimalist background, symbolizing the warmth of analog audio.
+🖼️ [BODY PROMPT 4]
+A serene, minimalist book cafe interior with shelves filled with diverse books, comfortable seating, and soft, ambient lighting, inviting quiet reading and contemplation.
+------------------------------------------------------------
