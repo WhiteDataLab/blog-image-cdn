@@ -131,3 +131,14 @@ A stylized 3D bar chart showing the significant growth of the global wellness re
 🖼️ [BODY PROMPT 4]
 A serene indoor garden space within a modern home, featuring lush green plants, a small water feature, and abundant natural light streaming through large windows. Emphasize biophilic design elements. No humans.
 ------------------------------------------------------------
+
+[2026-05-27 12:15:49] 2026년 최신 건강 트렌드: '파이버맥싱'으로 장 건강과 활력을 동시에 잡는 법
+📸 [THUMBNAIL PROMPT]
+A vibrant, abstract illustration of intertwined plant fibers forming a complex network, symbolizing gut health and energy flow, with subtle glowing elements. Minimalist design, high contrast, rich color palette.
+🖼️ [BODY PROMPT 1]
+A sophisticated 3D rendering of a balanced plate filled with stylized, vibrant fruits, vegetables, and grains, emphasizing diverse textures and colors. No human elements.
+🖼️ [BODY PROMPT 2]
+A minimalist diagram illustrating the gut-brain axis with abstract, glowing neural pathways connecting stylized gut flora to a conceptual brain structure. No human figures.
+🖼️ [BODY PROMPT 3]
+A futuristic, glowing holographic chart displaying growth curves and interconnected data points, representing optimized gut microbiome diversity and overall wellness metrics. Abstract, no human elements.
+------------------------------------------------------------
