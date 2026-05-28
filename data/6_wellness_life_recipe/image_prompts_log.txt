@@ -142,3 +142,24 @@ A minimalist diagram illustrating the gut-brain axis with abstract, glowing neur
 🖼️ [BODY PROMPT 3]
 A futuristic, glowing holographic chart displaying growth curves and interconnected data points, representing optimized gut microbiome diversity and overall wellness metrics. Abstract, no human elements.
 ------------------------------------------------------------
+
+[2026-05-28 12:00:46] 2026년 운동 트렌드의 새 지평: '회복'을 통한 지속 가능한 몸 만들기
+📸 [THUMBNAIL PROMPT]
+Minimalist digital illustration of interconnected gears slowly turning, symbolizing sustainable movement and recovery, set against a calming gradient background with subtle glow effects.
+🖼️ [BODY PROMPT 1]
+Abstract 3D rendering of a human body's energy flow, with calming blue and green light trails indicating restoration and balance, surrounded by subtle digital data points.
+🖼️ [BODY PROMPT 2]
+Stylized graphic of interlocking brain and muscle fibers, glowing with subtle energy, illustrating the mind-body connection in recovery. No human figures.
+🖼️ [BODY PROMPT 3]
+Futuristic depiction of a tranquil, minimalist spa environment with soft lighting, geometric water features, and advanced recovery pods. No human presence.
+🖼️ [BODY PROMPT 4]
+A sleek, minimalist infographic showing a circular flow of 'Exercise' and 'Recovery' with arrows indicating balance and continuous improvement. Clean lines and modern typography.
+🖼️ [BODY PROMPT 5]
+Abstract 3D rendering of a human body's energy flow, with calming blue and green light trails indicating restoration and balance, surrounded by subtle digital data points.
+🖼️ [BODY PROMPT 6]
+Stylized graphic of interlocking brain and muscle fibers, glowing with subtle energy, illustrating the mind-body connection in recovery. No human figures.
+🖼️ [BODY PROMPT 7]
+Futuristic depiction of a tranquil, minimalist spa environment with soft lighting, geometric water features, and advanced recovery pods. No human presence.
+🖼️ [BODY PROMPT 8]
+A sleek, minimalist infographic showing a circular flow of 'Exercise' and 'Recovery' with arrows indicating balance and continuous improvement. Clean lines and modern typography.
+------------------------------------------------------------
