@@ -176,3 +176,16 @@ A sleek, modern kitchen counter with a digital tablet displaying a healthy recip
 🖼️ [BODY PROMPT 4]
 Abstract representation of cellular structures and glowing nutrient molecules integrating into a healthy, vibrant body, depicted with smooth, organic lines and a harmonious color palette.
 ------------------------------------------------------------
+
+[2026-05-30 11:54:23] 에피제네틱스 기반 식단: 유전자를 깨우는 2026년 최신 영양 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D rendering of a DNA helix intertwining with various stylized food molecules (e.g., broccoli florets, avocado slices, berries), against a minimalist, glowing scientific background. Focus on vibrant, natural colors and intricate molecular structures.
+🖼️ [BODY PROMPT 1]
+A vibrant, abstract representation of gut microbiome diversity, with various colorful, glowing microbial forms interacting within a stylized intestinal tract. Emphasize organic shapes and dynamic energy.
+🖼️ [BODY PROMPT 2]
+A stylized, glowing molecular diagram showing a DNA strand coiling around abstract histone proteins, with various colorful chemical structures representing dietary compounds interacting with the histones. Emphasize scientific precision and vibrant energy.
+🖼️ [BODY PROMPT 3]
+A minimalist, futuristic interface displaying holographic charts and data visualizations related to genetic markers and nutritional intake. Focus on sleek lines, glowing elements, and complex but clear data representation.
+🖼️ [BODY PROMPT 4]
+A visually appealing, minimalist flat lay of various fresh, colorful whole foods: vibrant berries, green leafy vegetables, nuts, seeds, and a piece of fatty fish, arranged artistically on a clean, light background.
+------------------------------------------------------------
