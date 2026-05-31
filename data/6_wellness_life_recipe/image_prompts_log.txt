@@ -189,3 +189,16 @@ A minimalist, futuristic interface displaying holographic charts and data visual
 🖼️ [BODY PROMPT 4]
 A visually appealing, minimalist flat lay of various fresh, colorful whole foods: vibrant berries, green leafy vegetables, nuts, seeds, and a piece of fatty fish, arranged artistically on a clean, light background.
 ------------------------------------------------------------
+
+[2026-05-31 12:15:04] 2026년, 나를 위한 치유의 여정: 웰니스 여행으로 몸과 마음을 리셋하는 법
+📸 [THUMBNAIL PROMPT]
+Minimalist illustration of a serene mountain landscape at sunrise, with abstract, flowing lines representing energy and calm. No human figures. Soft, gradient colors.
+🖼️ [BODY PROMPT 1]
+Abstract representation of data flow and personalized wellness recommendations, depicted as glowing holographic charts and interconnected nodes. No human figures.
+🖼️ [BODY PROMPT 2]
+Serene, misty forest scene with sunlight filtering through ancient trees, evoking a sense of calm and natural healing. No human figures.
+🖼️ [BODY PROMPT 3]
+Stylized infographic showing a journey path with various wellness icons (leaf, meditation symbol, healthy food, water drop) connected by a flowing line, representing a holistic approach. No human figures.
+🖼️ [BODY PROMPT 4]
+Close-up of a hand gently holding a small, smooth stone, with soft, diffused light, symbolizing peace and grounding. No human figures.
+------------------------------------------------------------
