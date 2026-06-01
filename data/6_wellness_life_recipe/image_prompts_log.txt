@@ -202,3 +202,16 @@ Stylized infographic showing a journey path with various wellness icons (leaf, m
 🖼️ [BODY PROMPT 4]
 Close-up of a hand gently holding a small, smooth stone, with soft, diffused light, symbolizing peace and grounding. No human figures.
 ------------------------------------------------------------
+
+[2026-06-01 12:26:46] 2026년 웰니스 트렌드: '피부 장수' 시대를 여는 이너뷰티와 스마트 스킨케어 전략
+📸 [THUMBNAIL PROMPT]
+Abstract representation of glowing, healthy skin cells intertwined with futuristic digital patterns, symbolizing longevity and advanced technology, against a soft, luminous background.
+🖼️ [BODY PROMPT 1]
+A futuristic, glowing botanical arrangement with intertwined molecular structures, symbolizing inner beauty and scientific nutrition, against a soft, ethereal background.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist smart skincare device displaying a holographic projection of skin data, surrounded by abstract digital patterns, on a clean, futuristic surface.
+🖼️ [BODY PROMPT 3]
+An intricate, balanced ecosystem of microscopic elements and beneficial bacteria, representing the skin microbiome, rendered in vibrant, glowing colors on a dark background.
+🖼️ [BODY PROMPT 4]
+A serene, minimalist landscape featuring a calm body of water reflecting a clear sky, with subtle digital elements overlaid, symbolizing holistic wellness and balance.
+------------------------------------------------------------
