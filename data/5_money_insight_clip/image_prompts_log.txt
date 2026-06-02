@@ -223,3 +223,16 @@ A digital interface displaying a diversified investment portfolio with various i
 🖼️ [BODY PROMPT 4]
 A minimalist abstract representation of growth, with upward-pointing arrows forming a dynamic, interconnected structure, bathed in soft, optimistic light.
 ------------------------------------------------------------
+
+[2026-06-02 12:16:23] 글로벌 공급망 재편 시대, 핵심 산업별 투자 기회와 포트폴리오 재구성 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D rendering of interconnected global supply chain networks, represented by glowing lines and nodes, flowing between stylized industrial facilities and digital data streams, all against a dark, futuristic background. Focus on abstract representation of logistics and data flow.
+🖼️ [BODY PROMPT 1]
+A futuristic, cleanroom environment with advanced robotic arms precisely assembling microchips on a production line. The scene should emphasize automation, precision, and high technology, with glowing blue and white light accents. No humans visible.
+🖼️ [BODY PROMPT 2]
+A vast landscape of modern wind turbines at sunset, with solar panels stretching into the distance. The scene should convey clean energy and sustainability, with warm, golden light. No humans or animals.
+🖼️ [BODY PROMPT 3]
+An intricate, glowing holographic chart displaying interconnected value chains for multiple industries. The chart should show nodes representing different stages of production and supply, with data flowing between them. Focus on abstract data visualization.
+🖼️ [BODY PROMPT 4]
+A minimalist composition of several stylized financial charts and graphs, overlaid with abstract digital patterns representing data and growth. The color palette should be professional and modern, with subtle gradients. No human elements.
+------------------------------------------------------------
