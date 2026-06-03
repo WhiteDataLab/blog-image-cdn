@@ -228,3 +228,16 @@ A sleek, futuristic holographic display showing complex cellular networks and gl
 🖼️ [BODY PROMPT 4]
 A vibrant, abstract art piece featuring interconnected geometric shapes and glowing lines, symbolizing optimized cellular networks and a surge of energy, with a sense of dynamic flow and vitality.
 ------------------------------------------------------------
+
+[2026-06-03 12:02:21] 직장인을 위한 2026년 오피스 웰니스 가이드: 생산성과 행복을 동시에 잡는 법
+📸 [THUMBNAIL PROMPT]
+A minimalist 3D rendering of a serene office space with glowing holographic charts displaying wellness data, surrounded by lush green plants and soft, diffused lighting. A sleek, futuristic desk with an ergonomic chair is central, showcasing smart tech integration. No humans present.
+🖼️ [BODY PROMPT 1]
+A sleek, minimalist smart desk with a holographic display showing personalized wellness data (e.g., air quality, light intensity, posture reminders). A comfortable, ergonomic chair is positioned, surrounded by clean lines and natural light. No humans.
+🖼️ [BODY PROMPT 2]
+A futuristic, minimalist smartwatch displaying abstract biometric data (heart rate, sleep cycles) as glowing lines and shapes. The background is a soft, blurred office environment with natural light. No humans.
+🖼️ [BODY PROMPT 3]
+An abstract representation of interconnected digital nodes forming a network, symbolizing seamless collaboration and remote work. Glowing lines connect various geometric shapes, set against a calm, professional blue and green gradient. No humans.
+🖼️ [BODY PROMPT 4]
+A holographic chart displaying abstract wellness metrics (e.g., engagement rates, satisfaction scores, productivity trends) in a vibrant, data-driven visualization. The chart floats above a minimalist, clean surface. No humans.
+------------------------------------------------------------
