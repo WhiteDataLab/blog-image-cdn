@@ -241,3 +241,14 @@ An abstract representation of interconnected digital nodes forming a network, sy
 🖼️ [BODY PROMPT 4]
 A holographic chart displaying abstract wellness metrics (e.g., engagement rates, satisfaction scores, productivity trends) in a vibrant, data-driven visualization. The chart floats above a minimalist, clean surface. No humans.
 ------------------------------------------------------------
+
+[2026-06-04 11:57:56] 마이크로플라스틱과 인체 건강: 2026년, 환경 오염이 내 몸에 미치는 영향과 웰니스 전략
+📸 [THUMBNAIL PROMPT]
+Abstract 3D render of microscopic plastic particles interacting with stylized human organ models, depicted with glowing neural pathways and cellular structures, against a dark, futuristic background. No human figures.
+🖼️ [BODY PROMPT 1]
+A minimalist diagram showing the pathways of microplastic entry into the human body: ingestion, inhalation, and dermal absorption, represented by abstract icons. No human figures.
+🖼️ [BODY PROMPT 2]
+A vibrant, stylized kimchi jar with glowing probiotic bacteria symbols, surrounded by abstract representations of microplastics being absorbed. No human figures.
+🖼️ [BODY PROMPT 3]
+A futuristic water filtration system with glowing indicators, purifying water from visible and microscopic plastic particles, set in a clean, minimalist environment. No human figures.
+------------------------------------------------------------
