@@ -29,10 +29,11 @@ KST = datetime.timezone(datetime.timedelta(hours=9))
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 
-def _generate_with_retry(contents, config, what, max_retries=5):
-    """Gemini 호출을 일시적 오류(503 과부하/429 등) 발생 시 지수 백오프로 재시도합니다.
+def _generate_with_retry(contents, config, what, max_retries=4):
+    """Gemini 호출을 일시적 오류(503 과부하 등) 발생 시 지수 백오프로 재시도합니다.
+    단, 무료 일일 할당량 소진(429 PerDay/free_tier)은 재시도해도 회복 불가하므로 즉시 중단합니다.
     최종 실패 시 예외를 그대로 올려보내 호출부가 발행을 중단(가드)하도록 합니다."""
-    transient_signals = ("503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED", "500", "INTERNAL", "deadline")
+    transient_signals = ("503", "UNAVAILABLE", "500", "INTERNAL", "deadline")
     last_err = None
     for attempt in range(1, max_retries + 1):
         try:
@@ -42,9 +43,13 @@ def _generate_with_retry(contents, config, what, max_retries=5):
         except Exception as e:
             last_err = e
             msg = str(e)
-            is_transient = any(sig in msg for sig in transient_signals)
+            # 일일 무료 할당량 소진은 당일 회복 불가 → 재시도 없이 즉시 중단(헛된 대기/호출 방지)
+            if "RESOURCE_EXHAUSTED" in msg and ("PerDay" in msg or "free_tier" in msg):
+                print(f"   ⛔ [{what}] 무료 일일 할당량(20/일) 소진 감지 → 재시도 없이 중단합니다.")
+                break
+            is_transient = any(sig in msg for sig in transient_signals) or "429" in msg
             if attempt < max_retries and is_transient:
-                wait = min(2 ** attempt, 30)  # 2,4,8,16,30s
+                wait = min(2 ** attempt, 16)  # 2,4,8,16s
                 print(f"   ⏳ [{what}] 일시 오류 감지 ({msg[:70]}...) → {attempt}/{max_retries}회차, {wait}초 후 재시도")
                 time.sleep(wait)
                 continue
