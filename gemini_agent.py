@@ -18,11 +18,38 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_USERNAME = os.getenv("GITHUB_USERNAME")
 GITHUB_REPO = os.getenv("GITHUB_REPO")
 
+# 🌟 Cloudflare Workers AI (무료 이미지 생성 엔진 - FLUX.1 schnell)
+CF_ACCOUNT_ID = os.getenv("CF_ACCOUNT_ID")
+CF_API_TOKEN = os.getenv("CF_API_TOKEN")
+
 # 🌟 대한민국 표준시(KST) 타임존 정의 (해외 클라우드 서버 대응용)
 KST = datetime.timezone(datetime.timedelta(hours=9))
 
 # 제미나이 텍스트 생성용 클라이언트 (무료 티어 활용)
 client = genai.Client(api_key=GEMINI_API_KEY)
+
+
+def _generate_with_retry(contents, config, what, max_retries=5):
+    """Gemini 호출을 일시적 오류(503 과부하/429 등) 발생 시 지수 백오프로 재시도합니다.
+    최종 실패 시 예외를 그대로 올려보내 호출부가 발행을 중단(가드)하도록 합니다."""
+    transient_signals = ("503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED", "500", "INTERNAL", "deadline")
+    last_err = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            return client.models.generate_content(
+                model='gemini-2.5-flash', contents=contents, config=config
+            )
+        except Exception as e:
+            last_err = e
+            msg = str(e)
+            is_transient = any(sig in msg for sig in transient_signals)
+            if attempt < max_retries and is_transient:
+                wait = min(2 ** attempt, 30)  # 2,4,8,16,30s
+                print(f"   ⏳ [{what}] 일시 오류 감지 ({msg[:70]}...) → {attempt}/{max_retries}회차, {wait}초 후 재시도")
+                time.sleep(wait)
+                continue
+            break
+    raise last_err
 
 def suggest_topics(brand_guide, titles_history, language="Korean"):
     """현재 시스템 연도를 동적으로 반영하고 과거 제목 DB를 대조하여 완전히 새로운 주제를 제안합니다."""
@@ -52,15 +79,16 @@ def suggest_topics(brand_guide, titles_history, language="Korean"):
     """
     
     try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
+        response = _generate_with_retry(
             contents=prompt,
-            config=types.GenerateContentConfig(tools=[{"google_search": {}}], temperature=0.5)
+            config=types.GenerateContentConfig(tools=[{"google_search": {}}], temperature=0.5),
+            what="주제 추천",
         )
         return response.text.strip().split('\n')
     except Exception as e:
-        print(f"❌ 주제 추천 실패: {e}")
-        return ["1. 최신 테크 및 비즈니스 트렌드 분석"]
+        # 재시도까지 모두 실패하면 가짜 주제로 발행하지 않고 빈 리스트 반환 → 호출부가 채널을 건너뜀
+        print(f"❌ 주제 추천 최종 실패 (재시도 소진): {e}")
+        return []
 
 
 def generate_blog_content(topic, brand_guide, titles_history, language="Korean"):
@@ -79,11 +107,11 @@ def generate_blog_content(topic, brand_guide, titles_history, language="Korean")
     4. [브랜드 가이드]에 명시된 페르소나, 말투(Tone & Manner), 타겟 독자의 취향을 철저히 반영하세요.
     5. 구조는 Markdown 형식(H2, H3 소제목, 글머리 기호 등)을 사용하여 가독성 있게 작성하세요.
     
-    🚨 [이미지 프롬프트 생성 규칙 - 기괴함 방지 필터]
+    🖼️ [이미지 프롬프트 생성 규칙]
     - 글 맨 앞부분에 썸네일용 이미지 프롬프트 1개를 [THUMBNAIL_PROMPT]영문[/THUMBNAIL_PROMPT] 형태로 감싸주세요.
     - 글 본문 중간중간 맥락과 어울리는 본문용 이미지 프롬프트를 3~4개 기획하여 [BODY_IMAGE_PROMPT]영문[/BODY_IMAGE_PROMPT] 형태로 분산 배치해 주세요.
-    - CRITICAL WARNING: 모든 영문 이미지 프롬프트에는 인간(Human, Person, Woman, Man, Face, Hands, Crowd 등)이 절대 포함되어서는 안 됩니다. 사람이 포함되면 렌더링 에러가 납니다.
-    - 대신 주제를 상징하는 세련된 사물, 3D 가상 그래픽, 홀로그램 차트, 미니멀한 테크 기기 단독 샷, 자연 풍경, 타이포그래피 또는 네온 개념 아트 위주로만 프롬프트를 영문으로 묘사하세요.
+    - 주제와 맥락에 맞다면 인물(사람)이 등장하는 장면도 자유롭게 묘사해도 됩니다. 단, 자연스럽고 사실적인 고품질 묘사를 지향하세요.
+    - 인물이 어울리지 않는 맥락에서는 주제를 상징하는 세련된 사물, 3D 가상 그래픽, 홀로그램 차트, 미니멀한 테크 기기 단독 샷, 자연 풍경, 타이포그래피, 네온 개념 아트 등으로 표현하세요.
     
     작성 언어: {language}
 
@@ -95,12 +123,12 @@ def generate_blog_content(topic, brand_guide, titles_history, language="Korean")
     """
 
     try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
+        response = _generate_with_retry(
             contents=prompt,
-            config=types.GenerateContentConfig(tools=[{"google_search": {}}], temperature=0.5)
+            config=types.GenerateContentConfig(tools=[{"google_search": {}}], temperature=0.5),
+            what="본문 생성",
         )
-        
+
         content = response.text
         lines = content.split('\n')
         if len(lines) > 10:
@@ -109,11 +137,12 @@ def generate_blog_content(topic, brand_guide, titles_history, language="Korean")
                 if title_line in line.strip() and len(line.strip()) > 10:
                     content = '\n'.join(lines[:idx])
                     break
-                    
+
         return content
     except Exception as e:
-        print(f"❌ 본문 생성 에러: {e}")
-        return f"## {topic}\n본문 생성 도중 오류가 발생했습니다."
+        # 재시도까지 모두 실패하면 None 반환 → 호출부가 "오류 초안" 발행을 중단함
+        print(f"❌ 본문 생성 최종 실패 (재시도 소진): {e}")
+        return None
 
 
 def extract_and_format_prompts(content):
@@ -174,54 +203,72 @@ def upload_to_github(image_path, file_name):
 
 def generate_official_images(thumbnail_prompt, body_prompts, output_dir):
     """
-    100% 무료 초고품질 퍼블릭 인프라(FLUX 엔진) 우회 모듈.
+    무료 이미지 인프라(Cloudflare Workers AI - FLUX.1 schnell) 연동 모듈.
     인물 생성을 강제로 차단하는 안전 프롬프트 필터(No People) 내장.
     """
     os.makedirs(output_dir, exist_ok=True)
     image_urls = {"thumbnail": "", "body": []}
 
+    if not all([CF_ACCOUNT_ID, CF_API_TOKEN]):
+        print("   ⚠️ Cloudflare 설정(CF_ACCOUNT_ID/CF_API_TOKEN) 누락으로 이미지 생성을 건너뜁니다.")
+        return image_urls
+
+    cf_url = f"https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT_ID}/ai/run/@cf/black-forest-labs/flux-1-schnell"
+    cf_headers = {"Authorization": f"Bearer {CF_API_TOKEN}"}
+
     def fetch_free_flux_image(prompt, prefix, index=""):
-        print(f"🎨 비용 0원 오브젝트 엔진 구동 중 (FLUX v1): {prefix} {index}")
-        
-        refined_prompt = prompt + ", no people, no human, no face, no hands, vector graphic illustration, clean tech aesthetic, cinematic lighting, 4k resolution"
-        
-        encoded_prompt = urllib.parse.quote(refined_prompt)
-        target_url = f"https://image.pollinations.ai/p/{encoded_prompt}?width=1024&height=576&nologo=true&model=flux"
-        
+        print(f"🎨 무료 이미지 엔진 구동 중 (Cloudflare FLUX.1 schnell): {prefix} {index}")
+
+        refined_prompt = prompt + ", high quality, photorealistic, detailed, cinematic lighting, 4k resolution"
+
         # 🌟 1. 한국 시간(KST) 기준 연월일_시분초 타임스탬프 생성
         now_kst = datetime.datetime.now(KST)
         timestamp = now_kst.strftime("%Y%m%d_%H%M%S")
-        
+
         # 🌟 2. 0.01초 사이 대량 생성 시 파일명 충돌을 방지하기 위한 4자리 고유 난수 결합
         rand_id = random.randint(1000, 9999)
-        
+
         # 🌟 3. 최종 고유 파일명 조립
         if index:
             file_name = f"{prefix}_{index}_{timestamp}_{rand_id}.jpg"
         else:
             file_name = f"{prefix}_{timestamp}_{rand_id}.jpg"
-            
+
         file_path = os.path.join(output_dir, file_name)
-        
-        req = urllib.request.Request(
-            target_url, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        )
-        
-        try:
-            time.sleep(3)
-            with urllib.request.urlopen(req, timeout=90) as response:
-                image_bytes = response.read()
-                
-            with open(file_path, "wb") as f:
-                f.write(image_bytes)
-            print(f"   ✅ 무인물 이미지 저장 완료: {file_name}")
-            
-            github_url = upload_to_github(file_path, file_name)
-            if github_url:
-                return github_url
-        except Exception as e:
-            print(f"   ❌ 이미지 생성 실패 또는 지연: {e}")
+
+        # 일시적 오류(429/5xx) 대비 최대 3회 재시도
+        for attempt in range(1, 4):
+            try:
+                resp = requests.post(
+                    cf_url, headers=cf_headers,
+                    json={"prompt": refined_prompt, "steps": 6},
+                    timeout=120,
+                )
+                if resp.status_code != 200:
+                    print(f"   ⚠️ Cloudflare 응답 오류 {resp.status_code}: {resp.text[:120]}")
+                    if resp.status_code in (429, 500, 502, 503) and attempt < 3:
+                        time.sleep(2 ** attempt)
+                        continue
+                    return ""
+
+                # Cloudflare는 result.image 에 base64(JPEG) 문자열로 반환
+                b64_img = resp.json().get("result", {}).get("image", "")
+                if not b64_img:
+                    print("   ❌ 응답에 이미지 데이터가 없습니다.")
+                    return ""
+
+                image_bytes = base64.b64decode(b64_img)
+                with open(file_path, "wb") as f:
+                    f.write(image_bytes)
+                print(f"   ✅ 무인물 이미지 저장 완료: {file_name}")
+
+                github_url = upload_to_github(file_path, file_name)
+                return github_url or ""
+            except Exception as e:
+                print(f"   ❌ 이미지 생성 실패 또는 지연: {e}")
+                if attempt < 3:
+                    time.sleep(2 ** attempt)
+                    continue
         return ""
 
     if thumbnail_prompt:

@@ -100,7 +100,12 @@ def run_auto_posting(channel_key):
     
     print(f"📝 [진행 1/4] 실시간 검색 및 가이드 참조 기반 본문 작성 중...")
     draft_content = gemini_agent.generate_blog_content(final_topic, brand_guide, titles_history, config['lang'])
-    
+
+    # [발행 가드] 본문 생성이 최종 실패하면 "오류 초안"을 블로그에 올리지 않고 채널을 건너뜁니다.
+    if not draft_content:
+        print(f"❌ [{config['name']}] 본문 생성 실패로 발행을 중단합니다 (오류 초안 발행 방지).")
+        return
+
     print("🎨 [진행 2/4] 이미지 생성 및 GitHub 업로드 중...")
     thumbnail_prompt, body_prompts = gemini_agent.extract_and_format_prompts(draft_content)
     

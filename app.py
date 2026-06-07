@@ -105,7 +105,12 @@ def run_auto_posting(channel_key, progress_bar, status_text):
     progress_bar.progress(30)
     status_text.markdown(f"📝 **[진행 1/4] 본문 작성 중...**\n\n🎯 **선정된 주제:** `{final_topic}`")
     draft_content = gemini_agent.generate_blog_content(final_topic, brand_guide, titles_history, config['lang'])
-    
+
+    # [발행 가드] 본문 생성이 최종 실패하면 "오류 초안"을 블로그에 올리지 않고 중단합니다.
+    if not draft_content:
+        status_text.error(f"❌ [{config['name']}] 본문 생성 실패로 발행을 중단합니다 (오류 초안 발행 방지).")
+        return False
+
     # 이미지 생성 단계 [진행 2/4] -> 55% 변경
     progress_bar.progress(55)
     status_text.markdown(f"🎨 **[진행 2/4] AI 이미지 생성 및 GitHub 호스팅 저장 중...**\n\n💡 *FLUX 엔진으로 무인물 이미지를 제작 중입니다. (약 1분 소요)*")
