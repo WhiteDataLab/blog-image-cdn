@@ -37,3 +37,4 @@
 - 최신 테크 및 비즈니스 트렌드 분석
 - 최신 테크 및 비즈니스 트렌드 분석
 - Architecting the Future: Data Challenges and Opportunities in Bio-Integrated Computing for 2026.
+- Upskilling the Data Workforce for 2026: Cultivating AI and Data Literacy Beyond Technical Roles.
