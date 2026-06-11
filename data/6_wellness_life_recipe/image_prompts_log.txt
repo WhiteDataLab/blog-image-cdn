@@ -272,3 +272,16 @@ N/A
 📸 [THUMBNAIL PROMPT]
 N/A
 ------------------------------------------------------------
+
+[2026-06-11 11:55:38] 2026년 최소 노력 최대 효과! 바쁜 일상 속 '나노 웰니스 루틴' 구축 가이드
+📸 [THUMBNAIL PROMPT]
+A minimalist, clean illustration of a person balancing a tiny plant on a stack of books, symbolizing small wellness efforts in a busy, modern life. Soft, warm lighting, perhaps a smartwatch subtly visible. Korean typography elements for the title.
+🖼️ [BODY PROMPT 1]
+A candid shot of a young professional in a modern office, discreetly doing a 1-minute neck stretch or deep breathing exercise while looking at a laptop, demonstrating seamless integration of nano wellness into work. Natural light, calm expression.
+🖼️ [BODY PROMPT 2]
+A vibrant, dynamic illustration showing a sequence of simple micro-exercises: a person doing a quick squat, then drinking water, then a short meditation pose. Each action is quick and fluid, emphasizing ease and speed. Bright, encouraging colors.
+🖼️ [BODY PROMPT 3]
+A stylized infographic or a clean photo of a hand checking off a small task on a digital habit tracker app or a beautifully designed paper calendar, with a sense of quiet accomplishment. Focus on the visual representation of consistency and small wins.
+🖼️ [BODY PROMPT 4]
+A futuristic, sleek image of a person interacting with a holographic display showing personalized health data (sleep, heart rate, activity) from a minimalist wearable device (like a ring or thin bracelet), symbolizing AI-driven nano wellness in 2026. Soft, ambient lighting, high-tech aesthetic.
+------------------------------------------------------------
