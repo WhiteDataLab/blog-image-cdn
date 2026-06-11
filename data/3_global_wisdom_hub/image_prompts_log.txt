@@ -295,3 +295,16 @@ A diverse group of employees engaged in a dynamic brainstorming session in a fle
 🖼️ [BODY PROMPT 4]
 A panoramic view of a vibrant, interconnected global city at dawn, with digital overlays representing data flows and agile networks. In the foreground, a stylized, glowing organizational chart morphs and adapts, symbolizing future-ready structures. The image evokes a sense of global connectivity, innovation, and strategic foresight.
 ------------------------------------------------------------
+
+[2026-06-11 11:51:46] The Rise of Impact-Driven Leadership: Beyond Presence to Purpose in 2026.
+📸 [THUMBNAIL PROMPT]
+A dynamic, diverse group of leaders from various industries collaboratively building a glowing, interconnected network that symbolizes purpose and impact, set against a backdrop of a modern, sustainable city skyline at dawn. The image should convey innovation, collaboration, and forward-thinking leadership.
+🖼️ [BODY PROMPT 1]
+A professional, diverse group of employees in a modern, light-filled office space, actively engaged in a brainstorming session. A large transparent screen displays a complex web of interconnected goals and values, symbolizing a purpose-driven strategy. The atmosphere is collaborative and energetic.
+🖼️ [BODY PROMPT 2]
+A leader (male or female, diverse ethnicity) standing confidently in front of a holographic display showcasing complex data visualizations and AI algorithms. They are gesturing towards the data while engaging in a human-centered discussion with a diverse team, emphasizing the balance between technology and human insight.
+🖼️ [BODY PROMPT 3]
+A visually striking graphic illustrating the interconnectedness of Environmental, Social, and Governance (ESG) factors. Elements like a green leaf, a diverse group of hands, and a secure lock are seamlessly integrated into a circular, flowing design, symbolizing holistic and sustainable business practices.
+🖼️ [BODY PROMPT 4]
+A modern, minimalist infographic showing six interconnected hexagons, each representing one of the "Cultivating Impact-Driven Leadership" strategies (Purpose, Connection, Agility, AI Integration, Measurement, Learning). Arrows flow between them, indicating synergy and continuous improvement. The aesthetic is clean, professional, and data-driven.
+------------------------------------------------------------
