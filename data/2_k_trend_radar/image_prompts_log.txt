@@ -308,3 +308,16 @@ A group of international students wearing VR headsets, immersed in a highly deta
 🖼️ [BODY PROMPT 3]
 A Korean cultural heritage expert presenting a holographic projection of a beautifully restored ancient Korean artifact, explaining its history and significance to an engaged audience at a modern museum, showcasing the blend of tradition and technology.
 ------------------------------------------------------------
+
+[2026-06-12 11:46:51] Navigating Korea's Expanding Mental Health Safety Net: Essential Resources for Foreign Residents in 2026.
+📸 [THUMBNAIL PROMPT]
+A diverse group of foreign residents in South Korea, looking thoughtful yet hopeful, with subtle Korean architectural elements and modern cityscapes in the blurred background. The foreground features a stylized, abstract representation of a safety net or interconnected support system, glowing with soft, reassuring light. The overall mood is one of support and community.
+🖼️ [BODY PROMPT 1]
+A foreign resident confidently using a smartphone to navigate a government mental health portal, with clear, multilingual text on the screen. The background shows a modern, bright counseling center interior, suggesting accessibility and ease of use.
+🖼️ [BODY PROMPT 2]
+A warm, inviting community center space where a diverse group of foreign residents are engaged in a group therapy session, led by a compassionate, multilingual counselor. The atmosphere is open and supportive.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist smartphone displaying a mental health app interface with calming colors and easy-to-understand options. In the background, a blurred image of Seoul's modern skyline at dusk, symbolizing technological integration in urban life.
+🖼️ [BODY PROMPT 4]
+A close-up shot of a foreign resident's hand holding a Korean National Health Insurance Service (NHIS) card, with a blurred background showing a doctor and patient in a consultation room, emphasizing the practical aspect of accessing healthcare.
+------------------------------------------------------------
