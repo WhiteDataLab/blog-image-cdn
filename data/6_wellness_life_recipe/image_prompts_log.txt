@@ -285,3 +285,16 @@ A stylized infographic or a clean photo of a hand checking off a small task on a
 🖼️ [BODY PROMPT 4]
 A futuristic, sleek image of a person interacting with a holographic display showing personalized health data (sleep, heart rate, activity) from a minimalist wearable device (like a ring or thin bracelet), symbolizing AI-driven nano wellness in 2026. Soft, ambient lighting, high-tech aesthetic.
 ------------------------------------------------------------
+
+[2026-06-12 11:51:04] 2026년, 디지털 피로 사회를 위한 아날로그 웰니스: 몸과 마음을 정화하는 전통적 치유법 재조명
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist scene featuring a person meditating in a sun-drenched traditional Korean hanok courtyard, with a modern smartwatch subtly placed on a nearby wooden table, symbolizing the blend of ancient wisdom and contemporary life. The colors are soft and natural.
+🖼️ [BODY PROMPT 1]
+A person with a slightly strained expression, looking at multiple glowing screens (laptop, tablet, phone) simultaneously, surrounded by a subtle, almost invisible aura of digital noise and fatigue, rendered in a modern, slightly abstract style.
+🖼️ [BODY PROMPT 2]
+A diverse group of people of various ages practicing gentle, traditional meditation or Tai Chi movements in a spacious, sunlit studio with large windows overlooking a peaceful garden. The atmosphere is calm and focused.
+🖼️ [BODY PROMPT 3]
+An aesthetically pleasing arrangement of traditional Korean herbal ingredients (ginseng, dried jujubes, various roots and leaves) on a natural wooden surface, accompanied by a beautifully crafted traditional ceramic tea set, evoking a sense of calm and natural healing.
+🖼️ [BODY PROMPT 4]
+A close-up shot of a Tibetan singing bowl being gently played, with soft, ambient light creating a meditative atmosphere. The focus is on the intricate details of the bowl and the subtle vibrations it creates.
+------------------------------------------------------------
