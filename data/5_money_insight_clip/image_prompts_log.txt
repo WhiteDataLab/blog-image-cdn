@@ -312,3 +312,14 @@ A diverse group of investors from different backgrounds collaborating around a h
 🖼️ [BODY PROMPT 5]
 A stylized, abstract representation of global economic growth, with upward-trending arrows originating from various emerging market regions on a world map. The colors are optimistic and dynamic, suggesting prosperity and future potential.
 ------------------------------------------------------------
+
+[2026-06-12 11:50:05] 2026년 순환 경제 시대, 지속 가능한 성장을 위한 투자 포트폴리오 재구성 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic representing the circular economy with interconnected arrows forming a loop, overlaid with financial growth charts and subtle green energy motifs. The background is a clean, modern digital interface, symbolizing smart investment.
+🖼️ [BODY PROMPT 1]
+A vibrant infographic showing the flow of the circular economy: design, produce, consume, reuse, repair, recycle, with arrows indicating continuous loops. In the background, subtle digital currency symbols and stock market charts are visible, suggesting financial integration.
+🖼️ [BODY PROMPT 2]
+A diverse group of professionals from different industries (tech, manufacturing, finance) collaborating around a holographic projection of a circular economy model. They are discussing data points and investment opportunities, conveying innovation and synergy.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand holding a smartphone displaying a sophisticated investment app interface with various charts and data related to sustainable and circular economy investments. In the background, a blurred modern office setting or a green, eco-friendly environment.
+------------------------------------------------------------
