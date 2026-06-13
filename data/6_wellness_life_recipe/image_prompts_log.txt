@@ -298,3 +298,16 @@ An aesthetically pleasing arrangement of traditional Korean herbal ingredients (
 🖼️ [BODY PROMPT 4]
 A close-up shot of a Tibetan singing bowl being gently played, with soft, ambient light creating a meditative atmosphere. The focus is on the intricate details of the bowl and the subtle vibrations it creates.
 ------------------------------------------------------------
+
+[2026-06-13 11:44:23] 웰니스 정보 과부하 시대, 현명한 소비자를 위한 '성분 리터러시' 가이드
+📸 [THUMBNAIL PROMPT]
+A person with a magnifying glass examining a product label, surrounded by a swirling vortex of digital information, scientific symbols, and glowing data points, illustrating wellness information overload and the need for smart ingredient analysis. High-tech, clean aesthetic, Korean text on labels.
+🖼️ [BODY PROMPT 1]
+A vibrant infographic showing an upward trending arrow for "Global Wellness Market Growth" with a percentage (e.g., +200% over 10 years), surrounded by various wellness products like supplements, organic foods, and smart devices, all with glowing ingredient lists. The overall mood is dynamic and informative.
+🖼️ [BODY PROMPT 2]
+A split image. On one side, a minimalist product with a "Clean Label" clearly showing simple, natural ingredients. On the other side, a complex scientific diagram or molecular structure with data points, representing "Science-Backed Efficacy." A subtle glow connects the two, symbolizing the integration of transparency and science in wellness.
+🖼️ [BODY PROMPT 3]
+A person is using a sleek, futuristic tablet or smartphone. The screen displays an AI-powered health app analyzing a product's ingredient list, highlighting key components and showing personalized compatibility scores. In the background, a bottle of supplements and fresh, healthy ingredients are artfully arranged, suggesting informed choices for a balanced life.
+🖼️ [BODY PROMPT 4]
+A confident, healthy-looking individual (male or female, diverse ethnicity) smiling subtly while holding a wellness product. Their gaze is direct and informed, suggesting they understand the product's label. The background is bright and clean, with soft, natural lighting, symbolizing clarity and well-being. The product itself is minimalist and modern.
+------------------------------------------------------------
