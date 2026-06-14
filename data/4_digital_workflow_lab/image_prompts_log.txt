@@ -312,3 +312,16 @@ A vibrant, interconnected network of digital nodes and lines, representing a sea
 🖼️ [BODY PROMPT 3]
 A diverse group of professionals collaborating around a large, interactive holographic display, seamlessly integrating AI insights into their strategic discussions, emphasizing human creativity and critical thinking enhanced by AI, bright and modern office setting.
 ------------------------------------------------------------
+
+[2026-06-14 11:52:43] 2026년, 직장인을 위한 AI 기반 초개인화 역량 강화 로드맵: 나만의 성장 경로 설계하기
+📸 [THUMBNAIL PROMPT]
+A futuristic, hyper-personalized learning interface designed with AI, showing an office worker interacting with a holographic display that visualizes their unique skill growth path and recommended learning modules. The aesthetic is clean, professional, and technologically advanced, with soft, glowing lines and a focus on individual progress. Korean text elements are subtly integrated into the interface.
+🖼️ [BODY PROMPT 1]
+An office worker in a modern, open-plan office setting, wearing smart glasses that project a personalized AI-powered learning dashboard. The dashboard shows real-time skill assessments, recommended courses, and a progress tracker, all tailored to their career goals. The worker looks engaged and focused, with a sense of clarity about their growth path.
+🖼️ [BODY PROMPT 2]
+A diverse group of office workers, each with a personalized holographic learning path floating above their desks, actively engaged in different AI-powered learning activities. One is interacting with an AI tutor on a tablet, another is participating in a VR simulation, and a third is analyzing data on a large screen, all within a collaborative and modern workspace.
+🖼️ [BODY PROMPT 3]
+A professional coach and an office worker in a mentorship session. The coach is reviewing a holographic display showing the worker's AI-generated skill development report, while the worker actively listens and takes notes. The scene emphasizes the "human-in-the-loop" concept, where AI provides data and insights, and human expertise guides the strategic application.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of an individual's growth journey, depicted as a winding path illuminated by glowing AI data streams. The path is surrounded by various holographic skill icons and knowledge nodes, symbolizing continuous learning and personalized development. The overall impression is one of progress, innovation, and a bright future guided by AI.
+------------------------------------------------------------
