@@ -311,3 +311,14 @@ A person is using a sleek, futuristic tablet or smartphone. The screen displays 
 🖼️ [BODY PROMPT 4]
 A confident, healthy-looking individual (male or female, diverse ethnicity) smiling subtly while holding a wellness product. Their gaze is direct and informed, suggesting they understand the product's label. The background is bright and clean, with soft, natural lighting, symbolizing clarity and well-being. The product itself is minimalist and modern.
 ------------------------------------------------------------
+
+[2026-06-14 11:54:41] 2026년 웰니스 트렌드: 나만의 '디지털 트윈'으로 예측하고 맞춤 관리하는 미래 건강 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek holographic representation of a human body, overlaid with glowing data points and lines, symbolizing a digital twin. The background is a clean, modern wellness lab or a serene, minimalist environment, emphasizing personalized health. The color scheme is cool blues, greens, and whites, conveying technology and well-being.
+🖼️ [BODY PROMPT 1]
+A sophisticated 3D holographic human body model, glowing with various data points and lines representing physiological metrics. The model is surrounded by floating data visualizations, charts, and graphs, all interacting seamlessly in a futuristic interface. The overall impression is one of deep, personalized health insight and predictive analytics.
+🖼️ [BODY PROMPT 2]
+A person (male or female, diverse ethnicity) in their late 30s, looking thoughtfully at a transparent tablet or screen displaying their personalized digital twin. The digital twin on the screen shows a detailed 3D model of their body with various health metrics and predictive analytics overlaid. The person is in a modern, well-lit home environment, suggesting ease of access to advanced health tech.
+🖼️ [BODY PROMPT 3]
+A diverse group of people (various ages and ethnicities) engaging in different wellness activities – one meditating, another doing light exercise, someone else preparing a healthy meal. Above them, subtle holographic interfaces display personalized health metrics and recommendations, seamlessly integrating technology into their daily lives. The scene is vibrant and positive, emphasizing proactive health management.
+------------------------------------------------------------
