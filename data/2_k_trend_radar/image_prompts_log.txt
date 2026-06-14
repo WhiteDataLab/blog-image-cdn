@@ -321,3 +321,16 @@ A sleek, minimalist smartphone displaying a mental health app interface with cal
 🖼️ [BODY PROMPT 4]
 A close-up shot of a foreign resident's hand holding a Korean National Health Insurance Service (NHIS) card, with a blurred background showing a doctor and patient in a consultation room, emphasizing the practical aspect of accessing healthcare.
 ------------------------------------------------------------
+
+[2026-06-14 11:50:47] The Artisanal Revival: Exploring Korea's Traditional Crafts Shaping 2026's Modern Design and Lifestyle.
+📸 [THUMBNAIL PROMPT]
+A beautifully composed flat lay showcasing various modern design objects infused with traditional Korean craftsmanship: a minimalist ceramic mug with a subtle celadon glaze, a sleek wooden desk organizer crafted with traditional joinery, a contemporary handbag featuring hanji paper accents, and a silk scarf with a modern interpretation of a traditional pattern, all bathed in soft, natural light.
+🖼️ [BODY PROMPT 1]
+A modern, minimalist living room bathed in soft light, featuring a large, sculptural floor lamp with a shade crafted from intricately layered hanji paper, casting warm, diffused patterns on the walls. A sleek, contemporary sofa and a low wooden table complete the serene scene.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a contemporary wooden side table, showcasing intricate traditional Korean joinery details. The surface of the table is subtly lacquered with a deep, rich ottchil finish, reflecting a soft glow. In the background, a blurred modern interior setting.
+🖼️ [BODY PROMPT 3]
+A bustling, modern artisan market in Seoul, filled with diverse people browsing stalls showcasing contemporary Korean crafts. Sunlight streams through a glass ceiling, highlighting a vibrant display of hanji lamps, ceramic art, and textile goods. Artisans are seen interacting with customers.
+🖼️ [BODY PROMPT 4]
+A high-angle shot of a designer's studio, showcasing a blend of traditional tools and modern technology. A young Korean designer is sketching on a tablet while surrounded by samples of hanji paper, ceramic prototypes, and swatches of traditional fabrics, symbolizing the fusion of old and new.
+------------------------------------------------------------
