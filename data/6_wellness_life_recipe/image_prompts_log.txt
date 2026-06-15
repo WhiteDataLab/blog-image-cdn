@@ -322,3 +322,16 @@ A person (male or female, diverse ethnicity) in their late 30s, looking thoughtf
 🖼️ [BODY PROMPT 3]
 A diverse group of people (various ages and ethnicities) engaging in different wellness activities – one meditating, another doing light exercise, someone else preparing a healthy meal. Above them, subtle holographic interfaces display personalized health metrics and recommendations, seamlessly integrating technology into their daily lives. The scene is vibrant and positive, emphasizing proactive health management.
 ------------------------------------------------------------
+
+[2026-06-15 12:01:59] 2026년 '원 헬스' 시대: 인간, 동물, 환경의 건강을 통합하는 지속 가능한 웰니스 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic illustration depicting interconnected elements: a healthy human silhouette, a thriving animal (e.g., a deer or bird), and lush natural environment (trees, clean water, clear sky), all linked by glowing lines representing data flow and collaboration. The overall aesthetic is clean, modern, and hopeful, with a subtle digital overlay. Text overlay "One Health 2026" in a sophisticated font.
+🖼️ [BODY PROMPT 1]
+A sophisticated infographic or digital dashboard displaying interconnected data points representing human health metrics, animal population health, and various environmental indicators (air quality, water purity, biodiversity index). The visual style is modern, with clean lines and a harmonious color palette, emphasizing data integration and real-time monitoring.
+🖼️ [BODY PROMPT 2]
+A diverse group of people (various ages and ethnicities) actively participating in a community garden project in an urban setting. They are smiling, planting vegetables, and interacting with each other. The background shows modern city buildings softened by lush greenery, symbolizing the integration of nature into urban life. The lighting is bright and optimistic.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a person's hands gently tending to a small, vibrant green plant in a pot, with a blurred background of a modern, clean home environment. The focus is on the mindful interaction with nature, symbolizing personal responsibility and connection to the environment. The lighting is soft and natural.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of a global network. Interconnecting lines and nodes glow across a translucent globe, symbolizing international collaboration and the flow of knowledge in the One Health initiative. Diverse symbols representing human, animal, and environmental health are subtly integrated into the network. The overall feel is high-tech and collaborative.
+------------------------------------------------------------
