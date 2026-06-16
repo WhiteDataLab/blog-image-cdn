@@ -347,3 +347,16 @@ A group of diverse individuals of various ages participating in a guided forest 
 🖼️ [BODY PROMPT 4]
 A sleek, modern infographic or holographic chart illustrating the decline in reported digital fatigue symptoms in South Korea from 2024 to 2026, alongside a rise in engagement with digital detox programs and spaces. The aesthetic should be clean, futuristic, and data-driven.
 ------------------------------------------------------------
+
+[2026-06-16 11:57:20] Jeju Haenyeo Tourism: Diving into Korea's Sustainable Cultural Heritage in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, dynamic shot of a Jeju Haenyeo (sea woman) in her traditional wetsuit, holding a net full of freshly harvested seafood, emerging from the clear blue waters of Jeju Island, with the iconic volcanic landscape in the background under a bright sky. Emphasize resilience and cultural pride, capturing the essence of sustainable cultural heritage.
+🖼️ [BODY PROMPT 1]
+A group of Haenyeo, both seasoned veterans and younger recruits, gathered around a "bulteok" (traditional changing and resting place), sharing stories and preparing for a dive. The scene should be authentic, showing intergenerational learning and a strong sense of community, with traditional fishing tools visible.
+🖼️ [BODY PROMPT 2]
+An aerial view of a picturesque Jeju coastal village, with traditional houses, small fishing boats, and tourists respectfully observing Haenyeo at work from a distance or participating in a guided cultural experience. The image should highlight the harmonious integration of sustainable tourism within the local community and natural landscape.
+🖼️ [BODY PROMPT 3]
+A close-up of a Haenyeo's hands, weathered and strong, carefully holding a piece of freshly harvested abalone or sea urchin. The clear ocean water shimmers in the background, emphasizing the direct connection to nature and the precious fruits of their labor. The image should convey authenticity and the value of their work.
+🖼️ [BODY PROMPT 4]
+A serene sunset over a Jeju Island beach, with the silhouette of a Haenyeo walking along the shore after a day's dive, carrying her tools. The scene evokes a sense of peace, tradition, and the timeless connection between the Haenyeo and the sea, symbolizing the enduring nature of their cultural heritage.
+------------------------------------------------------------
