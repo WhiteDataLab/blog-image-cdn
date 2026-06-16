@@ -335,3 +335,16 @@ A close-up shot of a person's hands gently tending to a small, vibrant green pla
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of a global network. Interconnecting lines and nodes glow across a translucent globe, symbolizing international collaboration and the flow of knowledge in the One Health initiative. Diverse symbols representing human, animal, and environmental health are subtly integrated into the network. The overall feel is high-tech and collaborative.
 ------------------------------------------------------------
+
+[2026-06-16 12:01:58] AI 불안감 시대: 디지털 피로를 넘어, 2026년 한국인의 AI 불안감 해소와 심리적 안정감을 위한 실용 가이드
+📸 [THUMBNAIL PROMPT]
+A serene Korean woman meditating in a modern, minimalist room, with subtle holographic AI interfaces floating around her, representing harmony between human and technology. Soft, warm lighting. High-quality, realistic digital art.
+🖼️ [BODY PROMPT 1]
+A diverse group of Korean individuals (20s-50s) looking thoughtfully at a complex, glowing AI data visualization projected in a modern, clean office space. Some show slight apprehension, others curiosity. Realistic, high-tech aesthetic.
+🖼️ [BODY PROMPT 2]
+A person enjoying a quiet moment in a beautifully designed, minimalist home, reading a physical book while a sleek, unobtrusive AI device sits dormant in the background. Emphasize peace and intentional disconnection. Warm, natural light.
+🖼️ [BODY PROMPT 3]
+A group of diverse people laughing and engaging in a lively conversation at a community garden, tending to plants together. Sunlight streams through trees, creating a warm, inviting atmosphere. Emphasize genuine human connection and nature.
+🖼️ [BODY PROMPT 4]
+A sleek, futuristic smartwatch displaying personalized wellness data (heart rate, stress level, sleep quality) with a subtle AI interface. The user's hand is gently resting, looking calm and in control. Minimalist, clean design with soft blue and green hues.
+------------------------------------------------------------
