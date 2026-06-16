@@ -338,3 +338,16 @@ A diverse group of employees actively participating in an AI training workshop, 
 🖼️ [BODY PROMPT 4]
 A futuristic, minimalist desk setup with a glowing holographic interface displaying optimized workflows and positive ROI graphs, symbolizing efficiency and strategic success in the AI era.
 ------------------------------------------------------------
+
+[2026-06-16 11:59:30] 2026년, 친환경 스마트 워크를 위한 디지털 탄소 발자국 줄이기 전략: 지속 가능한 업무 환경 구축 가이드
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic office desk with a transparent monitor displaying a green leaf motif, surrounded by minimalist tech gadgets, bathed in soft, natural light, symbolizing sustainable digital work in 2026. High-tech, clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A sophisticated infographic showing a global map with glowing lines connecting data centers, illustrating the vast network and energy consumption of digital infrastructure. The infographic should subtly incorporate green energy symbols and a carbon footprint icon.
+🖼️ [BODY PROMPT 2]
+A person working on a laptop in a modern, minimalist office space, with the screen displaying a dark mode interface and energy-saving icons. The scene should convey a sense of calm efficiency and environmental consciousness.
+🖼️ [BODY PROMPT 3]
+A stylized 3D graphic representation of data flowing into a green, glowing server rack, with smaller, optimized data packets moving efficiently. The background is a clean, futuristic data center environment with minimal human presence.
+🖼️ [BODY PROMPT 4]
+A diverse group of office workers, representing various roles, collaboratively engaging in a discussion around a digital display that shows environmental metrics and sustainable goals. The atmosphere is positive and forward-thinking, emphasizing teamwork in eco-friendly initiatives.
+------------------------------------------------------------
