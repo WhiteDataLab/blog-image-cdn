@@ -349,3 +349,16 @@ A diverse group of individuals (various ages and ethnicities) are confidently in
 🖼️ [BODY PROMPT 4]
 A sophisticated, minimalist graphic showing a human hand reaching out to touch a holographic projection of interconnected financial data, charts, and digital currencies. The background is a blurred, futuristic office setting, emphasizing innovation and strategic decision-making in the financial world.
 ------------------------------------------------------------
+
+[2026-06-16 12:00:40] 2026년 인구 구조 변화가 만드는 생산성 위기: 기술 투자로 돌파하는 새로운 기회
+📸 [THUMBNAIL PROMPT]
+A futuristic cityscape at dawn, with holographic data overlays showing demographic shifts (aging population, declining birth rates) subtly integrated into the architecture. In the foreground, a glowing network of technological solutions (AI, robotics symbols) connects different parts of the city, symbolizing innovation overcoming challenges. The overall mood is hopeful and forward-looking, with a professional, clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A modern, clean factory floor where advanced robots are seamlessly working alongside a smaller number of human technicians. The robots are performing repetitive or heavy tasks, while the humans are overseeing operations and engaging in more complex problem-solving. The lighting is bright and efficient, emphasizing productivity and technological integration.
+🖼️ [BODY PROMPT 2]
+A diverse group of professionals (some older, some younger) in a collaborative office space, actively interacting with advanced holographic displays and AI-powered interfaces. They are engaged in problem-solving and creative tasks, with technology augmenting their capabilities rather than replacing them. The atmosphere is dynamic and innovative.
+🖼️ [BODY PROMPT 3]
+A vibrant, abstract 3D graphic representing a complex network of data and technological innovation, with upward-trending lines and glowing nodes. In the background, a subtle, blurred image of a demographic pyramid shifting, symbolizing the challenge being overcome by the technological progress depicted in the foreground. The colors are bright and optimistic.
+🖼️ [BODY PROMPT 4]
+A close-up shot of a person's hand interacting with a sleek, minimalist holographic interface displaying various stock charts and investment data, with a focus on technology and innovation sectors. The background is a softly blurred modern office or home environment, suggesting smart, informed decision-making for personal finance.
+------------------------------------------------------------
