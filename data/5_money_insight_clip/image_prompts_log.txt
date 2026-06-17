@@ -362,3 +362,16 @@ A vibrant, abstract 3D graphic representing a complex network of data and techno
 🖼️ [BODY PROMPT 4]
 A close-up shot of a person's hand interacting with a sleek, minimalist holographic interface displaying various stock charts and investment data, with a focus on technology and innovation sectors. The background is a softly blurred modern office or home environment, suggesting smart, informed decision-making for personal finance.
 ------------------------------------------------------------
+
+[2026-06-17 11:57:44] 2026 '나' 중심 소비 트렌드: 경험과 아날로그에 투자하는 현명한 재정 관리 전략
+📸 [THUMBNAIL PROMPT]
+A stylish Korean person holding a vintage film camera, surrounded by subtle digital interfaces and a serene, minimalist environment, symbolizing the blend of analog experiences and smart financial management in 2026. The atmosphere is sophisticated and forward-looking.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a person's hands meticulously decorating a pair of transparent jelly shoes with colorful charms and beads at a bustling market stall in Dongdaemun, Seoul. The background is slightly blurred with other decorative materials.
+🖼️ [BODY PROMPT 2]
+A serene indoor garden with a person gently tending to potted plants, their hands covered in soil. Sunlight streams through a window, highlighting the lush greenery and a vintage watering can. The atmosphere is calm and focused, emphasizing a digital detox.
+🖼️ [BODY PROMPT 3]
+A minimalist desk setup with a laptop showing a financial tracking app, a neatly organized planner, and a cup of artisanal coffee. The overall aesthetic is clean, efficient, and modern, representing smart financial management.
+🖼️ [BODY PROMPT 4]
+A diverse group of young adults, smiling and engaged, participating in an outdoor workshop where they are learning traditional pottery. The setting is natural and communal, emphasizing shared experiences and a connection to craft.
+------------------------------------------------------------
