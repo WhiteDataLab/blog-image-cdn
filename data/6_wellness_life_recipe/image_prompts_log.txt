@@ -348,3 +348,16 @@ A group of diverse people laughing and engaging in a lively conversation at a co
 🖼️ [BODY PROMPT 4]
 A sleek, futuristic smartwatch displaying personalized wellness data (heart rate, stress level, sleep quality) with a subtle AI interface. The user's hand is gently resting, looking calm and in control. Minimalist, clean design with soft blue and green hues.
 ------------------------------------------------------------
+
+[2026-06-17 11:58:52] 2026년 건강 트렌드: '체온 높이는 음식'으로 면역력과 활력 동시에 잡는 법
+📸 [THUMBNAIL PROMPT]
+A warm, inviting kitchen scene with steam rising from a bowl of vibrant, healthy soup, surrounded by fresh ginger, turmeric, and other warming spices. Soft, natural light illuminates the scene, emphasizing comfort and wellness.
+🖼️ [BODY PROMPT 1]
+A detailed infographic showing the relationship between body temperature, immune cell activity, and metabolic rate, presented in a clean, modern 3D holographic style with glowing data points.
+🖼️ [BODY PROMPT 2]
+A beautifully arranged bento box filled with colorful, warm, and healthy foods: steamed root vegetables, grilled salmon, brown rice, and a small bowl of ginger soup. The setting is bright and inviting, suggesting a balanced and nourishing meal.
+🖼️ [BODY PROMPT 3]
+A person practicing gentle yoga or stretching in a cozy, sunlit room, holding a mug of warm tea. The atmosphere is serene and focused on mindful movement and warmth.
+🖼️ [BODY PROMPT 4]
+A minimalist, aesthetically pleasing flat lay of various warming spices (ginger, turmeric, cinnamon, cloves), a wooden spoon, and a small, steaming cup, symbolizing the essence of body-warming foods for wellness.
+------------------------------------------------------------
