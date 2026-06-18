@@ -361,3 +361,16 @@ A person practicing gentle yoga or stretching in a cozy, sunlit room, holding a 
 🖼️ [BODY PROMPT 4]
 A minimalist, aesthetically pleasing flat lay of various warming spices (ginger, turmeric, cinnamon, cloves), a wooden spoon, and a small, steaming cup, symbolizing the essence of body-warming foods for wellness.
 ------------------------------------------------------------
+
+[2026-06-18 11:54:35] AI 기반 수면 데이터 분석: 미래 질병 위험 예측 및 맞춤형 건강 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, minimalist bedroom scene at night, with a glowing, subtle holographic display showing complex sleep data patterns and a healthy human silhouette. The overall aesthetic is calm, high-tech, and inviting.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a sleek, modern smartwatch on a wrist, displaying intricate sleep cycle graphs and heart rate data in a vibrant, easy-to-understand holographic interface. The background is softly blurred, suggesting a comfortable bedroom environment.
+🖼️ [BODY PROMPT 2]
+A futuristic, clean medical lab setting with a diverse group of researchers (male and female, various ethnicities) intently looking at large holographic displays showing complex AI algorithms processing sleep data. The atmosphere is collaborative and innovative.
+🖼️ [BODY PROMPT 3]
+A person (gender-neutral, diverse ethnicity) is calmly meditating in a beautifully designed, minimalist bedroom. Soft, warm lighting fills the room, and a subtle, almost invisible smart device on the nightstand emits a gentle glow, symbolizing AI-driven wellness integration.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of a human brain and body connected by glowing data lines to a central, ethereal AI core. The overall image conveys intelligence, connectivity, and personalized health, with a clean, high-tech aesthetic.
+------------------------------------------------------------
