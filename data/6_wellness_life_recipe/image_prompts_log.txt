@@ -374,3 +374,16 @@ A person (gender-neutral, diverse ethnicity) is calmly meditating in a beautiful
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of a human brain and body connected by glowing data lines to a central, ethereal AI core. The overall image conveys intelligence, connectivity, and personalized health, with a clean, high-tech aesthetic.
 ------------------------------------------------------------
+
+[2026-06-19 12:38:20] GLP-1 약물이 바꾸는 2026년 웰니스 시장: 다이어트, 운동, 식품 산업의 새로운 판도 변화
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic graphic depicting GLP-1 molecules intertwining with stylized icons representing diet, exercise, and food, set against a vibrant, evolving wellness market backdrop with subtle holographic charts and a diverse group of healthy individuals.
+🖼️ [BODY PROMPT 1]
+A diverse group of individuals engaging in a personalized nutrition counseling session, with a nutritionist explaining a balanced meal plan on a holographic display, emphasizing nutrient-dense foods and mindful eating.
+🖼️ [BODY PROMPT 2]
+A person in a modern gym performing resistance training with free weights, guided by a personal trainer who is monitoring their form on a tablet, focusing on muscle building and functional strength.
+🖼️ [BODY PROMPT 3]
+A meticulously arranged bento box featuring small, nutrient-dense portions of grilled salmon, quinoa salad, steamed vegetables, and fresh berries, highlighting the trend of quality over quantity in food consumption.
+🖼️ [BODY PROMPT 4]
+A diverse team of healthcare professionals—a doctor, a nutritionist, and a fitness coach—collaborating around a holographic display showing a patient's personalized health data, symbolizing integrated wellness management.
+------------------------------------------------------------
