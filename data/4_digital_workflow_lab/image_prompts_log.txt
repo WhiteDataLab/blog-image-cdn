@@ -375,3 +375,14 @@ A vibrant, abstract visualization of data flowing between interconnected nodes, 
 🖼️ [BODY PROMPT 4]
 A professional, confident office worker standing in a modern, minimalist office. They are looking directly at the viewer with a slight smile, holding a tablet that displays a stylized "AI COMPLIANCE" badge. The overall impression is one of leadership, competence, and readiness for the future.
 ------------------------------------------------------------
+
+[2026-06-19 12:36:15] AI 기반 개인 맞춤형 업무 경험: 나를 성장시키는 'AI 학습 컨시어지' 활용법
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic AI concierge interface displaying personalized learning paths and growth metrics, with a professional Korean office worker interacting with it on a holographic screen in a modern, well-lit office environment. The worker has a focused yet inspired expression. Soft, glowing lines connect the AI to various skill icons and career milestones.
+🖼️ [BODY PROMPT 1]
+A diverse group of Korean office workers, each engaged in personalized learning activities on their laptops or tablets, with subtle holographic overlays showing their individual AI learning concierges guiding them. The atmosphere is collaborative yet focused, emphasizing tailored growth within a modern office setting.
+🖼️ [BODY PROMPT 2]
+A close-up of a holographic chart showing a professional's skill development over time, with various competencies like "Data Analysis," "AI Prompt Engineering," and "Strategic Thinking" increasing their proficiency levels. An AI interface with glowing nodes visualizes the personalized learning path and future career trajectory.
+🖼️ [BODY PROMPT 3]
+A Korean professional woman in her late 20s to early 30s, confidently presenting a complex project using a holographic display, which seamlessly integrates insights gained from her AI learning concierge. The background is a modern, collaborative workspace, showcasing the tangible results of personalized AI-driven growth.
+------------------------------------------------------------
