@@ -387,3 +387,14 @@ A meticulously arranged bento box featuring small, nutrient-dense portions of gr
 🖼️ [BODY PROMPT 4]
 A diverse team of healthcare professionals—a doctor, a nutritionist, and a fitness coach—collaborating around a holographic display showing a patient's personalized health data, symbolizing integrated wellness management.
 ------------------------------------------------------------
+
+[2026-06-20 11:42:14] 디지털 시대의 눈 건강 혁명: 2026년, 스마트 기기 속 내 눈을 지키는 실용 가이드
+📸 [THUMBNAIL PROMPT]
+A futuristic, minimalist image of a human eye with a subtle digital overlay, reflecting data points and a healthy glow. The background is a soft, blurred depiction of smart devices and glowing screens, emphasizing protection and wellness in the digital age. The overall tone is sophisticated and hopeful.
+🖼️ [BODY PROMPT 1]
+A young professional in a modern, well-lit office, looking away from a sleek, minimalist monitor towards a distant green plant, demonstrating the 20-20-20 rule. The scene is calm and focused on eye health practices.
+🖼️ [BODY PROMPT 2]
+A vibrant, healthy meal featuring colorful vegetables, omega-3 rich fish, and berries, symbolizing eye-healthy nutrition. The setting is a clean, modern kitchen table with natural light.
+🖼️ [BODY PROMPT 3]
+A close-up, high-tech shot of a smart contact lens or a futuristic wearable device gently placed near an eye, with subtle glowing data points emanating, symbolizing advanced eye health monitoring and personalized care.
+------------------------------------------------------------
