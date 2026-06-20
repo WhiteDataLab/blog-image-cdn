@@ -401,3 +401,14 @@ Inside a multi-story vertical farm, rows of leafy greens and herbs grow under vi
 🖼️ [BODY PROMPT 4]
 A diverse group of investors, including young professionals and experienced individuals, are gathered in a modern, sunlit office, actively discussing financial charts and digital projections on a large screen displaying "Agri-tech Investment." They appear engaged and optimistic, symbolizing collaborative and informed investment decisions.
 ------------------------------------------------------------
+
+[2026-06-20 11:41:04] AI 인프라 투자, '금광'에서 '유틸리티'로: 2026년 AI 컴퓨팅 원자재화 시대의 새로운 투자 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic cityscape at dusk, with glowing data centers and network lines connecting them, symbolizing AI infrastructure as a ubiquitous utility. The sky is a deep blue with subtle digital patterns.
+🖼️ [BODY PROMPT 1]
+A diverse group of investors, both young and experienced, looking at a holographic projection of a complex AI infrastructure network, with data flows and energy consumption metrics. They are discussing investment strategies in a modern, well-lit office.
+🖼️ [BODY PROMPT 2]
+A sophisticated 3D holographic chart showing the growth of AI infrastructure investment shifting from hardware to software and energy, with clear upward trends for utility-focused sectors. The chart is clean and modern.
+🖼️ [BODY PROMPT 3]
+A diverse group of individuals, representing different age groups and backgrounds, confidently using tablets and laptops to manage their investment portfolios, with AI-powered analytics displayed on their screens. They are in a comfortable, modern co-working space.
+------------------------------------------------------------
