@@ -398,3 +398,16 @@ A vibrant, healthy meal featuring colorful vegetables, omega-3 rich fish, and be
 🖼️ [BODY PROMPT 3]
 A close-up, high-tech shot of a smart contact lens or a futuristic wearable device gently placed near an eye, with subtle glowing data points emanating, symbolizing advanced eye health monitoring and personalized care.
 ------------------------------------------------------------
+
+[2026-06-21 11:59:03] 웰니스 건축과 뉴로아키텍처: 공간 디자인이 뇌 건강과 심리적 안정감에 미치는 영향
+📸 [THUMBNAIL PROMPT]
+A sleek, modern architectural rendering of a minimalist, light-filled interior space with abundant natural light, lush indoor plants, and ergonomic furniture, evoking a sense of calm and well-being. Focus on clean lines and a harmonious color palette.
+🖼️ [BODY PROMPT 1]
+A detailed 3D rendering of a brain scan overlaid with architectural elements, showing how different spatial features (e.g., light, texture, color) activate specific brain regions related to calm, focus, and creativity. Use a futuristic, scientific aesthetic.
+🖼️ [BODY PROMPT 2]
+An aerial view of a modern, open-plan office space filled with natural light, numerous potted plants, ergonomic desks, and employees collaboratively working and relaxing in designated wellness zones. The atmosphere is vibrant yet calm.
+🖼️ [BODY PROMPT 3]
+A person meditating in a beautifully designed, minimalist living room with large windows overlooking a lush green garden. The interior features natural wood, soft textiles, and warm, diffused lighting, creating a serene and harmonious atmosphere.
+🖼️ [BODY PROMPT 4]
+A minimalistic, futuristic infographic showcasing the key principles of neuroarchitecture: natural light, biophilic elements, acoustic comfort, and ergonomic design, with subtle glowing lines connecting them to a healthy brain icon. Use a clean, tech-inspired aesthetic.
+------------------------------------------------------------
