@@ -412,3 +412,14 @@ A sophisticated 3D holographic chart showing the growth of AI infrastructure inv
 🖼️ [BODY PROMPT 3]
 A diverse group of individuals, representing different age groups and backgrounds, confidently using tablets and laptops to manage their investment portfolios, with AI-powered analytics displayed on their screens. They are in a comfortable, modern co-working space.
 ------------------------------------------------------------
+
+[2026-06-21 11:57:59] 2026년 강화된 가계부채 규제: 다주택자 유동성 위기 관리 및 자산 재편 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting a financial chart with upward and downward arrows intersecting with a house icon, symbolizing asset restructuring and market volatility under new regulations. The color palette is modern and professional, with subtle hints of green and blue.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a hand holding a magnifying glass over a complex financial document, with various charts and numbers visible, symbolizing meticulous financial analysis under new regulations. The background is a modern office setting.
+🖼️ [BODY PROMPT 2]
+A person in a business suit stands in front of a large transparent screen displaying a sophisticated financial dashboard with real-time market data, asset allocation charts, and risk assessment indicators. The person is pointing at a specific section, indicating strategic decision-making.
+🖼️ [BODY PROMPT 3]
+A group of diverse professionals, including a financial advisor, a real estate expert, and a client, are gathered around a table in a modern office, engaged in a serious discussion about financial planning and asset management. There are documents and a tablet on the table.
+------------------------------------------------------------
