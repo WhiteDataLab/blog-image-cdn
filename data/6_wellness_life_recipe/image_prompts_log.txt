@@ -411,3 +411,16 @@ A person meditating in a beautifully designed, minimalist living room with large
 🖼️ [BODY PROMPT 4]
 A minimalistic, futuristic infographic showcasing the key principles of neuroarchitecture: natural light, biophilic elements, acoustic comfort, and ergonomic design, with subtle glowing lines connecting them to a healthy brain icon. Use a clean, tech-inspired aesthetic.
 ------------------------------------------------------------
+
+[2026-06-23 11:37:21] 2026년, 마음 건강을 위한 국가적 움직임: 정부의 정신건강 5개년 계획과 중독 관리의 새로운 지평
+📸 [THUMBNAIL PROMPT]
+A vibrant, abstract illustration depicting interconnected minds and a protective hand, symbolizing national mental health initiatives and support, with subtle Korean design elements.
+🖼️ [BODY PROMPT 1]
+A diverse group of people of various ages (children, teenagers, adults, seniors) engaging in different activities (meditation, talking to a counselor, exercising outdoors), all looking calm and supported, against a backdrop of modern city and nature elements, symbolizing comprehensive mental health support.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist infographic showing a brain icon at the center, surrounded by smaller icons representing different types of addiction (smartphone, computer, alcohol bottle, gambling chips, syringe), with arrows pointing towards integrated treatment and support services.
+🖼️ [BODY PROMPT 3]
+A person sitting calmly in a modern, brightly lit room, interacting with a tablet displaying a personalized mental wellness app. The app shows data visualizations of mood, sleep, and activity, with AI-driven recommendations for stress management.
+🖼️ [BODY PROMPT 4]
+A group of people of different ages and backgrounds gathered in a community center, smiling and engaging in an open discussion about mental health. A facilitator is leading the session, and the atmosphere is one of acceptance and support. Soft, warm lighting.
+------------------------------------------------------------
