@@ -436,3 +436,16 @@ A diverse group of international diners, dressed in smart casual attire, enjoyin
 🖼️ [BODY PROMPT 4]
 A vibrant and dynamic collage image showcasing various elements of Korean fine dining's global success: a Michelin star emblem, a chef presenting a dish, traditional Korean ingredients, modern kitchen equipment, and a world map with glowing dots indicating Korean restaurant locations.
 ------------------------------------------------------------
+
+[2026-06-23 11:33:04] Beyond K-Pop Idols: 2026's Rise of Korean Games Embracing Ancient Myths and Modern Seoul
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic cityscape of Seoul at twilight, seamlessly blending traditional Korean architectural elements with holographic projections of mythical creatures like a Gumiho or Haetae. A sleek, stylized game controller rests on a glowing surface in the foreground, symbolizing the fusion of ancient and modern in Korean gaming.
+🖼️ [BODY PROMPT 1]
+A screenshot from a high-fidelity Korean action RPG, depicting a character in traditional yet stylized armor battling a mythical creature like a Dokkaebi (goblin) in a lush, ancient Korean forest setting, illuminated by moonlight.
+🖼️ [BODY PROMPT 2]
+A dynamic in-game shot of a character parkouring across the rooftops of a futuristic Seoul, with iconic landmarks like N Seoul Tower and Lotte World Tower visible in the background, bathed in neon lights and holographic advertisements.
+🖼️ [BODY PROMPT 3]
+A concept art piece showing a blend of traditional Korean patterns and motifs integrated into sleek, futuristic gaming gear and accessories, perhaps a gaming headset or a custom PC case, symbolizing the fusion of old and new.
+🖼️ [BODY PROMPT 4]
+A diverse group of young adults, some wearing subtle Korean-inspired fashion, enthusiastically playing a Korean game on large screens in a modern, stylish gaming cafe in Seoul, reflecting global engagement with the new trend.
+------------------------------------------------------------
