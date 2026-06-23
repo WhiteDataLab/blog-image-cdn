@@ -423,3 +423,16 @@ A person in a business suit stands in front of a large transparent screen displa
 🖼️ [BODY PROMPT 3]
 A group of diverse professionals, including a financial advisor, a real estate expert, and a client, are gathered around a table in a modern office, engaged in a serious discussion about financial planning and asset management. There are documents and a tablet on the table.
 ------------------------------------------------------------
+
+[2026-06-23 11:36:26] 2026년 AI 생산성 패러독스 시대: 투자 열풍 속, 기대만큼 오르지 않는 생산성, 현명한 개인 투자자의 '진짜' AI 투자 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek infographic depicting a graph with a steep upward curve for AI investment and a relatively flat line for productivity, with gears and circuit board elements in the background, symbolizing the AI productivity paradox. The color scheme is professional and modern, with a subtle glow.
+🖼️ [BODY PROMPT 1]
+A diverse group of professionals in a modern, open-plan office collaborating around a holographic projection of complex data and AI models, looking determined but also a bit challenged, symbolizing the integration difficulties of AI into existing workflows. The scene should convey both the promise and the current struggles of AI adoption.
+🖼️ [BODY PROMPT 2]
+A detailed, close-up shot of a sophisticated AI chip or processor, with intricate circuit patterns glowing subtly. The focus is sharp, highlighting the technological marvel, and a blurred background suggests a high-tech lab environment, emphasizing the foundational "shovel and pickaxe" aspect of AI investment.
+🖼️ [BODY PROMPT 3]
+A clean, minimalist financial dashboard displayed on a transparent tablet screen, showing various investment portfolios with growth charts and risk indicators. In the background, a person (partially visible) is calmly reviewing the data, emphasizing thoughtful, long-term investment strategy and diversification in the AI era.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of a brain or a network of interconnected nodes glowing with digital light, surrounded by subtle financial graphs and data streams. The overall impression is one of intelligent analysis and strategic foresight, symbolizing a wise investor navigating the complexities of the AI market.
+------------------------------------------------------------
