@@ -436,3 +436,14 @@ A clean, minimalist financial dashboard displayed on a transparent tablet screen
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of a brain or a network of interconnected nodes glowing with digital light, surrounded by subtle financial graphs and data streams. The overall impression is one of intelligent analysis and strategic foresight, symbolizing a wise investor navigating the complexities of the AI market.
 ------------------------------------------------------------
+
+[2026-06-24 11:37:34] 2026년, AI 로보어드바이저가 이끄는 개인형 퇴직연금(IRP) 자동 관리: 노후 자산 증식을 위한 최신 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic AI robot hand gently touching a glowing, holographic financial chart displaying an upward trend, symbolizing automated and optimized personal retirement pension (IRP) management for future wealth growth. The background is a clean, modern financial office setting with subtle digital elements.
+🖼️ [BODY PROMPT 1]
+A busy professional in a modern office, smiling confidently as they glance at a tablet displaying a dynamic, upward-trending graph of their IRP portfolio, managed seamlessly by an AI robo-advisor. The background shows a blurred, bustling city, emphasizing time efficiency.
+🖼️ [BODY PROMPT 2]
+A sophisticated 3D virtual graphic of a neural network or a complex algorithm, with glowing lines connecting various financial data points and market indicators, representing the intelligent and interconnected operations of AI robo-advisors.
+🖼️ [BODY PROMPT 3]
+A diverse group of individuals (representing different age groups and backgrounds) standing together, looking confidently at a large, transparent digital screen displaying a steadily growing financial chart with "IRP" and "AI" keywords highlighted. They are smiling, symbolizing collective financial security and empowerment through modern retirement planning.
+------------------------------------------------------------
