@@ -438,3 +438,16 @@ A diverse group of office workers, some wearing AR glasses, collaboratively inte
 🖼️ [BODY PROMPT 4]
 A futuristic control room with a large transparent display showing real-time data visualizations of robot operations across multiple sites (office, factory, field). A human manager is confidently overseeing the integrated system, with AI assistants providing insights. Emphasize strategic oversight and data-driven decision making.
 ------------------------------------------------------------
+
+[2026-06-24 11:36:11] 엣지 컴퓨팅 기반의 실시간 업무 환경 구축: 지연 없는 스마트 워크를 위한 분산형 인텔리전스 활용 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic office worker interacting seamlessly with multiple holographic interfaces that display real-time data, with a subtle network of glowing lines connecting various smart devices and a distant, blurred cloud in the background, symbolizing edge computing's role in local processing. The overall tone is professional, innovative, and efficient.
+🖼️ [BODY PROMPT 1]
+A network of interconnected smart devices (laptops, tablets, IoT sensors) in a modern office, with glowing data streams flowing between them and small, localized processing units. A central, larger data cloud is visible in the distance, but the immediate focus is on the efficient local data exchange, emphasizing distributed intelligence.
+🖼️ [BODY PROMPT 2]
+A diverse group of professionals collaborating in a modern, open-plan office. One person wears an AR headset, seamlessly interacting with a holographic project model, while others work on ultra-responsive tablets and smart displays. The scene emphasizes real-time, lag-free interaction enabled by distributed intelligence.
+🖼️ [BODY PROMPT 3]
+A sophisticated 3D holographic chart showing exponential growth curves for edge computing and edge AI market sizes from 2026 to 2035. Key drivers like 5G, IoT, and AI are highlighted as interconnected nodes, with a diverse group of business professionals observing the data with keen interest in a modern conference room.
+🖼️ [BODY PROMPT 4]
+A futuristic, sleek office building at dusk, with data streams flowing around its perimeter, symbolizing edge computing infrastructure. Inside, a diverse team of employees works efficiently, powered by seamless, real-time technology. The overall mood is optimistic and forward-thinking.
+------------------------------------------------------------
