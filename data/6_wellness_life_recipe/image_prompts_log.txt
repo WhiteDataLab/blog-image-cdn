@@ -424,3 +424,16 @@ A person sitting calmly in a modern, brightly lit room, interacting with a table
 🖼️ [BODY PROMPT 4]
 A group of people of different ages and backgrounds gathered in a community center, smiling and engaging in an open discussion about mental health. A facilitator is leading the session, and the atmosphere is one of acceptance and support. Soft, warm lighting.
 ------------------------------------------------------------
+
+[2026-06-24 11:38:36] 환경 호르몬 비상! 2026년, 엄마와 아기의 건강을 지키는 생활 속 독소 제거 가이드.
+📸 [THUMBNAIL PROMPT]
+A serene, warm-toned image of a mother gently holding her baby, with a subtle, protective glow around them. In the background, blurred elements of a modern, clean home environment, symbolizing safety and purity. The overall mood is hopeful and secure, with a hint of advanced wellness technology.
+🖼️ [BODY PROMPT 1]
+A bright, minimalist kitchen scene with a young mother preparing a healthy meal. She is using glass containers and stainless steel pots. Sunlight streams through a window, highlighting fresh organic vegetables on the counter. The atmosphere is clean and modern, emphasizing healthy living.
+🖼️ [BODY PROMPT 2]
+A cozy living room with a large window open to a lush green view. A modern, sleek air purifier is subtly placed in the corner. A pregnant woman is sitting comfortably on a sofa, drinking water from a glass, with a sense of calm and well-being.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand (mother's hand) examining the label of a baby product in a store. The label clearly shows "BPA-Free" and "Phthalate-Free" certifications. The background is slightly blurred, showing other baby products, emphasizing informed consumer choice.
+🖼️ [BODY PROMPT 4]
+A futuristic, sleek smart home dashboard displaying real-time air quality, water purity, and environmental toxin levels. Holographic charts show data trends, with a focus on green, healthy indicators. The interface is intuitive and clean, representing advanced wellness technology.
+------------------------------------------------------------
