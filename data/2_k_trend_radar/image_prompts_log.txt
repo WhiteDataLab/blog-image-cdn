@@ -449,3 +449,16 @@ A concept art piece showing a blend of traditional Korean patterns and motifs in
 🖼️ [BODY PROMPT 4]
 A diverse group of young adults, some wearing subtle Korean-inspired fashion, enthusiastically playing a Korean game on large screens in a modern, stylish gaming cafe in Seoul, reflecting global engagement with the new trend.
 ------------------------------------------------------------
+
+[2026-06-24 11:33:59] Beyond Soju & Makgeolli: Exploring Korea's 2026 Traditional Liquor Tourism and Craft Beverage Scene
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern still-life photograph featuring an array of beautifully designed bottles of traditional Korean craft liquors (cheongju, yakju, soju, makgeolli), perhaps with a subtle backdrop of a traditional Korean hanok or a modern distillery, showcasing both heritage and contemporary appeal. Soft, inviting lighting.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a master distiller, perhaps a woman in her 40s-50s, carefully inspecting fermenting traditional Korean liquor in large clay pots (onggi) within a clean, modern distillery setting. The focus is on her hands and the intricate process, conveying expertise and passion.
+🖼️ [BODY PROMPT 2]
+A diverse group of international tourists (20s-40s) laughing and interacting during a traditional Korean liquor tasting session at a modern, well-lit distillery. Various small glasses of colorful traditional liquors are on the table, alongside small Korean snacks. The atmosphere is joyful and educational.
+🖼️ [BODY PROMPT 3]
+A beautifully arranged flat lay of various Korean traditional liquor bottles and glasses, accompanied by small, aesthetically pleasing Korean snacks (e.g., yakgwa, bukak). The background is a clean, minimalist wooden table, emphasizing the elegance and premium quality of the beverages.
+🖼️ [BODY PROMPT 4]
+A panoramic view of a picturesque Korean countryside with rolling hills and traditional architecture (hanok village), with a subtle focus on a modern, elegant distillery building nestled within the landscape, symbolizing the harmonious blend of tradition and modernity in Korea's craft beverage scene.
+------------------------------------------------------------
