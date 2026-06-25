@@ -437,3 +437,16 @@ A close-up shot of a hand (mother's hand) examining the label of a baby product 
 🖼️ [BODY PROMPT 4]
 A futuristic, sleek smart home dashboard displaying real-time air quality, water purity, and environmental toxin levels. Holographic charts show data trends, with a focus on green, healthy indicators. The interface is intuitive and clean, representing advanced wellness technology.
 ------------------------------------------------------------
+
+[2026-06-25 11:38:58] 오감을 깨우는 웰니스: 향, 소리, 촉각으로 일상을 풍요롭게 채우는 법
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist image featuring a delicate incense stick emitting a gentle wisp of smoke, a pair of elegant wireless headphones resting on a smooth stone, and soft, textured fabric draped artfully, all bathed in warm, natural light. The overall mood is calm and inviting, symbolizing sensory wellness.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a hand gently holding a small, elegant bottle of essential oil, with soft, diffused light highlighting the intricate details of the bottle and the subtle texture of the skin. In the background, blurred elements suggest a cozy, modern living space.
+🖼️ [BODY PROMPT 2]
+A person wearing sleek, noise-canceling headphones is sitting in a sunlit, minimalist room, eyes closed in peaceful contemplation. Soft, ambient light fills the space, and a subtle visual representation of sound waves emanates from the headphones, symbolizing immersive sound therapy.
+🖼️ [BODY PROMPT 3]
+A close-up of hands gently caressing a soft, textured cashmere blanket, with warm, inviting light creating a cozy and comforting atmosphere. The focus is on the tactile sensation and the feeling of warmth and security.
+🖼️ [BODY PROMPT 4]
+A beautifully arranged flat lay showcasing elements of sensory wellness: a small bowl of fragrant potpourri, a pair of elegant ceramic teacups with steam rising, a book with a textured cover, and a sprig of fresh lavender, all on a natural wooden surface with soft, diffused lighting.
+------------------------------------------------------------
