@@ -447,3 +447,16 @@ A sophisticated 3D virtual graphic of a neural network or a complex algorithm, w
 🖼️ [BODY PROMPT 3]
 A diverse group of individuals (representing different age groups and backgrounds) standing together, looking confidently at a large, transparent digital screen displaying a steadily growing financial chart with "IRP" and "AI" keywords highlighted. They are smiling, symbolizing collective financial security and empowerment through modern retirement planning.
 ------------------------------------------------------------
+
+[2026-06-25 11:37:56] 2026년 차세대 에너지 혁명: 소형모듈원전(SMR) 및 핵융합 에너지 투자 기회
+📸 [THUMBNAIL PROMPT]
+A futuristic, glowing small modular reactor (SMR) unit integrated into a clean energy grid, with a shimmering nuclear fusion reaction in the background, symbolizing innovation and investment opportunities in 2026. The scene is sleek, high-tech, and visually appealing to investors.
+🖼️ [BODY PROMPT 1]
+A detailed 3D rendering of a small modular reactor (SMR) power plant, showcasing its compact design and integration into a modern industrial landscape. The image emphasizes clean lines and advanced technology, with a subtle glow emanating from the reactor core.
+🖼️ [BODY PROMPT 2]
+A dynamic and abstract representation of a nuclear fusion reaction, with swirling plasma and intense light, set within a futuristic reactor chamber. The image should convey immense power and scientific breakthrough, using vibrant blues, purples, and whites.
+🖼️ [BODY PROMPT 3]
+A diverse group of investors, including men and women of various ages, gathered in a modern, sunlit office, intently looking at a holographic display showing charts and graphs related to energy investments (SMR and fusion). They appear engaged and optimistic, symbolizing smart investment decisions.
+🖼️ [BODY PROMPT 4]
+A visually striking conceptual image of a clean energy future, where a futuristic city skyline is powered by glowing SMR units and a distant, ethereal nuclear fusion power plant. The sky is clear, and the overall impression is one of prosperity, sustainability, and technological harmony.
+------------------------------------------------------------
