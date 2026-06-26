@@ -460,3 +460,16 @@ A diverse group of investors, including men and women of various ages, gathered 
 🖼️ [BODY PROMPT 4]
 A visually striking conceptual image of a clean energy future, where a futuristic city skyline is powered by glowing SMR units and a distant, ethereal nuclear fusion power plant. The sky is clear, and the overall impression is one of prosperity, sustainability, and technological harmony.
 ------------------------------------------------------------
+
+[2026-06-26 11:41:29] 2026년 '밸런슈머'의 부상: 가치 소비와 재테크를 잇는 MZ세대의 스마트한 지출 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic infographic showing a balance scale with "Value" on one side and "Investment" on the other, connected by glowing lines representing data and smart financial decisions. In the background, a diverse group of young adults (MZ generation) are subtly visible, engaging with digital devices. The color palette is modern and clean, with touches of neon.
+🖼️ [BODY PROMPT 1]
+A young, stylish MZ generation individual thoughtfully examining a product with an eco-friendly label in a modern, minimalist store. The product glows subtly, indicating its value. In the background, digital price tags show transparent information.
+🖼️ [BODY PROMPT 2]
+A sleek, modern smartphone screen displaying various financial apps: one showing a subscription management dashboard, another a stock trading interface with green upward trends, and a third showing a digital wallet with points and cashback. A hand is interactively tapping the screen.
+🖼️ [BODY PROMPT 3]
+A diverse group of young professionals (MZ generation) in a bright, modern co-working space, engaged in a discussion. One person is pointing at a holographic chart displaying financial trends and personal spending analytics, while others are taking notes on tablets.
+🖼️ [BODY PROMPT 4]
+A minimalist, abstract representation of growth and balance. Interlocking gears or geometric shapes in gold and silver, symbolizing finance and value, are perfectly balanced on a fulcrum. A subtle glow emanates from the center, suggesting innovation and prosperity.
+------------------------------------------------------------
