@@ -450,3 +450,16 @@ A close-up of hands gently caressing a soft, textured cashmere blanket, with war
 🖼️ [BODY PROMPT 4]
 A beautifully arranged flat lay showcasing elements of sensory wellness: a small bowl of fragrant potpourri, a pair of elegant ceramic teacups with steam rising, a book with a textured cover, and a sprig of fresh lavender, all on a natural wooden surface with soft, diffused lighting.
 ------------------------------------------------------------
+
+[2026-06-26 11:42:35] 나이 들수록 똑똑해지는 비밀: 2026년 뇌 건강을 위한 즐거운 취미 생활 가이드
+📸 [THUMBNAIL PROMPT]
+A vibrant, abstract image depicting brain activity and interconnected neural pathways, with elements symbolizing creativity, learning, and joy. Bright, optimistic colors. A subtle hint of 2026 technology integrated, like glowing holographic lines.
+🖼️ [BODY PROMPT 1]
+A diverse group of cheerful elderly people engaged in various hobbies together – one painting, another playing a board game, someone else learning a musical instrument, all with bright, engaged expressions. The setting is a modern, bright community center, emphasizing social connection and active aging.
+🖼️ [BODY PROMPT 2]
+A close-up shot of hands playing a sophisticated, futuristic-looking board game with glowing pieces, surrounded by friends laughing and strategizing. The focus is on the intricate details of the game and the engaged expressions of the players, suggesting intellectual stimulation and social interaction.
+🖼️ [BODY PROMPT 3]
+A vibrant, energetic scene of people of various ages, including seniors, participating in a modern dance class. They are smiling, moving gracefully, and clearly enjoying themselves, highlighting the physical and social benefits of the activity. The studio is bright and spacious.
+🖼️ [BODY PROMPT 4]
+A person in their late 60s or early 70s, with a thoughtful and content expression, sitting in a cozy, sunlit study. They are surrounded by various hobby items: a half-finished painting, a chess board, a language textbook, and a small potted plant. The scene emphasizes personalized choice and a balanced approach to hobbies.
+------------------------------------------------------------
