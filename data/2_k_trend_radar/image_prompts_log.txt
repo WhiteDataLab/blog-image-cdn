@@ -462,3 +462,16 @@ A beautifully arranged flat lay of various Korean traditional liquor bottles and
 🖼️ [BODY PROMPT 4]
 A panoramic view of a picturesque Korean countryside with rolling hills and traditional architecture (hanok village), with a subtle focus on a modern, elegant distillery building nestled within the landscape, symbolizing the harmonious blend of tradition and modernity in Korea's craft beverage scene.
 ------------------------------------------------------------
+
+[2026-06-26 11:37:52] The "Full-Time Child" Phenomenon: Decoding Korea's Emerging Social Trend of Intergenerational Living and Economic Adaptation in 2026.
+📸 [THUMBNAIL PROMPT]
+A stylish, minimalist graphic depicting a multi-generational Korean family silhouette against a backdrop of modern Seoul skyscrapers and traditional hanok roofs, with subtle data overlays suggesting economic trends. The overall aesthetic is sophisticated and forward-looking.
+🖼️ [BODY PROMPT 1]
+A young Korean adult, dressed in smart casual attire, working diligently on a laptop at a modern dining table in a clean, well-lit apartment. An older Korean woman (mother) is subtly in the background, perhaps preparing tea, symbolizing shared living space and intergenerational support. The scene is warm and collaborative.
+🖼️ [BODY PROMPT 2]
+A split image. One side shows a minimalist, stylish piggy bank overflowing with Korean won, symbolizing savings. The other side shows a group of diverse young Korean adults engaged in a lively discussion in a modern cafe, representing evolving social norms and community support. The aesthetic is clean and contemporary.
+🖼️ [BODY PROMPT 3]
+A futuristic, holographic chart displaying economic indicators like housing prices and youth employment rates in South Korea, projected over a subtle background of a bustling Seoul street at night. The data is clear and visually engaging, suggesting a blend of technology and societal trends.
+🖼️ [BODY PROMPT 4]
+A warm, inviting image of a multi-generational Korean family enjoying a meal together in a modern, comfortable home. Laughter and conversation are evident, emphasizing the positive aspects of intergenerational living and strong family bonds. The lighting is soft and natural.
+------------------------------------------------------------
