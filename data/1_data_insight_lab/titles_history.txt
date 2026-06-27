@@ -53,3 +53,4 @@
 - Data Strategies for Prescriptive Maintenance in Industrial IoT: Beyond Predictive Alerts in 2026.
 - Architecting the Decentralized AI Stack: Beyond Compute Marketplaces for Verifiable Intelligence in 2026.
 - FinOps for AI: Optimizing Cloud and On-Premise AI Workload Costs with Data-Driven Strategies.
+- Optimizing Data Curation and Annotation for Enterprise Foundation Models: Strategies for High-Quality, Multimodal Training Data in 2026.
