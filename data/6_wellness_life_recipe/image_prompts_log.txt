@@ -463,3 +463,16 @@ A vibrant, energetic scene of people of various ages, including seniors, partici
 🖼️ [BODY PROMPT 4]
 A person in their late 60s or early 70s, with a thoughtful and content expression, sitting in a cozy, sunlit study. They are surrounded by various hobby items: a half-finished painting, a chess board, a language textbook, and a small potted plant. The scene emphasizes personalized choice and a balanced approach to hobbies.
 ------------------------------------------------------------
+
+[2026-06-27 11:35:08] 2026년 여성 롱제비티의 핵심: 난소 건강부터 시작하는 생애 주기 맞춤 활력 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, sophisticated woman in her 40s or 50s, smiling confidently, surrounded by subtle glowing scientific elements representing ovarian health and vitality. The background is clean and modern, suggesting wellness and advanced health technology. Soft, warm lighting.
+🖼️ [BODY PROMPT 1]
+A young, vibrant woman in her late 20s or early 30s practicing yoga or meditation in a bright, modern wellness studio, symbolizing stress management and holistic health for ovarian vitality. Soft, natural light fills the room.
+🖼️ [BODY PROMPT 2]
+A confident woman in her early 50s, engaging in a moderate-intensity strength training workout at a modern gym, focusing on maintaining bone density and overall vitality during perimenopause. Dynamic and energetic.
+🖼️ [BODY PROMPT 3]
+An elegant woman in her late 60s, enjoying a vibrant social gathering or engaging in a stimulating intellectual activity like reading or a board game with friends, symbolizing cognitive health and social engagement post-menopause. Warm and inviting atmosphere.
+🖼️ [BODY PROMPT 4]
+A sophisticated, minimalist graphic representation of interconnected biological systems: a stylized ovary at the center, surrounded by glowing nodes representing gut microbiome, brain, and heart, all linked by subtle data lines, symbolizing the holistic approach to ovarian health and its systemic impact. Futuristic and clean.
+------------------------------------------------------------
