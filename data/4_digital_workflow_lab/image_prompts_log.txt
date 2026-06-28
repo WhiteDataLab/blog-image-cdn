@@ -488,3 +488,14 @@ A split image showing two distinct but interconnected scenes. On one side, a hum
 🖼️ [BODY PROMPT 4]
 A modern, minimalist workspace featuring a person (gender-neutral) deeply focused on a task, with subtle AI interfaces integrated into their monitor or desk. The person is wearing smart glasses or headphones, suggesting advanced interaction. The background is slightly blurred, emphasizing concentration and the seamless integration of technology into their workflow. The lighting should be soft and conducive to productivity.
 ------------------------------------------------------------
+
+[2026-06-28 11:44:53] 2026년, '나만의 디지털 신분증'으로 업무 효율과 보안을 동시에 잡는 법: 자기주권신원(SSI) 기반 스마트 워크 혁신 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic digital identity card glowing with a secure blockchain network overlay, held by a professional hand in a modern office setting. The card displays a minimalist user interface with biometric icons and a secure lock symbol, emphasizing both personal control and advanced technology. The background is a blurred, collaborative workspace with subtle holographic elements.
+🖼️ [BODY PROMPT 1]
+A professional in a modern office using a tablet to securely verify their identity with a digital ID. The tablet screen shows a simplified, intuitive interface with a green checkmark, indicating successful SSI verification. Behind them, colleagues collaborate in a brightly lit, open-plan office, representing seamless integration into the workflow.
+🖼️ [BODY PROMPT 2]
+A stylized infographic showing the flow of SSI in a business context. Icons represent a user's digital wallet, a company's verification service, and various internal systems (CRM, HR, project management). Arrows illustrate the secure, selective sharing of verifiable credentials, highlighting efficiency and trust. The color palette is modern and clean, with a focus on blues and greens.
+🖼️ [BODY PROMPT 3]
+A diverse group of professionals in a modern, collaborative workspace, each holding a smartphone or tablet displaying their secure digital ID. They are smiling and interacting, conveying a sense of trust and efficiency. The background subtly features network lines and data points, symbolizing secure digital connections.
+------------------------------------------------------------
