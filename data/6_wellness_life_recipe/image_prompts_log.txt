@@ -476,3 +476,16 @@ An elegant woman in her late 60s, enjoying a vibrant social gathering or engagin
 🖼️ [BODY PROMPT 4]
 A sophisticated, minimalist graphic representation of interconnected biological systems: a stylized ovary at the center, surrounded by glowing nodes representing gut microbiome, brain, and heart, all linked by subtle data lines, symbolizing the holistic approach to ovarian health and its systemic impact. Futuristic and clean.
 ------------------------------------------------------------
+
+[2026-06-28 11:47:28] 2026년 식탁을 지배할 '프리시(Fricy)' 푸드: 새콤달콤 매콤한 맛으로 건강과 미각을 동시에 잡는 법
+📸 [THUMBNAIL PROMPT]
+A vibrant, artfully arranged plate of "Fricy" food, showcasing a colorful salad with berries, citrus segments, chili flakes, and a glossy, slightly spicy dressing. The background is a modern, clean kitchen counter with soft, natural lighting. Focus on fresh ingredients and tantalizing textures, emphasizing both health and deliciousness.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a chef's hands delicately drizzling a vibrant, chili-infused citrus dressing over a colorful, fresh salad bowl. The ingredients include mixed greens, sliced radishes, avocado, grilled shrimp, and a sprinkle of toasted nuts. The setting is a bright, modern kitchen, emphasizing fresh preparation and culinary artistry.
+🖼️ [BODY PROMPT 2]
+A vibrant, abstract 3D graphic visualization of taste profiles: a swirling vortex of bright yellow (sour), deep red (spicy), and soft orange (sweet) colors, interconnected and harmonized. The graphic should convey dynamism and balance, perhaps with subtle glowing effects, representing the perfect blend of Fricy flavors.
+🖼️ [BODY PROMPT 3]
+A diverse group of happy, healthy individuals of various ages and ethnicities, smiling and sharing a meal around a beautifully set table. The table is laden with colorful "Fricy" dishes, emphasizing fresh ingredients and communal enjoyment. The atmosphere is warm, inviting, and modern, reflecting a balanced and joyful approach to wellness.
+🖼️ [BODY PROMPT 4]
+A minimalist, top-down shot of a beautifully plated Fricy bowl. It features a base of quinoa, topped with colorful roasted vegetables (broccoli, bell peppers), grilled halloumi cheese, a generous drizzle of a bright orange chili-lime dressing, and a sprinkle of fresh herbs. The presentation is clean, modern, and appetizing, highlighting healthy ingredients.
+------------------------------------------------------------
