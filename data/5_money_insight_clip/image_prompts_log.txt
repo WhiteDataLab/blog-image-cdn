@@ -497,3 +497,16 @@ A sophisticated, secure digital padlock icon overlaid on a blockchain network, w
 🖼️ [BODY PROMPT 4]
 A vibrant, dynamic holographic chart projecting out of a smartphone, displaying exponential growth curves and diverse asset icons (art, real estate, gold, intellectual property), against a backdrop of a modern, bustling city, symbolizing the boundless future of fractional investing.
 ------------------------------------------------------------
+
+[2026-06-29 11:47:42] 트럼프 2.0 시대, 글로벌 무역 전쟁 속 한국인의 자산 방어 및 신규 투자 전략
+📸 [THUMBNAIL PROMPT]
+A striking image of a global trade map with tariff lines and arrows indicating trade disputes, overlaid with a subtle silhouette of a powerful leader. The map highlights Korea. The overall mood is serious but with elements of strategic thinking and opportunity.
+🖼️ [BODY PROMPT 1]
+A detailed, futuristic infographic showing global trade routes being rerouted or blocked by tariff walls, with a spotlight on the Korean peninsula navigating these challenges. The color palette is cool and analytical.
+🖼️ [BODY PROMPT 2]
+A sophisticated 3D rendering of a semiconductor chip at the center, with intricate lines extending outwards representing global supply chains. Some lines are glowing green (diversified), others are red and fractured (at risk).
+🖼️ [BODY PROMPT 3]
+A dynamic illustration of a Korean investor confidently navigating a complex financial chart. The chart features upward trends in defense and tech sectors, with a strong dollar sign visible. The investor has a calm, focused expression.
+🖼️ [BODY PROMPT 4]
+A sleek, minimalist digital art piece showing a human silhouette standing before a holographic financial dashboard, analyzing complex data with focused intensity. The background is a soft, glowing network of global connections.
+------------------------------------------------------------
