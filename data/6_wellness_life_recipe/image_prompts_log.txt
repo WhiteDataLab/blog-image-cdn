@@ -489,3 +489,16 @@ A diverse group of happy, healthy individuals of various ages and ethnicities, s
 🖼️ [BODY PROMPT 4]
 A minimalist, top-down shot of a beautifully plated Fricy bowl. It features a base of quinoa, topped with colorful roasted vegetables (broccoli, bell peppers), grilled halloumi cheese, a generous drizzle of a bright orange chili-lime dressing, and a sprinkle of fresh herbs. The presentation is clean, modern, and appetizing, highlighting healthy ingredients.
 ------------------------------------------------------------
+
+[2026-06-29 11:48:51] 2026년 웰니스 혁명: NASA가 주목한 '레드 라이트 테라피'의 놀라운 치유 효과
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic red light therapy device emitting a soft red glow, positioned in a modern, minimalist wellness space. Sunlight streams through a window, highlighting the device. The overall aesthetic is clean, sophisticated, and health-focused.
+🖼️ [BODY PROMPT 1]
+A close-up, highly detailed shot of human skin cells under a microscope, with subtle red light particles illuminating the mitochondria within the cells, symbolizing the scientific mechanism of red light therapy. The image should have a futuristic, almost holographic feel.
+🖼️ [BODY PROMPT 2]
+A person in a modern, minimalist home gym setting, using a full-body red light therapy panel after a workout. The person looks relaxed and recovered, with a subtle glow from the red light. The scene emphasizes wellness and recovery.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist smart red light therapy mask being worn by a diverse individual in a modern home setting. The mask has subtle glowing red lights, and the person looks serene. A holographic overlay shows data points like skin health metrics and session duration, indicating smart technology integration.
+🖼️ [BODY PROMPT 4]
+A clean, organized flat lay of various red light therapy devices: a handheld wand, a small panel, and a facial mask, all displayed on a light, textured background with some minimalist wellness accessories like a glass of water and a plant. The image conveys choice and accessibility.
+------------------------------------------------------------
