@@ -499,3 +499,16 @@ A stylized infographic showing the flow of SSI in a business context. Icons repr
 🖼️ [BODY PROMPT 3]
 A diverse group of professionals in a modern, collaborative workspace, each holding a smartphone or tablet displaying their secure digital ID. They are smiling and interacting, conveying a sense of trust and efficiency. The background subtly features network lines and data points, symbolizing secure digital connections.
 ------------------------------------------------------------
+
+[2026-06-30 11:40:13] 2026년, 데이터 시각화의 진화: 복잡한 정보를 한눈에 파악하는 인터랙티브 대시보드 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek interactive dashboard with holographic elements, showing complex data simplified into clear, actionable insights. Professional, diverse business people are looking at it with understanding and making decisions. The dashboard displays vibrant, easy-to-interpret charts and graphs.
+🖼️ [BODY PROMPT 1]
+A professional woman in a modern, minimalist office setting is speaking naturally to a holographic interactive dashboard floating in front of her. The dashboard instantly generates complex, color-coded charts and summaries based on her voice commands, illustrating AI-driven conversational analytics.
+🖼️ [BODY PROMPT 2]
+A dynamic split-screen view showing two different interactive dashboards. On the left, a CEO's dashboard displays high-level KPIs with minimalist design. On the right, a marketing manager's dashboard shows detailed campaign performance with granular charts and real-time updates. Both dashboards are personalized to their respective roles and adapt to their preferences.
+🖼️ [BODY PROMPT 3]
+A diverse team of professionals in a bright, modern meeting room. They are gathered around a large, transparent screen displaying an interactive data storytelling dashboard. The dashboard uses a series of connected, flowing charts and infographics to illustrate a clear business narrative, and the team members are actively discussing and nodding in understanding.
+🖼️ [BODY PROMPT 4]
+A focused professional is interacting with a clean, minimalist interactive dashboard on a large monitor. The dashboard highlights only the most critical KPIs with clear, concise labels, accompanied by actionable recommendations in simple text. The overall impression is one of immediate understanding and efficiency.
+------------------------------------------------------------
