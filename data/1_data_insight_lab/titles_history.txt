@@ -56,3 +56,4 @@
 - Optimizing Data Curation and Annotation for Enterprise Foundation Models: Strategies for High-Quality, Multimodal Training Data in 2026.
 - The Robotics Data Gap: Architecting 3D and Teleoperated Data Pipelines for Real-World AI Deployment
 - Vector Databases Beyond RAG: Architecting for Multimodal AI and Real-time Decisioning in 2026
+- Architecting Trust: The Verifiable AI Stack and Zero-Knowledge Proofs for Enterprise AI in 2026.
