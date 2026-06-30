@@ -502,3 +502,16 @@ A sleek, minimalist smart red light therapy mask being worn by a diverse individ
 🖼️ [BODY PROMPT 4]
 A clean, organized flat lay of various red light therapy devices: a handheld wand, a small panel, and a facial mask, all displayed on a light, textured background with some minimalist wellness accessories like a glass of water and a plant. The image conveys choice and accessibility.
 ------------------------------------------------------------
+
+[2026-06-30 11:42:10] 미래 식탁의 예술: 2026년, 건강한 식습관을 유도하는 '아트 푸드 패키징'의 비밀
+📸 [THUMBNAIL PROMPT]
+A beautifully designed, minimalist food package with vibrant, healthy ingredients subtly visible, set against a clean, modern kitchen background. The packaging features elegant typography and a subtle glow, symbolizing innovation and health. Focus on sophisticated aesthetics.
+🖼️ [BODY PROMPT 1]
+A person in a modern kitchen, thoughtfully examining a beautifully designed food package. The package has clear, appealing graphics showcasing fresh ingredients, and the person's expression is one of trust and satisfaction. Soft, natural lighting.
+🖼️ [BODY PROMPT 2]
+A close-up of a futuristic food package with an embedded digital display showing nutritional information, a QR code, and a freshness indicator. A hand is about to scan the QR code with a smartphone, illustrating smart packaging features.
+🖼️ [BODY PROMPT 3]
+A vibrant, abstract 3D graphic representing interconnectedness of healthy food, sustainable packaging, and consumer well-being. Elements like leaves, recycled symbols, and data streams flow seamlessly, illustrating the future of food packaging.
+🖼️ [BODY PROMPT 4]
+A diverse group of people, smiling and healthy, gathered around a modern kitchen island, enjoying meals from beautifully packaged, healthy food items. The atmosphere is warm and inviting, emphasizing community and well-being facilitated by thoughtful food choices.
+------------------------------------------------------------
