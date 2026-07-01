@@ -515,3 +515,14 @@ A vibrant, abstract 3D graphic representing interconnectedness of healthy food, 
 🖼️ [BODY PROMPT 4]
 A diverse group of people, smiling and healthy, gathered around a modern kitchen island, enjoying meals from beautifully packaged, healthy food items. The atmosphere is warm and inviting, emphasizing community and well-being facilitated by thoughtful food choices.
 ------------------------------------------------------------
+
+[2026-07-01 11:48:53] 비침습 신경조절 기술: 약물 없이 뇌와 몸의 균형을 되찾는 2026년 웰니스 혁명
+📸 [THUMBNAIL PROMPT]
+A futuristic, serene image depicting non-invasive brain stimulation. A stylized human head is surrounded by gentle, luminous energy waves or subtle light patterns, symbolizing wellness, balance, and advanced technology. The background is clean and minimalist, emphasizing innovation.
+🖼️ [BODY PROMPT 1]
+A dynamic and illustrative infographic or collage showcasing various non-invasive neuromodulation devices. Include a sleek tDCS headset, a modern TMS coil, a compact wearable EEG device, and a gentle light therapy device. Subtle, glowing energy lines connect these devices to a stylized, translucent human brain at the center, highlighting the diversity of technologies and their targeted action.
+🖼️ [BODY PROMPT 2]
+A person with a calm and focused expression is using a sleek, modern wearable neuromodulation device (e.g., a minimalist headband or ear-clip). They are in a comfortable, bright home environment, perhaps meditating, reading, or working on a laptop, conveying ease of use, personalization, and integration into daily wellness routines. The device subtly glows.
+🖼️ [BODY PROMPT 3]
+A vibrant, abstract, and intricate representation of neural pathways within the human brain. The pathways are depicted as glowing, interconnected networks of light, symbolizing enhanced communication, improved balance, and optimized cognitive function achieved through neuromodulation. The colors are bright and energetic, suggesting vitality and mental clarity.
+------------------------------------------------------------
