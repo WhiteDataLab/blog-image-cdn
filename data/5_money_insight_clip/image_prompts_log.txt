@@ -510,3 +510,16 @@ A dynamic illustration of a Korean investor confidently navigating a complex fin
 🖼️ [BODY PROMPT 4]
 A sleek, minimalist digital art piece showing a human silhouette standing before a holographic financial dashboard, analyzing complex data with focused intensity. The background is a soft, glowing network of global connections.
 ------------------------------------------------------------
+
+[2026-07-01 11:47:42] 2026년 신설 '생산적 금융 ISA' 완전 분석: 국내 장기 투자로 세제 혜택 극대화 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, modern infographic displaying a stylized upward arrow composed of various financial symbols (stocks, bonds, currency) intertwined with a Korean traditional pattern, all against a futuristic, subtly glowing blue background, symbolizing growth and innovation in domestic long-term investment.
+🖼️ [BODY PROMPT 1]
+A dynamic, stylized chart showing two lines diverging upwards, one labeled 'Existing ISA' with a moderate slope and another labeled 'Productive Finance ISA' with a significantly steeper slope, visually representing enhanced growth and benefits. In the background, subtle outlines of modern factories or research labs could be seen, symbolizing productive sectors.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a person's hand holding a transparent tablet displaying a holographic pie chart with different segments representing "Advanced Tech," "Green Energy," "Bio & Healthcare," and "Culture Content," all glowing with futuristic light. The background is a blurred modern office or research lab.
+🖼️ [BODY PROMPT 3]
+A diverse group of people (male and female, various ages) in a modern, bright financial seminar room, attentively listening to a speaker (partially visible) presenting on a large screen displaying stock charts and growth projections. They are taking notes and looking engaged, symbolizing learning and strategic planning.
+🖼️ [BODY PROMPT 4]
+A minimalist desk setup with a laptop showing financial news headlines and charts, a coffee cup, and a small, potted plant. The overall mood is calm and focused, emphasizing diligent research and informed decision-making in investment.
+------------------------------------------------------------
