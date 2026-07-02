@@ -525,3 +525,16 @@ A sophisticated 3D graphic of interconnected data nodes forming a secure network
 🖼️ [BODY PROMPT 4]
 A group of diverse, smiling professionals confidently working together in a modern, brightly lit office, with a subtle digital overlay symbolizing secure data flow and collaboration, reflecting trust and innovation.
 ------------------------------------------------------------
+
+[2026-07-02 11:37:51] 2026년, 직무를 넘어 '스킬' 중심으로: 미래 업무 환경을 위한 인재 관리 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, minimalist office setting where human hands and AI interfaces are seamlessly interacting, surrounded by glowing skill icons and data streams, symbolizing the shift from job roles to skills. The overall tone is professional and innovative.
+🖼️ [BODY PROMPT 1]
+A diverse group of professionals collaborating on a complex project, with holographic skill profiles floating above their heads, indicating their specific contributions rather than job titles. The scene is dynamic and forward-looking.
+🖼️ [BODY PROMPT 2]
+A person wearing a sleek AR headset, engaged in an immersive learning experience, with AI-generated data visualizations and skill trees projected around them, demonstrating personalized upskilling in an AI-driven environment.
+🖼️ [BODY PROMPT 3]
+A visually striking infographic or a 3D chart showing interconnected business outcomes (e.g., "Innovation," "Agility," "Productivity") with various skill clusters flowing into them, illustrating how skills drive strategic objectives. Clean, modern aesthetic.
+🖼️ [BODY PROMPT 4]
+A professional individual confidently navigating a digital landscape, surrounded by abstract representations of various skills (e.g., data analysis, creativity, communication) forming a personalized career path, emphasizing continuous growth and adaptability.
+------------------------------------------------------------
