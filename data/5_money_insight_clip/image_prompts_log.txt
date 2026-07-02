@@ -523,3 +523,16 @@ A diverse group of people (male and female, various ages) in a modern, bright fi
 🖼️ [BODY PROMPT 4]
 A minimalist desk setup with a laptop showing financial news headlines and charts, a coffee cup, and a small, potted plant. The overall mood is calm and focused, emphasizing diligent research and informed decision-making in investment.
 ------------------------------------------------------------
+
+[2026-07-02 11:39:17] 2026년 신흥 부자들의 럭셔리 소비 트렌드: 고급 레저 및 서비스 시장에서 발견하는 미래 투자 기회
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist infographic illustrating "Quiet Luxury" with subtle gold accents, showing interconnected icons for experiential travel, wellness, and sustainable investments, set against a backdrop of a serene, modern lounge with a view of a tranquil ocean.
+🖼️ [BODY PROMPT 1]
+A serene, modern private island resort villa with expansive glass walls overlooking a calm, turquoise ocean, emphasizing quiet luxury and seamless integration with nature. A person is meditating on a private yoga deck.
+🖼️ [BODY PROMPT 2]
+A luxurious private jet interior, subtly designed with natural materials and ergonomic furniture, showcasing a business executive working efficiently with advanced, minimalist tech devices.
+🖼️ [BODY PROMPT 3]
+A high-tech wellness clinic interior with sleek, minimalist design, featuring advanced diagnostic equipment and personalized health optimization stations. A diverse group of affluent individuals are engaging in various wellness activities.
+🖼️ [BODY PROMPT 4]
+A stunning, eco-friendly luxury home with large glass windows showcasing a panoramic view of a pristine natural landscape. Solar panels are subtly integrated into the architectural design, and an outdoor living space features sustainable materials.
+------------------------------------------------------------
