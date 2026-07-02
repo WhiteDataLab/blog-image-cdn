@@ -526,3 +526,16 @@ A person with a calm and focused expression is using a sleek, modern wearable ne
 🖼️ [BODY PROMPT 3]
 A vibrant, abstract, and intricate representation of neural pathways within the human brain. The pathways are depicted as glowing, interconnected networks of light, symbolizing enhanced communication, improved balance, and optimized cognitive function achieved through neuromodulation. The colors are bright and energetic, suggesting vitality and mental clarity.
 ------------------------------------------------------------
+
+[2026-07-02 11:40:22] 2026년, '웰니스 번아웃'을 넘어서: 측정 대신 '진정한 즐거움'으로 마음을 치유하는 법
+📸 [THUMBNAIL PROMPT]
+A serene, warm-toned image of a person smiling gently while stretching or doing light yoga outdoors, bathed in soft morning light. The focus is on their peaceful expression and the natural, joyful movement, with subtle hints of nature in the background. The overall feeling is calm, balanced, and genuinely happy, representing wellness beyond strict metrics.
+🖼️ [BODY PROMPT 1]
+A person sitting at a desk, looking overwhelmed and stressed, surrounded by various wellness tracking devices and screens displaying complex health data and metrics. The color palette is cool and slightly desaturated, emphasizing the feeling of burden.
+🖼️ [BODY PROMPT 2]
+A person joyfully dancing or moving freely in a bright, open space, perhaps a sunlit living room or a park. Their eyes are closed in contentment, and their body language expresses pure, uninhibited joy. The lighting is soft and inviting.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a beautifully plated, colorful, and healthy meal (e.g., a vibrant salad with fresh ingredients, whole grains, and lean protein). Hands are gently holding cutlery, poised to enjoy the meal mindfully. Soft, natural light highlights the textures and colors of the food.
+🖼️ [BODY PROMPT 4]
+A person in a cozy, minimalist room, perhaps meditating or simply relaxing with eyes closed. Soft, diffused light fills the space. A subtle visual element like a calming essential oil diffuser mist or a gentle, warm light source adds to the serene atmosphere.
+------------------------------------------------------------
