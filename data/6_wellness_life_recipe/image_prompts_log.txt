@@ -539,3 +539,16 @@ A close-up shot of a beautifully plated, colorful, and healthy meal (e.g., a vib
 🖼️ [BODY PROMPT 4]
 A person in a cozy, minimalist room, perhaps meditating or simply relaxing with eyes closed. Soft, diffused light fills the space. A subtle visual element like a calming essential oil diffuser mist or a gentle, warm light source adds to the serene atmosphere.
 ------------------------------------------------------------
+
+[2026-07-03 11:14:35] 가상현실(VR) 및 증강현실(AR) 기반의 몰입형 웰니스 경험: 디지털 공간에서 찾는 몸과 마음의 균형
+📸 [THUMBNAIL PROMPT]
+A person wearing a sleek VR headset, immersed in a serene, futuristic nature scene, with subtle AR elements overlaying real-world objects in the background, symbolizing body and mind balance and digital wellness.
+🖼️ [BODY PROMPT 1]
+A person gently touching a holographic interface, showing wellness metrics and a serene virtual landscape, blending digital and physical worlds, symbolizing the integration of technology into personal health.
+🖼️ [BODY PROMPT 2]
+A person in a comfortable, minimalist room wearing a sleek VR headset, seemingly meditating in a beautifully rendered virtual forest or tranquil space, with soft, natural light filtering in, conveying a sense of peace and immersion.
+🖼️ [BODY PROMPT 3]
+A person performing dynamic exercises in a modern living room, with vibrant AR overlays on the floor guiding movements and displaying real-time performance metrics, creating an energetic and interactive fitness scene.
+🖼️ [BODY PROMPT 4]
+A sophisticated 3D graphic showing interconnected nodes and data streams, representing the VR/AR wellness ecosystem, with subtle glowing elements indicating growth and innovation, against a backdrop of a futuristic city skyline.
+------------------------------------------------------------
