@@ -552,3 +552,16 @@ A person performing dynamic exercises in a modern living room, with vibrant AR o
 🖼️ [BODY PROMPT 4]
 A sophisticated 3D graphic showing interconnected nodes and data streams, representing the VR/AR wellness ecosystem, with subtle glowing elements indicating growth and innovation, against a backdrop of a futuristic city skyline.
 ------------------------------------------------------------
+
+[2026-07-04 11:11:15] 프탈레이트, BHA, 합성색소… 2026년 식품 속 유해 화학물질, 똑똑하게 피하는 법
+📸 [THUMBNAIL PROMPT]
+A sleek, modern kitchen counter with fresh, vibrant fruits and vegetables on one side, and on the other, subtly blurred processed food packages with glowing, almost transparent chemical symbols hovering above them. The overall aesthetic is clean and health-focused, with a hint of underlying concern about hidden ingredients. The style is realistic and high-resolution, with a focus on natural light.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a variety of foods, some fresh and natural, others in plastic packaging. A subtle, almost translucent overlay of molecular structures representing phthalates hovers around the plastic-packaged items, suggesting the hidden chemical transfer. The lighting is slightly dramatic to emphasize the unseen threat. Style is realistic photography with a touch of conceptual overlay.
+🖼️ [BODY PROMPT 2]
+A split image. On one side, an array of brightly colored, artificially vibrant candies and drinks, almost glowing with unnatural hues. On the other side, a natural, earthy collection of ingredients like berries, turmeric, and spinach, representing natural food colors. The contrast is stark, highlighting the difference between synthetic and natural. Style is high-contrast, studio photography.
+🖼️ [BODY PROMPT 3]
+A modern, organized pantry or kitchen shelf. Various food items are stored in clear glass jars, stainless steel containers, and ceramic bowls. A hand is reaching for a food package, carefully examining the ingredient label with a discerning look. The atmosphere is clean, bright, and emphasizes mindful choices. Style is realistic, aspirational home photography.
+🖼️ [BODY PROMPT 4]
+A diverse group of people (various ages and ethnicities) in a modern, bright supermarket setting. They are engaged in thoughtful shopping, some reading labels, others discussing product choices. A subtle infographic overlay in the background shows positive trends in 'clean label' adoption and consumer awareness. The mood is empowered and informed. Style is realistic, dynamic photography.
+------------------------------------------------------------
