@@ -566,3 +566,16 @@ A diverse group of international tourists and local Seoulites exploring a beauti
 🖼️ [BODY PROMPT 4]
 A futuristic, serene image of Seoul at dusk, with illuminated green pathways, glowing vertical gardens on buildings, and a sense of calm and natural beauty integrated into the urban landscape, symbolizing a sustainable future.
 ------------------------------------------------------------
+
+[2026-07-04 11:06:55] Korea's Zero-Waste Movement: How Innovative Packaging and Conscious Consumption are Reshaping Daily Life in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern Korean street scene with people carrying reusable bags and interacting with a stylish zero-waste refill station. The architecture blends traditional elements with sleek, sustainable design, bathed in warm, natural light.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a Korean consumer refilling a sleek, minimalist glass bottle with liquid detergent at a modern, well-lit supermarket refill station. Various sustainable packaging options, like bamboo and plant-based containers, are visible in the background.
+🖼️ [BODY PROMPT 2]
+A group of young Koreans actively participating in an upcycling workshop. They are smiling and engaged, transforming discarded fabric into stylish tote bags, surrounded by colorful materials and tools in a bright, airy studio space.
+🖼️ [BODY PROMPT 3]
+A sleek, futuristic infographic or hologram chart displaying South Korea's progress in waste reduction and circular economy metrics for 2026. Data points show decreasing plastic waste and increasing recycling/upcycling rates, with a subtle glow of green and blue.
+🖼️ [BODY PROMPT 4]
+A diverse group of people of various ages and backgrounds, including foreigners, happily participating in a community clean-up event along a picturesque Korean riverbank. They are using reusable gloves and bags, reflecting a global, inclusive effort towards sustainability.
+------------------------------------------------------------
