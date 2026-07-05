@@ -576,3 +576,14 @@ A clean, minimalist digital dashboard showing various widgets for task managemen
 🖼️ [BODY PROMPT 4]
 A person wearing noise-canceling headphones, deeply focused on their work at a desk with multiple screens displaying various applications. The background is slightly blurred, suggesting a personalized and distraction-free digital environment.
 ------------------------------------------------------------
+
+[2026-07-05 11:17:20] 2026년, 웨어러블 생체 데이터로 커리어를 설계하라: 성과를 넘어 '나'를 증명하는 스마트 워크 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic smartwatch displaying various biometric data points (heart rate, stress level, sleep score) overlaid with professional work icons like a bar chart, a lightbulb for ideas, and a person meditating. The background is a blurred, modern office environment. The overall aesthetic is clean, high-tech, and empowering, with a subtle glow.
+🖼️ [BODY PROMPT 1]
+A professional office worker in a modern, minimalist workspace, looking at a transparent holographic display showing their real-time biometric data (heart rate, stress, focus levels) alongside their task list and calendar. The worker has a sleek smartwatch on their wrist, and the overall atmosphere is calm and focused.
+🖼️ [BODY PROMPT 2]
+A diverse group of office workers in a collaborative, open-plan office, each wearing a different type of sleek wearable device (smartwatch, smart ring, smart glasses). They are engaged in discussion, and subtle holographic overlays around them show positive biometric indicators like green checkmarks and calm heart rate graphs, symbolizing a healthy and productive work environment.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a person's hand wearing a sophisticated smart ring, interacting with a tablet displaying a personalized career dashboard. The dashboard shows trends in focus, energy levels, and skill development, all linked to biometric data. The background is a blurred, aspirational career path visualization.
+------------------------------------------------------------
