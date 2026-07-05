@@ -562,3 +562,16 @@ A panoramic view of a futuristic city skyline powered by renewable energy source
 🖼️ [BODY PROMPT 4]
 A diverse group of investors, representing different demographics, collaboratively analyzing holographic financial charts and data projections in a modern, brightly lit co-working space. They are engaged in discussion, symbolizing informed decision-making and strategic planning for future investments.
 ------------------------------------------------------------
+
+[2026-07-05 11:18:32] 2026년 K자형 경제 양극화 시대: 비반도체/내수 부문에서 숨겨진 투자 기회 발굴 전략
+📸 [THUMBNAIL PROMPT]
+A visually striking image depicting a K-shaped economic graph, with one arm ascending sharply and the other descending, but with a spotlight illuminating a vibrant, growing segment within the lower arm, symbolizing hidden opportunities in non-semiconductor/domestic sectors in 2026. The background shows a modern Korean city landscape.
+🖼️ [BODY PROMPT 1]
+A vibrant, bustling street market in a modern Korean city, with diverse people of all ages engaging in various activities – shopping for eco-friendly products, enjoying personalized services, and interacting with local businesses. The atmosphere is lively and forward-looking, representing the dynamism of the domestic market.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist 3D graphic showing interconnected elements of a circular economy: recycling symbols flowing into new product designs, smart energy grids optimizing consumption in modern buildings, and eco-friendly transportation systems. The overall aesthetic is clean, futuristic, and efficient.
+🖼️ [BODY PROMPT 3]
+A group of young, diverse entrepreneurs collaborating in a modern co-working space, surrounded by digital screens displaying data analytics and creative designs. They are actively discussing innovative solutions for local businesses, perhaps related to smart farming or personalized tourism experiences, embodying a blend of technology and community.
+🖼️ [BODY PROMPT 4]
+An elegant, abstract representation of a financial chart, but instead of sharp peaks and valleys, it shows a steady, upward-sloping line emerging from a complex, intertwined network of diverse economic sectors. A single, focused spotlight highlights this upward trajectory, symbolizing long-term, strategic investment in hidden opportunities.
+------------------------------------------------------------
