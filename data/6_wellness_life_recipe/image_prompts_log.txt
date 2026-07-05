@@ -565,3 +565,16 @@ A modern, organized pantry or kitchen shelf. Various food items are stored in cl
 🖼️ [BODY PROMPT 4]
 A diverse group of people (various ages and ethnicities) in a modern, bright supermarket setting. They are engaged in thoughtful shopping, some reading labels, others discussing product choices. A subtle infographic overlay in the background shows positive trends in 'clean label' adoption and consumer awareness. The mood is empowered and informed. Style is realistic, dynamic photography.
 ------------------------------------------------------------
+
+[2026-07-05 11:19:28] 웰니스 페스티벌의 부상: 2026년, 몸과 마음을 치유하는 몰입형 공동체 경험
+📸 [THUMBNAIL PROMPT]
+A vibrant, panoramic shot of a diverse group of people engaging in various wellness activities at a sun-drenched outdoor festival. Yoga poses, meditation circles, laughter, and healthy food stalls are visible, all set against a backdrop of lush nature. The atmosphere is joyful, serene, and communal, with a modern, clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A serene outdoor yoga session at dawn during a wellness festival. Diverse participants are gracefully holding yoga poses, facing the rising sun over a picturesque natural landscape. The light is soft and golden, emphasizing a sense of peace and collective harmony.
+🖼️ [BODY PROMPT 2]
+A group of friends laughing and sharing a healthy, vibrant meal at a communal dining area within a sustainable wellness festival. The food is colorful and fresh, served on eco-friendly tableware. The background shows lush greenery and natural light, highlighting the joy of connection and healthy living.
+🖼️ [BODY PROMPT 3]
+A participant engaging in an immersive sound bath experience at a wellness festival. They are lying comfortably on a mat, eyes closed, surrounded by various singing bowls and gongs. Soft, ethereal lighting and a sense of deep relaxation fill the space, with other blurred figures in the background.
+🖼️ [BODY PROMPT 4]
+A diverse group of people, smiling and engaged in a lively discussion or workshop at a modern, open-air wellness festival. They are actively listening, taking notes, and interacting, showcasing a sense of learning, growth, and shared experience. The setting is bright and inspiring.
+------------------------------------------------------------
