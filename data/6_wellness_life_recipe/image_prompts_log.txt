@@ -578,3 +578,16 @@ A participant engaging in an immersive sound bath experience at a wellness festi
 🖼️ [BODY PROMPT 4]
 A diverse group of people, smiling and engaged in a lively discussion or workshop at a modern, open-air wellness festival. They are actively listening, taking notes, and interacting, showcasing a sense of learning, growth, and shared experience. The setting is bright and inspiring.
 ------------------------------------------------------------
+
+[2026-07-06 11:32:04] 혈당 스파이크 관리: 2026년, 집중력과 활력을 위한 새로운 건강 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic graphic depicting a healthy individual with a glowing brain and energetic aura, surrounded by subtle data visualizations of stable blood sugar levels and focus metrics. The color palette is fresh and modern, symbolizing vitality and cognitive clarity.
+🖼️ [BODY PROMPT 1]
+A stylized illustration of a human brain with glowing neural pathways, surrounded by subtle energy waves and a graph showing stable, optimized blood sugar levels. The background is clean and scientific, emphasizing cognitive health and vitality.
+🖼️ [BODY PROMPT 2]
+A modern kitchen scene with a person preparing a healthy, colorful meal. On the counter, a tablet displays a personalized dietary plan with graphs showing stable blood sugar predictions. The atmosphere is calm and focused, emphasizing mindful eating.
+🖼️ [BODY PROMPT 3]
+A person practicing mindful meditation in a serene, natural setting, with a subtle overlay of calm brain waves or a stable heart rate monitor. The image conveys peace and stress reduction, highlighting its connection to internal balance.
+🖼️ [BODY PROMPT 4]
+A diverse group of energetic people engaged in various healthy activities (e.g., working productively, exercising, laughing with friends) in a bright, modern setting. The overall mood is positive and vibrant, symbolizing a life filled with focus and vitality achieved through wellness.
+------------------------------------------------------------
