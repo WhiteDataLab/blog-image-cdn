@@ -575,3 +575,16 @@ A group of young, diverse entrepreneurs collaborating in a modern co-working spa
 🖼️ [BODY PROMPT 4]
 An elegant, abstract representation of a financial chart, but instead of sharp peaks and valleys, it shows a steady, upward-sloping line emerging from a complex, intertwined network of diverse economic sectors. A single, focused spotlight highlights this upward trajectory, symbolizing long-term, strategic investment in hidden opportunities.
 ------------------------------------------------------------
+
+[2026-07-06 11:30:55] 희소 자원 전쟁과 미래 투자 기회: 2026년 핵심 광물, 에너지, 식량 안보 포트폴리오 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, stylized global map with glowing icons representing critical minerals, renewable energy, and agricultural fields, interconnected by lines symbolizing supply chains and investment flows. Overlayed with subtle upward-trending financial charts and a protective shield motif, all in a sophisticated, high-tech aesthetic.
+🖼️ [BODY PROMPT 1]
+A dynamic, high-angle shot of a futuristic control room with multiple screens displaying real-time global resource maps, commodity price charts, and geopolitical hot zones. A diverse group of analysts, some with augmented reality interfaces, are intently monitoring the data, conveying a sense of urgent strategic planning.
+🖼️ [BODY PROMPT 2]
+A panoramic view of a vast, modern renewable energy complex featuring rows of advanced solar panels, towering offshore wind turbines, and a sleek, compact SMR facility in the background. The scene should convey a sense of technological harmony and sustainable power generation.
+🖼️ [BODY PROMPT 3]
+A vibrant, high-tech vertical farm interior, with rows of glowing LED-lit crops growing in a controlled environment. A researcher in a lab coat is examining plants, symbolizing innovation in sustainable food production and food security.
+🖼️ [BODY PROMPT 4]
+A sophisticated, minimalist investment portfolio chart displayed on a holographic screen, showing balanced growth across three distinct segments labeled "Critical Minerals," "Sustainable Energy," and "Food Security." The background features a blurred, bustling financial district, emphasizing forward-looking investment.
+------------------------------------------------------------
