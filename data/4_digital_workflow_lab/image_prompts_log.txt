@@ -587,3 +587,16 @@ A diverse group of office workers in a collaborative, open-plan office, each wea
 🖼️ [BODY PROMPT 3]
 A close-up shot of a person's hand wearing a sophisticated smart ring, interacting with a tablet displaying a personalized career dashboard. The dashboard shows trends in focus, energy levels, and skill development, all linked to biometric data. The background is a blurred, aspirational career path visualization.
 ------------------------------------------------------------
+
+[2026-07-06 11:29:42] 뇌-컴퓨터 인터페이스(BCI) 기반 업무 몰입 혁신: 2026년 직장인을 위한 집중력 및 생산성 극대화 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic non-invasive brain-computer interface (BCI) headband glowing subtly on a focused professional's head in a modern, minimalist office environment. Digital thought waves emanate from the device, connecting to holographic productivity charts and a clean user interface. The overall aesthetic is sophisticated, high-tech, and empowering, with a slight blur in the background to emphasize focus.
+🖼️ [BODY PROMPT 1]
+A split image showing a chaotic, multi-screen office environment on one side, representing information overload and distraction, contrasted with a serene, minimalist workspace on the other, where a professional wearing a subtle BCI headset is deeply focused, with calm, flowing light patterns symbolizing enhanced concentration.
+🖼️ [BODY PROMPT 2]
+A diverse group of office workers, each wearing a subtle, non-invasive BCI device (like a sleek headband or smart glasses), are shown in various states of enhanced productivity. One is coding with holographic interfaces controlled by thought, another is brainstorming with a mind-map projected in the air, and a third is deeply focused on a complex document, all surrounded by an aura of calm concentration.
+🖼️ [BODY PROMPT 3]
+A dynamic, abstract 3D holographic chart illustrating the exponential growth of the BCI market from 2023 to 2033, with a clear emphasis on the year 2026. The chart incorporates subtle brainwave patterns and glowing neural connections, symbolizing the technology's core, alongside icons representing non-invasive wearable devices and AI integration.
+🖼️ [BODY PROMPT 4]
+A thoughtful, balanced conceptual image. On one side, a human brain is depicted with intricate neural networks, subtly connected to digital interfaces. On the other, abstract data streams and cybersecurity symbols are intertwined with ethical scales, representing privacy, consent, and human autonomy. The overall tone is reflective and forward-looking, emphasizing the careful integration of technology and human values.
+------------------------------------------------------------
