@@ -605,3 +605,14 @@ A detailed close-up of a Hanok's wooden beam structure, showcasing intricate tra
 🖼️ [BODY PROMPT 4]
 A diverse group of international tourists, dressed in stylish modern attire, are participating in a traditional Korean tea ceremony within a beautifully restored Hanok courtyard. The atmosphere is serene and culturally immersive, with traditional tea sets and lush greenery.
 ------------------------------------------------------------
+
+[2026-07-07 11:16:16] The Science of Savor: Unpacking Korea's 2026 Fermentation Boom and the Revival of Regional Ingredients.
+📸 [THUMBNAIL PROMPT]
+A vibrant, aesthetically pleasing flat lay of various Korean fermented foods like colorful kimchi, gochujang, doenjang, and unique regional ferments, artfully arranged with fresh, locally sourced Korean ingredients such as perilla leaves, garlic, and chilies, all bathed in soft, natural light on a rustic wooden table. The composition should evoke both tradition and modern culinary sophistication.
+🖼️ [BODY PROMPT 1]
+A close-up, high-angle shot of a chef's hands meticulously preparing a modern Korean fermented dish in a sleek, professional kitchen. Various colorful, fresh regional vegetables and traditional fermentation crocks (onggi) are visible in the background, suggesting a blend of tradition and innovation.
+🖼️ [BODY PROMPT 2]
+An aerial shot of a traditional Korean "jangdokdae" (fermentation crock terrace) bathed in golden hour sunlight, with dozens of large, earthenware onggi pots of varying sizes neatly arranged. In the background, rolling green hills or a traditional Korean village can be seen, emphasizing the connection to nature and heritage.
+🖼️ [BODY PROMPT 3]
+A vibrant, modern graphic or infographic depicting the "science of fermentation." It should show stylized microorganisms, chemical structures, and arrows illustrating the transformation of raw ingredients into fermented products, with icons representing health benefits like gut health and immunity. The aesthetic should be clean, high-tech, and visually engaging.
+------------------------------------------------------------
