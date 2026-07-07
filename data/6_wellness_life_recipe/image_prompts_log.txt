@@ -591,3 +591,16 @@ A person practicing mindful meditation in a serene, natural setting, with a subt
 🖼️ [BODY PROMPT 4]
 A diverse group of energetic people engaged in various healthy activities (e.g., working productively, exercising, laughing with friends) in a bright, modern setting. The overall mood is positive and vibrant, symbolizing a life filled with focus and vitality achieved through wellness.
 ------------------------------------------------------------
+
+[2026-07-07 11:21:19] 2026년 국가건강검진, 놓치지 말아야 할 변화와 내게 맞는 검진 활용법
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern infographic illustrating various health check-up icons (heart, brain, lungs, blood drop, DNA helix) integrated with futuristic digital elements, symbolizing comprehensive and personalized health screening in 2026. The color palette is clean and professional, with a focus on blues, greens, and whites.
+🖼️ [BODY PROMPT 1]
+A person calmly filling out a digital health questionnaire on a tablet, with subtle icons representing mental well-being (brain, heart, peace symbol) floating around, set in a bright, modern clinic or home environment.
+🖼️ [BODY PROMPT 2]
+A doctor and a patient reviewing a holographic health report displaying various data points and personalized recommendations. The doctor is pointing to a specific data point, explaining it to the patient who looks engaged and understanding. The setting is a clean, modern medical office.
+🖼️ [BODY PROMPT 3]
+A person engaging in a mindful morning routine: stretching gently, drinking a glass of water, and looking at a personalized health app on a smartphone that shows progress in diet and exercise. The background is a bright, minimalist living room.
+🖼️ [BODY PROMPT 4]
+A sophisticated, minimalist graphic showing a human silhouette with various medical symbols (lungs, stomach, brain, heart) highlighted, surrounded by digital data streams and a magnifying glass icon, representing targeted and smart additional health screenings.
+------------------------------------------------------------
