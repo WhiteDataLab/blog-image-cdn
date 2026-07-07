@@ -588,3 +588,16 @@ A vibrant, high-tech vertical farm interior, with rows of glowing LED-lit crops 
 🖼️ [BODY PROMPT 4]
 A sophisticated, minimalist investment portfolio chart displayed on a holographic screen, showing balanced growth across three distinct segments labeled "Critical Minerals," "Sustainable Energy," and "Food Security." The background features a blurred, bustling financial district, emphasizing forward-looking investment.
 ------------------------------------------------------------
+
+[2026-07-07 11:20:05] 2026년 디지털 소비자의 역습: 가격 결정권을 쥔 스마트 컨슈머의 재테크 전략
+📸 [THUMBNAIL PROMPT]
+A confident, modern consumer looking at a holographic interface displaying financial data, price comparisons, and personalized offers, with digital streams of information flowing around them, symbolizing control and empowerment.
+🖼️ [BODY PROMPT 1]
+A stylized representation of data flowing from a diverse group of consumers to various digital platforms, with a central 'control knob' icon being turned by a consumer, symbolizing data sovereignty and empowerment.
+🖼️ [BODY PROMPT 2]
+A smartphone screen displaying a sophisticated AI-powered price comparison app, showing real-time deals across multiple retailers, with a confident hand tapping to select the best offer. The background is a blurred cityscape.
+🖼️ [BODY PROMPT 3]
+A diverse group of people, young and old, gathered around a large transparent tablet, collaboratively analyzing financial charts and product reviews, symbolizing community-driven financial decisions and group buying power.
+🖼️ [BODY PROMPT 4]
+A close-up of a hand interacting with a futuristic, sleek financial app on a tablet, displaying a personalized investment portfolio with real-time data and AI-driven recommendations, set against a backdrop of subtle digital patterns.
+------------------------------------------------------------
