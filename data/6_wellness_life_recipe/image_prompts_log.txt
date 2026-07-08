@@ -604,3 +604,16 @@ A person engaging in a mindful morning routine: stretching gently, drinking a gl
 🖼️ [BODY PROMPT 4]
 A sophisticated, minimalist graphic showing a human silhouette with various medical symbols (lungs, stomach, brain, heart) highlighted, surrounded by digital data streams and a magnifying glass icon, representing targeted and smart additional health screenings.
 ------------------------------------------------------------
+
+[2026-07-08 11:03:02] 2026년 만성 염증 관리의 핵심: 몸속 '조용한 불' 끄는 항염증 식단과 생활 습관 가이드
+📸 [THUMBNAIL PROMPT]
+A vibrant, aesthetically pleasing flat lay of various anti-inflammatory foods like colorful berries, leafy greens, turmeric, ginger, and fatty fish, arranged on a rustic wooden table with a subtle glow emanating from the center, symbolizing the quenching of 'silent fire'.
+🖼️ [BODY PROMPT 1]
+A vibrant and diverse spread of anti-inflammatory foods on a modern kitchen counter. Focus on fresh vegetables, colorful fruits, fatty fish, nuts, seeds, and spices like turmeric and ginger. Sunlight streams in, highlighting the freshness and natural beauty of the ingredients. A hand is reaching for a bowl of berries.
+🖼️ [BODY PROMPT 2]
+A person meditating peacefully in a sunlit, minimalist room, surrounded by lush green plants. The atmosphere is calm and serene, emphasizing stress reduction and mental well-being as part of inflammation management. A subtle glow surrounds the person, symbolizing inner balance.
+🖼️ [BODY PROMPT 3]
+A futuristic health interface displaying personalized wellness data, including inflammation markers, dietary recommendations, and exercise plans. The screen shows a sleek, minimalist design with holographic elements, suggesting advanced AI-driven personalized health management in 2026. A hand is interacting with the screen.
+🖼️ [BODY PROMPT 4]
+A diverse group of healthy, smiling people of various ages enjoying an outdoor picnic with an abundance of fresh, colorful anti-inflammatory foods. The scene is bright and joyful, conveying a sense of community, well-being, and vitality achieved through a healthy lifestyle.
+------------------------------------------------------------
