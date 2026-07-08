@@ -616,3 +616,16 @@ An aerial shot of a traditional Korean "jangdokdae" (fermentation crock terrace)
 🖼️ [BODY PROMPT 3]
 A vibrant, modern graphic or infographic depicting the "science of fermentation." It should show stylized microorganisms, chemical structures, and arrows illustrating the transformation of raw ingredients into fermented products, with icons representing health benefits like gut health and immunity. The aesthetic should be clean, high-tech, and visually engaging.
 ------------------------------------------------------------
+
+[2026-07-08 10:56:36] South Korea's Evolving Family Landscape: Navigating 2026's Legal Reforms and Diverse Household Support Systems.
+📸 [THUMBNAIL PROMPT]
+A vibrant, diverse group of people representing various family structures (single-person, multi-generational, unmarried couples, multicultural families) standing together in a modern South Korean cityscape, with subtle legal document overlays and digital interfaces symbolizing support systems. The mood is hopeful and inclusive.
+🖼️ [BODY PROMPT 1]
+A visually striking infographic showing the demographic shifts in South Korea, with pie charts illustrating the rise of single-person households and bar graphs depicting the declining birth rate and aging population. The aesthetic is modern and data-driven, with subtle Korean design elements.
+🖼️ [BODY PROMPT 2]
+A split image showing a traditional Korean family scroll on one side and a modern, diverse group of individuals (including an unmarried couple, a single parent, and a multicultural family) signing official-looking digital documents on the other, symbolizing the shift in legal recognition.
+🖼️ [BODY PROMPT 3]
+A diverse group of South Korean parents and children (including a single father, a multicultural family, and an elderly couple) interacting positively with government support workers in a bright, modern community center. The scene should convey a sense of practical assistance and community integration.
+🖼️ [BODY PROMPT 4]
+A futuristic, serene image of a family (could be diverse, e.g., a single parent and child, or an elderly couple) looking out over a vibrant, green Seoul skyline at sunset. Holographic data overlays subtly illustrate positive social indicators and community networks, symbolizing a hopeful and integrated future.
+------------------------------------------------------------
