@@ -617,3 +617,16 @@ A futuristic health interface displaying personalized wellness data, including i
 🖼️ [BODY PROMPT 4]
 A diverse group of healthy, smiling people of various ages enjoying an outdoor picnic with an abundance of fresh, colorful anti-inflammatory foods. The scene is bright and joyful, conveying a sense of community, well-being, and vitality achieved through a healthy lifestyle.
 ------------------------------------------------------------
+
+[2026-07-09 11:13:57] AI 기반 맞춤형 향기 테라피: 공간과 감정을 디자인하는 2026년 미래 웰니스
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic AI-powered smart diffuser emitting a soft, personalized aroma mist into a modern, minimalist living space. A subtle holographic interface displays mood metrics and scent profiles. The overall aesthetic is calm, sophisticated, and technologically advanced.
+🖼️ [BODY PROMPT 1]
+A person in a modern, serene home office, wearing a sleek wearable device that monitors their stress levels. A minimalist smart diffuser on the desk subtly releases a calming aroma, perfectly synchronized with the user's biometric data. Soft, natural light fills the room.
+🖼️ [BODY PROMPT 2]
+A close-up of a sophisticated, waterless smart aroma diffuser with a digital display showing a "focus" scent profile. The device is sleek, metallic, and blends seamlessly into a high-tech living room. Ultra-fine mist is visibly emanating from the top.
+🖼️ [BODY PROMPT 3]
+A diverse group of people (male and female, various ages) in a spacious, modern wellness center. Each person is engaged in a different activity – meditation, light stretching, reading – while personalized smart diffusers subtly enhance their individual experiences with tailored scents. The atmosphere is harmonious and calming.
+🖼️ [BODY PROMPT 4]
+A futuristic, minimalist smart home interior at dusk. A central AI hub glows softly, connecting various smart devices, including a discreet aroma diffuser. The air is filled with a gentle, ambient glow and a custom-blended scent, creating a perfect evening relaxation atmosphere.
+------------------------------------------------------------
