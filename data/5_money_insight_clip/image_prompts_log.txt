@@ -614,3 +614,16 @@ A futuristic cityscape with glowing data lines connecting buildings and vehicles
 🖼️ [BODY PROMPT 4]
 A person's hand holding a transparent tablet, on which a complex yet intuitive user interface displays a personalized digital twin dashboard, showing various financial assets and their projected growth curves, with a backdrop of a modern, bright office space.
 ------------------------------------------------------------
+
+[2026-07-09 11:12:29] 2026년 글로벌 인구 대전환기: 저성장 시대, 새로운 투자 지도를 그리는 법
+📸 [THUMBNAIL PROMPT]
+A stylized global map overlaid with demographic charts and upward-trending investment arrows, symbolizing a new investment landscape in 2026. The colors are sophisticated and professional, with a subtle glow.
+🖼️ [BODY PROMPT 1]
+An elderly woman smiling while interacting with a tablet displaying health metrics, with futuristic medical devices and a gentle robot assistant in the background, symbolizing advanced healthcare for seniors.
+🖼️ [BODY PROMPT 2]
+A diverse group of people from different generations engaged in a vibrant, sustainable community event, with a focus on shared experiences and eco-friendly products, illustrating evolving consumer trends.
+🖼️ [BODY PROMPT 3]
+A sophisticated investor, possibly in their 40s or 50s, analyzing a holographic world map with various data points and investment indicators, symbolizing data-driven, long-term global investment strategy.
+🖼️ [BODY PROMPT 4]
+A minimalist, abstract illustration of a rising graph line against a backdrop of subtle demographic shift patterns, with a single spotlight illuminating the upward trend, representing hope and new opportunities in a changing world.
+------------------------------------------------------------
