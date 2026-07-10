@@ -627,3 +627,16 @@ A sophisticated investor, possibly in their 40s or 50s, analyzing a holographic 
 🖼️ [BODY PROMPT 4]
 A minimalist, abstract illustration of a rising graph line against a backdrop of subtle demographic shift patterns, with a single spotlight illuminating the upward trend, representing hope and new opportunities in a changing world.
 ------------------------------------------------------------
+
+[2026-07-10 11:13:02] 2026년 기후테크 혁명: 탄소중립을 넘어선 새로운 성장 동력, 개인 투자자를 위한 유망 스타트업 발굴 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic city skyline with clean energy sources like wind turbines and solar panels integrated into buildings, glowing with green digital lines representing data flow and innovation. A diverse group of investors, both young and experienced, are looking up at a holographic chart displaying climate tech growth, symbolizing hope and opportunity. The overall mood is optimistic and high-tech.
+🖼️ [BODY PROMPT 1]
+A sleek, modern data center powered by renewable energy, with holographic displays showing real-time carbon emission data and AI algorithms optimizing energy usage. Engineers and data scientists, a mix of genders and ethnicities, are collaborating in front of the screens.
+🖼️ [BODY PROMPT 2]
+A diverse group of individual investors, some using tablets and laptops, gathered in a modern co-working space, discussing investment strategies while looking at a complex holographic projection of climate tech market trends and startup logos. The atmosphere is collaborative and forward-thinking.
+🖼️ [BODY PROMPT 3]
+A Korean entrepreneur, confidently presenting a climate tech solution on a stage at a global conference. The background features a large screen displaying a sophisticated digital twin model of a smart city with integrated green infrastructure. The audience, a mix of international investors and industry experts, is engaged and attentive.
+🖼️ [BODY PROMPT 4]
+A close-up shot of a hand holding a smartphone, displaying a financial app with green upward-trending graphs and climate tech startup logos. In the blurred background, a vibrant green forest and a clear blue sky symbolize a healthy planet, connecting investment with environmental impact.
+------------------------------------------------------------
