@@ -640,3 +640,16 @@ A Korean entrepreneur, confidently presenting a climate tech solution on a stage
 🖼️ [BODY PROMPT 4]
 A close-up shot of a hand holding a smartphone, displaying a financial app with green upward-trending graphs and climate tech startup logos. In the blurred background, a vibrant green forest and a clear blue sky symbolize a healthy planet, connecting investment with environmental impact.
 ------------------------------------------------------------
+
+[2026-07-11 10:58:09] 2026년 '압축소비' 시대: 가치와 만족을 극대화하는 현명한 재정 관리 및 투자 전략
+📸 [THUMBNAIL PROMPT]
+A minimalist yet luxurious image of a person thoughtfully managing finances on a sleek, futuristic tablet, with abstract representations of value, savings, and investment growth in the background. The color palette is sophisticated, with subtle glows of digital data.
+🖼️ [BODY PROMPT 1]
+A vibrant image depicting a young couple enjoying a unique seasonal experience, perhaps picking fresh berries at a farm or attending a local festival, reflecting the "seasonal core" consumption trend. They are smiling, embodying emotional satisfaction.
+🖼️ [BODY PROMPT 2]
+A person is using a financial management app on a smartphone, with a clean, intuitive interface showing categorized spending and AI-powered recommendations for optimizing subscriptions. The background is a blurred, modern home office.
+🖼️ [BODY PROMPT 3]
+A holographic chart displaying a diversified investment portfolio with different asset classes (stocks, bonds, gold, AI-related tech) represented by glowing lines and symbols, emphasizing balance and growth in a dynamic market.
+🖼️ [BODY PROMPT 4]
+A person is calmly reviewing their financial dashboard on a large monitor, with a cup of coffee beside them. The screen shows a healthy, diversified portfolio and positive savings trends, conveying a sense of financial peace and control.
+------------------------------------------------------------
