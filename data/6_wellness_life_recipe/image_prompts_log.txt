@@ -643,3 +643,16 @@ A vibrant, healthy meal spread on a wooden table, featuring colorful berries, le
 🖼️ [BODY PROMPT 4]
 A diverse group of people of various ages and ethnicities, smiling and engaging in different forms of gentle movement (e.g., light stretching, walking, yoga poses) in a bright, open park setting. The image conveys a sense of community, well-being, and active living.
 ------------------------------------------------------------
+
+[2026-07-11 10:59:12] 2026년, '재난 대비 웰니스'의 부상: 예측 불가능한 시대, 몸과 마음을 지키는 실용 가이드
+📸 [THUMBNAIL PROMPT]
+A serene person meditating amidst a futuristic, minimalist shelter, bathed in soft, warm light, with subtle digital interfaces displaying wellness metrics and environmental data. The overall mood is calm and prepared, symbolizing resilience in unpredictable times. High-quality 3D rendering.
+🖼️ [BODY PROMPT 1]
+A diverse group of people of various ages and ethnicities engaging in different wellness activities (e.g., yoga, gardening, mindful walking) in a resilient, community-focused setting with sustainable architecture. The atmosphere is collaborative and supportive.
+🖼️ [BODY PROMPT 2]
+A person practicing mindfulness meditation in a sunlit, minimalist room with a view of a calm, natural landscape. The scene emphasizes inner peace and mental resilience. Soft, warm lighting and natural textures.
+🖼️ [BODY PROMPT 3]
+A group of neighbors collaborating in a community garden, sharing tools and knowledge, with a subtle background suggesting sustainable living and preparedness. Emphasize connection and mutual support.
+🖼️ [BODY PROMPT 4]
+A sleek, minimalist smart home interface displaying real-time environmental data (air quality, temperature, weather alerts) alongside personal wellness metrics (heart rate, sleep quality). The design is intuitive and reassuring, showcasing technology for preparedness.
+------------------------------------------------------------
