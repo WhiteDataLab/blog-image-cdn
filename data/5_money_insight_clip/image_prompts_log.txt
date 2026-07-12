@@ -653,3 +653,16 @@ A holographic chart displaying a diversified investment portfolio with different
 🖼️ [BODY PROMPT 4]
 A person is calmly reviewing their financial dashboard on a large monitor, with a cup of coffee beside them. The screen shows a healthy, diversified portfolio and positive savings trends, conveying a sense of financial peace and control.
 ------------------------------------------------------------
+
+[2026-07-12 11:01:48] 2026년 정신 건강과 재정 웰빙의 연결: 마음 편한 돈 관리 전략
+📸 [THUMBNAIL PROMPT]
+A serene person meditating with a subtle overlay of financial charts and digital currency symbols, representing the harmony between mental peace and financial stability in 2026. The background is a soft, futuristic glow.
+🖼️ [BODY PROMPT 1]
+A person sitting at a desk, looking stressed while looking at a laptop screen displaying financial data, with a thought bubble showing tangled lines representing anxiety. The setting is a modern home office.
+🖼️ [BODY PROMPT 2]
+A person happily paying for an experience (e.g., a cooking class or a travel activity) with a smartphone, reflecting value-based spending and positive emotional connection to money. The scene is bright and engaging.
+🖼️ [BODY PROMPT 3]
+A person calmly looking at a minimalist financial dashboard on a tablet, with a cup of tea, in a well-lit, uncluttered room, symbolizing digital detox and mindful financial monitoring.
+🖼️ [BODY PROMPT 4]
+A diverse group of people smiling and interacting in a bright, modern community space, with subtle financial growth charts in the background, representing collective well-being and shared financial knowledge.
+------------------------------------------------------------
