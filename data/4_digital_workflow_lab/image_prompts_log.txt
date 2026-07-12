@@ -665,3 +665,14 @@ A sleek, modern control room with multiple screens displaying data analytics, AI
 🖼️ [BODY PROMPT 4]
 A vibrant, futuristic cityscape at dusk, with holographic digital human figures subtly integrated into the urban landscape, symbolizing the pervasive and emotionally intelligent presence of digital humans in future customer interactions and daily life.
 ------------------------------------------------------------
+
+[2026-07-12 10:59:49] AI 시대, 감성 리터러시로 완성하는 스마트 협업: 인간 고유의 강점 극대화 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic office setting where diverse professionals are collaborating seamlessly. One person is interacting with a holographic AI interface, while another is engaged in a deep, empathetic conversation with a colleague. The atmosphere is warm, innovative, and human-centric, with subtle AI elements enhancing, not dominating, the scene. Soft, natural lighting. High-tech, yet humane.
+🖼️ [BODY PROMPT 1]
+A diverse team of professionals in a modern, brightly lit office. One person is explaining a concept with hand gestures, making eye contact with a colleague who is actively listening and nodding. An AI interface on a large screen in the background displays data, but the focus is clearly on the human interaction and emotional connection.
+🖼️ [BODY PROMPT 2]
+A diverse group of professionals engaged in a brainstorming session. One person is writing on a transparent digital whiteboard, while others are actively discussing and gesturing. The atmosphere is vibrant and collaborative, emphasizing human creativity and interpersonal dynamics. AI elements are subtly integrated into the environment, perhaps as smart displays showing relevant data.
+🖼️ [BODY PROMPT 3]
+A professional in a modern, minimalist workspace. They are wearing a headset and engaged in a video call, but their expression is calm and focused. The background shows a soft, blurred office environment, suggesting peace and concentration amidst digital tools. The overall mood is one of mindful engagement and emotional balance.
+------------------------------------------------------------
