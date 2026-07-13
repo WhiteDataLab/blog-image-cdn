@@ -656,3 +656,16 @@ A group of neighbors collaborating in a community garden, sharing tools and know
 🖼️ [BODY PROMPT 4]
 A sleek, minimalist smart home interface displaying real-time environmental data (air quality, temperature, weather alerts) alongside personal wellness metrics (heart rate, sleep quality). The design is intuitive and reassuring, showcasing technology for preparedness.
 ------------------------------------------------------------
+
+[2026-07-13 11:06:42] 음성 바이오마커: 목소리로 예측하는 2026년 나의 건강 미래 (질병 조기 감지부터 멘탈 관리까지)
+📸 [THUMBNAIL PROMPT]
+A close-up shot of a sophisticated, futuristic smartphone displaying a vibrant, abstract sound wave visualization, overlaid with health data metrics and a subtle human profile silhouette. The background is a soft, glowing gradient of blues and greens, suggesting wellness and technology. High-tech, clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A futuristic medical interface displaying a 3D spectrogram of a human voice, with various colored overlays highlighting specific biomarker data points. In the background, a doctor and a patient are engaged in a conversation, subtly hinting at the non-invasive nature of the technology. The overall aesthetic is clean, high-tech, and reassuring.
+🖼️ [BODY PROMPT 2]
+A person (gender-neutral) wearing sleek, minimalist earbuds, looking calm and reflective. A subtle, glowing aura around their head or a gentle, undulating sound wave graphic visually represents their mental state being monitored and balanced. The background is a serene, modern wellness space with soft lighting.
+🖼️ [BODY PROMPT 3]
+A holographic display showing a complex network of interconnected health data points: DNA helix, heart rate monitor, sleep tracker, and a prominent sound wave pattern at the center. A person's hand gestures to interact with the holographic display, symbolizing personalized health management. Futuristic, data-rich, yet user-friendly interface.
+🖼️ [BODY PROMPT 4]
+A serene, minimalist scene of a person drinking a glass of water, with soft, natural light illuminating their face. The focus is on the simple act of hydration, symbolizing fundamental self-care for voice health. A subtle, elegant graphic of sound waves could be integrated into the background or around the glass.
+------------------------------------------------------------
