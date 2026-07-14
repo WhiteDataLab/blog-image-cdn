@@ -681,3 +681,14 @@ A dynamic infographic illustrating the growth of Korean language learners global
 🖼️ [BODY PROMPT 4]
 A foreign student, smiling confidently, engages in a video call with a Korean language tutor, while on a second screen, an AI app displays real-time grammar corrections and vocabulary suggestions, illustrating the blend of human and AI learning.
 ------------------------------------------------------------
+
+[2026-07-14 10:47:53] The Rise of "Heritage Hubs": How Korea's Historic Districts are Redefining Community and Modern Living.
+📸 [THUMBNAIL PROMPT]
+A vibrant, bustling street scene in Seoul's Ikseon-dong, blending traditional hanok architecture with modern cafes and boutiques. Sunlight streams through narrow alleys, highlighting a mix of locals and international visitors enjoying coffee and exploring unique shops. The image should convey a sense of lively community and historical charm meeting contemporary trends.
+🖼️ [BODY PROMPT 1]
+An aerial shot showcasing a beautifully preserved hanok village, like Jeonju, at dusk. Traditional tiled roofs glow under soft streetlights, interspersed with the warm, inviting lights of modern cafes and guesthouses. The scene should highlight the harmony between ancient structures and contemporary urban amenities, with a few people strolling through the illuminated alleys.
+🖼️ [BODY PROMPT 2]
+A group of diverse young adults, both Korean and international, participating in a traditional craft workshop inside a beautifully restored hanok. They are laughing and interacting, learning to make traditional paper or ceramics, with modern tools subtly integrated into the traditional setting. The atmosphere is warm, collaborative, and culturally immersive.
+🖼️ [BODY PROMPT 3]
+A diverse group of people, including families, couples, and solo travelers, enjoying a night market in Jeonju Hanok Village. Traditional hanok buildings in the background are softly lit, while colorful food stalls and craft vendors create a lively, inviting atmosphere. The image should capture the blend of traditional setting with modern leisure and community interaction.
+------------------------------------------------------------
