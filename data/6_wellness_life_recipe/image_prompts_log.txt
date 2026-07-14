@@ -669,3 +669,16 @@ A holographic display showing a complex network of interconnected health data po
 🖼️ [BODY PROMPT 4]
 A serene, minimalist scene of a person drinking a glass of water, with soft, natural light illuminating their face. The focus is on the simple act of hydration, symbolizing fundamental self-care for voice health. A subtle, elegant graphic of sound waves could be integrated into the background or around the glass.
 ------------------------------------------------------------
+
+[2026-07-14 10:52:42] 2026년 웰니스 여행의 새로운 지평: '슬립 투어리즘'으로 경험하는 완벽한 회복과 숙면
+📸 [THUMBNAIL PROMPT]
+A serene, luxurious hotel room bathed in soft, warm, circadian-aligned lighting. A plush, inviting bed with crisp white linens is central, with a smart mattress subtly glowing. A tablet on a bedside table displays a personalized sleep tracking report. Outside the window, a tranquil natural landscape is visible, suggesting a peaceful retreat. High-end, minimalist design elements are present.
+🖼️ [BODY PROMPT 1]
+A futuristic, minimalist hotel room interior with soft, ambient lighting shifting from cool blue to warm orange. A smart bed is visible, surrounded by sound-absorbing panels and subtle air purification devices. A person is peacefully sleeping in the bed, enveloped in luxurious bedding. The overall atmosphere is one of ultimate tranquility and advanced comfort.
+🖼️ [BODY PROMPT 2]
+A person receiving a relaxing head massage in a dimly lit spa room, surrounded by soft towels and aromatic diffusers. The atmosphere is calm and peaceful, emphasizing stress reduction and preparation for sleep. There are subtle elements of nature, like a small plant or natural wood textures.
+🖼️ [BODY PROMPT 3]
+A modern Korean jjimjilbang (spa) interior, with people relaxing on heated floors in comfortable loungewear. Soft, warm lighting and natural wood elements create a cozy, communal atmosphere. Some individuals are napping peacefully, while others are enjoying quiet relaxation, reflecting a unique blend of traditional Korean wellness and contemporary comfort.
+🖼️ [BODY PROMPT 4]
+A person practicing gentle evening yoga stretches in a beautifully designed, minimalist bedroom with soft, indirect lighting. The room has large windows looking out onto a serene, moonlit garden. The person appears calm and focused, preparing their body and mind for restorative sleep.
+------------------------------------------------------------
