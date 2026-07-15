@@ -692,3 +692,16 @@ A group of diverse young adults, both Korean and international, participating in
 🖼️ [BODY PROMPT 3]
 A diverse group of people, including families, couples, and solo travelers, enjoying a night market in Jeonju Hanok Village. Traditional hanok buildings in the background are softly lit, while colorful food stalls and craft vendors create a lively, inviting atmosphere. The image should capture the blend of traditional setting with modern leisure and community interaction.
 ------------------------------------------------------------
+
+[2026-07-15 10:44:41] Korean Independent Cinema's Global Breakthrough: Beyond Hallyu's Mainstream in 2026
+📸 [THUMBNAIL PROMPT]
+A visually striking, minimalist poster for a fictional Korean independent film, featuring abstract traditional Korean patterns subtly integrated with modern cinematic elements like a film strip or lens flare, set against a muted, artistic backdrop.
+🖼️ [BODY PROMPT 1]
+A Korean independent film director, a woman in her 30s, stands on a grand international film festival stage, holding an award. The background features a blurred but recognizable festival logo and a diverse, applauding audience. The lighting is warm and celebratory.
+🖼️ [BODY PROMPT 2]
+A split screen showing a diverse group of people (from different continents) watching Korean independent films on various devices (laptop, tablet, smart TV) with subtitles. The films shown are visually distinct, hinting at diverse genres and themes.
+🖼️ [BODY PROMPT 3]
+A stylized, low-angle shot of a young, determined Korean film director (gender-neutral) on a film set, looking through a camera viewfinder. The background is a blend of traditional Korean architecture and modern, minimalist design, suggesting a fusion of heritage and innovation.
+🖼️ [BODY PROMPT 4]
+A person (foreigner, mid-20s to 30s) is comfortably seated in a modern, minimalist living room, engrossed in watching a Korean independent film on a large smart TV. The screen shows a dramatic, art-house scene with English subtitles. A cup of traditional Korean tea sits on a nearby table.
+------------------------------------------------------------
