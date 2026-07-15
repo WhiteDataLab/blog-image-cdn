@@ -682,3 +682,16 @@ A modern Korean jjimjilbang (spa) interior, with people relaxing on heated floor
 🖼️ [BODY PROMPT 4]
 A person practicing gentle evening yoga stretches in a beautifully designed, minimalist bedroom with soft, indirect lighting. The room has large windows looking out onto a serene, moonlit garden. The person appears calm and focused, preparing their body and mind for restorative sleep.
 ------------------------------------------------------------
+
+[2026-07-15 10:50:14] 2026년 달라지는 임신·출산·육아 지원 정책: 예비 부모를 위한 건강 혜택 총정리
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern illustration of a diverse family with a newborn and a toddler, surrounded by glowing icons representing health benefits, financial support, and flexible work options. The style is warm, welcoming, and slightly futuristic, with a subtle Korean aesthetic.
+🖼️ [BODY PROMPT 1]
+A hopeful couple holding hands, looking at a glowing, stylized calendar with "2026" highlighted, symbolizing new opportunities and extended support for fertility treatments. The background is soft and encouraging, with medical symbols subtly integrated.
+🖼️ [BODY PROMPT 2]
+A modern, warm image of a father gently holding a newborn, with a calm and supportive mother beside him. The scene should convey shared parental responsibility and the joy of new parenthood, with soft lighting and a cozy home environment.
+🖼️ [BODY PROMPT 3]
+A split image showing a parent working diligently at a laptop on one side, and a child happily playing nearby on the other. The two scenes are seamlessly integrated, representing work-life balance and flexible work arrangements, with a modern, clean aesthetic.
+🖼️ [BODY PROMPT 4]
+A joyful, diverse family with two children enjoying a day out, perhaps at a park or a cultural event. The image should highlight the benefits of family-friendly policies, with elements suggesting affordability and accessibility, like a discount symbol on a museum ticket or a happy family in a public transport.
+------------------------------------------------------------
