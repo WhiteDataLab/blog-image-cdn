@@ -695,3 +695,16 @@ A split image showing a parent working diligently at a laptop on one side, and a
 🖼️ [BODY PROMPT 4]
 A joyful, diverse family with two children enjoying a day out, perhaps at a park or a cultural event. The image should highlight the benefits of family-friendly policies, with elements suggesting affordability and accessibility, like a discount symbol on a museum ticket or a happy family in a public transport.
 ------------------------------------------------------------
+
+[2026-07-17 11:02:15] 2026년, 식사 시간의 재설계: '시간 제한 식사'로 대사 건강과 활력을 최적화하는 과학적 방법
+📸 [THUMBNAIL PROMPT]
+A minimalist, futuristic kitchen scene with a digital clock displaying a precise eating window, surrounded by fresh, vibrant ingredients and sleek smart kitchen devices. The overall mood is clean, scientific, and inviting.
+🖼️ [BODY PROMPT 1]
+A stylized infographic showing the human body's circadian rhythm, with a clock face indicating an optimal 8-hour eating window and a 16-hour fasting period. The graphic uses calm, scientific colors and subtle glow effects.
+🖼️ [BODY PROMPT 2]
+A person in their late 30s or early 40s, looking vibrant and energetic, enjoying a healthy, colorful meal within a bright, modern kitchen setting. The light is natural and warm, emphasizing well-being.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a variety of fresh, healthy foods (colorful vegetables, lean protein, whole grains) arranged artfully on a modern plate, emphasizing nutrient-dense meals within the eating window. The background is slightly blurred, focusing on the food's appeal.
+🖼️ [BODY PROMPT 4]
+A person meditating peacefully in a bright, minimalist space, symbolizing mental clarity and well-being achieved through a balanced lifestyle including time-restricted eating. Soft, diffused light fills the room.
+------------------------------------------------------------
