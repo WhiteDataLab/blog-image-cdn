@@ -708,3 +708,16 @@ A close-up shot of a variety of fresh, healthy foods (colorful vegetables, lean 
 🖼️ [BODY PROMPT 4]
 A person meditating peacefully in a bright, minimalist space, symbolizing mental clarity and well-being achieved through a balanced lifestyle including time-restricted eating. Soft, diffused light fills the room.
 ------------------------------------------------------------
+
+[2026-07-18 10:52:37] 미주신경 활성화의 과학: 2026년 최신 연구 기반, 일상 속 자율신경계 균형 되찾는 실천법
+📸 [THUMBNAIL PROMPT]
+A serene, futuristic infographic illustrating the vagus nerve as a glowing, intricate network connecting the brain to various organs, surrounded by subtle digital data points and wellness symbols, set against a calming, minimalist background. The year "2026" is subtly integrated into the design.
+🖼️ [BODY PROMPT 1]
+A close-up, artistic shot of a person's neck, subtly highlighting the path of the vagus nerve with a gentle, glowing blue light. The person has a calm, serene expression, suggesting inner peace and balance. The background is softly blurred, emphasizing the nerve.
+🖼️ [BODY PROMPT 2]
+A person practicing deep diaphragmatic breathing in a tranquil, sunlit room. Their hands are gently placed on their abdomen, rising and falling with each breath. The scene emphasizes calm, focus, and the connection between mind and body.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist wearable device (like a smart ring or a small ear clip) displaying real-time heart rate variability (HRV) data on a holographic interface. The background shows a blurred, modern home environment, suggesting seamless integration into daily life.
+🖼️ [BODY PROMPT 4]
+A diverse group of people of different ages and backgrounds, smiling and engaging in various joyful activities outdoors – some laughing, some hugging, some singing together. The scene radiates warmth, connection, and positive energy, symbolizing the social aspect of vagus nerve activation.
+------------------------------------------------------------
