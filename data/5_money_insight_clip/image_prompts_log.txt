@@ -731,3 +731,16 @@ A sleek, minimalist office setting with a diverse team collaborating around a ho
 🖼️ [BODY PROMPT 4]
 A close-up shot of a hand holding a smartphone, displaying a secure and fast stablecoin transaction being completed. In the background, a blurred cityscape with modern skyscrapers suggests a globalized economy. The focus is on the seamless and instantaneous nature of the digital payment.
 ------------------------------------------------------------
+
+[2026-07-18 10:50:45] 멀티 커리어 시대, 불안정한 수입을 현명하게 관리하는 재정 설계 전략
+📸 [THUMBNAIL PROMPT]
+A dynamic and modern image depicting multiple hands juggling various icons representing different income streams (laptop, microphone, paintbrush, currency symbols) against a backdrop of a digital financial dashboard with upward trending graphs. The overall aesthetic is clean, professional, and forward-looking, emphasizing financial stability in a multi-career era.
+🖼️ [BODY PROMPT 1]
+A person sitting at a desk, looking at a holographic display showing a pie chart of diversified income streams (salary, freelance, investments, passive income) and a growth chart. The setting is modern and organized, reflecting financial planning.
+🖼️ [BODY PROMPT 2]
+A person meticulously tracking expenses on a tablet, with a budget spreadsheet open. Various receipts and a minimalist wallet are on the table. The atmosphere is calm and focused, representing diligent financial management.
+🖼️ [BODY PROMPT 3]
+A person interacting with an AI chatbot on a laptop, which displays a simplified tax calculation and optimization plan for a freelancer. The screen shows charts and figures, making complex tax information easy to understand.
+🖼️ [BODY PROMPT 4]
+A confident person looking out over a futuristic cityscape, holding a tablet displaying a robust and diversified financial portfolio. The image conveys a sense of security, foresight, and successful navigation of the modern financial landscape.
+------------------------------------------------------------
