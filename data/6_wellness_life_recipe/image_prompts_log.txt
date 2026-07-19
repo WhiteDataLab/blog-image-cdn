@@ -721,3 +721,16 @@ A sleek, minimalist wearable device (like a smart ring or a small ear clip) disp
 🖼️ [BODY PROMPT 4]
 A diverse group of people of different ages and backgrounds, smiling and engaging in various joyful activities outdoors – some laughing, some hugging, some singing together. The scene radiates warmth, connection, and positive energy, symbolizing the social aspect of vagus nerve activation.
 ------------------------------------------------------------
+
+[2026-07-19 11:00:34] 2026 웰니스 패션: 기능과 스타일을 넘어 마음까지 치유하는 지속가능한 옷장 만들기
+📸 [THUMBNAIL PROMPT]
+A minimalist, serene wardrobe filled with clothing made from natural, soft, and sustainable fabrics in earthy tones. Sunlight streams in, highlighting the textures. A small plant sits on a shelf, symbolizing nature and well-being. The overall aesthetic is calming and sophisticated.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a luxurious, soft fabric made from a sustainable material like mushroom leather or algae-based fiber. The texture is inviting, and the light emphasizes its natural qualities. A subtle, futuristic glow hints at its innovative origin.
+🖼️ [BODY PROMPT 2]
+A person meditating in a sunlit room, wearing loose-fitting, comfortable clothing made from natural fibers. The colors are muted and calming. The person's expression is serene, embodying mental well-being through mindful dressing.
+🖼️ [BODY PROMPT 3]
+A stylish, diverse group of people of different ages and ethnicities, smiling and confidently walking in an urban park. They are all wearing modern, sustainable, and comfortable wellness fashion, showcasing a blend of style, function, and ethical choices. The scene is vibrant yet harmonious.
+🖼️ [BODY PROMPT 4]
+An abstract, artistic rendering of a brain intertwined with flowing fabric textures and subtle green leaves, symbolizing the connection between fashion, mental well-being, and nature. The colors are soft and harmonious, with a touch of digital elegance.
+------------------------------------------------------------
