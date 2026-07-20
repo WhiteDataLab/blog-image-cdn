@@ -767,3 +767,16 @@ A corporate training session in a bright, modern conference room. An instructor 
 🖼️ [BODY PROMPT 4]
 A futuristic, minimalist office building exterior at dusk, with soft, intelligent lighting emanating from within. The building itself appears to be a living, breathing entity, with subtle indicators of its AI-powered environmental control systems. The overall impression is one of advanced technology seamlessly integrated with sustainable design.
 ------------------------------------------------------------
+
+[2026-07-20 12:25:05] 설명 가능한 AI: 직장인의 AI 신뢰와 협업을 위한 필수 가이드
+📸 [THUMBNAIL PROMPT]
+A sleek, modern illustration depicting a transparent AI brain or network, with light rays passing through it, symbolizing explainability. In the foreground, a diverse group of office workers are collaborating, looking at a holographic interface that visualizes AI decisions. The overall aesthetic is futuristic, professional, and trustworthy, with a focus on human-AI synergy.
+🖼️ [BODY PROMPT 1]
+A group of diverse professionals in a modern office setting, gathered around a large transparent screen displaying complex AI algorithms and data visualizations. One person is pointing to a specific part of the screen, and others are nodding in understanding. The atmosphere is collaborative and insightful, emphasizing clarity and shared knowledge.
+🖼️ [BODY PROMPT 2]
+A person (male or female, diverse ethnicity) in a modern office, actively providing feedback to an AI system. They are looking at a tablet or holographic display showing an AI-generated report with highlighted sections, and the person is making notes or interacting with a feedback interface. The scene emphasizes human agency and continuous improvement of AI through user input.
+🖼️ [BODY PROMPT 3]
+A stylized 3D graphic of interconnected nodes and lines, forming a transparent, glowing network. In the center, a human silhouette is integrated, symbolizing the harmonious integration of human and AI intelligence. The background is a subtle, futuristic office environment, emphasizing collaboration and advanced technology.
+🖼️ [BODY PROMPT 4]
+A vibrant, abstract neon art piece representing the concept of 'trust' and 'transparency' in the digital age. Geometric shapes and glowing lines form a complex yet clear structure, with a central, bright light source emanating outwards, symbolizing understanding and clarity in AI.
+------------------------------------------------------------
