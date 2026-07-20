@@ -757,3 +757,16 @@ A person's hand holding a smartphone, displaying a secure mobile ID app with a g
 🖼️ [BODY PROMPT 4]
 A diverse group of people (various ages, genders, and ethnicities) confidently using their smartphones for secure financial transactions in a vibrant, futuristic city setting. The atmosphere is optimistic and technologically advanced.
 ------------------------------------------------------------
+
+[2026-07-20 12:26:19] 2026년 포용금융 대전환: 금융 소외를 넘어, 새로운 제도권 금융 기회를 잡는 개인 투자 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, vibrant cityscape with diverse individuals interacting seamlessly with holographic financial interfaces, symbolizing inclusive finance in 2026. The scene should convey accessibility, innovation, and opportunity, with a subtle glow of digital connectivity.
+🖼️ [BODY PROMPT 1]
+A diverse group of people from different age groups and backgrounds, each holding a smartphone displaying a user-friendly financial app with charts and transaction details. They are smiling, indicating ease of access and financial empowerment. The background is a modern, bright co-working space.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist interface of a financial dashboard showing various investment options, including fractional ownership of real estate and art. A hand is tapping on a holographic chart, indicating easy interaction and diverse asset classes.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a smartphone screen displaying an AI-powered financial advisor app. The app shows personalized investment recommendations, risk assessment, and a chat interface for financial guidance, all in a clean, modern design.
+🖼️ [BODY PROMPT 4]
+A smart, confident investor, possibly a young professional, looking out over a panoramic view of a city at sunrise, holding a tablet. The scene conveys foresight, opportunity, and a successful future achieved through smart financial decisions in the new era of inclusive finance.
+------------------------------------------------------------
