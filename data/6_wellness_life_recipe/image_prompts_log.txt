@@ -747,3 +747,16 @@ A sophisticated, minimalist infographic displaying brainwave frequencies (Delta,
 🖼️ [BODY PROMPT 4]
 A person is sitting comfortably in a modern, ergonomically designed chair, wearing noise-canceling headphones. They are holding a tablet displaying a brainwave synchronization app interface, with gentle, futuristic graphics. The overall scene conveys a sense of calm and focused productivity.
 ------------------------------------------------------------
+
+[2026-07-21 10:59:59] 지속 가능한 의료 기술과 미래 웰니스: 환경을 생각하는 헬스케어의 진화
+📸 [THUMBNAIL PROMPT]
+A futuristic, clean, and green medical facility with abundant natural light and indoor plants. Advanced medical devices are subtly integrated into the environment, emphasizing sustainability and cutting-edge technology. Soft, calming colors dominate the scene, with a subtle glow from holographic displays showing health data. A diverse group of people, including patients and healthcare professionals, are interacting harmoniously within this eco-conscious space, representing wellness and innovation.
+🖼️ [BODY PROMPT 1]
+A sleek, modern laboratory setting with scientists in lab coats working with advanced, eco-friendly equipment. The focus is on green chemistry, with plant-based materials and sustainable packaging visible. The atmosphere is innovative and clean, reflecting a commitment to reducing environmental impact in pharmaceutical development.
+🖼️ [BODY PROMPT 2]
+A serene, modern wellness center with large windows overlooking a lush green landscape. Inside, people are practicing mindfulness or light exercise amidst abundant indoor plants and natural wood elements. The design emphasizes natural light and a harmonious connection between the indoor healing space and the outdoor environment, promoting a sense of calm and well-being.
+🖼️ [BODY PROMPT 3]
+A holographic chart displaying global market trends and investment growth in sustainable healthcare. The chart shows upward-trending lines with data points, overlaid on a backdrop of interconnected green energy symbols and medical icons, illustrating the intersection of finance, technology, and environmental responsibility.
+🖼️ [BODY PROMPT 4]
+A diverse group of people (various ages and ethnicities) smiling and engaging in outdoor wellness activities like walking or light yoga in a clean, green urban park. In the background, modern, eco-friendly buildings with green roofs and solar panels are visible, symbolizing a harmonious blend of urban living, wellness, and environmental sustainability.
+------------------------------------------------------------
