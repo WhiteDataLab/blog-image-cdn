@@ -770,3 +770,16 @@ A close-up shot of a smartphone screen displaying an AI-powered financial adviso
 🖼️ [BODY PROMPT 4]
 A smart, confident investor, possibly a young professional, looking out over a panoramic view of a city at sunrise, holding a tablet. The scene conveys foresight, opportunity, and a successful future achieved through smart financial decisions in the new era of inclusive finance.
 ------------------------------------------------------------
+
+[2026-07-21 10:58:55] 초불확실성 시대, '레디-코어' 금융 전략: 예측 불가능한 미래에 대비하는 개인 자산 방어 로드맵
+📸 [THUMBNAIL PROMPT]
+A stylized, abstract image depicting a resilient financial core amidst swirling, uncertain economic forces. The core is a glowing, stable sphere, surrounded by dynamic, blurred lines representing volatility and unpredictability. The color palette is sophisticated, with deep blues and greens contrasting with subtle hints of orange and red in the background. Minimalist, high-tech aesthetic.
+🖼️ [BODY PROMPT 1]
+A dynamic, abstract visualization of global economic indicators. Multiple glowing lines representing inflation, interest rates, and GDP growth crisscross and fluctuate wildly on a dark, futuristic display. In the foreground, a person with a concerned yet determined expression observes the data, symbolizing the challenge of navigating economic uncertainty.
+🖼️ [BODY PROMPT 2]
+A sophisticated, minimalist infographic showing a diversified investment portfolio. A central, stable core is surrounded by various asset classes represented by distinct icons (gold bar, real estate building, global map, tech gears). The lines connecting them are fluid, suggesting adaptability and balance. The overall aesthetic is clean and modern.
+🖼️ [BODY PROMPT 3]
+A person calmly sitting at a desk, looking at a multi-screen financial dashboard displaying complex charts and data. One screen shows a balanced portfolio, another shows economic news headlines. The person is holding a stylus, ready to make adjustments, symbolizing proactive and flexible financial planning. The setting is a modern home office with natural light.
+🖼️ [BODY PROMPT 4]
+A serene, minimalist image of a single, sturdy tree standing firm against a backdrop of a stormy, yet beautiful sky. The tree's roots are deep and strong, symbolizing financial resilience and long-term perspective amidst market turbulence. The colors are muted but powerful, conveying a sense of calm strength.
+------------------------------------------------------------
