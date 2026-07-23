@@ -783,3 +783,16 @@ A person calmly sitting at a desk, looking at a multi-screen financial dashboard
 🖼️ [BODY PROMPT 4]
 A serene, minimalist image of a single, sturdy tree standing firm against a backdrop of a stormy, yet beautiful sky. The tree's roots are deep and strong, symbolizing financial resilience and long-term perspective amidst market turbulence. The colors are muted but powerful, conveying a sense of calm strength.
 ------------------------------------------------------------
+
+[2026-07-23 11:04:51] 청소년 정규 교육과정 내 금융 교육 도입: 2026년 학부모와 학생을 위한 실질적 재정 준비 가이드
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern illustration depicting diverse teenagers and parents interacting with financial concepts like savings, budgeting apps, and investment charts, set against a backdrop of a school and a digital interface, with "2026" subtly integrated into the design. The overall mood is optimistic and empowering.
+🖼️ [BODY PROMPT 1]
+A diverse group of high school students actively engaged in a classroom setting, looking at a smart board displaying a simplified financial chart or a budgeting app interface. The teacher is facilitating a discussion, and the atmosphere is collaborative and curious.
+🖼️ [BODY PROMPT 2]
+A parent and a teenager sitting together at a kitchen table, looking at a tablet or laptop. The parent is pointing to something on the screen, perhaps a budgeting app or an online financial article, and the teenager is listening attentively. The setting is warm and inviting.
+🖼️ [BODY PROMPT 3]
+A stylized 3D graphic of interconnected financial symbols (coins, piggy banks, growth charts, digital currency icons) forming a pathway leading towards a bright, prosperous future. The aesthetic is clean, modern, and slightly futuristic.
+🖼️ [BODY PROMPT 4]
+A group of smiling, confident teenagers walking out of a modern school building, holding books and tablets. One of them is looking at a financial app on their phone, and another is discussing something with a friend. The sun is shining, symbolizing a bright future.
+------------------------------------------------------------
