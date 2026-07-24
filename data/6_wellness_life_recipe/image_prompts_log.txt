@@ -773,3 +773,16 @@ A sleek, minimalist smart home interface displaying a privacy settings dashboard
 🖼️ [BODY PROMPT 4]
 An elderly couple smiling and enjoying a peaceful moment in their smart home. Subtle visual cues indicate integrated health monitoring (e.g., a discreet sensor on a wall, a tablet showing a simplified health overview). The emphasis is on peace of mind, independence, and comfortable living for seniors thanks to smart health tech.
 ------------------------------------------------------------
+
+[2026-07-24 11:01:49] 2026년, '초개인화된 운동 처방'의 진화: AI가 당신의 유전자와 생활 패턴을 분석하여 최적의 운동 루틴을 제안하는 법
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek infographic showing a human silhouette with glowing lines representing DNA and data points, connected to an AI interface displaying personalized exercise routines, against a clean, minimalist background. The color palette is cool blues, greens, and purples.
+🖼️ [BODY PROMPT 1]
+A close-up of a holographic DNA strand intertwining with digital data points, symbolizing genetic analysis for personalized fitness, with a subtle glow.
+🖼️ [BODY PROMPT 2]
+A person wearing a sleek, futuristic smartwatch is performing a low-impact exercise in a modern, minimalist home gym. A transparent holographic screen nearby displays real-time biometric data and a personalized AI-generated workout plan.
+🖼️ [BODY PROMPT 3]
+A diverse group of people of various ages and fitness levels are happily engaging in different personalized exercises, some with VR headsets, some with smart mats, all looking engaged and healthy. The background is a bright, open space with futuristic design elements.
+🖼️ [BODY PROMPT 4]
+A sleek, minimalist graphic showing interconnected nodes representing AI, DNA, lifestyle data, and various fitness outcomes (strength, endurance, recovery, injury prevention), all converging into a central 'Optimal You' concept.
+------------------------------------------------------------
