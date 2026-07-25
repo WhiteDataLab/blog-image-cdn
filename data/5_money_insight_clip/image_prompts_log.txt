@@ -809,3 +809,16 @@ A close-up of a person's hand interacting with a secure, minimalist interface on
 🖼️ [BODY PROMPT 4]
 A person (representing a middle-class investor) and a stylized, friendly AI robot figure collaboratively reviewing a holographic financial projection. The image should convey partnership and mutual learning, with a sense of optimism for the future.
 ------------------------------------------------------------
+
+[2026-07-25 10:59:13] 비트코인 현물 ETF 국내 도입 임박: 전통 금융 투자자, 새로운 디지털 자산 투자 기회를 잡는 법
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting a Bitcoin symbol merging with a traditional stock market chart, set against a backdrop of a modern cityscape at dawn, symbolizing new financial horizons. The colors are deep blues, golds, and subtle neons, conveying innovation and opportunity.
+🖼️ [BODY PROMPT 1]
+A diverse group of investors, including a seasoned businessman and a young professional, confidently looking at a holographic financial chart displaying Bitcoin and traditional asset performance, symbolizing integrated investment strategies. The setting is a bright, modern office with large windows.
+🖼️ [BODY PROMPT 2]
+A sleek, modern smartphone displaying a financial app with a Bitcoin ETF graph trending upwards, held by a hand wearing a subtle, high-tech ring. The background is blurred, focusing on the seamless integration of digital assets into everyday finance.
+🖼️ [BODY PROMPT 3]
+An abstract, glowing 3D rendering of a blockchain network, with interconnected nodes and data streams, symbolizing the underlying technology of Bitcoin ETFs. The colors are vibrant and futuristic, conveying complexity and innovation.
+🖼️ [BODY PROMPT 4]
+A confident, professional-looking financial advisor is explaining a complex digital asset chart to a client in a modern, well-lit office. Both are smiling, indicating successful financial planning and understanding of new investment opportunities.
+------------------------------------------------------------
