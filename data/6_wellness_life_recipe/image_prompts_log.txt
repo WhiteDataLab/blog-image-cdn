@@ -786,3 +786,16 @@ A diverse group of people of various ages and fitness levels are happily engagin
 🖼️ [BODY PROMPT 4]
 A sleek, minimalist graphic showing interconnected nodes representing AI, DNA, lifestyle data, and various fitness outcomes (strength, endurance, recovery, injury prevention), all converging into a central 'Optimal You' concept.
 ------------------------------------------------------------
+
+[2026-07-25 11:00:21] 뇌 발달 단계별 맞춤형 웰니스 전략: 전 생애 주기 '뇌 건강' 최적화 가이드
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic brain graphic with interconnected neural pathways, surrounded by subtle glowing elements representing different life stages (childhood, adulthood, senior). The overall aesthetic is clean, sophisticated, and conveys health and vitality.
+🖼️ [BODY PROMPT 1]
+A bright, cheerful image of a child happily engaged in a creative activity like building blocks or drawing, with subtle glowing lines emanating from their head, symbolizing active brain development. The background is soft and warm.
+🖼️ [BODY PROMPT 2]
+A dynamic image of a diverse group of adults (20s-50s) engaged in a collaborative brainstorming session in a modern, light-filled office. One person is gesturing towards a holographic chart displaying complex data, symbolizing cognitive optimization and innovation.
+🖼️ [BODY PROMPT 3]
+A serene image of an elderly couple enjoying a leisurely walk in a beautiful park, holding hands and smiling. The sunlight filters through the trees, creating a peaceful and healthy atmosphere, symbolizing active and connected senior living.
+🖼️ [BODY PROMPT 4]
+A sophisticated 3D render of a transparent human head, with glowing neural networks visible inside. Overlayed are holographic data visualizations and interconnected lines leading to various smart devices (a smartwatch, a VR headset, a tablet), representing advanced neuro-technology and personalized brain health monitoring.
+------------------------------------------------------------
