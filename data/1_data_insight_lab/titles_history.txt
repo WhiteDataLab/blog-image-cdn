@@ -81,3 +81,4 @@
 - Robotics Data Ecosystems: Beyond Pipelines to Open-Source Data Collection and Standardization for Physical AI.
 - Data Pipelines for Scaling Consumer & Industrial Brain-Computer Interface Products in 2026: Architecting for Low-Latency and Neurodata Security.
 - Architecting Data Pipelines for Optical Computing: Navigating the Photonic Shift in AI Infrastructure in 2026.
+- Architecting for Data Locality: Strategies for Regionalized IT and Edge Data Resilience in 2026.
