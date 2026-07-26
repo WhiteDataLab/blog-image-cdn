@@ -830,3 +830,16 @@ A person working diligently at a modern workstation, with the monitor displaying
 🖼️ [BODY PROMPT 4]
 A conceptual illustration of a "Hardware as a Service" (HaaS) ecosystem. Various tech devices (laptops, desktops, servers) are depicted in a continuous loop of usage, refurbishment, and redeployment, symbolizing a circular economy. The image uses clean lines and a modern, almost holographic aesthetic.
 ------------------------------------------------------------
+
+[2026-07-26 11:02:55] 2026년, 데이터의 '친환경성'을 높이는 법: 지속 가능한 디지털 워크를 위한 데이터 수명 주기 관리 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist illustration showing a green leaf sprouting from a digital data server rack, symbolizing sustainable data. The background is a glowing, interconnected network of data points, with a subtle futuristic city outline. Soft, eco-friendly lighting.
+🖼️ [BODY PROMPT 1]
+A conceptual 3D render of a glowing, interconnected data network forming a globe, with green energy symbols radiating from it. In the foreground, a professional Korean office worker is looking at a holographic dashboard showing data lifecycle metrics and energy consumption.
+🖼️ [BODY PROMPT 2]
+A sophisticated server room with advanced liquid cooling systems visible. Green pipes and glowing liquid flow through racks, symbolizing efficient, eco-friendly cooling. A diverse team of engineers (male and female, various ethnicities) are collaboratively monitoring screens showing energy consumption data.
+🖼️ [BODY PROMPT 3]
+A stylized infographic showing the data lifecycle (creation, storage, usage, archiving, deletion) with green arrows and leaf icons at each stage. Below, there are small icons representing energy saving, waste reduction, and resource efficiency. The overall aesthetic is clean, modern, and tech-forward.
+🖼️ [BODY PROMPT 4]
+A diverse group of office workers (male and female, various ages) are gathered around a table, actively discussing sustainable data practices. They are using tablets and laptops, with a subtle overlay of green energy graphs on their screens. The atmosphere is collaborative and forward-thinking.
+------------------------------------------------------------
