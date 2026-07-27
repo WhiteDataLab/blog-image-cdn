@@ -812,3 +812,16 @@ A person's hands are shown immersed in a vibrant, flourishing garden, gently ten
 🖼️ [BODY PROMPT 4]
 A sleek, minimalist haptic device rests on a wooden table next to a small, elegant plant, with a soft, warm light illuminating the scene, symbolizing the harmonious integration of advanced technology and natural elements for future wellness.
 ------------------------------------------------------------
+
+[2026-07-27 11:13:57] 2026년 웰니스, '느림의 미학'으로 지속 가능성을 찾다: 성과 강박 벗어나는 몸과 마음 관리법
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist image featuring a single person practicing slow, mindful breathing amidst soft, natural light, with blurred elements of modern wellness tech in the background, symbolizing a shift towards inner peace over external metrics.
+🖼️ [BODY PROMPT 1]
+A person sitting peacefully in a sunlit room, holding a physical book instead of a smartphone, with a minimalist aesthetic and a small, thriving plant nearby, symbolizing digital minimalism and mindful living.
+🖼️ [BODY PROMPT 2]
+A person walking barefoot on lush green grass in a sun-dappled forest, with tall trees and dappled light, conveying a sense of peace and connection to nature, illustrating forest bathing and earthing.
+🖼️ [BODY PROMPT 3]
+A diverse group of people of various ages gracefully performing slow, deliberate movements in a spacious, naturally lit studio, possibly practicing Tai Chi or gentle yoga, emphasizing mindful movement and inclusivity.
+🖼️ [BODY PROMPT 4]
+A beautifully arranged, colorful plate of fresh, unprocessed ingredients on a rustic wooden table, with hands gently preparing a meal, illustrating the concept of slow food and intuitive eating.
+------------------------------------------------------------
