@@ -83,3 +83,4 @@
 - Architecting Data Pipelines for Optical Computing: Navigating the Photonic Shift in AI Infrastructure in 2026.
 - Architecting for Data Locality: Strategies for Regionalized IT and Edge Data Resilience in 2026.
 - Data Architectures for Neuro-Symbolic AI: Bridging Neural Networks and Knowledge Graphs for Enterprise Intelligence in 2026.
+- Multi-Omics Data Integration Architectures: Building Unified Views for Biological Discovery.
