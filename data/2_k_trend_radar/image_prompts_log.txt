@@ -856,3 +856,16 @@ A sleek, minimalist infographic or holographic chart displaying interconnected n
 🖼️ [BODY PROMPT 4]
 A diverse group of people, including Koreans and foreigners, smiling and interacting positively in a bustling community market where social enterprises are selling their unique, ethically produced goods. The scene is warm, inviting, and full of positive energy, symbolizing a connected community.
 ------------------------------------------------------------
+
+[2026-07-28 10:51:27] The "Beggar Map" Phenomenon: How South Korean Youth are Turning Extreme Frugality into a Viral Lifestyle.
+📸 [THUMBNAIL PROMPT]
+A vibrant, stylized map of Seoul overlaid with digital icons representing free or low-cost activities and locations, with diverse South Korean young adults (Gen Z) engaging in resourceful, frugal activities like picnicking in a park, studying in a public library, or sharing a meal, all subtly connected by glowing lines. The overall aesthetic is modern, clean, and optimistic, reflecting a savvy, trend-setting lifestyle rather than hardship.
+🖼️ [BODY PROMPT 1]
+A young South Korean woman meticulously tracking her expenses on a minimalist smartphone app, surrounded by homemade snacks and a reusable water bottle, in a bright, modern, yet simple apartment setting. The scene emphasizes digital tools for frugality and a conscious, minimalist aesthetic.
+🖼️ [BODY PROMPT 2]
+A group of diverse young South Koreans (Gen Z) happily sharing a picnic lunch they prepared themselves in a vibrant public park in Seoul, with the city skyline in the background. They are laughing and interacting, showcasing the social and communal aspect of the "Beggar Map" lifestyle.
+🖼️ [BODY PROMPT 3]
+A stylish, minimalist infographic or digital chart illustrating the growth of "jjat-tech" related hashtags and online community engagement in South Korea over the past year, with rising lines and positive trends. The design should be clean, modern, and visually appealing, representing data-driven insights.
+🖼️ [BODY PROMPT 4]
+A close-up shot of a smartphone screen displaying a "Beggar Map" app interface, showing various icons for free amenities (e.g., public library, park, free Wi-Fi zone) overlaid on a detailed map of a Korean city. The hand holding the phone is young and stylish, emphasizing the tech-savvy aspect of the trend.
+------------------------------------------------------------
