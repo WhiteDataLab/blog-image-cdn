@@ -869,3 +869,16 @@ A stylish, minimalist infographic or digital chart illustrating the growth of "j
 🖼️ [BODY PROMPT 4]
 A close-up shot of a smartphone screen displaying a "Beggar Map" app interface, showing various icons for free amenities (e.g., public library, park, free Wi-Fi zone) overlaid on a detailed map of a Korean city. The hand holding the phone is young and stylish, emphasizing the tech-savvy aspect of the trend.
 ------------------------------------------------------------
+
+[2026-07-29 10:52:50] Exploring Korea's Dark Sky Movement: Stargazing, Astrotourism, and Preserving Night Skies in 2026.
+📸 [THUMBNAIL PROMPT]
+A stunning wide-angle shot of the Milky Way arching over a traditional Korean hanok village or a serene mountainous landscape in South Korea, with a few subtle fireflies glowing in the foreground, symbolizing the blend of heritage and nature under a dark sky.
+🖼️ [BODY PROMPT 1]
+A group of diverse international tourists, eyes wide with wonder, looking up at a clearly visible Milky Way in a Korean mountainous dark sky park. They are warmly dressed, some with cameras on tripods, and a local guide points to constellations with a laser pointer.
+🖼️ [BODY PROMPT 2]
+A family, including children and parents, participating in the "Noh-eul Starlight Camping" event in Seoul's Noh-eul Park. They are looking through a small telescope, with city lights blurred softly in the distant background, emphasizing urban accessibility to stargazing.
+🖼️ [BODY PROMPT 3]
+A sleek, modern observatory dome silhouetted against a vibrant, star-filled night sky, with a subtle digital overlay showing data points or constellations, symbolizing advanced technology meeting natural wonder in Korea's dark sky preservation efforts.
+🖼️ [BODY PROMPT 4]
+A close-up, artistic shot of a hand holding a smartphone, capturing a stunning astrophotography image of a nebula or galaxy, with a subtle glow from the phone screen illuminating the person's face in awe, symbolizing the accessibility of astrophotography and citizen science.
+------------------------------------------------------------
