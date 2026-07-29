@@ -877,3 +877,16 @@ A close-up shot of a hand interacting with a transparent tablet displaying a use
 🖼️ [BODY PROMPT 4]
 A panoramic view of a futuristic city skyline at dawn, with glowing blockchain networks subtly woven into the architecture. In the foreground, a diverse group of professionals stands confidently, looking towards the horizon, symbolizing a new era of transparent and collaborative business. The mood is optimistic and forward-looking.
 ------------------------------------------------------------
+
+[2026-07-29 10:55:39] AI 시대, '디지털 심리 방역' 전략: 직장인의 정보 과부하와 피로 해소법
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic office worker in a minimalist, serene digital workspace, looking calm and focused, with subtle holographic elements representing information flow managed efficiently, not overwhelmed. The overall mood is peaceful and empowered, not stressed.
+🖼️ [BODY PROMPT 1]
+A person sitting at a desk, surrounded by a chaotic overlay of glowing digital screens, notifications, and AI-generated data streams, looking visibly stressed and overwhelmed. The background is a modern, high-tech office environment.
+🖼️ [BODY PROMPT 2]
+A person calmly turning off notifications on a smartphone, with a serene expression. In the background, a blur of digital chaos is fading, replaced by a subtle, warm glow of a desk lamp and a physical notebook, symbolizing digital detox and mindful work.
+🖼️ [BODY PROMPT 3]
+A diverse group of office workers in a modern, inclusive workspace. One person is engaging with an AI assistant on a tablet, another is in a mindful meditation pose, and others are collaborating calmly. The scene emphasizes balance, human connection, and smart technology integration.
+🖼️ [BODY PROMPT 4]
+A serene, futuristic digital workspace with a large window overlooking a calm, green city. A person is comfortably seated, wearing minimalist smart glasses, focusing intently on a holographic interface that displays only essential, organized information. The overall atmosphere is productive yet peaceful, symbolizing efficient digital psychological quarantine.
+------------------------------------------------------------
