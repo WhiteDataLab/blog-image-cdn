@@ -861,3 +861,16 @@ A striking visual metaphor for transparency in financial markets. Imagine a clea
 🖼️ [BODY PROMPT 4]
 An individual, looking confident and empowered, is actively navigating a personalized financial dashboard displayed on a sleek tablet. The screen prominently features various metrics and indicators such as "Trust Score," "Transparency Index," and "Professionalism Rating" for different financial services, allowing the user to make informed and strategic investment choices. The background is a blurred, modern financial environment.
 ------------------------------------------------------------
+
+[2026-07-29 10:56:44] 2026년, '장수 바이오' 혁명이 여는 투자 기회: 건강 수명 연장 산업의 미래 자산 포트폴리오 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic laboratory with scientists in clean suits examining glowing biological samples, surrounded by holographic displays showing DNA structures and health data, symbolizing longevity and advanced biotech. The overall aesthetic is sleek, high-tech, and optimistic.
+🖼️ [BODY PROMPT 1]
+A diverse group of healthy, active older adults engaging in various activities like hiking, yoga, and gardening, with a subtle overlay of futuristic health monitoring interfaces, symbolizing active longevity and quality of life.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist infographic showing interconnected nodes representing different aspects of the longevity industry: AI, gene therapy, diagnostics, personalized nutrition, and digital health, with upward-trending arrows indicating growth.
+🖼️ [BODY PROMPT 3]
+A sophisticated investor, possibly in their 40s or 50s, confidently looking at multiple holographic screens displaying financial charts and biological data, representing strategic investment in the longevity sector. The setting is a modern, high-tech office.
+🖼️ [BODY PROMPT 4]
+A stylized representation of a healthy human cell undergoing rejuvenation, with glowing particles and vibrant colors, symbolizing the scientific breakthroughs in anti-aging and cellular repair.
+------------------------------------------------------------
