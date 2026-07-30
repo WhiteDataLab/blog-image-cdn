@@ -851,3 +851,16 @@ A thoughtful, diverse group of people (scientists, ethicists, general public) en
 🖼️ [BODY PROMPT 4]
 A person stands on a cliff overlooking a vast, beautiful landscape at sunrise, symbolizing a hopeful future. One hand gently touches a subtle, glowing digital interface that projects a personalized wellness chart, blending nature with advanced technology.
 ------------------------------------------------------------
+
+[2026-07-30 10:49:34] 건강식도 과하면 독? 2026년 주목할 '과잉 섭취 주의' 건강 식품 리스트
+📸 [THUMBNAIL PROMPT]
+A visually striking image of a perfectly balanced meal on one side, and on the other, an overflowing, chaotic pile of various "healthy" foods and supplements, subtly hinting at excess. The color palette is vibrant but with a cautionary undertone.
+🖼️ [BODY PROMPT 1]
+A person in a modern gym setting looking overwhelmed by an array of protein supplements, protein bars, and high-protein snacks, with a subtle glow indicating excessive consumption. The scene should convey a sense of modern fitness culture.
+🖼️ [BODY PROMPT 2]
+A close-up shot of various colorful vitamin and mineral supplement pills spilling out of bottles, creating an overwhelming and slightly chaotic visual, emphasizing the idea of too much.
+🖼️ [BODY PROMPT 3]
+A stylized, minimalist graphic showing the human digestive system with a focus on the intestines. One side depicts a healthy, smooth flow, while the other shows a congested, uncomfortable state, symbolizing the effects of too much fiber.
+🖼️ [BODY PROMPT 4]
+A serene, natural setting with various vibrant fruits, vegetables, and herbs arranged aesthetically, but with a subtle, almost ethereal glow around a single, perfectly portioned serving, contrasting with an abundant, overwhelming pile in the background.
+------------------------------------------------------------
