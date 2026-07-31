@@ -864,3 +864,14 @@ A stylized, minimalist graphic showing the human digestive system with a focus o
 🖼️ [BODY PROMPT 4]
 A serene, natural setting with various vibrant fruits, vegetables, and herbs arranged aesthetically, but with a subtle, almost ethereal glow around a single, perfectly portioned serving, contrasting with an abundant, overwhelming pile in the background.
 ------------------------------------------------------------
+
+[2026-07-31 11:10:15] 2026년 웰니스 트렌드: 모발을 넘어 두피 과학으로, 스키니피케이션 헤어케어의 모든 것
+📸 [THUMBNAIL PROMPT]
+A close-up, artistic shot of a healthy scalp with strong hair follicles, illuminated by a soft, warm light. Subtle holographic elements or a digital overlay showcasing scientific data and active ingredients. The overall aesthetic is luxurious, clean, and forward-thinking, emphasizing wellness and advanced care.
+🖼️ [BODY PROMPT 1]
+A luxurious, minimalist bathroom counter setup featuring high-end scalp serums, a gentle scalp brush, and elegantly designed shampoo/conditioner bottles. The products are arranged artfully, suggesting a sophisticated self-care ritual.
+🖼️ [BODY PROMPT 2]
+A stylized 3D graphic representation of a healthy scalp microbiome, showing a balanced ecosystem of various microorganisms. The image uses soft, organic shapes and vibrant, yet harmonious colors, with subtle data visualizations integrated.
+🖼️ [BODY PROMPT 3]
+A person undergoing a personalized scalp analysis using a sleek, futuristic handheld device that projects diagnostic data onto a screen. The setting is a modern, clean wellness clinic, emphasizing advanced technology and individualized care.
+------------------------------------------------------------
