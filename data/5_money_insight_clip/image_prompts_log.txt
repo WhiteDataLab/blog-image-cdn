@@ -900,3 +900,14 @@ A diverse group of individuals, each using a personalized digital financial dash
 🖼️ [BODY PROMPT 4]
 A person confidently managing their finances on a tablet, surrounded by a vibrant, interconnected network of subscription services and investment opportunities, all streamlined by AI.
 ------------------------------------------------------------
+
+[2026-08-01 11:08:35] 2026년 자연 자본 시장의 부상: 생물 다양성 보전이 새로운 투자 기회가 되는 이유
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic city skyline seamlessly integrated with lush green spaces, vertical farms, and clean rivers. Holographic charts showing rising natural capital investments and biodiversity indices. A diverse group of investors, looking confident and forward-thinking, discussing financial reports with nature-inspired motifs. The overall aesthetic is sophisticated, blending technology with thriving nature.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a financial dashboard displaying various metrics related to natural capital. One section shows "Biodiversity Impact Score" with a green upward arrow, another displays "Nature-Related Financial Risk" with a red downward arrow. In the background, a subtle image of a thriving forest or coral reef is visible, symbolizing the data.
+🖼️ [BODY PROMPT 2]
+A group of diverse professionals, including scientists, investors, and community leaders, collaboratively analyzing data on a large transparent screen in a modern, eco-friendly office. The screen displays a map with highlighted areas of biodiversity restoration projects and associated financial returns. They are engaged in a lively discussion, pointing at the data.
+🖼️ [BODY PROMPT 3]
+A person (representing an individual investor) is looking at a tablet displaying a diverse investment portfolio. The portfolio includes icons representing sustainable forestry, water management tech, biodiversity funds, and eco-tourism. The background is a blurred image of healthy, vibrant nature, suggesting a connection between the investments and environmental well-being.
+------------------------------------------------------------
