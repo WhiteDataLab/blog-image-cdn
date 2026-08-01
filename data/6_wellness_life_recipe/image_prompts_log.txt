@@ -875,3 +875,16 @@ A stylized 3D graphic representation of a healthy scalp microbiome, showing a ba
 🖼️ [BODY PROMPT 3]
 A person undergoing a personalized scalp analysis using a sleek, futuristic handheld device that projects diagnostic data onto a screen. The setting is a modern, clean wellness clinic, emphasizing advanced technology and individualized care.
 ------------------------------------------------------------
+
+[2026-08-01 11:10:12] 2026년 웰니스 트렌드: 도시형 마이크로 가드닝과 AI 반려식물로 되찾는 마음의 평화
+📸 [THUMBNAIL PROMPT]
+A serene urban apartment balcony transformed into a lush micro-garden, featuring various small plants in stylish pots, a vertical herb garden, and a sleek, minimalist AI companion plant device glowing softly. Sunlight streams in, highlighting a person's hands gently tending to a plant, conveying peace and connection to nature amidst city life. The overall aesthetic is modern, clean, and calming.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a modern urban apartment balcony with a compact, multi-tiered vertical garden system overflowing with vibrant green herbs and small edible plants. A person's hands are gently misting the leaves, with soft, natural light illuminating the scene, emphasizing the freshness and tranquility of a personal green space.
+🖼️ [BODY PROMPT 2]
+A sleek, futuristic AI companion plant device with a glowing interface displaying plant health metrics and personalized care tips. A person is looking at the device with a gentle smile, while a healthy potted plant sits beside it, symbolizing the harmonious blend of technology and nature for well-being. The background is a minimalist, modern living space.
+🖼️ [BODY PROMPT 3]
+A person in a cozy, sunlit living room, sitting on a cushion with a small, healthy potted plant in their lap. Their eyes are closed, a serene expression on their face, as if meditating or deeply connecting with the plant. The scene evokes a sense of calm, mindfulness, and inner peace achieved through interaction with nature.
+🖼️ [BODY PROMPT 4]
+A stylized infographic or conceptual art piece showing the interconnectedness of urban micro-gardening, AI companion plants, and human well-being. Elements like green leaves, smart sensors, calm human silhouettes, and glowing data streams are harmoniously blended, representing a future where technology enhances our connection to nature for inner peace. The aesthetic is clean, modern, and inspiring.
+------------------------------------------------------------
