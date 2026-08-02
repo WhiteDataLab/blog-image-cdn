@@ -911,3 +911,14 @@ A group of diverse professionals, including scientists, investors, and community
 🖼️ [BODY PROMPT 3]
 A person (representing an individual investor) is looking at a tablet displaying a diverse investment portfolio. The portfolio includes icons representing sustainable forestry, water management tech, biodiversity funds, and eco-tourism. The background is a blurred image of healthy, vibrant nature, suggesting a connection between the investments and environmental well-being.
 ------------------------------------------------------------
+
+[2026-08-02 11:02:44] 2026년 초개인화 리스크 관리: 실시간 생체 데이터 기반 맞춤형 보험 및 자산 방어 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek infographic showing a human silhouette connected to various biometric data points (heart rate, sleep, activity) flowing into a secure digital vault, which then branches out to customized insurance policies and investment portfolios. The background is a subtle, glowing network grid, emphasizing technology and data. Korean text "2026 초개인화 리스크 관리" subtly integrated.
+🖼️ [BODY PROMPT 1]
+A person wearing a sleek, futuristic smartwatch, looking at a holographic display showing their real-time heart rate, sleep patterns, and activity levels, with financial charts and insurance policy details overlaid in a seamless, integrated manner. The setting is modern and minimalist.
+🖼️ [BODY PROMPT 2]
+A digital representation of a human body with various health metrics (heart rate, blood pressure, sleep quality) displayed as glowing data points. These data points are connected to a protective financial shield, symbolizing asset defense and proactive financial planning. The background is a secure, encrypted network.
+🖼️ [BODY PROMPT 3]
+A close-up of a person's hand interacting with a transparent tablet displaying a secure data consent form with biometric authentication. The background shows blurred financial graphs, emphasizing the secure and ethical handling of personal health data in financial contexts.
+------------------------------------------------------------
