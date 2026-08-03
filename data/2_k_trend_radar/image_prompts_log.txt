@@ -932,3 +932,16 @@ A person enjoying a quiet moment in a traditional Korean garden (hanok garden), 
 🖼️ [BODY PROMPT 4]
 A person's hands gently tending to a small indoor plant, with soft light filtering in. The focus is on the tactile, calming nature of the activity, symbolizing a return to simple, grounding hobbies.
 ------------------------------------------------------------
+
+[2026-08-03 11:02:49] The 'Mart Attack' Phenomenon: How Foreigners are Discovering Authentic Korean Life Through Supermarket Exploration in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, bustling Korean supermarket aisle in 2026, filled with diverse foreigners excitedly exploring shelves of colorful Korean products. The lighting is bright and inviting, capturing a sense of discovery and cultural immersion.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a foreigner's shopping cart overflowing with unique Korean snacks, brightly packaged instant foods, and fresh, vibrant produce like kimchi cabbage and gochujang. The background is slightly blurred, showing other shoppers.
+🖼️ [BODY PROMPT 2]
+A group of diverse young foreigners, smiling and chatting, gathered around a vibrant display of fresh Korean fruits and vegetables in a modern supermarket. One is holding up a unique fruit like a chamoe, looking curious and engaged.
+🖼️ [BODY PROMPT 3]
+A sleek, modern digital kiosk in a Korean supermarket, displaying product information in multiple languages (English, Korean, Chinese). A foreign shopper is interacting with the screen, while in the background, shelves are neatly stocked with diverse Korean food items.
+🖼️ [BODY PROMPT 4]
+A vibrant, artistically composed flat lay of various Korean supermarket finds: colorful instant ramen, unique Korean snacks, a jar of kimchi, a bottle of soju, and a small, beautifully packaged Korean cosmetic item, all arranged on a rustic wooden table.
+------------------------------------------------------------
