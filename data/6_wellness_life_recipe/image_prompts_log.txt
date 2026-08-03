@@ -901,3 +901,16 @@ A sleek, futuristic kitchen counter with a transparent display showing personali
 🖼️ [BODY PROMPT 4]
 A diverse group of friends or family members happily sharing a beautifully prepared, sustainable meal outdoors on a sunny day. Laughter and conversation fill the air, emphasizing the joy and connection of communal dining. The setting is natural and inviting.
 ------------------------------------------------------------
+
+[2026-08-03 11:11:00] 기능 의학 기반 맞춤형 영양제: 혈액/소변 검사로 밝히는 나만의 정밀 영양 솔루션
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist graphic illustrating personalized nutrition. A stylized human silhouette with glowing data points flowing from blood and urine test tubes, connecting to a variety of customized supplement capsules. The background is a clean, futuristic lab setting with subtle holographic charts. Soft, professional lighting.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a sophisticated laboratory setup. Various test tubes containing blood and urine samples are meticulously arranged, with a scientist in the background analyzing data on a holographic screen displaying complex biochemical pathways and nutritional markers. The lighting is bright and sterile.
+🖼️ [BODY PROMPT 2]
+A person (male or female, 30s-40s) is holding a personalized supplement packet, looking at it with a thoughtful expression. In the background, a subtle, glowing infographic shows a complex network of nutrients and their interactions within the body, representing a tailored nutritional plan. The atmosphere is modern and health-conscious.
+🖼️ [BODY PROMPT 3]
+A dynamic infographic showing upward trending graphs and charts, representing the growth of the personalized nutrition market. Holographic data points connect to icons symbolizing AI, DNA, and wearable devices. A diverse group of people in the background are engaging in healthy activities, reflecting increased consumer interest in wellness. Vibrant, optimistic colors.
+🖼️ [BODY PROMPT 4]
+A person (female, 40s) is having a consultation with a functional medicine doctor. The doctor is pointing to a tablet displaying personalized health data and a customized supplement plan. The patient is listening attentively, holding a pen and notebook. The setting is a modern, comforting clinic with natural light.
+------------------------------------------------------------
