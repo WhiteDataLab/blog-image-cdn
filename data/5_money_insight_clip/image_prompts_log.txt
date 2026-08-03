@@ -922,3 +922,16 @@ A digital representation of a human body with various health metrics (heart rate
 🖼️ [BODY PROMPT 3]
 A close-up of a person's hand interacting with a transparent tablet displaying a secure data consent form with biometric authentication. The background shows blurred financial graphs, emphasizing the secure and ethical handling of personal health data in financial contexts.
 ------------------------------------------------------------
+
+[2026-08-03 11:09:35] 2026년 사망보험금 유동화: 종신보험을 노후 자금으로 전환하는 실용 가이드
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting a whole life insurance policy document transforming into a stack of gold coins or a digital currency symbol, set against a backdrop of a serene, modern retirement home. The color palette is professional and calm, with subtle hints of financial growth.
+🖼️ [BODY PROMPT 1]
+A split image: one side shows an elderly couple looking worriedly at a stack of bills, the other side shows the same couple smiling confidently while reviewing investment documents on a tablet, symbolizing financial relief and smart planning.
+🖼️ [BODY PROMPT 2]
+A close-up of a hand holding a magnifying glass over a complex financial document, with various charts and graphs in the background, illustrating detailed analysis and due diligence.
+🖼️ [BODY PROMPT 3]
+A clear, step-by-step infographic showing three distinct stages: "Assess & Plan," "Evaluate & Negotiate," and "Execute & Manage," each with relevant icons representing financial decisions, consultations, and successful outcomes.
+🖼️ [BODY PROMPT 4]
+A diverse group of financially savvy individuals (some elderly, some middle-aged) engaged in a lively discussion around a holographic financial projection, symbolizing collaborative and forward-thinking financial planning.
+------------------------------------------------------------
