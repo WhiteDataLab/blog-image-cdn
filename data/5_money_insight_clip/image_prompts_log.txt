@@ -935,3 +935,16 @@ A clear, step-by-step infographic showing three distinct stages: "Assess & Plan,
 🖼️ [BODY PROMPT 4]
 A diverse group of financially savvy individuals (some elderly, some middle-aged) engaged in a lively discussion around a holographic financial projection, symbolizing collaborative and forward-thinking financial planning.
 ------------------------------------------------------------
+
+[2026-08-04 10:52:27] 2026년 신규 gTLD 시대: 디지털 부동산, 도메인 투자로 새로운 부를 창출하는 법
+📸 [THUMBNAIL PROMPT]
+A futuristic cityscape with glowing digital lines connecting various buildings, symbolizing interconnected digital real estate. In the foreground, a magnifying glass hovers over a holographic globe displaying various gTLDs like .AI, .TECH, .SPACE, with financial charts overlaid. The overall mood is innovative and prosperous.
+🖼️ [BODY PROMPT 1]
+A diverse group of professionals (male and female, various ethnicities) in a modern co-working space, looking at a large holographic screen displaying a dynamic chart of gTLD market growth. They are engaged in discussion, symbolizing collaboration and strategic domain investment.
+🖼️ [BODY PROMPT 2]
+A close-up of a hand holding a tablet displaying a domain marketplace interface with various gTLDs (.AI, .TECH, .SHOP) listed with prices and growth charts. The background is slightly blurred, showing abstract digital patterns, emphasizing the tech-savvy nature of domain investment.
+🖼️ [BODY PROMPT 3]
+A professional investor (male, 40s, confident expression) in a sleek, modern office, looking out at a panoramic view of a city. He is holding a stylus, tapping on a transparent screen displaying a complex financial portfolio with a section dedicated to digital assets and domain names, illustrating strategic wealth management.
+🖼️ [BODY PROMPT 4]
+A vibrant, abstract digital art piece featuring interconnected nodes and glowing pathways, symbolizing the vast and growing network of the internet and the opportunities within the new gTLD space. The colors are dynamic, reflecting innovation and future potential.
+------------------------------------------------------------
