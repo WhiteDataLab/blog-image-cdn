@@ -945,3 +945,16 @@ A sleek, modern digital kiosk in a Korean supermarket, displaying product inform
 🖼️ [BODY PROMPT 4]
 A vibrant, artistically composed flat lay of various Korean supermarket finds: colorful instant ramen, unique Korean snacks, a jar of kimchi, a bottle of soju, and a small, beautifully packaged Korean cosmetic item, all arranged on a rustic wooden table.
 ------------------------------------------------------------
+
+[2026-08-04 10:48:42] Hyper-Personalized Indoor Sanctuaries: Crafting Your Unique Korean Home Oasis in 2026
+📸 [THUMBNAIL PROMPT]
+A stylish, minimalist Korean living room in 2026, bathed in soft, natural light. The space features bespoke furniture, integrated smart home tech subtly visible, and a curated selection of natural materials like light wood and textured fabrics. A single, elegant ceramic vase holds a branch of cherry blossoms. The overall atmosphere is serene, personalized, and inviting.
+🖼️ [BODY PROMPT 1]
+A young Korean woman in her late 20s, smiling softly as she adjusts a smart lighting system in her minimalist, personalized home office. The room features a custom-built desk, ergonomic chair, and a virtual window displaying a serene Korean mountain landscape. Natural light streams in, highlighting subtle smart home tech integrated into the design.
+🖼️ [BODY PROMPT 2]
+A modern Korean apartment living room featuring a subtle indoor vertical garden integrated into a light wood wall panel. A traditional Korean ceramic moon jar sits on a low, minimalist table. Sunlight filters through sheer curtains, highlighting the natural textures and serene atmosphere. A cat is peacefully napping on a soft rug.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a sleek, minimalist smart aroma diffuser emitting a gentle mist. In the soft-focused background, a hand is reaching for a small, beautifully designed Korean tea set on a low table, suggesting a moment of calm and self-care. The overall lighting is warm and inviting.
+🖼️ [BODY PROMPT 4]
+A beautifully designed, eco-conscious Korean kitchen in 2026. The space features countertops made from recycled materials, energy-efficient induction cooktops, and a small indoor herb garden under a skylight. Natural light floods the room, and a sustainable bamboo cutting board is visible on the counter, emphasizing conscious living.
+------------------------------------------------------------
