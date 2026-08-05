@@ -927,3 +927,16 @@ A beautifully plated, gourmet plant-based burger with fresh vegetables, served o
 🖼️ [BODY PROMPT 4]
 A flat lay shot of colorful and healthy plant-based ingredients for a meal prep: neatly arranged containers with lentil salad, tofu scramble, quinoa bowls, and fresh vegetables. The scene is organized and appealing, suggesting ease and health.
 ------------------------------------------------------------
+
+[2026-08-05 10:56:23] 2026년 치과 건강보험 확대: 무치악 어르신 임플란트부터 청소년 충치 레진까지, 달라지는 혜택 완벽 가이드
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern infographic illustrating dental health insurance expansion. On one side, a smiling elderly person with healthy implants, and on the other, a smiling teenager with a bright, healthy smile. Interconnecting lines and icons representing government support and financial relief. The overall aesthetic is clean, professional, and optimistic, with a focus on wellness and accessibility.
+🖼️ [BODY PROMPT 1]
+A close-up, realistic shot of a smiling elderly person, their healthy dental implants clearly visible. The background is softly blurred, suggesting a comfortable and modern dental clinic setting, with a warm, inviting light.
+🖼️ [BODY PROMPT 2]
+A bright, cheerful image of a teenager smiling confidently, showing off healthy, white teeth. In the background, a subtle, stylized graphic of resin fillings or dental tools, representing modern dental care.
+🖼️ [BODY PROMPT 3]
+A family (grandparents, parents, and a teenager) happily consulting with a friendly dentist in a modern dental office. They are looking at a tablet displaying information about dental health benefits, with an atmosphere of trust and clear communication.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of a healthy tooth radiating light, surrounded by interconnected icons symbolizing overall wellness, vitality, and family care. The colors are fresh and clean, conveying health and optimism.
+------------------------------------------------------------
