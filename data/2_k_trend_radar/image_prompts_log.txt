@@ -958,3 +958,16 @@ A close-up shot of a sleek, minimalist smart aroma diffuser emitting a gentle mi
 🖼️ [BODY PROMPT 4]
 A beautifully designed, eco-conscious Korean kitchen in 2026. The space features countertops made from recycled materials, energy-efficient induction cooktops, and a small indoor herb garden under a skylight. Natural light floods the room, and a sustainable bamboo cutting board is visible on the counter, emphasizing conscious living.
 ------------------------------------------------------------
+
+[2026-08-05 10:51:21] The Quiet Revolution: Navigating Korea's Emerging ASMR and Sensory Tourism Experiences in 2026
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist image featuring a person wearing sleek wireless headphones, eyes closed in a state of calm, with subtle visual cues of Korean traditional architecture elements (e.g., a blurred hanok roofline or a soft hanji paper texture) and gentle, abstract light patterns suggesting sensory immersion. The overall mood is peaceful and sophisticated.
+🖼️ [BODY PROMPT 1]
+A dimly lit, modern Korean tea house interior with soft, diffused lighting and minimalist wooden furniture. A person is gently pouring tea into a ceramic cup, creating a delicate sound ripple, while another person sits calmly, eyes closed, holding a textured teacup. Focus on the subtle details and serene atmosphere.
+🖼️ [BODY PROMPT 2]
+A close-up shot of hands gently touching different textures in a modern sensory garden, perhaps a smooth polished stone, a rough tree bark, and soft moss. The background is blurred with lush greenery and subtle water features. The focus is on the tactile experience.
+🖼️ [BODY PROMPT 3]
+A beautifully arranged set of small, elegant glass bottles containing various essential oils and natural Korean botanical extracts, with delicate labels. Soft, warm light illuminates the bottles, creating a sense of calm and sophistication. A hand is reaching for a dropper, suggesting a scent creation process.
+🖼️ [BODY PROMPT 4]
+A modern, minimalist architectural space in Korea, possibly a wellness retreat or a quiet cafe, with large windows overlooking a serene natural landscape (e.g., a bamboo forest or a calm lake). The interior is designed with clean lines, natural materials, and soft lighting, emphasizing tranquility and connection with nature.
+------------------------------------------------------------
