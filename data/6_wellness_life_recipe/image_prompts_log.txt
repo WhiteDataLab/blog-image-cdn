@@ -940,3 +940,24 @@ A family (grandparents, parents, and a teenager) happily consulting with a frien
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of a healthy tooth radiating light, surrounded by interconnected icons symbolizing overall wellness, vitality, and family care. The colors are fresh and clean, conveying health and optimism.
 ------------------------------------------------------------
+
+[2026-08-06 10:57:30] 2026년 웰니스, '직관의 힘'으로 돌아가다: 데이터 대신 내 몸의 소리에 귀 기울이는 법
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist illustration depicting a human silhouette with subtle glowing lines emanating from within, symbolizing intuition and inner wisdom, surrounded by soft, organic shapes representing nature, with a very faint, almost transparent overlay of abstract data points receding into the background. The color palette is calming and natural, with hints of warm light.
+🖼️ [BODY PROMPT 1]
+A person sitting peacefully in a sunlit room, eyes closed, one hand gently placed over their heart, with soft light filtering through a window. The scene evokes a sense of calm and introspection, emphasizing connection with inner self rather than external devices. Minimalist, warm aesthetic.
+🖼️ [BODY PROMPT 2]
+A person gracefully performing gentle yoga or stretching outdoors, perhaps in a park or by a calm body of water, at sunrise or sunset. Their movements are fluid and mindful, reflecting a connection to their body and the natural environment. The scene feels peaceful and empowering.
+🖼️ [BODY PROMPT 3]
+A minimalist desk setup with a journal, a pen, and a cup of herbal tea. Soft, natural light illuminates the scene, creating a peaceful and reflective atmosphere. No digital devices are visible, emphasizing a focus on analog self-reflection.
+🖼️ [BODY PROMPT 4]
+A stylized illustration of a person standing at a crossroads, with one path clearly labeled "Data" (represented by glowing digital lines) and another, more organic and naturally lit path labeled "Intuition" (represented by flowing water or soft light). The person is looking towards the "Intuition" path with a sense of calm determination. The overall style is modern and inspiring.
+🖼️ [BODY PROMPT 5]
+A person sitting peacefully in a sunlit room, eyes closed, one hand gently placed over their heart, with soft light filtering through a window. The scene evokes a sense of calm and introspection, emphasizing connection with inner self rather than external devices. Minimalist, warm aesthetic.
+🖼️ [BODY PROMPT 6]
+A person gracefully performing gentle yoga or stretching outdoors, perhaps in a park or by a calm body of water, at sunrise or sunset. Their movements are fluid and mindful, reflecting a connection to their body and the natural environment. The scene feels peaceful and empowering.
+🖼️ [BODY PROMPT 7]
+A minimalist desk setup with a journal, a pen, and a cup of herbal tea. Soft, natural light illuminates the scene, creating a peaceful and reflective atmosphere. No digital devices are visible, emphasizing a focus on analog self-reflection.
+🖼️ [BODY PROMPT 8]
+A stylized illustration of a person standing at a crossroads, with one path clearly labeled "Data" (represented by glowing digital lines) and another, more organic and naturally lit path labeled "Intuition" (represented by flowing water or soft light). The person is looking towards the "Intuition" path with a sense of calm determination. The overall style is modern and inspiring.
+------------------------------------------------------------
