@@ -91,3 +91,4 @@
 - Architecting Data Pipelines for Predictive Geopolitical Risk Assessment and Strategic Foresight.
 - Data Architectures for Self-Assembling and Programmable Matter: Engineering the Data Pipelines for Dynamic Material Systems
 - Architecting Data for Verifiable Provenance: Combating Deepfakes and Synthetic Media in the Enterprise.
+- Automating AI Governance: Engineering 'Policy-as-Code' for Proactive Compliance in 2026
