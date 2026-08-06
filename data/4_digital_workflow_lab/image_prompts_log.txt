@@ -979,3 +979,16 @@ A diverse team of office workers engaged in a collaborative session, looking rel
 🖼️ [BODY PROMPT 4]
 An abstract, artistic representation of AI and human collaboration, with interconnected nodes and glowing lines symbolizing data flow and positive mental states, set against a backdrop of a serene, futuristic office skyline.
 ------------------------------------------------------------
+
+[2026-08-06 10:54:55] AI 기반 상시 성과 관리: 2026년, 데이터로 직원의 성장을 이끄는 HR 혁신 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic HR dashboard with glowing data visualizations, showing employee growth metrics and AI insights, set against a blurred office background with diverse professionals collaborating. The overall aesthetic is clean, professional, and forward-thinking.
+🖼️ [BODY PROMPT 1]
+A diverse group of employees receiving personalized feedback on holographic screens, with an AI assistant icon subtly integrated into the interface. The scene should convey engagement and individual focus on growth.
+🖼️ [BODY PROMPT 2]
+A manager and an employee having a constructive one-on-one conversation in a modern office, with a tablet displaying AI-generated performance insights and development recommendations. The atmosphere is collaborative and supportive.
+🖼️ [BODY PROMPT 3]
+A visually appealing infographic or 3D chart illustrating key statistics: "89% employee satisfaction with AI-supported systems," "39% performance boost with frequent feedback," and "96% accuracy in predicting turnover." The design should be clean and professional.
+🖼️ [BODY PROMPT 4]
+A stylized representation of human and AI collaboration, with human hands and glowing AI elements (like neural networks or data streams) intertwining, symbolizing synergy and ethical AI use in HR.
+------------------------------------------------------------
