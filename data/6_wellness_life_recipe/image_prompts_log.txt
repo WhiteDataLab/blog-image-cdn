@@ -961,3 +961,14 @@ A minimalist desk setup with a journal, a pen, and a cup of herbal tea. Soft, na
 🖼️ [BODY PROMPT 8]
 A stylized illustration of a person standing at a crossroads, with one path clearly labeled "Data" (represented by glowing digital lines) and another, more organic and naturally lit path labeled "Intuition" (represented by flowing water or soft light). The person is looking towards the "Intuition" path with a sense of calm determination. The overall style is modern and inspiring.
 ------------------------------------------------------------
+
+[2026-08-07 11:19:27] 영양제 흡수율 혁명: 2026년 최신 바이오어베일러빌리티 기술로 내 몸에 최적화된 영양 설계
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek glass vial containing a glowing, vibrant liquid supplement, surrounded by holographic molecular structures and data points, symbolizing advanced bioavailability technology in 2026. The background is a clean, minimalist laboratory setting with soft, diffused lighting.
+🖼️ [BODY PROMPT 1]
+A stylized infographic showing the journey of a nutrient capsule transforming into highly absorbable nanoparticles within the human digestive system, with glowing pathways indicating efficient cellular uptake. The visual should be clean, scientific, and visually engaging.
+🖼️ [BODY PROMPT 2]
+A person (male or female, 30s-40s, healthy and active appearance) interacting with a holographic display showing their personalized genetic profile and recommended nutrient supplement formulations. The setting is modern and bright, emphasizing cutting-edge health technology.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand holding a transparent, advanced supplement capsule, with a soft focus on the intricate details inside, suggesting advanced formulation. In the background, a person is smiling, looking healthy and energetic, symbolizing the positive effects of optimized nutrition.
+------------------------------------------------------------
