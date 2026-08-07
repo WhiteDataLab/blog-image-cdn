@@ -974,3 +974,16 @@ A stylized infographic showing data flowing securely from a personal SSI wallet 
 🖼️ [BODY PROMPT 4]
 A person (representing a financially empowered individual) standing at the crossroads of a futuristic digital city, confidently looking towards a path labeled "Financial Data Sovereignty." The path is well-lit and leads to a vibrant, prosperous financial landscape, with subtle blockchain elements in the background.
 ------------------------------------------------------------
+
+[2026-08-07 11:18:23] 2026년 합성생물학 혁명: 유전자 설계에서 바이오 제조까지, 새로운 투자 기회 포착 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, vibrant image depicting DNA strands intertwining with circuit boards and glowing molecular structures, symbolizing the fusion of biology and technology in synthetic biology. The background features subtle hints of a modern laboratory and industrial biomanufacturing facilities, with a focus on innovation and investment growth. High-tech, professional, and visually striking.
+🖼️ [BODY PROMPT 1]
+A close-up, high-tech shot of a scientist's hands working with a holographic interface displaying complex DNA sequences and molecular models in a brightly lit, modern laboratory. The scientist is wearing gloves, and the overall impression is one of precision and advanced research.
+🖼️ [BODY PROMPT 2]
+A sleek, futuristic biomanufacturing facility interior, showcasing large bioreactors glowing with soft light, automated robotic arms moving samples, and clean, minimalist design. Emphasize the scale and efficiency of bio-based production.
+🖼️ [BODY PROMPT 3]
+A diverse group of professionals (scientists, engineers, business strategists) collaborating around a large interactive holographic display showing a complex synthetic biology workflow, from gene design to biomanufacturing scale-up. The atmosphere is innovative and dynamic.
+🖼️ [BODY PROMPT 4]
+A vibrant, conceptual image illustrating the diverse applications of synthetic biology: a petri dish containing glowing cells, a plant with enhanced growth, a futuristic food item, and a sustainable material, all interconnected by subtle glowing lines representing genetic pathways.
+------------------------------------------------------------
