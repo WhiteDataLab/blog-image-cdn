@@ -987,3 +987,16 @@ A diverse group of professionals (scientists, engineers, business strategists) c
 🖼️ [BODY PROMPT 4]
 A vibrant, conceptual image illustrating the diverse applications of synthetic biology: a petri dish containing glowing cells, a plant with enhanced growth, a futuristic food item, and a sustainable material, all interconnected by subtle glowing lines representing genetic pathways.
 ------------------------------------------------------------
+
+[2026-08-08 10:06:14] 2026년 ISA 제도 대변화: 기존 가입자를 위한 최적의 포트폴리오 재구성 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek infographic visualizing financial growth and smart investment strategies, with a prominent "ISA 2026" logo and upward-trending charts, set against a backdrop of a modern city skyline at dawn. The color palette is professional and optimistic, featuring deep blues, greens, and gold.
+🖼️ [BODY PROMPT 1]
+A split image showing two distinct financial dashboards. One side displays a traditional ISA portfolio with a steady, moderate growth curve. The other side showcases a dynamic, modern ISA portfolio with higher, more volatile growth, incorporating new asset classes and digital elements.
+🖼️ [BODY PROMPT 2]
+A diverse group of investors, representing different age groups and backgrounds, collaboratively analyzing a holographic projection of a global investment map. The map highlights various asset classes and regions, with data points indicating growth and potential.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand interacting with a transparent tablet, displaying real-time stock market data, a diversified portfolio pie chart, and a notification about ISA tax benefits. The background is slightly blurred, showing a modern office environment.
+🖼️ [BODY PROMPT 4]
+A stylized illustration of a person confidently navigating a complex financial maze, with clear pathways leading to "Tax Benefits," "Diversification," and "Growth." The overall aesthetic is clean, modern, and empowering.
+------------------------------------------------------------
