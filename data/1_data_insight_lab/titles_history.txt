@@ -93,3 +93,4 @@
 - Architecting Data for Verifiable Provenance: Combating Deepfakes and Synthetic Media in the Enterprise.
 - Automating AI Governance: Engineering 'Policy-as-Code' for Proactive Compliance in 2026
 - Architecting Data for a Circular Economy: Optimizing Material Flows and Lifecycle Intelligence in 2026.
+- Federated Analytics on Edge Devices for Real-time Insights
