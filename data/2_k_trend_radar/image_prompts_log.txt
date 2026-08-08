@@ -997,3 +997,16 @@ An array of beautifully packaged Hanbang-inspired skincare products, featuring e
 🖼️ [BODY PROMPT 4]
 A diverse group of foreigners participating in a guided Hanbang wellness program in a serene traditional Korean garden, learning about herbal remedies and mindful practices.
 ------------------------------------------------------------
+
+[2026-08-08 10:03:07] Seoul Botanic Park's "A Tender Balance" Exhibition: Where Art, Tech, and Nature Collide in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic botanical garden at dusk, with glowing holographic art installations integrated seamlessly among lush, exotic plants. A diverse group of people are captivated by the interactive light displays. The Seoul Botanic Park's iconic concave greenhouse is visible in the background, bathed in soft, dynamic light. High-quality, realistic, cinematic.
+🖼️ [BODY PROMPT 1]
+A visitor walks through a dimly lit section of Seoul Botanic Park's greenhouse, where bioluminescent digital plants glow softly, reacting to their presence. Delicate holographic butterflies flutter around real tropical foliage. The atmosphere is serene and otherworldly. High-quality, realistic, artistic.
+🖼️ [BODY PROMPT 2]
+A group of diverse visitors, including families and young adults, interact with a large-scale digital art installation within Seoul Botanic Park. The installation projects vibrant, abstract patterns of light and color onto a wall of living plants, and the patterns shift in response to human touch and movement. Joyful, dynamic, high-tech.
+🖼️ [BODY PROMPT 3]
+An artist (Um A-rong, Lee Ji-yeon, or Jang Han-na) leads a hands-on workshop in a bright, airy studio space within Seoul Botanic Park. Participants are creating small resin sculptures incorporating natural elements like dried flowers and leaves, guided by the artist. The atmosphere is creative and focused. Realistic, warm lighting.
+🖼️ [BODY PROMPT 4]
+A wide shot of Seoul Botanic Park on a sunny day. People are strolling along a path lined with lush greenery, with a modern art sculpture in the foreground that subtly integrates solar panels. The overall scene is harmonious, reflecting the balance of nature and technology. Bright, inviting, panoramic.
+------------------------------------------------------------
