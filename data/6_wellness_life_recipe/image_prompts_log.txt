@@ -972,3 +972,16 @@ A person (male or female, 30s-40s, healthy and active appearance) interacting wi
 🖼️ [BODY PROMPT 3]
 A close-up shot of a hand holding a transparent, advanced supplement capsule, with a soft focus on the intricate details inside, suggesting advanced formulation. In the background, a person is smiling, looking healthy and energetic, symbolizing the positive effects of optimized nutrition.
 ------------------------------------------------------------
+
+[2026-08-08 10:07:17] 2026년 웰니스, '더 열심히' 대신 '더 지혜롭게': 회복 중심의 지속 가능한 건강 전략
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist image depicting balance and recovery. A person in a comfortable, modern setting, perhaps meditating or gently stretching, with soft, ambient lighting. Elements of nature (a small plant) and subtle tech (a sleek wearable device on a table) are present, symbolizing the blend of natural and smart approaches to wellness. The overall mood is calm, sophisticated, and forward-looking.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a sleek, futuristic wearable device on a wrist, displaying personalized recovery data like heart rate variability, sleep quality scores, and stress levels. The background is blurred, suggesting a focus on individual health metrics in a modern, clean environment.
+🖼️ [BODY PROMPT 2]
+A person wearing a VR headset, immersed in a serene virtual environment like a peaceful forest or a calm beach, practicing mindfulness. The scene should convey tranquility and the innovative use of technology for mental well-being.
+🖼️ [BODY PROMPT 3]
+A cozy, modern bedroom with soft lighting. A person is comfortably asleep in bed, and subtle smart home devices (like a smart lamp with dimming light, a discreet air purifier, or a smart sleep mat) are visible, indicating a technologically enhanced environment optimized for restorative sleep.
+🖼️ [BODY PROMPT 4]
+A person engaging in a mindful activity like gentle yoga or deep breathing in a lush, green urban park or a serene forest. Sunlight filters through the trees, creating a sense of peace and connection with nature, emphasizing sustainable and environmentally conscious wellness.
+------------------------------------------------------------
