@@ -1010,3 +1010,14 @@ An artist (Um A-rong, Lee Ji-yeon, or Jang Han-na) leads a hands-on workshop in 
 🖼️ [BODY PROMPT 4]
 A wide shot of Seoul Botanic Park on a sunny day. People are strolling along a path lined with lush greenery, with a modern art sculpture in the foreground that subtly integrates solar panels. The overall scene is harmonious, reflecting the balance of nature and technology. Bright, inviting, panoramic.
 ------------------------------------------------------------
+
+[2026-08-09 10:05:20] The New Korean Luxury: Embracing "Unprofitable Pursuits" and Amateur Hobbies as a 2026 Status Symbol.
+📸 [THUMBNAIL PROMPT]
+A minimalist, elegant flat lay featuring artisanal Korean pottery, a handcrafted leather journal, and a vintage fountain pen, set against a muted backdrop, symbolizing refined, unprofitable pursuits as a luxury status in 2026 Korea.
+🖼️ [BODY PROMPT 1]
+A serene Korean woman in her late 30s, elegantly dressed, meticulously hand-building a delicate ceramic vase in a sunlit pottery studio, her expression focused and content.
+🖼️ [BODY PROMPT 2]
+A group of diverse individuals, dressed in comfortable yet stylish attire, participating in a traditional Korean natural dyeing workshop in a rustic, sun-drenched studio, focused on their fabric pieces.
+🖼️ [BODY PROMPT 3]
+A close-up shot of hands carefully arranging delicate dried flowers and leaves onto handmade Korean paper (hanji), illustrating the meticulous and calming nature of an amateur craft.
+------------------------------------------------------------
