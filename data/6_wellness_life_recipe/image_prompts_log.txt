@@ -985,3 +985,16 @@ A cozy, modern bedroom with soft lighting. A person is comfortably asleep in bed
 🖼️ [BODY PROMPT 4]
 A person engaging in a mindful activity like gentle yoga or deep breathing in a lush, green urban park or a serene forest. Sunlight filters through the trees, creating a sense of peace and connection with nature, emphasizing sustainable and environmentally conscious wellness.
 ------------------------------------------------------------
+
+[2026-08-10 10:12:19] 모두를 위한 움직임: 2026년, 신체 능력에 맞춰 즐기는 '적응형 피트니스' 가이드
+📸 [THUMBNAIL PROMPT]
+A diverse group of people of all ages and physical abilities happily exercising together in a modern, inclusive fitness center, some using adaptive equipment, with bright, natural light and a sense of community. The atmosphere is energetic and welcoming.
+🖼️ [BODY PROMPT 1]
+A senior woman with a gentle smile performing seated resistance band exercises with a virtual instructor on a large screen in her modern living room. The scene conveys ease, accessibility, and technology integration.
+🖼️ [BODY PROMPT 2]
+A person in a wheelchair enthusiastically participating in a VR cycling experience, wearing a sleek VR headset and gripping virtual handlebars. The background shows a vibrant, fantastical virtual landscape, emphasizing freedom and immersion.
+🖼️ [BODY PROMPT 3]
+A certified adaptive fitness coach guiding a small group of diverse individuals (including someone with a prosthetic leg and an older adult) through a gentle stretching routine in a bright, modern studio. The coach is demonstrating with clear, encouraging gestures.
+🖼️ [BODY PROMPT 4]
+A minimalist infographic showing three steps: 1. A doctor consulting a patient, 2. A person choosing an exercise icon from a tablet, 3. A group of diverse people smiling and high-fiving after a workout. Clean, modern design with clear icons.
+------------------------------------------------------------
