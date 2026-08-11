@@ -998,3 +998,14 @@ A certified adaptive fitness coach guiding a small group of diverse individuals 
 🖼️ [BODY PROMPT 4]
 A minimalist infographic showing three steps: 1. A doctor consulting a patient, 2. A person choosing an exercise icon from a tablet, 3. A group of diverse people smiling and high-fiving after a workout. Clean, modern design with clear icons.
 ------------------------------------------------------------
+
+[2026-08-11 10:15:32] Based on the latest trends observed in 2026, here are four attractive blog post topics for "웰니스 라이프 레시피" that are distinct from previously published articles:
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic smart water bottle glowing subtly, surrounded by fresh fruits like lemon, cucumber, and berries, with a holographic display showing personalized hydration data. The background is a minimalist, clean wellness space.
+🖼️ [BODY PROMPT 1]
+A person wearing a sleek smartwatch, looking at a holographic display showing their real-time hydration levels and personalized water intake recommendations. In the background, a modern, light-filled home gym.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a glass filled with sparkling water, fresh cucumber slices, and mint leaves, placed on a wooden table next to a small bowl of berries. Soft, natural light illuminates the scene, emphasizing freshness and natural ingredients.
+🖼️ [BODY PROMPT 3]
+A vibrant flat lay of various ingredients for infused water: sliced citrus fruits, colorful berries, fresh herbs like mint and basil, and elegant glass carafes filled with different infused water combinations. The aesthetic is clean and inviting.
+------------------------------------------------------------
