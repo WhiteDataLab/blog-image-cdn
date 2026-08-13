@@ -1052,3 +1052,16 @@ A sleek, minimalist infographic displaying key DePIN metrics: market capitalizat
 🖼️ [BODY PROMPT 4]
 A diverse group of individuals (various ages, genders, and ethnicities) from different parts of the world, each holding a small, glowing device (representing DePIN hardware) that is connected by a web of light. They are looking towards a bright, interconnected future, symbolizing global participation and shared prosperity through decentralized infrastructure. The background shows a blend of urban and natural landscapes.
 ------------------------------------------------------------
+
+[2026-08-13 10:21:51] 2026년 크리에이터 경제 시대: 불안정한 수익을 안정적인 자산으로 바꾸는 실전 재테크 가이드
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic digital landscape where various creator tools (camera, microphone, tablet with design software) are seamlessly integrated with financial growth charts and digital currency symbols, symbolizing the transformation of creative work into stable assets in 2026. The overall aesthetic is clean, professional, and slightly abstract, with a focus on technology and finance.
+🖼️ [BODY PROMPT 1]
+A dynamic infographic showing two contrasting graphs: one representing the volatile income of a creator with sharp peaks and valleys, and the other showing a steady, upward-trending line representing stable asset growth. The background features subtle digital lines and data points, emphasizing the financial aspect.
+🖼️ [BODY PROMPT 2]
+A sleek, modern desk setup with a creator working on a tablet, surrounded by various digital assets displayed as holograms: an NFT art piece, a blockchain ledger, and a stock market chart. The creator looks focused and empowered, symbolizing financial control through digital assets.
+🖼️ [BODY PROMPT 3]
+A diverse investment portfolio displayed as a sophisticated 3D holographic chart. Different segments represent various asset classes like stocks, bonds, real estate, and digital assets, all balanced and growing steadily. A hand points to a section, illustrating strategic allocation.
+🖼️ [BODY PROMPT 4]
+A modern, minimalist office space with a person reviewing financial documents on a tablet, while a holographic display shows tax forms and a calculator. The atmosphere is calm and organized, suggesting efficient financial management and tax planning.
+------------------------------------------------------------
