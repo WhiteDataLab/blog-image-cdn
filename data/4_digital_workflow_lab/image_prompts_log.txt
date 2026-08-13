@@ -1070,3 +1070,14 @@ A sleek, minimalist office desk with a tablet displaying a digital human coach p
 🖼️ [BODY PROMPT 4]
 A vibrant, abstract conceptual art piece representing the synergy between human intelligence and artificial intelligence. Intertwined light streams and geometric shapes symbolize data flow and connection, with a subtle, glowing human silhouette integrated within the digital patterns, suggesting seamless collaboration and enhanced potential.
 ------------------------------------------------------------
+
+[2026-08-13 10:20:54] AI 시민의식: 2026년, AI 시대의 윤리적 딜레마를 해결하는 직장인의 책임감 있는 AI 활용 원칙
+📸 [THUMBNAIL PROMPT]
+A professional office worker, mid-30s, looking thoughtfully at a holographic interface displaying AI-generated data and ethical guidelines, with a subtle glow of responsibility and innovation. The setting is a modern, minimalist office in 2026, showcasing advanced tech seamlessly integrated into the workspace. The color palette is cool blues and greens, emphasizing trust and future.
+🖼️ [BODY PROMPT 1]
+A diverse group of office workers in a modern meeting room, engaged in a discussion. One person points to a screen displaying a complex ethical flowchart related to AI use, while others show expressions of thoughtful consideration and debate. The atmosphere is collaborative and problem-solving.
+🖼️ [BODY PROMPT 2]
+A stylized infographic showing five distinct icons, each representing one of the AI usage principles. The icons are clean, modern, and interconnected, forming a circular flow. The background is a subtle digital grid pattern, emphasizing structure and technology.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand gently touching a glowing, transparent screen displaying a complex network of data and ethical symbols. The hand represents human guidance and control over technology, with a warm, optimistic light emanating from the interaction. The background is softly blurred, focusing on the human-tech interface.
+------------------------------------------------------------
