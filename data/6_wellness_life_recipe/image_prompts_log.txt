@@ -1022,3 +1022,16 @@ A close-up shot of a hand gently holding a transparent tablet, displaying a soph
 🖼️ [BODY PROMPT 4]
 A person stands confidently on a serene mountain peak at sunrise, arms outstretched, gazing at a futuristic city skyline in the distance. The city glows with subtle health-related icons and data streams, symbolizing a future where digital therapeutics empower individuals to achieve optimal health and well-being. The atmosphere is hopeful and expansive.
 ------------------------------------------------------------
+
+[2026-08-13 10:23:19] 반려동물과 함께하는 웰니스: 2026년, 인간-동물 유대감이 선사하는 새로운 건강 시너지
+📸 [THUMBNAIL PROMPT]
+A serene and heartwarming scene of a young Korean woman gently embracing her golden retriever on a sunlit balcony, overlooking a modern city skyline. The woman is smiling softly, and the dog looks content, symbolizing the deep human-animal bond and shared wellness. The atmosphere is warm and inviting, with a touch of modern aesthetic.
+🖼️ [BODY PROMPT 1]
+A vibrant, wide-angle shot of a diverse group of people joyfully hiking with their dogs on a scenic mountain trail. The sun is shining, and the dogs are happily trotting alongside their owners, capturing the essence of shared physical activity and outdoor adventure.
+🖼️ [BODY PROMPT 2]
+A cozy indoor scene where a person is sitting on a plush sofa, gently stroking a purring cat curled up on their lap. Soft, warm lighting creates a peaceful atmosphere, highlighting the comfort and emotional connection between them.
+🖼️ [BODY PROMPT 3]
+A futuristic, minimalist graphic showcasing a sleek pet collar emitting holographic data. The data visualizes real-time biometric information like heart rate, activity levels, and sleep patterns, with a smartphone interface displaying personalized pet wellness insights. The background is clean and tech-inspired.
+🖼️ [BODY PROMPT 4]
+A heartwarming scene at a modern, pet-friendly community center or park. People of various ages are interacting with their dogs and cats, participating in a light yoga session or simply enjoying each other's company. The atmosphere is joyful and inclusive, emphasizing community and shared wellness experiences.
+------------------------------------------------------------
