@@ -1035,3 +1035,24 @@ A futuristic, minimalist graphic showcasing a sleek pet collar emitting holograp
 🖼️ [BODY PROMPT 4]
 A heartwarming scene at a modern, pet-friendly community center or park. People of various ages are interacting with their dogs and cats, participating in a light yoga session or simply enjoying each other's company. The atmosphere is joyful and inclusive, emphasizing community and shared wellness experiences.
 ------------------------------------------------------------
+
+[2026-08-14 10:19:50] 2026년 최신 피트니스 트렌드: '러킹'으로 근력과 지구력을 동시에 잡는 법
+📸 [THUMBNAIL PROMPT]
+A dynamic, high-angle shot of a person rucking on a scenic trail in 2026, wearing modern, minimalist rucking gear. The sun is rising, casting a golden glow. Emphasize strength and endurance through their determined posture and the natural, challenging environment. Futuristic fitness tracker visible on wrist.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a modern, sleek rucksack with specialized weight plates inside, placed on a rugged outdoor path. The background is slightly blurred, showing a person's legs in hiking boots, implying movement. Focus on the quality and design of the rucking gear.
+🖼️ [BODY PROMPT 2]
+A diverse group of people of various ages and fitness levels happily rucking together on a wide, tree-lined park path during a sunny afternoon in 2026. They are smiling and interacting, showcasing the social and accessible aspect of rucking. Modern, comfortable activewear.
+🖼️ [BODY PROMPT 3]
+A minimalist infographic displaying key benefits of rucking, such as "Strength," "Endurance," "Cardio," "Posture," and "Mental Clarity," using clean lines, modern typography, and subtle glowing effects on a dark background. Incorporate subtle 2026 tech aesthetics.
+🖼️ [BODY PROMPT 4]
+A person's strong, muscular legs in rugged hiking boots are seen striding confidently on a forest trail, with a weighted backpack visible on their back. The sunlight filters through the trees, creating a sense of peace and determination. Focus on the action and the natural environment.
+🖼️ [BODY PROMPT 5]
+A close-up shot of a modern, sleek rucksack with specialized weight plates inside, placed on a rugged outdoor path. The background is slightly blurred, showing a person's legs in hiking boots, implying movement. Focus on the quality and design of the rucking gear.
+🖼️ [BODY PROMPT 6]
+A diverse group of people of various ages and fitness levels happily rucking together on a wide, tree-lined park path during a sunny afternoon in 2026. They are smiling and interacting, showcasing the social and accessible aspect of rucking. Modern, comfortable activewear.
+🖼️ [BODY PROMPT 7]
+A minimalist infographic displaying key benefits of rucking, such as "Strength," "Endurance," "Cardio," "Posture," and "Mental Clarity," using clean lines, modern typography, and subtle glowing effects on a dark background. Incorporate subtle 2026 tech aesthetics.
+🖼️ [BODY PROMPT 8]
+A person's strong, muscular legs in rugged hiking boots are seen striding confidently on a forest trail, with a weighted backpack visible on their back. The sunlight filters through the trees, creating a sense of peace and determination. Focus on the action and the natural environment.
+------------------------------------------------------------
