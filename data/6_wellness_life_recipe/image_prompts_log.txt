@@ -1056,3 +1056,24 @@ A minimalist infographic displaying key benefits of rucking, such as "Strength,"
 🖼️ [BODY PROMPT 8]
 A person's strong, muscular legs in rugged hiking boots are seen striding confidently on a forest trail, with a weighted backpack visible on their back. The sunlight filters through the trees, creating a sense of peace and determination. Focus on the action and the natural environment.
 ------------------------------------------------------------
+
+[2026-08-15 09:53:30] 2026년 식탁을 물들일 보랏빛 슈퍼푸드 '우베': 혈당부터 장 건강까지 잡는 법
+📸 [THUMBNAIL PROMPT]
+A vibrant, aesthetically pleasing flat lay of various ube-based dishes and ingredients on a wooden table, featuring a rich purple color palette. Include fresh ube tubers, ube halaya, ube bread, and a smoothie, with subtle health-related elements like a blood sugar monitor or probiotic supplements in the background, all in a modern, clean style.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a sliced ube tuber revealing its deep purple flesh, alongside a continuous glucose monitor (CGM) device on an arm, subtly suggesting blood sugar management. The background is a clean, modern kitchen counter.
+🖼️ [BODY PROMPT 2]
+A vibrant purple ube smoothie bowl topped with fresh berries, chia seeds, and a sprinkle of granola, placed on a rustic wooden table. In the background, a subtle, stylized holographic chart depicting a healthy gut microbiome with diverse bacteria strains.
+🖼️ [BODY PROMPT 3]
+A modern, minimalist kitchen scene with a person (gender neutral, mid-30s) preparing a healthy meal. They are adding a scoop of purple ube powder into a blender with fruits for a smoothie, with natural light streaming in. The overall atmosphere is calm and health-conscious.
+🖼️ [BODY PROMPT 4]
+A beautifully arranged plate featuring a healthy ube-infused meal, perhaps a savory ube mash with grilled vegetables and lean protein, or a small portion of ube dessert with minimal sugar. The presentation is elegant and appealing, emphasizing both health and gourmet aspects.
+🖼️ [BODY PROMPT 5]
+A close-up shot of a sliced ube tuber revealing its deep purple flesh, alongside a continuous glucose monitor (CGM) device on an arm, subtly suggesting blood sugar management. The background is a clean, modern kitchen counter.
+🖼️ [BODY PROMPT 6]
+A vibrant purple ube smoothie bowl topped with fresh berries, chia seeds, and a sprinkle of granola, placed on a rustic wooden table. In the background, a subtle, stylized holographic chart depicting a healthy gut microbiome with diverse bacteria strains.
+🖼️ [BODY PROMPT 7]
+A modern, minimalist kitchen scene with a person (gender neutral, mid-30s) preparing a healthy meal. They are adding a scoop of purple ube powder into a blender with fruits for a smoothie, with natural light streaming in. The overall atmosphere is calm and health-conscious.
+🖼️ [BODY PROMPT 8]
+A beautifully arranged plate featuring a healthy ube-infused meal, perhaps a savory ube mash with grilled vegetables and lean protein, or a small portion of ube dessert with minimal sugar. The presentation is elegant and appealing, emphasizing both health and gourmet aspects.
+------------------------------------------------------------
