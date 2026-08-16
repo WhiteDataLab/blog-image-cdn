@@ -1077,3 +1077,16 @@ A modern, minimalist kitchen scene with a person (gender neutral, mid-30s) prepa
 🖼️ [BODY PROMPT 8]
 A beautifully arranged plate featuring a healthy ube-infused meal, perhaps a savory ube mash with grilled vegetables and lean protein, or a small portion of ube dessert with minimal sugar. The presentation is elegant and appealing, emphasizing both health and gourmet aspects.
 ------------------------------------------------------------
+
+[2026-08-16 09:53:53] 암 환자의 가임력 보존: 치료 후 삶의 질을 높이는 필수 웰니스 전략
+📸 [THUMBNAIL PROMPT]
+A hopeful image of a young woman, a cancer survivor, gently touching her belly, with a soft, warm glow around her. In the background, subtle medical symbols blend with elements of nature, symbolizing healing and new life. The overall mood is serene and optimistic, with a focus on future possibilities.
+🖼️ [BODY PROMPT 1]
+A sophisticated, minimalist infographic displaying the various fertility preservation methods for cancer patients, such as egg freezing, sperm freezing, and ovarian tissue cryopreservation. Each method is represented by a clean icon and a brief description, highlighting technological advancements and hope.
+🖼️ [BODY PROMPT 2]
+A diverse group of cancer survivors, smiling and engaged in various wellness activities like yoga, light walking, and healthy cooking. The scene should convey a sense of community, support, and active pursuit of a healthy life post-treatment, with a focus on vitality and well-being.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a doctor and a patient (a young woman) engaged in a compassionate and informative discussion, possibly reviewing a digital chart or medical imaging. The atmosphere is empathetic and professional, emphasizing personalized care and shared decision-making regarding fertility preservation.
+🖼️ [BODY PROMPT 4]
+A symbolic image of a blooming flower emerging from a resilient, cracked ground, with subtle medical instruments or DNA strands intertwined in the roots. The overall message is one of resilience, growth, and the blossoming of new life after adversity, combining natural beauty with scientific hope.
+------------------------------------------------------------
