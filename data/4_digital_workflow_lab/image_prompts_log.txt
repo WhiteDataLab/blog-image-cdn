@@ -1105,3 +1105,16 @@ A sleek, minimalist office environment bathed in soft, natural light. A holograp
 🖼️ [BODY PROMPT 4]
 A professional, diverse team (male and female, various ages) in a modern meeting room, engaged in a strategic discussion. A large screen behind them shows a complex, but clearly structured AI governance framework with interconnected modules for ethics, compliance, and human oversight. The atmosphere is thoughtful and collaborative.
 ------------------------------------------------------------
+
+[2026-08-16 09:51:45] 업무 흐름에 녹아드는 마이크로러닝: 2026년 직장인의 '틈새 성장' 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist office worker in 2026, seamlessly integrating a microlearning module on a transparent AR display that hovers over their desk, while a holographic chart visualizes skill growth. The overall aesthetic is futuristic, professional, and efficient, emphasizing "niche growth" through technology.
+🖼️ [BODY PROMPT 1]
+A diverse group of office workers in a modern, open-plan office in 2026, each engaged in a personalized microlearning session on their devices (tablet, smartphone, AR glasses). Some are smiling, indicating engagement, while a subtle overlay of gamification elements (points, badges) is visible. The scene should convey seamless integration of learning into daily work.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a professional's hand interacting with a tablet displaying a microlearning module. The interface is clean and modern, showing a short video tutorial or an interactive quiz. In the background, a blurred office environment suggests that learning is happening amidst work, not separate from it. Focus on the seamless digital interaction.
+🖼️ [BODY PROMPT 3]
+A holographic dashboard in a modern office, displaying various analytics related to employee learning. Charts show completion rates, skill acquisition, and engagement levels for microlearning modules. The data is visually appealing and easy to interpret, emphasizing data-driven decision-making in corporate learning.
+🖼️ [BODY PROMPT 4]
+A group of diverse professionals in a bright, collaborative workspace, engaged in a discussion. One person is pointing to a screen showing a microlearning module related to their current project. The atmosphere is positive and collaborative, illustrating the impact of continuous, integrated learning on team dynamics and problem-solving.
+------------------------------------------------------------
