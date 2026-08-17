@@ -1108,3 +1108,16 @@ A vibrant, stylized infographic showing interconnected nodes representing Korean
 🖼️ [BODY PROMPT 3]
 A close-up shot of a Korean AI engineer, looking thoughtfully at a screen displaying a complex neural network. The background is slightly blurred, showing diverse individuals from various countries participating in a virtual conference, symbolizing international cooperation in AI development for humanitarian purposes.
 ------------------------------------------------------------
+
+[2026-08-17 09:47:30] South Korea's Polar Frontier: Navigating 2026's Ambitious Research Expeditions and International Collaborations.
+📸 [THUMBNAIL PROMPT]
+A sleek, modern icebreaker ship with the South Korean flag prominently displayed, navigating through pristine, icy polar waters under a dramatic aurora borealis sky. The ship is equipped with advanced research technology, with a subtle glow emanating from its scientific instruments.
+🖼️ [BODY PROMPT 1]
+A team of diverse scientists, some wearing South Korean flag patches, working diligently on the deck of the R/V Araon icebreaker in the Arctic. They are collecting samples and operating advanced scientific equipment, with a backdrop of vast, calm icy waters and a clear, cold sky.
+🖼️ [BODY PROMPT 2]
+A vibrant, abstract infographic showing interconnected nodes representing different countries (South Korea, USA, Norway, Germany) linked by glowing lines, symbolizing international collaboration in polar research. Data streams and scientific symbols float around the nodes.
+🖼️ [BODY PROMPT 3]
+A highly detailed 3D render of an advanced autonomous underwater vehicle (AUV) with a sleek, futuristic design, gliding silently beneath a thick sheet of ice. Its sensors are subtly glowing, indicating data collection in the dark, cold polar waters.
+🖼️ [BODY PROMPT 4]
+A South Korean researcher, bundled in warm polar gear, standing at a research station with a vast, untouched snowy landscape stretching into the horizon. The sun is low, casting long shadows, and a sense of quiet determination is conveyed.
+------------------------------------------------------------
