@@ -1103,3 +1103,16 @@ A serene bedroom scene with smart lighting subtly shifting from warm amber in th
 🖼️ [BODY PROMPT 4]
 A futuristic dashboard displaying a personalized chronowellness profile, with AI-generated recommendations for meal times, exercise schedules, and light exposure, based on real-time biometric data from a wearable device.
 ------------------------------------------------------------
+
+[2026-08-18 09:50:57] 디지털 디톡스 걷기: 2026년 '조용한 걷기'로 혈압 낮추고 마음 챙기는 법
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist illustration of a person walking alone on a path surrounded by soft, natural light. The person is seen from behind, with no digital devices visible. Subtle glowing lines emanate from their body, symbolizing peace and renewed energy. The overall aesthetic is clean, modern, and calming, with a focus on tranquility and nature.
+🖼️ [BODY PROMPT 1]
+A person walking barefoot on a mossy forest path, surrounded by tall, ancient trees. Sunlight filters through the canopy, creating dappled light on the ground. The person's eyes are gently closed or downcast, with a serene expression, fully immersed in the natural sounds and sensations. The image evokes a sense of deep calm and connection to nature.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a person's feet in comfortable, minimalist walking shoes, gently stepping on fallen autumn leaves in a park. The focus is on the rhythmic motion of the feet and the tactile experience of walking, with soft, diffused sunlight illuminating the path. The background is slightly blurred to emphasize the immediate sensory experience.
+🖼️ [BODY PROMPT 3]
+A vibrant, abstract representation of neural pathways and calming brain activity. The image uses soft, flowing lines and a gradient of cool blues and greens, with subtle, glowing nodes indicating heightened focus and reduced stress. It could be a 3D virtual graphic or a holographic chart, symbolizing the scientific benefits of mindful movement on brain health and emotional regulation.
+🖼️ [BODY PROMPT 4]
+A diverse group of people of various ages and backgrounds, dressed in comfortable, modern casual wear, walking together in a sunlit urban park. They are smiling and engaged in quiet conversation or simply enjoying the peaceful atmosphere, with no visible phones or earbuds. The scene conveys a sense of community, shared well-being, and intentional disconnection in a contemporary setting.
+------------------------------------------------------------
