@@ -1116,3 +1116,16 @@ A vibrant, abstract representation of neural pathways and calming brain activity
 🖼️ [BODY PROMPT 4]
 A diverse group of people of various ages and backgrounds, dressed in comfortable, modern casual wear, walking together in a sunlit urban park. They are smiling and engaged in quiet conversation or simply enjoying the peaceful atmosphere, with no visible phones or earbuds. The scene conveys a sense of community, shared well-being, and intentional disconnection in a contemporary setting.
 ------------------------------------------------------------
+
+[2026-08-19 09:53:09] '천연 위고비'의 함정: 2026년 SNS 유행 다이어트, 현직 의사가 경고하는 진짜 건강 상식
+📸 [THUMBNAIL PROMPT]
+A visually striking image depicting a stylized "natural" element (like a leaf or herb) intertwined with a subtly blurred, futuristic medical syringe, overlaid with a prominent, glowing red warning symbol. The background is a clean, modern health and wellness setting, suggesting a clash between natural claims and scientific reality. The overall tone is sophisticated yet cautionary.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a smartphone screen displaying various misleading social media posts about "natural Wegovy" or "miracle diet foods." The user's hand is hovering over the screen, showing a mix of curiosity and skepticism. The background is slightly blurred, suggesting a busy, information-overloaded digital environment.
+🖼️ [BODY PROMPT 2]
+A doctor in a modern, clean clinic setting, looking directly at the viewer with a serious yet empathetic expression. They are gesturing slightly with their hands, as if explaining a crucial point about health and safety. A medical chart or a subtle infographic about GLP-1 is visible on a screen in the background.
+🖼️ [BODY PROMPT 3]
+A vibrant, aesthetically pleasing plate filled with a variety of colorful, fresh whole foods: leafy greens, lean protein (e.g., grilled salmon or chicken breast), quinoa, and brightly colored berries. The setting is bright and natural, emphasizing healthy, wholesome eating.
+🖼️ [BODY PROMPT 4]
+A serene image of a person enjoying a brisk walk outdoors in a natural setting (e.g., a park or forest path), with sunlight filtering through trees. They look calm and focused, embodying a balanced and active lifestyle. The overall mood is one of peace and sustainable well-being.
+------------------------------------------------------------
