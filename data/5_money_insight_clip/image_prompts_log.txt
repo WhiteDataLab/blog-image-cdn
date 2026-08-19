@@ -1115,3 +1115,16 @@ A diverse group of people, including a young professional and an older couple, a
 🖼️ [BODY PROMPT 3]
 A futuristic financial dashboard displayed on a transparent screen, showing real-time market data, personalized investment portfolios, and AI-driven insights. A human hand gestures towards the screen, indicating interaction and control. The scene is clean, sophisticated, and forward-looking.
 ------------------------------------------------------------
+
+[2026-08-19 09:52:02] 2026년 '중립 금리' 시대 도래: 자산 시장의 대전환과 개인 투자자의 포트폴리오 재구성 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting a balanced scale with a central pivot point, symbolizing the "neutral interest rate." On one side, stylized icons of stocks and real estate, on the other, bonds and alternative assets. The background is a blurred, futuristic cityscape at dawn, suggesting a new economic era. The color palette is cool blues, silvers, and subtle gold accents.
+🖼️ [BODY PROMPT 1]
+A digital rendering of a central bank meeting room, with a large holographic chart displaying a stable, flat interest rate curve over time, contrasted with past volatile curves. The atmosphere is calm and focused, with diverse financial professionals observing the data.
+🖼️ [BODY PROMPT 2]
+A dynamic split image. One side shows a bustling stock trading floor with screens displaying green upward trends for specific companies, not the entire market. The other side shows a serene, modern data center interior with rows of servers, symbolizing stable infrastructure investments. The overall feel is one of precision and targeted growth.
+🖼️ [BODY PROMPT 3]
+A person (mid-30s, professional, Korean) thoughtfully reviewing a tablet displaying a diversified investment portfolio pie chart. The chart shows various asset classes (stocks, bonds, real estate, alternatives) with balanced proportions. The background is a bright, modern home office, suggesting personal financial management.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of interconnected global financial markets. Lines and nodes glow, symbolizing data flow and investment paths across continents. In the foreground, a subtle holographic interface shows a diversified portfolio with real-time data, emphasizing global reach and technological integration.
+------------------------------------------------------------
