@@ -1129,3 +1129,16 @@ A vibrant, aesthetically pleasing plate filled with a variety of colorful, fresh
 🖼️ [BODY PROMPT 4]
 A serene image of a person enjoying a brisk walk outdoors in a natural setting (e.g., a park or forest path), with sunlight filtering through trees. They look calm and focused, embodying a balanced and active lifestyle. The overall mood is one of peace and sustainable well-being.
 ------------------------------------------------------------
+
+[2026-08-20 09:53:00] 죄책감 없는 즐거움: 2026년, 좋아하는 간식을 현명하게 즐기며 지속 가능한 다이어트 하는 법
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern flat lay of various healthy and appealing snacks (colorful fruits, nuts, small portion of dark chocolate, yogurt parfait in a sleek glass) arranged artfully on a minimalist wooden table, with a smartphone displaying a wellness app and a small notebook. Soft, natural lighting. High-resolution, inviting, and clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A person in a modern, bright kitchen, smiling as they mindfully enjoy a small, healthy snack (e.g., a handful of berries or a piece of dark chocolate). The focus is on their calm, satisfied expression and the act of savoring the food. Soft, natural light, clean background.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a person's hands gently holding a small bowl of colorful, fresh berries. The background is slightly blurred, emphasizing the act of mindful eating. The lighting is soft and inviting, highlighting the natural beauty of the fruit.
+🖼️ [BODY PROMPT 3]
+A sleek, futuristic smartphone or tablet displaying a personalized wellness app interface. The screen shows a customized snack recommendation based on user data (e.g., "Your ideal afternoon snack: Almonds & Apple slices"). A subtle holographic chart or data visualization could be integrated into the background, symbolizing AI analysis.
+🖼️ [BODY PROMPT 4]
+A person (could be male or female, diverse) looking thoughtfully at a food label on a healthy snack package in a modern supermarket aisle. The focus is on the detailed information on the label and the person's engaged expression. The background shows other healthy food options.
+------------------------------------------------------------
