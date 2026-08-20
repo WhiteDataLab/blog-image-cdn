@@ -1128,3 +1128,24 @@ A person (mid-30s, professional, Korean) thoughtfully reviewing a tablet display
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of interconnected global financial markets. Lines and nodes glow, symbolizing data flow and investment paths across continents. In the foreground, a subtle holographic interface shows a diversified portfolio with real-time data, emphasizing global reach and technological integration.
 ------------------------------------------------------------
+
+[2026-08-20 09:50:46] AI 시대, 일자리 변화에 대비하는 청년층의 스마트 재정 설계: 'AI 고노출' 직업군의 생존 전략과 새로운 자산 증식 기회
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic image showing a young person confidently navigating a holographic financial dashboard, with AI-driven charts and graphs floating around them, symbolizing smart financial planning in the age of artificial intelligence. The background features subtle digital cityscapes and neural network patterns, emphasizing the AI era.
+🖼️ [BODY PROMPT 1]
+A diverse group of young professionals in a modern, collaborative workspace. Some are interacting with advanced holographic displays showing data visualizations, while others are engaged in discussions, symbolizing the blend of human creativity and AI technology in the evolving job market.
+🖼️ [BODY PROMPT 2]
+A split image: one side shows a young person efficiently managing multiple digital tasks on a laptop with AI assistant interfaces, representing income diversification through AI. The other side shows a growth chart with upward trends and digital currency symbols, illustrating new wealth creation opportunities.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist interface of an AI-powered financial advisor app on a tablet, showing a diversified investment portfolio with real-time market data and personalized recommendations. A young person is thoughtfully reviewing it in a comfortable, modern setting.
+🖼️ [BODY PROMPT 4]
+A metaphorical image of a young person standing at a crossroads, with one path leading to traditional jobs and the other to a futuristic landscape filled with AI-driven opportunities and digital wealth. The person is confidently stepping towards the AI path, symbolizing embracing the future.
+🖼️ [BODY PROMPT 5]
+A diverse group of young professionals in a modern, collaborative workspace. Some are interacting with advanced holographic displays showing data visualizations, while others are engaged in discussions, symbolizing the blend of human creativity and AI technology in the evolving job market.
+🖼️ [BODY PROMPT 6]
+A split image: one side shows a young person efficiently managing multiple digital tasks on a laptop with AI assistant interfaces, representing income diversification through AI. The other side shows a growth chart with upward trends and digital currency symbols, illustrating new wealth creation opportunities.
+🖼️ [BODY PROMPT 7]
+A sleek, minimalist interface of an AI-powered financial advisor app on a tablet, showing a diversified investment portfolio with real-time market data and personalized recommendations. A young person is thoughtfully reviewing it in a comfortable, modern setting.
+🖼️ [BODY PROMPT 8]
+A metaphorical image of a young person standing at a crossroads, with one path leading to traditional jobs and the other to a futuristic landscape filled with AI-driven opportunities and digital wealth. The person is confidently stepping towards the AI path, symbolizing embracing the future.
+------------------------------------------------------------
