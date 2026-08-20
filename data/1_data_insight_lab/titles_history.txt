@@ -103,3 +103,4 @@
 - Data Persistence and Processing at the Edge: Leveraging Compute-in-Memory and Advanced Non-Volatile Memory for Ultra-Low Latency.
 - Architecting Data Pipelines for DNA Storage: Enabling Century-Scale Archival and AI Workloads in 2026
 - Data Architectures for Personalized Digital Well-being and Cognitive Load Management
+- Microfluidics for AI Chip Cooling: Architecting Data Pipelines for Ultra-Efficient Hyperscale Computing in 2026.
