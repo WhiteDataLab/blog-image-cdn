@@ -1142,3 +1142,16 @@ A sleek, futuristic smartphone or tablet displaying a personalized wellness app 
 🖼️ [BODY PROMPT 4]
 A person (could be male or female, diverse) looking thoughtfully at a food label on a healthy snack package in a modern supermarket aisle. The focus is on the detailed information on the label and the person's engaged expression. The background shows other healthy food options.
 ------------------------------------------------------------
+
+[2026-08-21 09:56:29] 2026년, 집에서 미리 확인하는 건강 신호: 가정용 정밀 진단 기기 활용법
+📸 [THUMBNAIL PROMPT]
+A futuristic, minimalist home environment with a sleek, glowing health diagnostic device on a clean surface, surrounded by subtle digital health interfaces and a serene, healthy individual in the background, symbolizing proactive health management in 2026. High-tech, clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A diverse group of people of various ages, including a senior couple and a young adult, comfortably using different home diagnostic devices in a modern, brightly lit living room. One person is checking blood pressure with a smart cuff, another is using a wearable sensor, and a third is interacting with a smart health mirror. The scene should convey ease of use and integration into daily life.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a person's finger being pricked by a tiny, automated home blood testing device, with a drop of blood appearing. The device is sleek and modern, connected wirelessly to a tablet displaying real-time results in a clear, easy-to-understand graphic interface. Focus on precision and user-friendliness.
+🖼️ [BODY PROMPT 3]
+A person is reviewing their personalized health data on a large, transparent holographic display in their home. The display shows trends in vital signs, genetic insights, and AI-generated wellness recommendations. The individual looks empowered and informed, surrounded by a smart home environment.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of interconnected health data points forming a neural network or a complex biological system, glowing with soft, futuristic light. The image should convey the idea of comprehensive, integrated health insights derived from various home diagnostic devices.
+------------------------------------------------------------
