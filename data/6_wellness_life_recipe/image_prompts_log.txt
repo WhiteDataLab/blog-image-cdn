@@ -1166,3 +1166,16 @@ A modern, open-plan office space in 2026. Different zones are subtly defined by 
 🖼️ [BODY PROMPT 3]
 A person in a tranquil outdoor setting, perhaps a forest or by a gentle stream, wearing advanced, discreet earbuds. Their eyes are closed in peaceful contemplation, as if deeply connected to the natural soundscape around them, enhanced by technology. The scene emphasizes harmony between nature and tech.
 ------------------------------------------------------------
+
+[2026-08-23 09:57:24] '측정' 대신 '경험'으로: 2026년, 즐거움과 감각을 통한 진정한 웰니스 회복법
+📸 [THUMBNAIL PROMPT]
+A serene person with eyes closed, gently touching a plant, surrounded by soft, warm light. The background is blurred, suggesting a natural, calming environment. Subtle digital overlays hint at sensory input rather than data. Minimalist, high-quality photography style.
+🖼️ [BODY PROMPT 1]
+A person meditating in a beautifully designed, minimalist living room with large windows overlooking a lush garden. Soft sunlight streams in, highlighting natural textures and calming colors. A subtle aroma diffuser is visible in the foreground.
+🖼️ [BODY PROMPT 2]
+A group of diverse adults laughing and engaged in a vibrant board game session in a cozy cafe. Colorful game pieces and drinks are on the table, and the atmosphere is joyful and relaxed.
+🖼️ [BODY PROMPT 3]
+A person gently tending to a small, vibrant indoor herb garden on a sunny windowsill. The scene emphasizes fresh greenery, natural light, and a sense of calm and connection to nature.
+🖼️ [BODY PROMPT 4]
+A stylized infographic showing a brain connected to various sensory organs (eyes, ears, nose, tongue, skin) with lines flowing towards a central heart icon. The overall aesthetic is clean, modern, and conveys a sense of holistic well-being through sensory input.
+------------------------------------------------------------
