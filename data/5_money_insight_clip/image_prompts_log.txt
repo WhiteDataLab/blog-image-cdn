@@ -1188,3 +1188,14 @@ A sleek, minimalist digital interface displaying a personalized financial dashbo
 🖼️ [BODY PROMPT 4]
 A person (male, 30s) meticulously reviewing a digital document on a tablet, with a generative AI interface subtly visible in the background. The scene emphasizes human oversight, critical thinking, and legal compliance in the age of AI-generated content and IP management.
 ------------------------------------------------------------
+
+[2026-08-24 09:53:25] 2026년, '시간 자본'을 극대화하는 개인 재정 전략: 투자 수익률을 넘어선 시간 활용의 경제학
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic clock face with gears subtly transforming into financial charts and digital currency symbols, set against a blurred background of a bustling smart city at dawn. The overall tone is sophisticated and forward-looking, emphasizing the convergence of time and finance.
+🖼️ [BODY PROMPT 1]
+A person in a modern, minimalist home office setting, looking relaxed while a holographic interface displays automated financial reports and investment alerts. The interface should clearly show AI managing various financial tasks in the background, freeing up the person's time.
+🖼️ [BODY PROMPT 2]
+A split image: one side shows a person meticulously analyzing stock charts on multiple screens, looking stressed and tired. The other side shows the same person enjoying a hobby or spending quality time with family, with a subtle overlay of a simplified, automated investment dashboard in the background, suggesting efficient time use.
+🖼️ [BODY PROMPT 3]
+A diverse group of people (young professional, mid-career, senior) engaged in different activities: one is learning a new skill online, another is networking at a professional event, and a third is mentoring someone. A subtle visual element connects these activities to financial growth or future opportunities.
+------------------------------------------------------------
