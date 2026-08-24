@@ -1207,3 +1207,16 @@ A dynamic 3D holographic chart in a modern office, displaying intertwining graph
 🖼️ [BODY PROMPT 3]
 A diverse group of professionals (male and female, various ethnicities) in a bright, open-plan office, engaged in a lively discussion. One person is pointing to a large interactive screen displaying a complex workflow diagram with digital and green icons. The atmosphere is collaborative and forward-thinking, with natural light streaming in and subtle green elements in the background, representing a harmonious integration of technology and sustainability.
 ------------------------------------------------------------
+
+[2026-08-24 09:51:43] 미래형 직장인을 위한 '디지털 멘탈 모델' 구축 전략: 복잡한 정보 속 의사결정 속도 극대화
+📸 [THUMBNAIL PROMPT]
+A futuristic office worker, a woman in her 30s, stands in front of a translucent, interactive holographic display, effortlessly sifting through complex data visualizations with intuitive hand gestures. The display shows interconnected nodes and streams of information, representing a sophisticated digital mental model. Her expression is focused and confident, reflecting rapid decision-making in a high-tech environment. The background is a sleek, minimalist smart office with soft ambient lighting.
+🖼️ [BODY PROMPT 1]
+A person's hands are shown interacting with a sleek, minimalist tablet displaying a personalized news feed. AI-powered algorithms are visually represented by glowing lines and nodes, intelligently filtering and highlighting key information. The background is slightly blurred, emphasizing the focused interaction with the curated digital content.
+🖼️ [BODY PROMPT 2]
+A stylized 3D graphic of a human brain icon, glowing with digital circuits, is centrally placed. Various interconnected digital tools and platforms (represented by smaller, minimalist icons like a cloud, a spreadsheet, a chat bubble, and a data visualization chart) orbit around it, illustrating an integrated AI-powered personal knowledge management system. Lines of light connect the brain to these tools, symbolizing seamless information flow and cognitive augmentation.
+🖼️ [BODY PROMPT 3]
+A person, a male in his late 20s, with a calm and focused expression, is seated at a modern desk. In front of him, a clean, intuitive data dashboard on a monitor displays simplified key performance indicators and clear recommendations, allowing him to make a quick, confident decision with a single click or even a glance. The background is a bright, organized office space, emphasizing efficiency and clarity.
+🖼️ [BODY PROMPT 4]
+A diverse team of professionals (two men, two women, all in their 30s-40s) are gathered around a large interactive table. A sophisticated, translucent humanoid AI interface stands at one end, displaying complex data visualizations and predictive models. The human team members are actively discussing, pointing at the data, and making collaborative decisions, demonstrating seamless human-AI collaboration and cognitive augmentation in a dynamic, modern workspace.
+------------------------------------------------------------
