@@ -1179,3 +1179,16 @@ A person gently tending to a small, vibrant indoor herb garden on a sunny window
 🖼️ [BODY PROMPT 4]
 A stylized infographic showing a brain connected to various sensory organs (eyes, ears, nose, tongue, skin) with lines flowing towards a central heart icon. The overall aesthetic is clean, modern, and conveys a sense of holistic well-being through sensory input.
 ------------------------------------------------------------
+
+[2026-08-24 09:55:36] 대한민국 청소년 건강 비상! 2026년, 신체활동 부족과 디지털 중독을 넘어선 통합 웰니스 솔루션
+📸 [THUMBNAIL PROMPT]
+A vibrant, dynamic image of diverse Korean teenagers engaging in various healthy activities outdoors – some cycling, some laughing while doing light stretches, others reading a physical book under a tree, all looking happy and energetic, with a subtle overlay of digital elements that are harmoniously integrated, not dominating. The overall mood is hopeful and forward-looking, with bright natural lighting.
+🖼️ [BODY PROMPT 1]
+A split image: on one side, a Korean teenager slumped over a desk, surrounded by textbooks and a glowing smartphone, looking tired and stressed. On the other side, a group of teenagers are joyfully playing basketball outdoors, bathed in warm sunlight, with a healthy, active appearance. The contrast highlights the current crisis and the desired future.
+🖼️ [BODY PROMPT 2]
+A serene image of Korean teenagers participating in a digital detox camp: some are engaged in a mindful tea ceremony, others are practicing calligraphy, and a few are playing a board game together, all without any visible digital devices. The setting is a calm, natural environment, emphasizing connection and presence.
+🖼️ [BODY PROMPT 3]
+A diverse group of Korean teenagers participating in a school-based wellness program, perhaps a guided meditation session or a group discussion about emotions, led by a supportive adult. The classroom is bright and comfortable, fostering a sense of safety and community.
+🖼️ [BODY PROMPT 4]
+A conceptual image showing a seamless integration of various wellness elements: a stylized human figure (representing a teenager) is surrounded by interconnected icons of outdoor activities, healthy food, a balanced digital device, a calm mind symbol, and supportive community figures, all flowing together in a harmonious, futuristic design. The background is clean and bright, suggesting innovation and progress.
+------------------------------------------------------------
