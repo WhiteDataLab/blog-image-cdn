@@ -1199,3 +1199,16 @@ A split image: one side shows a person meticulously analyzing stock charts on mu
 🖼️ [BODY PROMPT 3]
 A diverse group of people (young professional, mid-career, senior) engaged in different activities: one is learning a new skill online, another is networking at a professional event, and a third is mentoring someone. A subtle visual element connects these activities to financial growth or future opportunities.
 ------------------------------------------------------------
+
+[2026-08-25 10:00:34] 초장기 딥테크 투자: 2026년 '기술의 시간'에 맞춰 자산을 불리는 법
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek infographic depicting a timeline of technological advancement, with glowing deep tech symbols like a quantum chip, a gene-edited DNA strand, and a fusion reactor, overlaid on a financial growth chart. The overall aesthetic is sophisticated and forward-looking, with a subtle glow of innovation.
+🖼️ [BODY PROMPT 1]
+A diverse group of scientists and engineers, some young and some experienced, collaborating in a modern, well-lit deep tech lab. They are looking at holographic projections of complex data, working with advanced machinery, and discussing ideas passionately. The atmosphere is one of intense innovation and intellectual curiosity.
+🖼️ [BODY PROMPT 2]
+A stylized digital representation of a global financial network, with lines of data flowing between continents. Overlaying this, subtle glowing nodes represent deep tech hubs, showing increased investment and collaboration. The background is a dark, sophisticated blue, conveying stability and future growth.
+🖼️ [BODY PROMPT 3]
+A close-up of a hand holding a transparent tablet displaying a sophisticated financial analysis chart, specifically showing long-term growth projections for deep tech sectors. In the background, out of focus, are modern city lights at night, symbolizing future economic activity and innovation.
+🖼️ [BODY PROMPT 4]
+A person (gender-neutral) stands on a cliff overlooking a vast, futuristic cityscape at dawn, with advanced skyscrapers and flying vehicles. The person is looking towards the horizon, symbolizing foresight and long-term vision. The atmosphere is hopeful and inspiring, with warm golden light.
+------------------------------------------------------------
