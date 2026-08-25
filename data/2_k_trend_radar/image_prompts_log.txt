@@ -1212,3 +1212,14 @@ A group of young, diverse people, possibly tourists or local residents, are usin
 🖼️ [BODY PROMPT 4]
 A futuristic, conceptual image of a Korean city where buildings are seamlessly integrated with vertical gardens of native plants, and sky bridges are lined with diverse flora. The overall impression is one of a thriving, green metropolis where human innovation and natural ecosystems coexist in perfect harmony, bathed in a soft, optimistic light.
 ------------------------------------------------------------
+
+[2026-08-25 09:56:09] South Korea's 'Sunshine Income Villages': How Resident-Led Solar Projects and Community Services are Reshaping Rural Futures in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, panoramic shot of a South Korean rural village bathed in golden sunlight, with modern solar panels glinting on rooftops and a group of smiling villagers, diverse in age, gathered in a community garden. The scene should convey a sense of prosperity, community, and sustainable living, with traditional Korean architecture blending seamlessly with renewable energy technology.
+🖼️ [BODY PROMPT 1]
+A detailed close-up shot of a villager, possibly an elderly woman with a warm smile, proudly pointing to a newly installed solar panel on her traditional Korean hanok roof. The background shows other houses with similar panels, indicating widespread adoption. The image should highlight the blend of tradition and modernity, and the sense of empowerment.
+🖼️ [BODY PROMPT 2]
+A vibrant infographic or holographic chart displaying key statistics for South Korea's rural solar energy adoption in 2026. It should show a rising trend line for "Sunshine Income Villages," percentage increase in rural renewable energy contribution, and perhaps a breakdown of community investment areas (e.g., welfare, infrastructure, local businesses). The style should be modern and clean.
+🖼️ [BODY PROMPT 3]
+A heartwarming scene depicting a multi-generational group of villagers, including children and seniors, working together in a modern, well-maintained community garden or facility, possibly powered by solar energy. The setting should evoke a sense of shared purpose, intergenerational harmony, and a thriving community life.
+------------------------------------------------------------
