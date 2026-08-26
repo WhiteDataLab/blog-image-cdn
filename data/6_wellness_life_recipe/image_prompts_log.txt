@@ -1192,3 +1192,16 @@ A diverse group of Korean teenagers participating in a school-based wellness pro
 🖼️ [BODY PROMPT 4]
 A conceptual image showing a seamless integration of various wellness elements: a stylized human figure (representing a teenager) is surrounded by interconnected icons of outdoor activities, healthy food, a balanced digital device, a calm mind symbol, and supportive community figures, all flowing together in a harmonious, futuristic design. The background is clean and bright, suggesting innovation and progress.
 ------------------------------------------------------------
+
+[2026-08-26 09:55:20] '안티에이징'을 넘어 '기능적 장수'로: 2026년, 활력 넘치는 삶을 위한 몸의 재발견
+📸 [THUMBNAIL PROMPT]
+A vibrant, energetic senior woman in her 70s or 80s, gracefully performing a low-impact exercise like tai chi in a modern, sunlit wellness space. Her skin glows with health, and her eyes convey vitality and wisdom. The background is slightly blurred, suggesting a focus on her active lifestyle rather than just her appearance. The overall aesthetic is clean, sophisticated, and inspiring.
+🖼️ [BODY PROMPT 1]
+A sleek, futuristic smart home environment where a person is interacting with a holographic display showing their personalized health data (sleep patterns, nutrition intake, exercise metrics). AI assistants are subtly integrated into the background, suggesting seamless, intelligent health management.
+🖼️ [BODY PROMPT 2]
+A microscopic view of healthy, vibrant cells, perhaps with glowing nuclei, symbolizing cellular reprogramming and age reversal. The image should be scientifically aesthetic, with a sense of renewal and advanced biotechnological intervention.
+🖼️ [BODY PROMPT 3]
+A visually appealing, balanced meal featuring colorful, fresh vegetables, lean protein, and whole grains, arranged artfully on a plate. In the background, a person is meditating peacefully, symbolizing the connection between mindful eating and mental well-being.
+🖼️ [BODY PROMPT 4]
+A diverse group of people of various ages (from young adults to vibrant seniors) engaging in different wellness activities together in a beautiful, natural setting (e.g., a park or a beach). Some are doing yoga, some are walking, others are laughing and talking. The scene embodies community, vitality, and the joy of functional longevity.
+------------------------------------------------------------
