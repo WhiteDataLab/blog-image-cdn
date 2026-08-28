@@ -1216,3 +1216,14 @@ A stylized illustration of a human immune system under subtle stress, depicted a
 🖼️ [BODY PROMPT 3]
 A serene and empowered individual (gender-neutral) in a modern, clean living space, actively engaging in wellness practices. One hand is reaching for a smart air purifier, another is selecting fresh, organic produce, and a subtle light source suggests advanced water filtration. The scene emphasizes proactive, conscious choices for a healthier environment and stronger immunity. The atmosphere is calm and hopeful.
 ------------------------------------------------------------
+
+[2026-08-28 17:51:30] 지역사회 기반 웰니스: 2026년 '사회적 처방'으로 몸과 마음을 치유하는 법
+📸 [THUMBNAIL PROMPT]
+A vibrant, diverse community garden scene with people of all ages happily engaging in gardening, laughing, and sharing. In the foreground, hands are gently tending to plants. The sun is shining, casting a warm glow. The overall mood is one of connection, health, and well-being. Modern, slightly artistic photography style.
+🖼️ [BODY PROMPT 1]
+A doctor in a modern, bright clinic setting, not prescribing medication but instead handing a patient a leaflet or tablet showing various community activities like art classes, gardening groups, or walking clubs. The patient looks engaged and hopeful. The scene emphasizes connection and non-medical solutions.
+🖼️ [BODY PROMPT 2]
+A diverse group of people of various ages and backgrounds participating in a pottery class. They are focused and enjoying the creative process, with clay on their hands and smiles on their faces. The atmosphere is warm, collaborative, and therapeutic. Sunlight streams through a window.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist smartphone screen displaying an app interface that matches users with local wellness activities. Icons for gardening, art classes, hiking groups, and volunteer opportunities are visible. The app uses AI to suggest personalized options based on user preferences and location. The background is a blurred image of a vibrant community center.
+------------------------------------------------------------
