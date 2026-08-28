@@ -1238,3 +1238,14 @@ A holographic chart displaying investment trends in regional revitalization, wit
 🖼️ [BODY PROMPT 4]
 A diverse group of people (young entrepreneurs, elderly residents, families) smiling and interacting in a beautifully revitalized public square, surrounded by repurposed buildings and lush greenery. The scene evokes community, hope, and prosperity.
 ------------------------------------------------------------
+
+[2026-08-28 17:40:20] 2026년 '승자 독식' 시장의 역설: 특정 섹터 쏠림 현상 속 개인 투자자의 포트폴리오 방어 전략
+📸 [THUMBNAIL PROMPT]
+A visually striking image depicting a single towering skyscraper dominating a city skyline, with smaller buildings in the background, symbolizing market concentration. Overlayed with a subtle, futuristic financial chart showing a steep upward trend for a few lines and flat lines for many others. The color palette is deep blues and purples with bright, focused highlights.
+🖼️ [BODY PROMPT 1]
+A diverse group of investors, young and old, looking at multiple digital screens displaying complex financial charts and news feeds. One screen shows a sharp upward curve for a few lines, while others show flat or declining trends. The overall mood is one of focused analysis and slight apprehension.
+🖼️ [BODY PROMPT 2]
+A sophisticated, minimalist infographic showing a balanced portfolio pie chart. Different slices represent various asset classes like tech stocks, defensive stocks, bonds, gold, and alternative investments, with arrows indicating strategic rebalancing. The background is clean and modern, evoking trust and clarity.
+🖼️ [BODY PROMPT 3]
+A person, possibly a financial advisor or a savvy investor, calmly explaining complex investment concepts to a small group of attentive individuals in a modern, well-lit office setting. They are pointing to a holographic display showing a diversified portfolio with different asset classes moving independently but contributing to overall stability.
+------------------------------------------------------------
