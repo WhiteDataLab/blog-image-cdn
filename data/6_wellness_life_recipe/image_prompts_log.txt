@@ -1227,3 +1227,16 @@ A diverse group of people of various ages and backgrounds participating in a pot
 🖼️ [BODY PROMPT 3]
 A sleek, minimalist smartphone screen displaying an app interface that matches users with local wellness activities. Icons for gardening, art classes, hiking groups, and volunteer opportunities are visible. The app uses AI to suggest personalized options based on user preferences and location. The background is a blurred image of a vibrant community center.
 ------------------------------------------------------------
+
+[2026-08-30 11:51:57] 2026년 웰니스 트렌드의 최전선: '콜드 테라피'로 면역력 높이고 정신력 강화하는 실용 가이드
+📸 [THUMBNAIL PROMPT]
+A person emerging from a modern, sleek cold plunge tub, steam gently rising, with a look of invigoration and mental clarity. The background is a minimalist, high-tech wellness space with soft, ambient lighting. The overall mood is refreshing and empowering.
+🖼️ [BODY PROMPT 1]
+A stylized 3D graphic showing the human immune system being activated by cold exposure, with white blood cells and antibodies depicted as vibrant, active elements. The background is a cool blue, representing cold water, with subtle scientific data overlays.
+🖼️ [BODY PROMPT 2]
+A person meditating calmly in a serene, mist-filled ice bath, with a focused and peaceful expression. The surrounding environment is natural and tranquil, emphasizing mental clarity and resilience in the face of cold.
+🖼️ [BODY PROMPT 3]
+A high-angle shot of a person carefully entering a modern, clean ice bath in a home wellness setting. The ice bath is filled with clear water and some ice cubes, and the person is focused on their breathing, demonstrating a gradual and mindful approach.
+🖼️ [BODY PROMPT 4]
+A diverse group of people of various ages and backgrounds, smiling and invigorated, participating in a "social sauna" event that includes alternating between a warm sauna and a communal cold plunge. The atmosphere is joyful, connected, and promotes holistic well-being.
+------------------------------------------------------------
