@@ -1260,3 +1260,14 @@ A diverse group of people from different backgrounds (young, old, male, female, 
 🖼️ [BODY PROMPT 3]
 A person's hand gently holding a small, vibrant green sapling, with a subtle overlay of blockchain nodes and digital currency symbols. The background shows a healthy, regenerating natural landscape under a clear sky, symbolizing growth, hope, and the fusion of nature and technology.
 ------------------------------------------------------------
+
+[2026-08-31 11:44:12] 2026년 에너지 패러독스 시대, 가계 재정을 지키는 '에너지 자립형' 자산 관리 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D rendering of a modern, eco-friendly smart home with solar panels on the roof and an electric vehicle charging in the driveway. The house is surrounded by lush greenery, and a subtle holographic overlay displays financial charts and energy consumption data, symbolizing energy self-sufficiency and smart asset management. The overall mood is futuristic and optimistic, with a clean, minimalist aesthetic.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a modern solar panel array on a residential rooftop, with a clear blue sky reflecting on its surface. Below, a family is enjoying their garden, subtly implying the benefits of sustainable living and reduced utility bills. The image should convey a sense of peace and environmental consciousness.
+🖼️ [BODY PROMPT 2]
+A sleek, modern electric vehicle (EV) is parked in a garage, connected to a smart home charging station. A digital interface on the charger displays real-time energy flow data, indicating power being drawn from or supplied to the home grid. The scene is clean, futuristic, and emphasizes technological integration.
+🖼️ [BODY PROMPT 3]
+A vibrant, abstract visualization of interconnected energy grids and financial market data. Holographic charts representing renewable energy growth and investment trends float above a stylized map of the world, with subtle glowing lines indicating energy flow. The image should be dynamic and convey global investment opportunities in the energy sector.
+------------------------------------------------------------
