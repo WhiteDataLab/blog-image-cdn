@@ -113,3 +113,4 @@
 - Architecting Exascale Data Pipelines for Fusion Energy Research: Real-time Diagnostics and Simulation Integration in 2026.
 - Data's Role in Accelerating UN Sustainable Development Goals: Beyond Climate to Comprehensive Impact Measurement and Reporting.
 - Architecting for Real-Time Operational AI: The Convergence of OLTP and OLAP Systems in 2026.
+- Immersive Analytics: Transforming Data Interaction with AR/VR and Holographic Displays in 2026
