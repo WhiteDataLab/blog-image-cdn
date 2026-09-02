@@ -1266,3 +1266,16 @@ A vibrant infographic or holographic display showcasing interconnected age-tech 
 🖼️ [BODY PROMPT 4]
 An elderly couple, looking happy and energetic, enjoying an outdoor activity like gardening or a light walk, while subtly wearing sleek, modern smart wearables. The scene conveys independence, vitality, and the seamless integration of technology into a healthy lifestyle. Bright, natural lighting.
 ------------------------------------------------------------
+
+[2026-09-02 11:17:14] 넘쳐나는 정보 속, 나만의 '웰니스 철학'을 세우는 법: 2026년 현명한 소비자를 위한 가이드
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic illustrating a human head with various digital information streams flowing around it, but a central, glowing core representing a clear, personal wellness philosophy. The background is clean and futuristic, with subtle tech elements.
+🖼️ [BODY PROMPT 1]
+A person standing at a crossroads, surrounded by glowing, overlapping screens displaying various wellness trends and data. The person looks calm and centered, holding a compass that points towards a clear, personal path.
+🖼️ [BODY PROMPT 2]
+A person meditating in a serene, modern living space. Soft light filters in, and a subtle holographic display shows simplified, key wellness metrics (heart rate, mood) rather than overwhelming data.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist digital interface displaying various wellness articles and products, with a transparent overlay of a 'filter' icon. The filtered information is highlighted, showing only relevant and trustworthy content.
+🖼️ [BODY PROMPT 4]
+A person is journaling in a sunlit room, with a tablet displaying a personalized wellness dashboard in the background. The person looks reflective and empowered, actively engaging with their health journey.
+------------------------------------------------------------
