@@ -114,3 +114,4 @@
 - Data's Role in Accelerating UN Sustainable Development Goals: Beyond Climate to Comprehensive Impact Measurement and Reporting.
 - Architecting for Real-Time Operational AI: The Convergence of OLTP and OLAP Systems in 2026.
 - Immersive Analytics: Transforming Data Interaction with AR/VR and Holographic Displays in 2026
+- Architecting Data for Closed-Loop Bio-AI Systems: Real-time Personalization and Intervention in Health and Beyond.
