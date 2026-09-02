@@ -1271,3 +1271,16 @@ A sleek, modern electric vehicle (EV) is parked in a garage, connected to a smar
 🖼️ [BODY PROMPT 3]
 A vibrant, abstract visualization of interconnected energy grids and financial market data. Holographic charts representing renewable energy growth and investment trends float above a stylized map of the world, with subtle glowing lines indicating energy flow. The image should be dynamic and convey global investment opportunities in the energy sector.
 ------------------------------------------------------------
+
+[2026-09-02 11:15:47] 은행 부실채권 증가와 금융 시스템 리스크: 개인 자산 방어를 위한 현명한 대응 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting a rising red line on a financial chart, symbolizing increasing non-performing loans, contrasted with a strong, protective shield guarding a stack of coins. The background is a subtle, futuristic financial cityscape.
+🖼️ [BODY PROMPT 1]
+A detailed infographic showing two diverging trend lines: one representing rising interest rates and the other, a steep ascent in non-performing loans, with a subtle background of a city skyline under a cloudy sky.
+🖼️ [BODY PROMPT 2]
+A person meticulously organizing their financial documents, with a laptop displaying a budget spreadsheet and a secure piggy bank in the foreground, emphasizing financial planning and security.
+🖼️ [BODY PROMPT 3]
+A person looking intently at multiple digital screens displaying complex financial charts and news feeds, surrounded by a modern, high-tech office environment, symbolizing active market monitoring and informed decision-making.
+🖼️ [BODY PROMPT 4]
+A symbolic image of a small, resilient plant growing through cracks in concrete, representing growth and opportunity emerging from challenging economic conditions, with a soft, hopeful light.
+------------------------------------------------------------
