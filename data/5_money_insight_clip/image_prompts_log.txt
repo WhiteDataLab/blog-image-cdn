@@ -1297,3 +1297,14 @@ A close-up shot of a person's hands holding a transparent tablet, on which a com
 🖼️ [BODY PROMPT 4]
 A stylized representation of a human silhouette standing confidently on a path made of glowing data points and financial symbols, extending towards a bright, prosperous horizon. The background is a blend of digital patterns and subtle, warm colors, signifying a harmonious future with AI in finance.
 ------------------------------------------------------------
+
+[2026-09-04 11:27:31] 2026년 미국 세법 대전환: 한미 자산가들을 위한 절세 및 은퇴 플랜 최적화 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist illustration of a digital ledger or a complex financial chart with lines representing tax codes and arrows indicating strategic financial planning, set against a backdrop of a subtly blended US and Korean flag, symbolizing cross-border wealth management. The color palette is professional and modern, with accents of gold and deep blue.
+🖼️ [BODY PROMPT 1]
+A dynamic visual representing a complex financial landscape with various tax forms and legal documents swirling around a central, glowing "2026" year indicator. Two figures, one representing a Korean-American individual, are carefully navigating this landscape with the guidance of a holographic financial advisor.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a diverse portfolio on a tablet screen, showing various asset classes like stocks, bonds, real estate, and alternative investments. A hand is pointing to a section labeled "Tax-Efficient Strategies" with a magnifying glass icon. The background is a blurred, modern office setting.
+🖼️ [BODY PROMPT 3]
+Two professionals, one Korean and one American, are engaged in a detailed discussion around a conference table filled with financial documents and a laptop displaying complex charts. They are shaking hands, symbolizing successful cross-border financial collaboration and strategic planning. The setting is a bright, contemporary office with city views.
+------------------------------------------------------------
