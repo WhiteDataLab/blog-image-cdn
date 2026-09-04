@@ -1292,3 +1292,16 @@ A vibrant, healthy meal featuring roasted vegetables and a perfectly seared stea
 🖼️ [BODY PROMPT 4]
 A diverse group of people, smiling and engaged, gathered around a table filled with various dishes cooked with healthy fats, including one prominently featuring tallow. The atmosphere is warm, communal, and emphasizes shared wellness.
 ------------------------------------------------------------
+
+[2026-09-04 11:29:19] 2026년 웰니스 컨시어지: 나만을 위한 프리미엄 건강 관리 서비스의 모든 것
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist interface displaying integrated health data (DNA, activity, sleep patterns, nutritional intake) with a subtle, healthy human silhouette in the background, suggesting bespoke, premium wellness care. The color palette is modern and calming, with glowing digital lines connecting data points.
+🖼️ [BODY PROMPT 1]
+A diverse team of health professionals (a doctor, a nutritionist, a fitness coach, and a mental health expert) collaborating intently around a transparent, glowing holographic display that visualizes a patient's comprehensive health profile, including DNA sequences, real-time vital signs, and lifestyle data. They are discussing and pointing at different data points, emphasizing teamwork and integrated care.
+🖼️ [BODY PROMPT 2]
+A vibrant, healthy person (age 40s, professional, stylish) in a modern, minimalist home gym. They are using a sleek, AI-powered fitness mirror that displays real-time performance data and provides personalized coaching. Sunlight streams through a large window, suggesting a harmonious blend of technology and natural well-being.
+🖼️ [BODY PROMPT 3]
+A sophisticated digital dashboard or a holographic chart displaying a complex network of personalized health data. This includes interconnected nodes representing genomic insights, real-time wearable sensor data (heart rate, sleep, activity), microbiome analysis results, and AI-driven predictive health scores. The visuals are clean, futuristic, and easy to understand, symbolizing a comprehensive health roadmap.
+🖼️ [BODY PROMPT 4]
+A person (gender-neutral, looking confident and healthy) standing at the peak of a stylized, glowing mountain, overlooking a serene, futuristic landscape with subtle wellness tech elements integrated into nature. The person has a calm, empowered expression, symbolizing mastery over their health and well-being. The overall image conveys a sense of achievement and a harmonious future.
+------------------------------------------------------------
