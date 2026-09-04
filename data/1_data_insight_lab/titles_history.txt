@@ -116,3 +116,4 @@
 - Immersive Analytics: Transforming Data Interaction with AR/VR and Holographic Displays in 2026
 - Architecting Data for Closed-Loop Bio-AI Systems: Real-time Personalization and Intervention in Health and Beyond.
 - Beyond Subscriptions: Navigating Hybrid and Usage-Based AI Monetization Strategies in 2026.
+- The Data Semantics of AI-Generated Worlds: Architecting for Plausible Realities and Experiential Data.
