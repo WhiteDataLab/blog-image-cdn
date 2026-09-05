@@ -1305,3 +1305,16 @@ A sophisticated digital dashboard or a holographic chart displaying a complex ne
 🖼️ [BODY PROMPT 4]
 A person (gender-neutral, looking confident and healthy) standing at the peak of a stylized, glowing mountain, overlooking a serene, futuristic landscape with subtle wellness tech elements integrated into nature. The person has a calm, empowered expression, symbolizing mastery over their health and well-being. The overall image conveys a sense of achievement and a harmonious future.
 ------------------------------------------------------------
+
+[2026-09-05 11:18:25] 빛공해와 야간 소음이 수면의 질과 호르몬 균형에 미치는 영향: 2026년, 도시인의 건강을 지키는 생활 속 환경 관리법
+📸 [THUMBNAIL PROMPT]
+A serene bedroom at night, with smart ambient lighting emitting a warm, dim glow. Outside the window, a city skyline is visible but blurred, symbolizing the distant light pollution. A person is sleeping peacefully in bed. The overall mood is calm and futuristic, with subtle tech elements.
+🖼️ [BODY PROMPT 1]
+A stylized infographic showing the human brain and a light source, with a decreasing curve indicating melatonin levels. The background features a blurred cityscape at night, highlighting the contrast between natural darkness and artificial light.
+🖼️ [BODY PROMPT 2]
+A modern, minimalist bedroom at night. Smart blinds are fully closed, and a smart lamp on the bedside table emits a very dim, warm orange light. A smart device on the nightstand displays a low-light mode. The atmosphere is cozy and conducive to sleep.
+🖼️ [BODY PROMPT 3]
+A person wearing sleek, futuristic noise-cancelling headphones, sitting in a comfortable armchair in a dimly lit, quiet corner of a modern apartment. The person appears relaxed, possibly meditating or reading a book, with soft ambient light creating a peaceful mood.
+🖼️ [BODY PROMPT 4]
+A person practicing gentle yoga or meditation in a sunlit room during the day. The room is clean and airy, with a large window letting in natural light. The person looks calm and centered, embodying a balanced lifestyle.
+------------------------------------------------------------
