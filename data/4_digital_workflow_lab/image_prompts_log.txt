@@ -1331,3 +1331,16 @@ A diverse group of professionals collaborating in a futuristic meeting room. One
 🖼️ [BODY PROMPT 3]
 A close-up of a human hand delicately interacting with a complex, glowing digital interface, surrounded by an ethereal aura of data and light. The focus is on the human touch, precision, and the intricate dance between human intuition and advanced digital tools. The background is softly blurred, emphasizing the central act of creation.
 ------------------------------------------------------------
+
+[2026-09-06 11:39:42] 뇌 과학 기반 업무 공간 디자인: 신경 미학(Neuro-aesthetics)으로 집중력과 창의성을 극대화하는 법
+📸 [THUMBNAIL PROMPT]
+A sleek, modern office space bathed in natural light, featuring lush indoor plants, ergonomic furniture, and subtle, calming color palettes. A holographic display in the foreground shows brainwave patterns and productivity metrics. The overall aesthetic is sophisticated and serene, blending nature with cutting-edge technology.
+🖼️ [BODY PROMPT 1]
+A bright, airy open-plan office space featuring large windows overlooking a green cityscape. Numerous large potted plants are strategically placed, and wooden desks are arranged to maximize natural light. Employees are seen working calmly, some standing at adjustable desks, others collaborating in a comfortable lounge area.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a smart desk setup. A monitor displays a complex data visualization. The desk lamp emits a soft, warm glow, and the wall behind features a subtle, calming blue accent. A hand is seen adjusting a smart lighting control panel on the desk, illustrating personalized light settings.
+🖼️ [BODY PROMPT 3]
+A dynamic office environment with various zones. One area shows a team collaborating around a large interactive screen, another features individual pods for focused work, and a third is a cozy lounge with comfortable seating and a small library. Employees are moving freely between these spaces, engaged in different activities.
+🖼️ [BODY PROMPT 4]
+A conceptual image of a futuristic smart office. Transparent walls display subtle, dynamic patterns that respond to an employee's presence. Integrated sensors are subtly visible, and a holographic interface projects personalized environmental controls. The overall impression is seamless, intuitive, and deeply integrated with human well-being.
+------------------------------------------------------------
