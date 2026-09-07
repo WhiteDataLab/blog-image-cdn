@@ -1321,3 +1321,16 @@ A person is meticulously reviewing a digital financial dashboard, cross-referenc
 🖼️ [BODY PROMPT 4]
 A stylized, minimalist depiction of a human hand gently guiding a glowing, abstract AI interface, symbolizing human control and partnership with AI in financial decision-making. The background is a blurred, dynamic stock market graph.
 ------------------------------------------------------------
+
+[2026-09-07 11:31:49] 초장수 시대, 100세 넘어 120세까지: 개인 자산 관리의 새로운 패러다임
+📸 [THUMBNAIL PROMPT]
+A serene, wise elderly couple, looking vibrant and healthy, stands in a futuristic, bright living space. They are gently interacting with a transparent, holographic screen displaying a complex yet clear financial growth chart spanning decades, with numbers extending to 120 years. The background is softly blurred with elements of modern architecture and lush indoor greenery, symbolizing longevity, financial security, and a comfortable future. The overall mood is optimistic and forward-looking.
+🖼️ [BODY PROMPT 1]
+A digital timeline stretching far into the future, from 2026 to 2106 and beyond, with various holographic icons representing career changes, health check-ups, and investment portfolio growth. The timeline is set against a backdrop of a serene, futuristic cityscape under a clear sky, emphasizing the vast span of a 120-year lifespan and the need for long-term planning.
+🖼️ [BODY PROMPT 2]
+A vibrant, active senior citizen in their 70s or 80s, smiling confidently, participating in a modern vocational training class. They are engaged with a tablet, learning new digital skills, with diverse age groups around them in a bright, collaborative learning environment. The scene emphasizes lifelong learning and the pursuit of new career paths.
+🖼️ [BODY PROMPT 3]
+A sophisticated digital dashboard displaying a diversified investment portfolio with various asset classes (e.g., global equities, real estate, renewable energy funds, healthcare innovation ETFs, long-term bonds). The charts show steady, long-term growth over a projected 60-year period, with subtle holographic elements indicating future projections and risk management. The interface is clean, modern, and trustworthy.
+🖼️ [BODY PROMPT 4]
+A diverse family across three generations (grandparents, parents, and adult children) gathered around a modern, minimalist table. They are collaboratively reviewing digital financial projections on a large transparent screen embedded in the table, alongside physical documents. The atmosphere is warm, collaborative, and focused, symbolizing thoughtful intergenerational wealth planning for a long future.
+------------------------------------------------------------
