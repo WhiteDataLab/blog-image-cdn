@@ -1318,3 +1318,16 @@ A person wearing sleek, futuristic noise-cancelling headphones, sitting in a com
 🖼️ [BODY PROMPT 4]
 A person practicing gentle yoga or meditation in a sunlit room during the day. The room is clean and airy, with a large window letting in natural light. The person looks calm and centered, embodying a balanced lifestyle.
 ------------------------------------------------------------
+
+[2026-09-07 11:33:04] 미래형 개인 맞춤형 해독: 2026년, '디톡스 옴(Detox-ome)' 분석으로 내 몸의 독소 지도 그리기
+📸 [THUMBNAIL PROMPT]
+A futuristic, clean laboratory setting with a holographic display showing a complex "Detox-ome" map of the human body, overlaid with genetic markers and environmental toxin pathways. A scientist in a white coat is interacting with the display, looking thoughtful and precise. The overall aesthetic is sleek, high-tech, and health-focused, with a subtle glow.
+🖼️ [BODY PROMPT 1]
+A stylized infographic showing the interconnectedness of genetics, environment (pollution, diet), lifestyle (stress, sleep), and gut microbiome, all contributing to the "Detox-ome" profile. The design should be clean, modern, and easy to understand, with subtle glowing lines connecting the elements.
+🖼️ [BODY PROMPT 2]
+A person (male or female, diverse ethnicity) in their late 30s or early 40s, looking healthy and vibrant, using a sleek, minimalist smart device (like a tablet or large smartphone) to view a personalized "Detox-ome" report. The report displayed on the screen is visually appealing, with clear charts and actionable insights. The background is a modern, light-filled home environment.
+🖼️ [BODY PROMPT 3]
+A close-up shot of various colorful, fresh, and organic fruits, vegetables, and herbs arranged artfully on a wooden table, symbolizing a detoxifying diet. There are also small, elegant glass bottles of supplements or tinctures in the background, representing personalized nutritional support. The lighting is natural and inviting.
+🖼️ [BODY PROMPT 4]
+A diverse group of people (various ages and ethnicities) engaging in different healthy activities outdoors – some doing gentle yoga, some walking in a park, some meditating by a calm lake. The scene should convey a sense of peace, vitality, and connection with nature, reflecting a holistic approach to wellness beyond just technology.
+------------------------------------------------------------
