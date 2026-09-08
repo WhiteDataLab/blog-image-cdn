@@ -1331,3 +1331,16 @@ A close-up shot of various colorful, fresh, and organic fruits, vegetables, and 
 🖼️ [BODY PROMPT 4]
 A diverse group of people (various ages and ethnicities) engaging in different healthy activities outdoors – some doing gentle yoga, some walking in a park, some meditating by a calm lake. The scene should convey a sense of peace, vitality, and connection with nature, reflecting a holistic approach to wellness beyond just technology.
 ------------------------------------------------------------
+
+[2026-09-08 11:27:31] 도심 속 자연 처방: 2026년, 바이오필릭 디자인으로 일상 속 웰니스 지수 높이기
+📸 [THUMBNAIL PROMPT]
+A sleek, modern urban apartment interior seamlessly integrated with lush greenery, natural light streaming in, a person meditating or reading peacefully. Focus on a sense of calm and modern wellness, 2026 aesthetic.
+🖼️ [BODY PROMPT 1]
+A vibrant, futuristic office space with living walls, abundant natural light, and employees collaborating energetically in a green environment, 2026 aesthetic.
+🖼️ [BODY PROMPT 2]
+A luxurious wellness hotel lobby featuring a large indoor waterfall, tropical plants, and comfortable seating, evoking a sense of tranquility and escape, 2026 aesthetic.
+🖼️ [BODY PROMPT 3]
+A minimalist home interior with a few carefully chosen potted plants, a wooden desk, and a large window overlooking a city skyline, emphasizing small, achievable changes, 2026 aesthetic.
+🖼️ [BODY PROMPT 4]
+A conceptual rendering of a sustainable smart city in 2026, showcasing buildings with vertical farms, green rooftops, and elevated parks, blending technology and nature harmoniously, futuristic and clean.
+------------------------------------------------------------
