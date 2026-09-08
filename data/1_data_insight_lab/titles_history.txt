@@ -119,3 +119,4 @@
 - The Data Semantics of AI-Generated Worlds: Architecting for Plausible Realities and Experiential Data.
 - Architecting Data Pipelines for Space Debris Management and Orbital Sustainability in 2026.
 - Data Architectures for "Dark Data" in Extreme Events: Unlocking Insights from Sparse and Unstructured Records
+- The Quantum Internet: Architecting the Data Layer for a Secure, Entangled Future in 2026.
