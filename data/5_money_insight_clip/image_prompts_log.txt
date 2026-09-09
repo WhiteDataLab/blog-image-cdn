@@ -1347,3 +1347,16 @@ A vibrant, stylized illustration depicting a lush green landscape intertwined wi
 🖼️ [BODY PROMPT 4]
 A diverse group of people of various ages and backgrounds are depicted in a modern, inclusive setting, possibly a community center or a smart city park. They are engaged in activities that reflect evolving lifestyles and needs, such as using health tech or enjoying leisure.
 ------------------------------------------------------------
+
+[2026-09-09 11:27:41] AI 데이터센터, 새로운 인프라 투자 자산: 금융 공학적 접근과 위험 관리 전략 (2026)
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek data center interior with glowing server racks, overlaid with holographic financial charts and a subtle, sophisticated AI interface. A diverse group of investors, both young and experienced, are observing the scene with keen interest, reflecting a blend of technology and finance.
+🖼️ [BODY PROMPT 1]
+A sophisticated 3D rendering of a massive hyperscale data center campus at dusk, with intricate network connections visualized as glowing lines extending into the digital sky. A diverse group of financial analysts are discussing investment strategies in the foreground, holding tablets with complex data.
+🖼️ [BODY PROMPT 2]
+A detailed infographic showing the breakdown of operational costs for an AI data center, with a significant portion allocated to energy and cooling. Below, a diverse team of engineers and sustainability experts are collaborating on a blueprint for a green data center, emphasizing renewable energy sources and advanced cooling technologies.
+🖼️ [BODY PROMPT 3]
+A sleek, modern control room with multiple screens displaying real-time data center performance metrics, including energy consumption, temperature, and network traffic. A cybersecurity expert is monitoring threat alerts on one screen, while a financial analyst reviews long-term investment projections on another.
+🖼️ [BODY PROMPT 4]
+A group of successful, confident investors shaking hands in front of a panoramic view of a city skyline at sunset, symbolizing successful long-term investment. Holographic projections of AI data center architecture and financial growth charts are subtly integrated into the scene.
+------------------------------------------------------------
