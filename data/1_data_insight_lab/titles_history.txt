@@ -121,3 +121,4 @@
 - Data Architectures for "Dark Data" in Extreme Events: Unlocking Insights from Sparse and Unstructured Records
 - The Quantum Internet: Architecting the Data Layer for a Secure, Entangled Future in 2026.
 - Data Architectures for AI-Driven Cognitive Augmentation: Beyond BCI to Direct Neural Data Integration for Enhanced Human Capabilities.
+- Data Architectures for Self-Evolving Software: Beyond AI-Native to Autonomous Code Generation and Optimization.
