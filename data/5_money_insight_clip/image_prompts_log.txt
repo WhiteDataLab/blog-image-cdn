@@ -1360,3 +1360,16 @@ A sleek, modern control room with multiple screens displaying real-time data cen
 🖼️ [BODY PROMPT 4]
 A group of successful, confident investors shaking hands in front of a panoramic view of a city skyline at sunset, symbolizing successful long-term investment. Holographic projections of AI data center architecture and financial growth charts are subtly integrated into the scene.
 ------------------------------------------------------------
+
+[2026-09-10 11:26:14] 2026년 EU CBAM(탄소국경조정제도) 본격 시행: 한국 수출 기업의 재정 부담 완화 및 새로운 투자 기회 발굴 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, modern graphic representing the EU CBAM, with a digital globe showing Europe and Korea connected by data lines, overlaid with carbon footprint symbols and upward-trending financial charts. The color scheme is professional and forward-looking, featuring deep blues, greens, and subtle gold accents.
+🖼️ [BODY PROMPT 1]
+A detailed infographic showing the flow of goods from Korea to the EU, with a clear representation of carbon emissions being calculated and a payment gateway for CBAM certificates. The design should be clean, modern, and easy to understand, using icons for different industries.
+🖼️ [BODY PROMPT 2]
+A group of diverse professionals in a modern office, engaged in a discussion around a table with a holographic display showing graphs of carbon emissions reduction and financial projections. The atmosphere is collaborative and forward-thinking.
+🖼️ [BODY PROMPT 3]
+A sophisticated digital interface displaying various investment portfolios, with a focus on green technologies and ESG-compliant companies. Icons representing renewable energy, carbon capture, and sustainable manufacturing are prominent.
+🖼️ [BODY PROMPT 4]
+A vibrant, abstract visualization of a global carbon market, with interconnected lines and glowing nodes representing trading activities. The overall impression is dynamic and technologically advanced, suggesting financial innovation.
+------------------------------------------------------------
