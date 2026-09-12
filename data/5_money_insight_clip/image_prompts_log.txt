@@ -1386,3 +1386,16 @@ A digital human acting as a financial advisor, presenting holographic charts and
 🖼️ [BODY PROMPT 4]
 A conceptual image representing ethical AI and digital human development. It features a stylized digital human head with glowing neural pathways, surrounded by abstract symbols of trust, security, and ethical guidelines, set against a backdrop of balanced scales and a subtle green glow.
 ------------------------------------------------------------
+
+[2026-09-12 11:40:44] 초장수 사회의 '액티브 시니어' 재정 전략: 연금 외 소득 창출과 새로운 자산 배분 모델
+📸 [THUMBNAIL PROMPT]
+A vibrant, diverse group of active seniors engaging in various activities like working on laptops, consulting, gardening, and light exercise, all with a backdrop of modern financial charts and digital interfaces subtly integrated. The overall mood is optimistic and empowered, reflecting financial independence and continued engagement in a super-aged society. Dynamic lighting and a slightly futuristic aesthetic.
+🖼️ [BODY PROMPT 1]
+A diverse group of active seniors, some working on laptops in a coworking space, others teaching a class, and one tending to a small urban garden. They are all smiling and engaged, symbolizing productive and fulfilling post-retirement lives. The setting is bright and modern, emphasizing activity and community.
+🖼️ [BODY PROMPT 2]
+A sophisticated digital dashboard displaying a balanced investment portfolio for an active senior. The screen shows various asset classes like stocks, bonds, real estate (REITs), and alternative investments, with growth and stability indicators clearly visible. The aesthetic is clean, modern, and trustworthy, with subtle hints of AI-driven analytics.
+🖼️ [BODY PROMPT 3]
+An active senior couple, looking confident and relaxed, reviewing their financial plan on a tablet while enjoying a cup of coffee on their modern home balcony. The background shows a vibrant city, symbolizing their continued engagement with the world. The scene conveys financial peace of mind and active living.
+🖼️ [BODY PROMPT 4]
+A close-up of an active senior's hand interacting with a holographic financial interface, displaying real-time stock data, personalized investment recommendations from an AI, and a clear overview of their diversified portfolio. The setting is futuristic yet approachable, emphasizing ease of use and advanced technology for financial empowerment.
+------------------------------------------------------------
