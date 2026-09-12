@@ -1378,3 +1378,14 @@ A close-up of a person's face, eyes closed in serene relaxation, as gentle hands
 🖼️ [BODY PROMPT 8]
 A luxurious, minimalist spa treatment room with soft, ambient lighting. A person is lying on a treatment bed, covered by a plush blanket, while a therapist's hands are gently applying a product to their face. Subtle aromatherapy diffusers are visible, and the overall atmosphere is one of profound tranquility and high-end wellness.
 ------------------------------------------------------------
+
+[2026-09-12 11:43:24] 글리머 효과: 일상 속 작은 긍정 경험으로 마음의 활력을 되찾는 법
+📸 [THUMBNAIL PROMPT]
+A serene woman with a gentle smile, holding a warm cup of tea, looking out a window at soft sunlight filtering through leaves. The scene is cozy and peaceful, with a subtle glow around her, illustrating a moment of quiet joy and positive experience.
+🖼️ [BODY PROMPT 1]
+A person's hands gently holding a warm, textured ceramic mug, with steam rising subtly. Soft, natural light illuminates the scene, highlighting the comforting tactile experience and the warmth, creating a sense of peace.
+🖼️ [BODY PROMPT 2]
+A minimalist desk setup with a journal open to a page with handwritten notes and a pen. Next to it, a small potted plant and a cup of herbal tea, all bathed in soft, inviting light, symbolizing reflection and self-care.
+🖼️ [BODY PROMPT 3]
+A person is sitting by a window, gently stretching their arms upwards, with a soft, contented expression. Sunlight streams in, illuminating dust motes in the air, creating a peaceful and reflective atmosphere of gratitude and movement.
+------------------------------------------------------------
