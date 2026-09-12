@@ -1414,3 +1414,16 @@ A diverse group of Gen Z individuals gathered in a trendy, converted warehouse s
 🖼️ [BODY PROMPT 4]
 A stylized, minimalist graphic representing sound waves merging with abstract graffiti tags, set against a backdrop of a futuristic Seoul skyline at dusk. The image conveys a sense of creative energy and urban exploration.
 ------------------------------------------------------------
+
+[2026-09-12 11:26:51] Beyond Polished Nostalgia: Exploring Korea's 2026 'Raw Retro' Aesthetic and the Rise of Analog Listening Bars.
+📸 [THUMBNAIL PROMPT]
+A stylish, atmospheric shot of a Korean analog listening bar in 2026, featuring dimly lit interior, a person carefully placing a vinyl record on a turntable, vintage audio equipment, and patrons enjoying drinks in soft focus. The aesthetic is "raw retro" with exposed concrete, warm wood, and subtle neon accents.
+🖼️ [BODY PROMPT 1]
+A cozy, dimly lit analog listening bar in Seoul, 2026. A group of young Koreans are gathered around a vintage turntable, intently listening to music. The decor features exposed brick, warm wooden shelves filled with vinyl records, and soft, ambient lighting. There are craft cocktails on the tables.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a vintage turntable in an analog listening bar, with a vinyl record spinning. The needle is gently resting on the groove, and the warm glow of a vacuum tube amplifier is visible in the background. The focus is on the intricate details of the analog equipment.
+🖼️ [BODY PROMPT 3]
+A diverse group of friends in their late 20s and early 30s are laughing and chatting softly at a table in a stylish analog listening bar. One person is holding a unique craft cocktail. The background shows shelves packed with vinyl records and a subtle neon sign with Korean characters.
+🖼️ [BODY PROMPT 4]
+An overhead shot of a meticulously organized vinyl record collection on wooden shelves, bathed in soft, warm light. Each record spine is clearly visible, hinting at a vast and diverse musical selection available at a premium analog listening bar.
+------------------------------------------------------------
