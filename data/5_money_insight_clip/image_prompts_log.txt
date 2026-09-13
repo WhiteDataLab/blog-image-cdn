@@ -1399,3 +1399,16 @@ An active senior couple, looking confident and relaxed, reviewing their financia
 🖼️ [BODY PROMPT 4]
 A close-up of an active senior's hand interacting with a holographic financial interface, displaying real-time stock data, personalized investment recommendations from an AI, and a clear overview of their diversified portfolio. The setting is futuristic yet approachable, emphasizing ease of use and advanced technology for financial empowerment.
 ------------------------------------------------------------
+
+[2026-09-13 11:25:06] 2026년, 개인 건강 데이터 주권 시대: 나의 생체 정보를 활용한 새로운 재정 가치 창출 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic hand holding a transparent tablet displaying biometric data (heart rate, steps, sleep patterns) overlaid with financial charts and digital currency symbols, against a backdrop of glowing network lines and a cityscape at dawn, symbolizing data sovereignty and financial empowerment.
+🖼️ [BODY PROMPT 1]
+A sleek, minimalist infographic showing interconnected nodes representing various health data sources (wearable, genetic, medical records) flowing into a central 'personal data vault,' with arrows pointing towards financial opportunities like personalized insurance, wellness programs, and data marketplaces. The overall aesthetic is clean, modern, and trustworthy.
+🖼️ [BODY PROMPT 2]
+A person (gender-neutral, perhaps early 30s) is looking at a holographic display in their living room, which shows their daily activity levels, sleep quality, and heart rate data. Next to it, a small financial dashboard indicates earned rewards or reduced insurance premiums, suggesting a seamless integration of health and finance in a smart home environment.
+🖼️ [BODY PROMPT 3]
+A diverse group of people (various ages and ethnicities) are engaged in different healthy activities – one is jogging with a smartwatch, another is meditating with a brain-sensing headband, and a third is reviewing a personalized health report on a tablet. They all have a subtle glow around them, symbolizing health and empowerment, with a background of lush greenery and clean, modern architecture.
+🖼️ [BODY PROMPT 4]
+A sophisticated, abstract representation of data flowing securely, perhaps as glowing lines converging into a secure vault icon, with a subtle blockchain-like structure in the background. The foreground features a stylized human silhouette with digital patterns, emphasizing the connection between personal data and secure financial opportunities.
+------------------------------------------------------------
