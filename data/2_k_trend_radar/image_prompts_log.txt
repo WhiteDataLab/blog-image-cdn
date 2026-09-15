@@ -1451,3 +1451,16 @@ A close-up shot of a sophisticated bioreactor in a Korean biomanufacturing facil
 🖼️ [BODY PROMPT 3]
 A vibrant, modern university campus in Korea, with students and researchers walking between sleek, glass-fronted buildings. The scene should evoke a sense of intellectual energy and collaboration, hinting at the academic roots of biotech innovation.
 ------------------------------------------------------------
+
+[2026-09-15 11:42:34] Korea's "Urban Sensory Gardens" Phenomenon: Beyond Green Spaces to Curated Olfactory and Tactile Experiences in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern urban sensory garden in Seoul, 2026, with diverse plant textures, colorful flowers, and subtle mist diffusing fragrant essential oils. People are seen gently touching leaves and inhaling scents, with sleek, minimalist architectural elements and soft, natural lighting. A sense of calm and innovative design.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a diverse array of aromatic herbs and flowers in an urban sensory garden, bathed in soft morning light. A hand gently brushes against a lavender bush, releasing its fragrance. The background shows blurred modern city architecture, emphasizing the contrast between nature and urbanity.
+🖼️ [BODY PROMPT 2]
+A person with their eyes closed, gently running their fingers over a patch of soft, velvety lamb's ear plant in a Korean urban sensory garden. The focus is on the texture and the peaceful expression on the person's face, with other textured plants subtly visible in the background.
+🖼️ [BODY PROMPT 3]
+A diverse group of people, including elderly citizens and young families, participating in a guided horticultural therapy session within a modern Korean urban sensory garden. They are gently tending to plants, with a therapist providing instructions. The atmosphere is calm and communal, with natural light filtering through trees.
+🖼️ [BODY PROMPT 4]
+A futuristic, minimalist rendering of an urban sensory garden at dusk, featuring soft, ambient lighting illuminating textured pathways and fragrant plant beds. A holographic chart in the foreground displays data on visitor well-being improvements. The overall impression is one of serene innovation and thoughtful urban planning.
+------------------------------------------------------------
