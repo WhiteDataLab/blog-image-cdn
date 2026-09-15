@@ -1402,3 +1402,16 @@ A person practicing mindful breathing or meditation in a serene, modern living s
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of cognitive improvement. Interconnected glowing nodes or pathways within a transparent brain model, with data visualizations showing increased clarity, focus, and memory. The aesthetic is clean, scientific, and optimistic.
 ------------------------------------------------------------
+
+[2026-09-15 11:56:36] 음식이 약이 되는 시대: 2026년, 과학으로 밝혀진 '식품 치료제'의 힘과 맞춤형 활용법
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic kitchen scene where fresh, whole foods glow with a subtle energy. In the foreground, a transparent tablet displays a personalized dietary plan based on DNA and microbiome data, with scientific charts and molecular structures overlaid. A hand reaches towards a perfectly ripe avocado, symbolizing food as medicine. High-tech, clean aesthetic with warm, inviting lighting.
+🖼️ [BODY PROMPT 1]
+A sophisticated, minimalist lab setting. A transparent screen displays intricate DNA helix structures and colorful microbiome maps, with data points connecting to images of various foods. A diverse group of individuals (depicted as subtle holograms) are shown, each with a unique, personalized meal plan tailored to their genetic and microbial profiles. High-tech, clean, scientific aesthetic.
+🖼️ [BODY PROMPT 2]
+A doctor in a modern clinic setting is discussing a personalized meal plan with a patient, pointing to a digital tablet displaying colorful, healthy food images and a structured dietary schedule. On the desk, a prescription pad is replaced by a "Food Prescription" leaflet. The atmosphere is professional yet empathetic, emphasizing a collaborative approach to health.
+🖼️ [BODY PROMPT 3]
+A person with a thoughtful expression is standing in a brightly lit, modern grocery store, carefully selecting fresh, colorful vegetables and fruits. Their shopping cart contains a diverse array of whole foods, reflecting a conscious and personalized approach to nutrition. The background is slightly blurred, focusing on the individual's mindful choice.
+🖼️ [BODY PROMPT 4]
+A beautifully arranged, healthy meal prep spread on a clean kitchen counter. Various colorful dishes are neatly packed into transparent containers, ready for the week. Fresh ingredients like herbs and spices are artfully placed around the containers, emphasizing both health and aesthetic appeal. Soft, natural lighting.
+------------------------------------------------------------
