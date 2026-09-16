@@ -1464,3 +1464,16 @@ A diverse group of people, including elderly citizens and young families, partic
 🖼️ [BODY PROMPT 4]
 A futuristic, minimalist rendering of an urban sensory garden at dusk, featuring soft, ambient lighting illuminating textured pathways and fragrant plant beds. A holographic chart in the foreground displays data on visitor well-being improvements. The overall impression is one of serene innovation and thoughtful urban planning.
 ------------------------------------------------------------
+
+[2026-09-16 11:40:43] The Rise of Citizen-Led Heritage Restoration in Korea: A Foreigner's Guide to Preserving Local History in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, diverse group of people, including foreigners, actively restoring a traditional Korean hanok roof, with modern scaffolding blending with ancient architecture. Sunlight bathes the scene, highlighting intricate details and a sense of shared purpose.
+🖼️ [BODY PROMPT 1]
+A diverse group of young adults, including several foreigners, enthusiastically participating in a digital workshop, using VR headsets to explore a 3D model of a historic Korean village, preparing for an upcoming restoration project.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a foreigner carefully chiseling a wooden beam, guided by a Korean artisan, during a hanok restoration project. The scene emphasizes collaboration and the passing down of traditional skills.
+🖼️ [BODY PROMPT 3]
+A group of Korean and foreign volunteers, covered in light dust, smiling and sharing a traditional Korean meal together in a communal setting after a day of restoration work. The atmosphere is warm and friendly.
+🖼️ [BODY PROMPT 4]
+An aerial shot of a beautifully restored traditional Korean village, with a mix of ancient and well-maintained hanoks, surrounded by lush greenery. A small group of people, including foreigners, can be seen admiring their work in the foreground.
+------------------------------------------------------------
