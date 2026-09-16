@@ -1415,3 +1415,16 @@ A person with a thoughtful expression is standing in a brightly lit, modern groc
 🖼️ [BODY PROMPT 4]
 A beautifully arranged, healthy meal prep spread on a clean kitchen counter. Various colorful dishes are neatly packed into transparent containers, ready for the week. Fresh ingredients like herbs and spices are artfully placed around the containers, emphasizing both health and aesthetic appeal. Soft, natural lighting.
 ------------------------------------------------------------
+
+[2026-09-16 11:49:23] 2026년 웰니스 패러다임 전환: '더 열심히' 대신 '회복 시스템'에 집중하는 지혜로운 건강 전략
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist image depicting a person in a calm, reflective pose amidst soft, ambient lighting, with subtle holographic elements showing wellness data like heart rate variability or sleep cycles, symbolizing intelligent recovery over strenuous effort. The overall aesthetic is clean, modern, and aspirational, reflecting a balanced lifestyle.
+🖼️ [BODY PROMPT 1]
+A person practicing gentle yoga or meditation in a sunlit, modern living space, with a wearable device subtly visible on their wrist, symbolizing mindful movement and technology-assisted recovery.
+🖼️ [BODY PROMPT 2]
+A vibrant, aesthetically pleasing plate of nutrient-dense, colorful food, possibly featuring adaptogens or superfoods, presented in a minimalist, high-end culinary style, emphasizing personalized and recovery-focused nutrition.
+🖼️ [BODY PROMPT 3]
+A sleek, futuristic wearable device displaying complex but easily understandable wellness metrics like HRV, sleep quality, and recovery score on a minimalist interface, held by a hand in a modern setting, illustrating data-driven recovery.
+🖼️ [BODY PROMPT 4]
+A diverse group of individuals of various ages and backgrounds engaging in different forms of recovery activities – some meditating, some gently stretching, some enjoying a quiet moment in nature – all looking serene and healthy, symbolizing a holistic and inclusive approach to wellness.
+------------------------------------------------------------
