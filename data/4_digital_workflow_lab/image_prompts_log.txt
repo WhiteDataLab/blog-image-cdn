@@ -1454,3 +1454,16 @@ A bright, airy open-plan office. Employees are working comfortably. Subtle air q
 🖼️ [BODY PROMPT 4]
 A diverse group of office workers, men and women of various ages and ethnicities, are engaged in a collaborative meeting in a smart meeting room. The room automatically adjusts lighting and temperature based on their presence and preferences, creating a comfortable and productive environment. The technology is seamlessly integrated and almost invisible.
 ------------------------------------------------------------
+
+[2026-09-16 11:46:48] 2026년, 업무 환경 속 '디지털 후각' 기술: 집중력과 웰빙을 위한 향기 테크 활용법
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist smart office interior with soft, ambient lighting. In the foreground, a futuristic, AI-powered digital scent diffuser subtly emits a gentle mist. A focused professional works at a desk, surrounded by integrated smart devices. The overall atmosphere is calm, productive, and technologically advanced, with a subtle glow representing digital scent. High-tech, sophisticated, and serene.
+🖼️ [BODY PROMPT 1]
+A futuristic, transparent digital scent diffuser with glowing internal components, seamlessly integrated into a modern smart office desk. The diffuser is emitting a subtle, colored mist, and a holographic interface above it displays scent profiles and user biometric data. The background shows a collaborative workspace with focused individuals.
+🖼️ [BODY PROMPT 2]
+A diverse group of professionals in a modern, open-plan smart office. Each individual has a small, personalized digital scent device on their desk, subtly emitting different colored mists. The atmosphere is harmonious, with people appearing calm and focused. The overall design emphasizes individual wellbeing within a collective workspace.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand interacting with a sleek smartphone app, which displays various scent profiles and real-time environmental data. In the background, a digital scent diffuser is subtly active, blending different colors of light, symbolizing the dynamic mixing of scents. The focus is on intuitive control and personalized experience.
+🖼️ [BODY PROMPT 4]
+An abstract, artistic representation of scent molecules flowing through a modern office space, transforming into vibrant colors that symbolize enhanced focus and wellbeing. The molecules subtly interact with individuals, who appear calm and productive. The style is fluid, dynamic, and visually appealing, blending technology with natural elements.
+------------------------------------------------------------
