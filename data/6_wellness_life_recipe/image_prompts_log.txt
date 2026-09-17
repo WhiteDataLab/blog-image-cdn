@@ -1428,3 +1428,14 @@ A sleek, futuristic wearable device displaying complex but easily understandable
 🖼️ [BODY PROMPT 4]
 A diverse group of individuals of various ages and backgrounds engaging in different forms of recovery activities – some meditating, some gently stretching, some enjoying a quiet moment in nature – all looking serene and healthy, symbolizing a holistic and inclusive approach to wellness.
 ------------------------------------------------------------
+
+[2026-09-17 11:47:29] 탄소 다이어트: 지구와 나를 살리는 지속 가능한 식탁 가이드
+📸 [THUMBNAIL PROMPT]
+A vibrant, minimalist flat lay of diverse, colorful plant-based foods arranged artfully on a light wooden table, with subtle green leaf shadows and a single, elegant reusable shopping bag in the background. The overall aesthetic is clean, modern, and inviting, symbolizing healthy and sustainable eating.
+🖼️ [BODY PROMPT 1]
+A detailed infographic or 3D holographic chart illustrating the carbon footprint of various food items, from high-emission (e.g., beef) to low-emission (e.g., lentils, vegetables), with clear, modern icons and numerical data. The background is a clean, futuristic kitchen setting.
+🖼️ [BODY PROMPT 2]
+A diverse group of people of various ages and ethnicities happily sharing a meal around a rustic wooden table laden with colorful, fresh, plant-based dishes. Sunlight streams through a window, and the atmosphere is warm and communal, emphasizing joy in sustainable eating.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a person's hands gently placing fresh, organic vegetables into a reusable mesh bag at a vibrant farmer's market. The focus is on the textures of the produce and the conscious act of sustainable shopping, with a soft, natural light.
+------------------------------------------------------------
