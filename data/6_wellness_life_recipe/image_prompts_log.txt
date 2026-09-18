@@ -1439,3 +1439,16 @@ A diverse group of people of various ages and ethnicities happily sharing a meal
 🖼️ [BODY PROMPT 3]
 A close-up shot of a person's hands gently placing fresh, organic vegetables into a reusable mesh bag at a vibrant farmer's market. The focus is on the textures of the produce and the conscious act of sustainable shopping, with a soft, natural light.
 ------------------------------------------------------------
+
+[2026-09-18 11:35:36] 신경계 웰니스: 디지털 과부하 시대, 내 몸의 균형을 되찾는 과학적 전략
+📸 [THUMBNAIL PROMPT]
+A serene human silhouette meditating amidst a swirling vortex of digital data and glowing screens, with subtle neural network patterns emanating from the head, symbolizing finding balance in digital overload. High contrast, futuristic, calm yet dynamic.
+🖼️ [BODY PROMPT 1]
+A person with a slightly stressed expression, surrounded by floating holographic screens and data streams, their head glowing with subtle neural patterns indicating overstimulation. The background is a blurred, modern urban environment.
+🖼️ [BODY PROMPT 2]
+A person wearing a sleek, minimalist neurofeedback headset, eyes closed in concentration, with a subtle, calming blue and green light emanating from the device. The background shows abstract, flowing brainwave patterns.
+🖼️ [BODY PROMPT 3]
+A person peacefully practicing mindful breathing in a sunlit, minimalist room with a large window overlooking a lush green garden. Their smartphone is placed face down on a wooden table in the foreground, out of focus.
+🖼️ [BODY PROMPT 4]
+A modern, minimalist home office space filled with natural light and lush indoor plants. A subtle, calming ambient sound wave pattern is subtly integrated into the visual, representing soundscaping. A person is working calmly at a desk.
+------------------------------------------------------------
