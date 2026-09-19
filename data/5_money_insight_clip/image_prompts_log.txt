@@ -1477,3 +1477,14 @@ A diverse group of people (various ages, ethnicities) engaging in community acti
 🖼️ [BODY PROMPT 4]
 A person looking at a transparent tablet or holographic screen displaying a sophisticated financial portfolio. The portfolio clearly shows traditional asset classes alongside dynamic metrics for "social impact," "environmental contribution," and "community engagement," all integrated into a unified wealth management view. The background is a modern, minimalist office setting.
 ------------------------------------------------------------
+
+[2026-09-19 11:36:45] 지표는 상승, 체감은 하락: 2026년 '경제 체감 불일치' 시대, 개인 자산 방어 및 성장 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting two diverging arrows. One arrow points upwards, labeled with abstract economic charts, while the other points downwards, represented by a silhouette of a person looking concerned. The background is a subtle gradient of cool blues and grays, with a faint digital overlay suggesting data streams. The overall mood is thoughtful and slightly anxious, yet professional.
+🖼️ [BODY PROMPT 1]
+A split image. On one side, a vibrant, upward-trending stock market chart with digital overlays of positive economic indicators. On the other side, a person at a grocery store checkout, looking at a receipt with a worried expression, surrounded by blurred shelves of expensive goods. The contrast highlights the economic discrepancy.
+🖼️ [BODY PROMPT 2]
+A person meticulously organizing digital finance apps on a tablet, with various charts and graphs showing diversified investments, emergency fund indicators, and debt repayment progress. The setting is a modern, clean home office, emphasizing personal control and strategic planning.
+🖼️ [BODY PROMPT 3]
+A dynamic, futuristic cityscape at dawn, with holographic charts and data streams rising from the buildings. In the foreground, a diverse group of people (male and female, various ages) are looking confidently towards the horizon, holding tablets displaying investment portfolios. The scene conveys optimism, innovation, and global connectivity.
+------------------------------------------------------------
