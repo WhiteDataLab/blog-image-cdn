@@ -1488,3 +1488,16 @@ A person meticulously organizing digital finance apps on a tablet, with various 
 🖼️ [BODY PROMPT 3]
 A dynamic, futuristic cityscape at dawn, with holographic charts and data streams rising from the buildings. In the foreground, a diverse group of people (male and female, various ages) are looking confidently towards the horizon, holding tablets displaying investment portfolios. The scene conveys optimism, innovation, and global connectivity.
 ------------------------------------------------------------
+
+[2026-09-21 11:43:58] 4일 근무제 시대, 줄어든 노동 시간 속 개인의 재정 설계: 소득 변화와 효율적인 자산 관리 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern illustration of a person confidently juggling a laptop, a smartphone displaying investment charts, and leisure items like a travel bag and a book, all against a backdrop of a calendar highlighting a 4-day work week. The style is clean, optimistic, and slightly futuristic, symbolizing work-life balance and financial empowerment.
+🖼️ [BODY PROMPT 1]
+A split image showing two distinct financial paths. On one side, a person looking stressed with a declining bar chart and empty wallet. On the other side, a confident person with an upward-trending line graph and a growing money tree. The dividing line is a stylized "4-day work week" calendar, symbolizing choice and impact.
+🖼️ [BODY PROMPT 2]
+A person (gender-neutral) happily engaged in a creative side hustle on their extra day off. They might be coding on a laptop in a cozy cafe, painting in a sunlit studio, or tending to a small online shop, with subtle glowing lines connecting their activity to a growing financial graph in the background.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist digital interface on a tablet or large smartphone screen, displaying a diversified investment portfolio with automated deposit flows and real-time performance charts. The overall aesthetic is clean, high-tech, and reassuring, symbolizing effortless wealth management.
+🖼️ [BODY PROMPT 4]
+A person (could be a couple or an individual) enjoying a serene moment of leisure, perhaps hiking in a beautiful natural landscape, reading a book by a lake, or having a relaxed meal with family. The scene conveys peace, fulfillment, and the richness of life beyond work, with a subtle hint of financial security in the background (e.g., a distant modern building or a calm body of water reflecting light).
+------------------------------------------------------------
