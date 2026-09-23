@@ -1514,3 +1514,16 @@ A diverse group of people (various ages, Korean, looking smart and engaged) in a
 🖼️ [BODY PROMPT 4]
 A futuristic, secure digital vault or a stylized lock icon, surrounded by glowing lines of data and AI symbols. The overall impression is one of robust security and trust in a high-tech financial environment, with a subtle hint of human interaction or oversight.
 ------------------------------------------------------------
+
+[2026-09-23 11:44:48] 글로벌 최저한세(Pillar Two) 시대, 한국 기업 투자 포트폴리오 재편 전략: 2026년부터 본격 시행되는 글로벌 최저한세가 다국적 기업의 세 부담과 수익성에 미치는 영향을 분석하고, 이에 따른 개인 투자자의 국내외 기업 투자 전략 변화를 제시합니다.
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic infographic showing a globe with interconnected tax lines and digital currency symbols, representing global minimum tax and investment strategies. In the foreground, a professional Korean investor analyzes a holographic stock chart.
+🖼️ [BODY PROMPT 1]
+A detailed 3D holographic chart illustrating the complex interplay of global minimum tax rules, showing arrows representing tax flows between different countries and corporate entities. A blurred background of a modern office setting.
+🖼️ [BODY PROMPT 2]
+A diverse group of business professionals in a modern, sunlit conference room, actively discussing financial data displayed on a large screen. The screen shows charts and graphs related to international tax and investment.
+🖼️ [BODY PROMPT 3]
+An individual investor, a young Korean professional, confidently managing a tablet displaying a global stock market interface. The background shows a blurred cityscape at dawn, symbolizing new opportunities.
+🖼️ [BODY PROMPT 4]
+A stylized, minimalist illustration of a rising graph line composed of interconnected gears and data points, symbolizing growth and strategic adaptation in a complex financial environment. The color palette is modern and professional.
+------------------------------------------------------------
