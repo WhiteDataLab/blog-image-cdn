@@ -1527,3 +1527,16 @@ An individual investor, a young Korean professional, confidently managing a tabl
 🖼️ [BODY PROMPT 4]
 A stylized, minimalist illustration of a rising graph line composed of interconnected gears and data points, symbolizing growth and strategic adaptation in a complex financial environment. The color palette is modern and professional.
 ------------------------------------------------------------
+
+[2026-09-24 11:35:20] '디지털 웰니스'를 위한 재정 설계: 스크린 타임과 소비 습관의 상관관계 분석 및 건강한 금융 생활 구축 전략
+📸 [THUMBNAIL PROMPT]
+A minimalist yet sophisticated image depicting a balance scale with a smartphone on one side and a stack of coins/banknotes on the other, set against a blurred background of abstract digital patterns and financial charts. The lighting is soft and inviting, emphasizing a sense of equilibrium and modern financial wellness.
+🖼️ [BODY PROMPT 1]
+A person's hand holding a smartphone, with various app icons related to online shopping, social media, and banking floating around it. The background shows a blurred image of a wallet with money spilling out, symbolizing the financial drain from excessive digital consumption. The mood is slightly cautionary but visually engaging.
+🖼️ [BODY PROMPT 2]
+A person meditating calmly in a serene, nature-inspired setting, with a subtle, almost transparent overlay of financial charts and digital interfaces. This image represents the concept of digital detox and finding inner peace for better financial decision-making. The colors are soft and harmonious.
+🖼️ [BODY PROMPT 3]
+A sleek, modern financial dashboard displayed on a tablet screen, showing clear graphs of income, expenses, and savings goals. In the foreground, a hand is interacting with the screen, symbolizing active and smart financial management. The overall aesthetic is clean, high-tech, and empowering.
+🖼️ [BODY PROMPT 4]
+A serene landscape with a path leading towards a distant, bright horizon, symbolizing a balanced and sustainable financial future. In the foreground, a subtle, abstract representation of digital elements (like faint data streams or network lines) merges harmoniously with natural elements (trees, sky), indicating the integration of digital wellness into a holistic life. The mood is hopeful and aspirational.
+------------------------------------------------------------
