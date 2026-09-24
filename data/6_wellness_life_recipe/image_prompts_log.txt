@@ -1512,3 +1512,16 @@ A person practicing yoga in a sun-drenched minimalist home studio. Large windows
 🖼️ [BODY PROMPT 8]
 A close-up of a smart home control panel displaying a "Daylight Optimization" interface. The screen shows a graphical representation of sunlight entering a room, with data on lux levels, color temperature, and energy savings. A hand is interacting with the touchscreen.
 ------------------------------------------------------------
+
+[2026-09-24 11:37:09] 재정적 웰빙: 스트레스 관리부터 건강한 소비 습관까지, 2026년 당신의 돈이 건강에 미치는 영향
+📸 [THUMBNAIL PROMPT]
+A balanced scale with money on one side and a healthy, vibrant human silhouette on the other, surrounded by subtle digital wellness icons (AI, data). Modern, clean aesthetic, reflecting the intersection of finance and health in 2026.
+🖼️ [BODY PROMPT 1]
+A person (gender neutral, perhaps in their 30s-40s) looking deeply stressed, holding their head in their hands, with blurred financial documents, digital stock charts, and bills scattered in the background, conveying overwhelming anxiety and financial pressure.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist interface of an AI-powered financial health application displayed on a transparent tablet, showing personalized financial data, budgeting tools, and credit scores. A calm, confident person is subtly interacting with it in the background, symbolizing smart financial management.
+🖼️ [BODY PROMPT 3]
+A vibrant collage representing healthy spending and a holistic wellness lifestyle: a person mindfully enjoying a beautifully plated, nutritious meal; another person practicing gentle yoga or meditation in a serene setting; a hand tending to a small indoor plant (micro-gardening); and a group of diverse individuals happily participating in a wellness-focused cooking class or outdoor activity, emphasizing community and experience.
+🖼️ [BODY PROMPT 4]
+A serene scene of a person meditating or practicing mindfulness in a sunlit, minimalist room, with subtle, ethereal elements of financial stability (e.g., a glowing, abstract money symbol or a balanced digital graph) integrated harmonically into the background, symbolizing holistic well-being where financial peace contributes to mental and physical health.
+------------------------------------------------------------
