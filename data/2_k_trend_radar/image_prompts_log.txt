@@ -1555,3 +1555,16 @@ A foreign professional (e.g., a software engineer) is shown using a tablet with 
 🖼️ [BODY PROMPT 4]
 A panoramic view of a bustling, futuristic Seoul skyline at sunrise, with a diverse group of successful foreign professionals standing confidently on a rooftop observation deck, looking towards the horizon, symbolizing a bright future.
 ------------------------------------------------------------
+
+[2026-09-24 11:30:10] The "Loyalty Reset" in Korean Consumer Behavior: Navigating 2026's Shift from Brand Affinity to Experiential Value.
+📸 [THUMBNAIL PROMPT]
+A sleek, minimalist graphic representing a shift in consumer loyalty, with a stylized Korean traditional pattern subtly integrated. The central element is a broken chain link or a dissolving brand logo, transforming into a vibrant, multi-layered experience icon. Soft, futuristic lighting with a touch of neon.
+🖼️ [BODY PROMPT 1]
+A Korean Gen Z consumer confidently showcasing a personalized, high-quality beauty product in a brightly lit, modern retail space. The product packaging features unique, custom elements. The background shows subtle digital displays offering interactive experiences.
+🖼️ [BODY PROMPT 2]
+A vibrant pop-up store in Seoul, bustling with young Korean consumers actively participating in an interactive brand experience. The interior features artistic installations, unique product displays, and a lively atmosphere.
+🖼️ [BODY PROMPT 3]
+A group of diverse young adults in a modern, stylish cafe in Seoul, engaged in a lively discussion while interacting with a brand's new experiential loyalty app on their smartphones. The app displays personalized offers and upcoming exclusive events.
+🖼️ [BODY PROMPT 4]
+A sophisticated, abstract representation of data flowing into a human hand holding a physical product, symbolizing the integration of AI-driven insights with tangible experiential value in Korean consumer behavior. The color palette is modern and clean, with a subtle glow.
+------------------------------------------------------------
