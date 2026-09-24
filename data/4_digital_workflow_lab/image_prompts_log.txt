@@ -1545,3 +1545,24 @@ A corporate executive team in a modern, minimalist meeting room, looking at a ho
 🖼️ [BODY PROMPT 4]
 A diverse group of professionals from various industries (tech, logistics, energy) collaboratively interacting with a large, transparent display showing DePIN network visualizations and real-time efficiency metrics. The scene emphasizes innovation, collaboration, and a sustainable future.
 ------------------------------------------------------------
+
+[2026-09-24 11:33:11] 직장인의 디지털 유산 설계: 퇴사 후에도 가치를 창출하는 지식 자산화 전략
+📸 [THUMBNAIL PROMPT]
+A professional person in a modern, minimalist office setting, looking thoughtfully at a holographic display showing interconnected knowledge graphs and digital assets, symbolizing digital legacy and future value creation. The colors are muted blues, greens, and grays, with subtle glowing elements.
+🖼️ [BODY PROMPT 1]
+A person standing at a crossroads, with one path labeled "Traditional Career" and the other "Digital Legacy Path," which is illuminated by glowing data streams and knowledge icons. The person is confidently stepping onto the digital legacy path, symbolizing a forward-thinking career choice. The background is a futuristic cityscape.
+🖼️ [BODY PROMPT 2]
+A digital dashboard displaying various metrics related to personal branding and knowledge monetization: follower growth, content engagement, course sales, and consultation bookings. The interface is clean and modern, with data visualizations in vibrant colors.
+🖼️ [BODY PROMPT 3]
+A person's hands are meticulously organizing glowing digital information fragments into a structured, interconnected network, symbolizing the careful curation and assetization of knowledge. The background is a subtle, abstract representation of a secure digital vault.
+🖼️ [BODY PROMPT 4]
+A vibrant, abstract representation of a growing knowledge tree, with roots firmly planted in digital data and branches extending upwards, bearing fruits of innovation, wealth, and personal growth. The tree is illuminated by a warm, optimistic light.
+🖼️ [BODY PROMPT 5]
+A person standing at a crossroads, with one path labeled "Traditional Career" and the other "Digital Legacy Path," which is illuminated by glowing data streams and knowledge icons. The person is confidently stepping onto the digital legacy path, symbolizing a forward-thinking career choice. The background is a futuristic cityscape.
+🖼️ [BODY PROMPT 6]
+A digital dashboard displaying various metrics related to personal branding and knowledge monetization: follower growth, content engagement, course sales, and consultation bookings. The interface is clean and modern, with data visualizations in vibrant colors.
+🖼️ [BODY PROMPT 7]
+A person's hands are meticulously organizing glowing digital information fragments into a structured, interconnected network, symbolizing the careful curation and assetization of knowledge. The background is a subtle, abstract representation of a secure digital vault.
+🖼️ [BODY PROMPT 8]
+A vibrant, abstract representation of a growing knowledge tree, with roots firmly planted in digital data and branches extending upwards, bearing fruits of innovation, wealth, and personal growth. The tree is illuminated by a warm, optimistic light.
+------------------------------------------------------------
