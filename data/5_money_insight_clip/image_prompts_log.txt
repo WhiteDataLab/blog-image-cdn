@@ -1540,3 +1540,24 @@ A sleek, modern financial dashboard displayed on a tablet screen, showing clear 
 🖼️ [BODY PROMPT 4]
 A serene landscape with a path leading towards a distant, bright horizon, symbolizing a balanced and sustainable financial future. In the foreground, a subtle, abstract representation of digital elements (like faint data streams or network lines) merges harmoniously with natural elements (trees, sky), indicating the integration of digital wellness into a holistic life. The mood is hopeful and aspirational.
 ------------------------------------------------------------
+
+[2026-09-25 11:52:22] 감성 AI가 재정 결정에 미치는 영향: 초개인화된 금융 상품부터 투자 심리 조작 위험까지
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist image depicting a human brain connected to a financial chart via glowing neural pathways, with subtle emotional indicators (like a gentle wave or color gradient) integrated into the data flow. The background is a sleek, futuristic financial interface with abstract data visualizations. High-tech, conceptual, Korean aesthetic.
+🖼️ [BODY PROMPT 1]
+A person (Korean, 30s, professional attire) looking at a holographic financial dashboard that displays real-time stock prices, news sentiment analysis, and a subtle emotional gauge. The person's face shows mild contemplation, and the environment is a modern, minimalist home office. Futuristic, data-rich, calm atmosphere.
+🖼️ [BODY PROMPT 2]
+A group of diverse individuals (Korean, various ages) looking concerned while interacting with glowing, abstract financial data streams that seem to be influencing their expressions. One person is shielding their eyes, another looks confused. The atmosphere is slightly unsettling, highlighting the manipulation risk. Darker tones, futuristic, slightly dystopian feel.
+🖼️ [BODY PROMPT 3]
+A person (Korean, 40s, calm and focused) is sitting at a desk, looking at a laptop screen that displays a financial report. Next to the laptop, there's a small, stylized AI assistant device (like a smart speaker with a subtle glow). The person is making notes in a physical notebook, symbolizing critical thinking and human oversight. Bright, professional, empowering atmosphere.
+🖼️ [BODY PROMPT 4]
+A diverse group of people (Korean, various ages and genders) confidently navigating through a futuristic, glowing financial cityscape. They are looking forward, some with subtle smiles, symbolizing empowerment and control over their financial future in an AI-driven world. The city lights are bright and optimistic. Dynamic, hopeful, community-focused.
+🖼️ [BODY PROMPT 5]
+A person (Korean, 30s, professional attire) looking at a holographic financial dashboard that displays real-time stock prices, news sentiment analysis, and a subtle emotional gauge. The person's face shows mild contemplation, and the environment is a modern, minimalist home office. Futuristic, data-rich, calm atmosphere.
+🖼️ [BODY PROMPT 6]
+A group of diverse individuals (Korean, various ages) looking concerned while interacting with glowing, abstract financial data streams that seem to be influencing their expressions. One person is shielding their eyes, another looks confused. The atmosphere is slightly unsettling, highlighting the manipulation risk. Darker tones, futuristic, slightly dystopian feel.
+🖼️ [BODY PROMPT 7]
+A person (Korean, 40s, calm and focused) is sitting at a desk, looking at a laptop screen that displays a financial report. Next to the laptop, there's a small, stylized AI assistant device (like a smart speaker with a subtle glow). The person is making notes in a physical notebook, symbolizing critical thinking and human oversight. Bright, professional, empowering atmosphere.
+🖼️ [BODY PROMPT 8]
+A diverse group of people (Korean, various ages and genders) confidently navigating through a futuristic, glowing financial cityscape. They are looking forward, some with subtle smiles, symbolizing empowerment and control over their financial future in an AI-driven world. The city lights are bright and optimistic. Dynamic, hopeful, community-focused.
+------------------------------------------------------------
