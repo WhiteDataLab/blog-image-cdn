@@ -1525,3 +1525,16 @@ A vibrant collage representing healthy spending and a holistic wellness lifestyl
 🖼️ [BODY PROMPT 4]
 A serene scene of a person meditating or practicing mindfulness in a sunlit, minimalist room, with subtle, ethereal elements of financial stability (e.g., a glowing, abstract money symbol or a balanced digital graph) integrated harmonically into the background, symbolizing holistic well-being where financial peace contributes to mental and physical health.
 ------------------------------------------------------------
+
+[2026-09-25 11:53:55] 2026년, 현대인의 '호르몬 불균형' 경고등: 일상 속 숨겨진 원인과 균형을 되찾는 실용 가이드
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting interconnected gears or a complex biological network, subtly glowing with different colors representing various hormones. A digital overlay shows a subtle warning sign or an upward trend arrow, set against a clean, futuristic background. The overall aesthetic is professional and slightly alarming, yet hopeful.
+🖼️ [BODY PROMPT 1]
+A vibrant, abstract illustration of the human gut microbiome, with various colorful bacteria and fungi interacting. Subtle glowing lines connect the gut to a stylized brain and endocrine glands, symbolizing the gut-brain-hormone axis. The overall feel is scientific yet artistic, emphasizing interconnectedness.
+🖼️ [BODY PROMPT 2]
+A person (gender neutral) sitting on a yoga mat in a serene, modern living room, practicing deep breathing or meditation. Soft, warm light filters in through a window, and a smart diffuser releases calming essential oils. The atmosphere is peaceful and focused on self-care.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a vibrant, healthy meal spread on a wooden table. The meal includes colorful fresh vegetables, lean protein (e.g., grilled salmon or chicken breast), whole grains, and a small bowl of fermented food like kimchi. The lighting is natural and inviting, emphasizing freshness and nutritional value.
+🖼️ [BODY PROMPT 4]
+A futuristic smart home environment with subtle indicators of clean air and water. A person is seen drinking water from a stylish, reusable glass bottle. Green plants are strategically placed, and a smart air purifier is visible in the background, symbolizing a healthy, toxin-reduced living space.
+------------------------------------------------------------
