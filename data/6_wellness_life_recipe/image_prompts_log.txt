@@ -1538,3 +1538,16 @@ A close-up shot of a vibrant, healthy meal spread on a wooden table. The meal in
 🖼️ [BODY PROMPT 4]
 A futuristic smart home environment with subtle indicators of clean air and water. A person is seen drinking water from a stylish, reusable glass bottle. Green plants are strategically placed, and a smart air purifier is visible in the background, symbolizing a healthy, toxin-reduced living space.
 ------------------------------------------------------------
+
+[2026-09-26 11:52:44] 2026년, 자연의 힘으로 몸과 마음을 치유하다: 해양치유 및 치유농업 프로그램 활용 가이드
+📸 [THUMBNAIL PROMPT]
+A serene, high-angle shot of a person meditating on a pristine beach with gentle waves, overlooking a lush green agricultural field in the background, symbolizing the harmony of marine healing and healing agriculture. The sky is clear with soft sunlight, and the overall mood is tranquil and rejuvenating.
+🖼️ [BODY PROMPT 1]
+A luxurious, modern marine healing spa interior with large windows overlooking a calm ocean. A person is enjoying a thalassotherapy treatment in a sleek, minimalist pool filled with mineral-rich seawater, surrounded by natural light and serene decor.
+🖼️ [BODY PROMPT 2]
+A diverse group of people, including children and seniors, happily engaged in a healing agriculture program. They are planting seedlings in a vibrant community garden, with sunlight filtering through lush greenery. The atmosphere is joyful and collaborative.
+🖼️ [BODY PROMPT 3]
+A person is sitting calmly by a window, looking out at a serene landscape that transitions from a calm ocean to a vibrant green field. On a table next to them, a tablet displays a personalized wellness plan, combining elements of marine and agricultural therapy, reflecting thoughtful program selection.
+🖼️ [BODY PROMPT 4]
+A vibrant, abstract representation of nature's healing power, combining flowing blue and green hues with subtle light effects. It evokes a sense of calm, energy, and interconnectedness, symbolizing the synergy of marine and agricultural healing.
+------------------------------------------------------------
