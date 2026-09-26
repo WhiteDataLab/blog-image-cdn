@@ -1561,3 +1561,16 @@ A person (Korean, 40s, calm and focused) is sitting at a desk, looking at a lapt
 🖼️ [BODY PROMPT 8]
 A diverse group of people (Korean, various ages and genders) confidently navigating through a futuristic, glowing financial cityscape. They are looking forward, some with subtle smiles, symbolizing empowerment and control over their financial future in an AI-driven world. The city lights are bright and optimistic. Dynamic, hopeful, community-focused.
 ------------------------------------------------------------
+
+[2026-09-26 11:51:38] "소유"에서 "접근"으로: 구독 경제를 넘어선 '경험 자산' 투자와 새로운 부의 공식
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic representing the shift from a physical 'ownership' icon (like a house or car) to a dynamic 'access' icon (like a swirling cloud or network), with a glowing 'experience asset' symbol at the center, against a futuristic, subtly blurred financial cityscape. The color palette is modern, with deep blues, greens, and gold accents.
+🖼️ [BODY PROMPT 1]
+A sleek, futuristic dashboard displaying various subscription services and shared economy platforms, with icons for car-sharing, luxury goods rental, and online learning. The user's hand is interacting with a holographic interface, suggesting seamless access rather than physical ownership. The background is a blurred cityscape at dusk.
+🖼️ [BODY PROMPT 2]
+A person wearing VR goggles is immersed in a futuristic learning environment, with holographic charts and data floating around them, symbolizing advanced online education and skill acquisition. The setting is bright and inspiring, emphasizing personal growth.
+🖼️ [BODY PROMPT 3]
+A diverse group of professionals from different backgrounds are engaged in a lively discussion in a modern, open-plan co-working space. They are smiling and interacting, symbolizing networking and community building as a form of experience asset. Natural light fills the room.
+🖼️ [BODY PROMPT 4]
+A person is looking out over a stunning natural landscape (e.g., mountains, ocean) with a thoughtful expression, holding a minimalist tablet displaying investment charts, subtly blending the idea of investing in enriching experiences with financial acumen. The overall mood is serene yet forward-thinking.
+------------------------------------------------------------
