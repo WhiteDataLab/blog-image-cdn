@@ -1581,3 +1581,16 @@ A high-tech, minimalist graphic showing interconnected nodes representing foreig
 🖼️ [BODY PROMPT 4]
 A panoramic shot of a modern, green Korean city skyline at dusk, with subtle digital overlays highlighting community connections and sustainable initiatives. In the foreground, a group of diverse individuals (foreign and local) are walking together, smiling and chatting, symbolizing a harmonious and integrated community.
 ------------------------------------------------------------
+
+[2026-09-27 11:49:24] I need to carefully sift through them to find topics that are *new* and *not overlapping* with the extensive list provided.
+📸 [THUMBNAIL PROMPT]
+A vibrant, artistic rendering of various colorful Korean indigenous grains (like millet, sorghum, red bean, foxtail millet) cascading into a traditional Onggi pot, with subtle glowing fermentation bubbles, set against a modern, minimalist backdrop. The image should evoke both ancient wisdom and contemporary innovation.
+🖼️ [BODY PROMPT 1]
+A close-up, high-angle shot of a meticulously arranged bowl of multi-colored Korean indigenous grains (like black rice, red beans, millet, sorghum), uncooked, showcasing their natural beauty and diversity. The lighting should be soft and natural, emphasizing texture and color.
+🖼️ [BODY PROMPT 2]
+A serene, sunlit scene inside a traditional Korean "jangdokdae" (fermentation crock terrace), with rows of large, earthy Onggi pots. A hand, possibly a chef's or artisan's, is gently stirring a fermenting mixture in one of the open pots, surrounded by lush greenery.
+🖼️ [BODY PROMPT 3]
+A modern, stylish restaurant interior in Seoul, with natural wood accents and minimalist design. Diners are enjoying beautifully plated Korean dishes featuring indigenous grains and innovative fermented ingredients. The atmosphere is sophisticated yet welcoming.
+🖼️ [BODY PROMPT 4]
+A close-up shot of an artisanal Korean fermented food product, perhaps a unique jar of specialty gochujang or doenjang, with a beautifully designed label that blends traditional Korean aesthetics with modern minimalism. The background is softly blurred, suggesting a gourmet market or specialty store.
+------------------------------------------------------------
