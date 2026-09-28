@@ -1564,3 +1564,16 @@ A serene individual meditating in a modern, minimalist room with soft natural li
 🖼️ [BODY PROMPT 4]
 A person in their late 30s or early 40s, looking vibrant and healthy, engaging in a balanced routine that subtly incorporates elements of hormesis: perhaps a short, intense workout followed by a mindful stretching session, a healthy meal, and a moment of focused work or learning. The overall impression is one of harmonious well-being and active living in 2026.
 ------------------------------------------------------------
+
+[2026-09-28 11:55:34] 후성유전학적 라이프스타일 디자인: 2026년, 유전자 스위치를 켜는 나만의 건강 설계
+📸 [THUMBNAIL PROMPT]
+A futuristic, elegant graphic depicting DNA strands intertwined with lifestyle elements like a healthy plate, a person meditating, and someone exercising, all glowing with soft, interconnected light, symbolizing epigenetic influence and personalized health design. The year "2026" is subtly integrated.
+🖼️ [BODY PROMPT 1]
+A stylized illustration of a DNA helix with various small, glowing switches along its length, some clearly "on" and some "off." Surrounding it are subtle icons representing food, exercise, sleep, and mindfulness, suggesting external influences.
+🖼️ [BODY PROMPT 2]
+A person wearing a sleek, minimalist smartwatch, looking at a holographic display showing personalized health data, including DNA strands and real-time biometric feedback. The background is a modern, clean home environment.
+🖼️ [BODY PROMPT 3]
+A serene individual practicing mindfulness meditation in a sunlit, minimalist room. Soft light illuminates their calm face, and subtle, glowing lines emanate from their head, symbolizing positive epigenetic changes.
+🖼️ [BODY PROMPT 4]
+A vibrant, modern kitchen scene with a person preparing a colorful, fresh meal. On the counter, a tablet displays a personalized meal plan with data visualizations, suggesting a smart, epigenetics-informed approach to cooking.
+------------------------------------------------------------
