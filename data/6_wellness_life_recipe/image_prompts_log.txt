@@ -1577,3 +1577,16 @@ A serene individual practicing mindfulness meditation in a sunlit, minimalist ro
 🖼️ [BODY PROMPT 4]
 A vibrant, modern kitchen scene with a person preparing a colorful, fresh meal. On the counter, a tablet displays a personalized meal plan with data visualizations, suggesting a smart, epigenetics-informed approach to cooking.
 ------------------------------------------------------------
+
+[2026-09-30 12:22:53] 후각 훈련(Olfactory Training)의 재발견: 뇌 건강과 감정 조절을 위한 2026년 최신 과학적 접근법
+📸 [THUMBNAIL PROMPT]
+A vibrant, abstract representation of scent molecules interacting with brain pathways, using glowing lines and interconnected nodes, against a sophisticated, clean background. Emphasize brain health and emotional balance. High-tech, minimalist aesthetic.
+🖼️ [BODY PROMPT 1]
+A highly detailed 3D rendering of the human brain, with specific areas like the hippocampus and amygdala subtly highlighted and glowing, surrounded by abstract representations of scent molecules flowing towards them. Scientific, futuristic, and clean aesthetic.
+🖼️ [BODY PROMPT 2]
+A person (ethnically Korean, 30s-40s) sitting calmly in a modern, minimalist room, holding a sleek, futuristic device that emits a gentle mist. Their eyes are closed in concentration, and subtle, soft light emanates from the device, suggesting a personalized olfactory training session. Focus on serenity and technology.
+🖼️ [BODY PROMPT 3]
+A close-up shot of four small, elegant glass bottles containing different essential oils (rose, lemon, eucalyptus, clove), arranged neatly on a wooden tray. Soft, natural light illuminates the scene, emphasizing the simplicity and purity of the natural scents. A notebook and pen are subtly visible in the background, suggesting journaling.
+🖼️ [BODY PROMPT 4]
+A person (ethnically Korean, any age, gender-neutral) taking a deep, mindful breath in a serene natural setting, perhaps a forest or a garden. Their eyes are closed, and a gentle smile plays on their lips, conveying a sense of peace and connection with nature through scent. Soft, diffused sunlight filters through leaves.
+------------------------------------------------------------
