@@ -1603,3 +1603,16 @@ A serene, modern living room with a prominent, lush living wall and an indoor ga
 🖼️ [BODY PROMPT 4]
 A stylish, minimalist kitchen counter with beautifully packaged, bio-inspired food products. A transparent container showcases a plant-based protein bar with a subtle leaf vein pattern, and a functional beverage bottle features a design mimicking a natural cellular structure, highlighting both health and sustainability.
 ------------------------------------------------------------
+
+[2026-10-02 12:29:34] 애니멀플로우 & 바레: 2026년, 몸의 잠재력을 깨우는 이색 피트니스 트렌드
+📸 [THUMBNAIL PROMPT]
+A dynamic, artistic split image. One side shows a person in an Animal Flow 'Beast' pose, low to the ground, strong and fluid, in a natural, earthy setting. The other side shows a person at a ballet barre, performing an elegant, controlled barre movement, in a bright, minimalist studio. Both images convey strength, grace, and mindful movement. The overall aesthetic is modern, clean, and inspiring.
+🖼️ [BODY PROMPT 1]
+A diverse group of people of various ages and fitness levels performing Animal Flow movements outdoors in a lush park. They are in 'Beast' and 'Crab' positions, moving fluidly and with focus, embodying strength and connection to the ground. The sun is shining, and there's a sense of joyful, primal movement.
+🖼️ [BODY PROMPT 2]
+A woman of elegant posture performing a barre exercise in a minimalist, sunlit studio. She is holding onto a ballet barre, with focused expression, her muscles subtly engaged, showcasing grace and strength. The lighting is soft and warm, highlighting the refined movements.
+🖼️ [BODY PROMPT 3]
+A split image. On one side, a person is transitioning smoothly from a 'Beast' to an 'Underswitch' in Animal Flow, demonstrating fluidity and strength. On the other side, a person is performing a controlled leg lift at the barre, showcasing balance and lean muscle engagement. The background is a blurred, modern gym setting, emphasizing the blend of different fitness styles.
+🖼️ [BODY PROMPT 4]
+A serene, futuristic wellness space with holographic charts displaying body metrics and movement patterns. A person is meditating or gently stretching on a mat, surrounded by soft, ambient lighting. The overall image conveys advanced technology supporting holistic, mindful movement and well-being.
+------------------------------------------------------------
