@@ -1600,3 +1600,16 @@ A person with a thoughtful expression, wearing smart casual attire, looking at a
 🖼️ [BODY PROMPT 4]
 A stylized 3D rendering of a futuristic city skyline at dawn, with holographic financial charts and digital networks seamlessly integrated into the architecture. The scene evokes a sense of progress, innovation, and the harmonious integration of technology into the future of finance.
 ------------------------------------------------------------
+
+[2026-10-02 12:27:50] 우주 자원 채굴 및 우주 쓰레기 처리 산업: 새로운 투자 블루오션 탐색
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic spaceship mining rare minerals from an asteroid, with Earth visible in the background, rendered in a high-tech, realistic 3D style, suitable for a blog thumbnail.
+🖼️ [BODY PROMPT 1]
+A futuristic lunar mining facility extracting water ice from the moon's surface, with advanced robotic vehicles and human-operated machinery under a starry sky. The scene should convey a sense of pioneering industry.
+🖼️ [BODY PROMPT 2]
+A sophisticated robotic arm attached to a specialized spacecraft, actively capturing a piece of orbital debris against the backdrop of Earth, illustrating advanced space debris removal technology.
+🖼️ [BODY PROMPT 3]
+A diverse group of investors and tech entrepreneurs in a modern, glass-walled conference room, looking at holographic projections of space debris tracking data and asteroid mining projections, discussing future investment strategies. The atmosphere is innovative and forward-thinking.
+🖼️ [BODY PROMPT 4]
+A stylized infographic showing the growth trajectory of the space economy, specifically highlighting the increasing market size for space resource mining and debris removal, presented as a sleek, futuristic digital display with upward-trending graphs and key statistics.
+------------------------------------------------------------
