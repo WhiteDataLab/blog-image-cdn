@@ -1613,3 +1613,16 @@ A diverse group of investors and tech entrepreneurs in a modern, glass-walled co
 🖼️ [BODY PROMPT 4]
 A stylized infographic showing the growth trajectory of the space economy, specifically highlighting the increasing market size for space resource mining and debris removal, presented as a sleek, futuristic digital display with upward-trending graphs and key statistics.
 ------------------------------------------------------------
+
+[2026-10-03 12:12:03] 스타트업 투자 플랫폼의 진화: AI 기반 기업 데이터 분석으로 개인 투자 기회 확대 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic graphic depicting a network of glowing data points and lines connecting various startup logos to a central, abstract AI brain icon. The overall aesthetic is clean, professional, and indicative of advanced technology and investment.
+🖼️ [BODY PROMPT 1]
+A futuristic cityscape with glowing lines representing data and investment flows connecting various modern buildings (symbolizing startups) to a central, illuminated AI hub. The image conveys a sense of interconnectedness and technological advancement in the investment landscape.
+🖼️ [BODY PROMPT 2]
+A person (representing an individual investor) with a focused expression, looking at a dynamic holographic screen that displays complex financial charts, company data, and AI-generated insights in an intuitive, easy-to-understand format. The background is a modern, minimalist office setting.
+🖼️ [BODY PROMPT 3]
+A diverse group of individual investors, both young and experienced, gathered around a large interactive digital table, collaboratively analyzing startup pitches and data. AI-generated insights are subtly overlaid on the screen, guiding their discussion. The atmosphere is dynamic and engaging.
+🖼️ [BODY PROMPT 4]
+A stylized 3D graphic representing a flourishing startup ecosystem. Small, glowing company icons are interconnected by lines of data and capital, all orbiting a central, intelligent core depicted as a complex AI neural network. The overall impression is one of growth, innovation, and interconnectedness.
+------------------------------------------------------------
