@@ -1629,3 +1629,24 @@ A diverse group of people participating in an outdoor yoga session in a vibrant,
 🖼️ [BODY PROMPT 4]
 A stylized infographic showing the interconnectedness of various internal body systems (heart, lungs, gut, brain) with lines and subtle glowing effects, emphasizing the holistic nature of interoception and its impact on overall well-being.
 ------------------------------------------------------------
+
+[2026-10-04 12:45:52] **신체 전기장 웰니스: 2026년, 미세 전류와 자기장으로 몸의 활력을 깨우는 법**
+📸 [THUMBNAIL PROMPT]
+A futuristic, glowing human silhouette with subtle microcurrent lines and magnetic field patterns emanating from it, set against a sleek, minimalist wellness tech background. The colors are vibrant blues, purples, and subtle golds, symbolizing energy and vitality. High-quality 3D render.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a sleek, minimalist microcurrent facial device being gently applied to a woman's face, showing a subtle glow. The background is a soft, modern bathroom setting with natural light. Focus on the device's elegant design and the user's serene expression, emphasizing self-care and advanced beauty tech.
+🖼️ [BODY PROMPT 2]
+A person is lying comfortably on a sleek, modern PEMF therapy mat in a serene, minimalist bedroom. Soft, ambient light fills the room, and the person appears relaxed, perhaps with eyes closed. The focus is on the sense of calm and advanced wellness technology seamlessly integrated into a home environment.
+🖼️ [BODY PROMPT 3]
+A diverse group of people (various ages and ethnicities) engaging in different wellness activities, each subtly incorporating a small, futuristic wearable device that hints at microcurrent or magnetic field therapy. One person is meditating, another is doing light yoga, and a third is working at a desk. The scene is vibrant and harmonious, emphasizing integrated, accessible wellness for everyone.
+🖼️ [BODY PROMPT 4]
+A stylized infographic or holographic display showing the interconnectedness of human body systems (nervous, circulatory, muscular) with glowing lines representing bioelectric pathways. Futuristic, clean design with data points and icons illustrating improved vitality, reduced pain, and enhanced cellular function. Emphasize clarity and scientific elegance.
+🖼️ [BODY PROMPT 5]
+A close-up shot of a sleek, minimalist microcurrent facial device being gently applied to a woman's face, showing a subtle glow. The background is a soft, modern bathroom setting with natural light. Focus on the device's elegant design and the user's serene expression, emphasizing self-care and advanced beauty tech.
+🖼️ [BODY PROMPT 6]
+A person is lying comfortably on a sleek, modern PEMF therapy mat in a serene, minimalist bedroom. Soft, ambient light fills the room, and the person appears relaxed, perhaps with eyes closed. The focus is on the sense of calm and advanced wellness technology seamlessly integrated into a home environment.
+🖼️ [BODY PROMPT 7]
+A diverse group of people (various ages and ethnicities) engaging in different wellness activities, each subtly incorporating a small, futuristic wearable device that hints at microcurrent or magnetic field therapy. One person is meditating, another is doing light yoga, and a third is working at a desk. The scene is vibrant and harmonious, emphasizing integrated, accessible wellness for everyone.
+🖼️ [BODY PROMPT 8]
+A stylized infographic or holographic display showing the interconnectedness of human body systems (nervous, circulatory, muscular) with glowing lines representing bioelectric pathways. Futuristic, clean design with data points and icons illustrating improved vitality, reduced pain, and enhanced cellular function. Emphasize clarity and scientific elegance.
+------------------------------------------------------------
