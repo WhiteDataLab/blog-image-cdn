@@ -1655,3 +1655,16 @@ A modern art installation in a public space in Seoul, featuring abstract hand sh
 🖼️ [BODY PROMPT 3]
 A close-up, artistic shot of hands signing KSL, with intricate details of finger movements and subtle wrist rotations. The background is blurred, focusing solely on the expressive power of the hands. The lighting is soft and warm, creating a sense of intimacy and respect for the language. This image symbolizes the depth and nuance of KSL beyond simple gestures.
 ------------------------------------------------------------
+
+[2026-10-04 12:36:51] Korea's Urban "Unseen" Landscapes: The Rise of Exploration and Photography in Abandoned Spaces (2026)
+📸 [THUMBNAIL PROMPT]
+A professional photographer stands silhouetted against a dramatic sunset in the doorway of a crumbling, ivy-covered traditional Korean hanok, camera in hand, capturing the serene decay of an abandoned urban landscape in Seoul, 2026. The atmosphere is melancholic yet beautiful, with hints of modern city lights in the distant background.
+🖼️ [BODY PROMPT 1]
+A lone photographer, equipped with a sturdy tripod and a wide-angle lens, captures the eerie beauty of an abandoned amusement park in Korea at dusk. Rusty rides stand still against a dramatic sky, overgrown with vines, creating a surreal and melancholic atmosphere. The air is still, save for the click of the camera.
+🖼️ [BODY PROMPT 2]
+A close-up shot inside an abandoned Korean home. Sunlight streams through a broken window, illuminating dust motes dancing in the air and highlighting an antique, forgotten ceramic bowl on a decaying wooden table. Peeling wallpaper and a single, vibrant green vine creeping in from outside add to the poignant scene.
+🖼️ [BODY PROMPT 3]
+A group of three urban explorers, wearing sturdy boots, gloves, and headlamps, carefully navigate a dimly lit, structurally compromised corridor within an abandoned factory in an industrial area of Korea. Dust motes are visible in the weak light, and caution is evident in their movements.
+🖼️ [BODY PROMPT 4]
+A conceptual art piece showing a decaying, graffiti-covered concrete wall from an abandoned Korean building on one side, seamlessly blending into a vibrant, modern art gallery interior on the other. Holographic elements project historical images of the abandoned site onto the gallery walls, symbolizing adaptive reuse and the blending of past and future.
+------------------------------------------------------------
