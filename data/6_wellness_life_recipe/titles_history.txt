@@ -144,3 +144,4 @@
 - 애니멀플로우 & 바레: 2026년, 몸의 잠재력을 깨우는 이색 피트니스 트렌드
 - 내 몸의 소리에 귀 기울이는 법: 2026년, '내수용 감각(Interoception)' 훈련으로 몸과 마음의 연결 강화하기
 - **신체 전기장 웰니스: 2026년, 미세 전류와 자기장으로 몸의 활력을 깨우는 법**
+- I need to carefully filter these to find topics that are *not* in the `[과거 발행된 글 제목 리스트]` and are suitable for the "웰니스 라이프 레시피" blog.
