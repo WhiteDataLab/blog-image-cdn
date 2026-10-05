@@ -1650,3 +1650,16 @@ A diverse group of people (various ages and ethnicities) engaging in different w
 🖼️ [BODY PROMPT 8]
 A stylized infographic or holographic display showing the interconnectedness of human body systems (nervous, circulatory, muscular) with glowing lines representing bioelectric pathways. Futuristic, clean design with data points and icons illustrating improved vitality, reduced pain, and enhanced cellular function. Emphasize clarity and scientific elegance.
 ------------------------------------------------------------
+
+[2026-10-05 12:27:10] I need to carefully filter these to find topics that are *not* in the `[과거 발행된 글 제목 리스트]` and are suitable for the "웰니스 라이프 레시피" blog.
+📸 [THUMBNAIL PROMPT]
+A visually striking image of a human cell undergoing autophagy, depicted as tiny glowing particles (damaged cellular components) being engulfed and recycled by a larger, intricate cellular structure. The background is a sophisticated, clean scientific illustration with a subtle glow, symbolizing renewal and vitality. The overall aesthetic is modern, high-tech, and inspiring, with a focus on microscopic beauty and the concept of internal cleansing.
+🖼️ [BODY PROMPT 1]
+A minimalist kitchen counter with a sleek digital timer displaying a countdown, next to a healthy, vibrant meal (e.g., a colorful salad with lean protein). The lighting is soft and natural, emphasizing a calm and mindful approach to eating. The image conveys control, health, and modern wellness practices.
+🖼️ [BODY PROMPT 2]
+A person (gender-neutral) performing a dynamic, high-intensity exercise (e.g., burpee or kettlebell swing) in a modern, well-lit home gym or studio. The focus is on strong, active movement, with a sense of energy and determination. The background could feature minimalist fitness equipment or a large window with natural light.
+🖼️ [BODY PROMPT 3]
+A beautifully arranged, colorful plate of healthy food, featuring vibrant berries, dark leafy greens, turmeric-spiced dishes, and perhaps a glass of green tea. The presentation is artistic and appealing, suggesting both deliciousness and health benefits. The background is soft and slightly blurred, keeping the focus on the fresh ingredients.
+🖼️ [BODY PROMPT 4]
+A serene, contemplative image of a person meditating or practicing gentle yoga outdoors, perhaps at sunrise or sunset, surrounded by lush greenery or a calm body of water. The atmosphere is peaceful and harmonious, symbolizing mental and physical well-being and the connection to nature. The focus is on inner calm and rejuvenation.
+------------------------------------------------------------
