@@ -1639,3 +1639,16 @@ A single, calm investor sitting in a modern, minimalist home office, looking out
 🖼️ [BODY PROMPT 4]
 A vibrant online community interface projected as a holographic display, showing diverse user profiles and collaborative discussions on financial topics. The image should convey a sense of shared knowledge and collective intelligence.
 ------------------------------------------------------------
+
+[2026-10-05 12:25:27] 2026년 '유병장수' 시대, 의료비와 생활비 동시 대비하는 통합 노후 재정 설계 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, modern graphic illustrating integrated financial planning. On one side, a stylized medical cross intertwined with growing plants, symbolizing health and longevity. On the other side, a rising bar chart or stacks of coins, representing wealth and living expenses. Both are seamlessly connected by a flowing line or gears, against a backdrop of a futuristic city skyline at dawn, signifying 2026. The overall tone is hopeful and secure.
+🖼️ [BODY PROMPT 1]
+A detailed infographic showing the widening gap between average life expectancy and healthy life expectancy in South Korea from 1990 to 2026. One line graph shows a steadily increasing life expectancy, while another, lower line graph shows a slower increase in healthy life expectancy. The growing shaded area between the two lines represents the "illness-prone longevity" period. The graphic should be clean, modern, and easy to understand, with clear labels and data points.
+🖼️ [BODY PROMPT 2]
+A person in their 60s or 70s, looking thoughtfully at a tablet displaying a financial chart with both medical expenses and living expenses. The chart shows a clear strategy for balancing both. The setting is a comfortable, modern home, suggesting a sense of security and preparedness. The person's expression is calm and confident.
+🖼️ [BODY PROMPT 3]
+A family (multi-generational, if possible) sitting together, discussing financial plans with a professional financial advisor. They are looking at a holographic projection of a financial chart that clearly separates medical and living expenses, showing a balanced and sustainable future. The atmosphere is collaborative and forward-looking.
+🖼️ [BODY PROMPT 4]
+A person in their late 40s or early 50s, confidently using a financial planning app on a sleek, minimalist tablet. The screen displays a personalized, integrated financial plan with clear categories for medical expenses, living costs, and investment growth. The background is a bright, modern office or home study, emphasizing proactive planning and control.
+------------------------------------------------------------
