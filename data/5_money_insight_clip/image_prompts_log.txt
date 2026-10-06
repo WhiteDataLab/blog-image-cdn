@@ -1652,3 +1652,14 @@ A family (multi-generational, if possible) sitting together, discussing financia
 🖼️ [BODY PROMPT 4]
 A person in their late 40s or early 50s, confidently using a financial planning app on a sleek, minimalist tablet. The screen displays a personalized, integrated financial plan with clear categories for medical expenses, living costs, and investment growth. The background is a bright, modern office or home study, emphasizing proactive planning and control.
 ------------------------------------------------------------
+
+[2026-10-06 13:31:24] **2026년 디지털 디톡스 시대, 소비 습관 재설계와 숨겨진 재정 기회 포착 전략**
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist image featuring a person meditating or enjoying nature, with a subtle overlay of abstract digital elements fading away, symbolizing digital detox and financial clarity. The color palette is calming, with hints of green and soft blues.
+🖼️ [BODY PROMPT 1]
+A person looking thoughtfully at a financial projection on a holographic screen, surrounded by elements symbolizing mindful consumption like a small plant, a carefully chosen book, and a minimalist wallet. The overall tone is futuristic yet grounded.
+🖼️ [BODY PROMPT 2]
+A diverse group of people engaged in various offline activities – hiking, reading a physical book in a cafe, gardening, and attending a local market. The scene is vibrant and full of natural light, emphasizing real-world connections.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand meticulously organizing a physical budget planner, with a smartphone placed face down nearby, symbolizing a deliberate shift from digital distraction to mindful financial planning. The background is softly blurred, highlighting the planner.
+------------------------------------------------------------
