@@ -150,7 +150,7 @@ def run_auto_posting(channel_key):
     print("🚀 [진행 3/4] 마크다운 변환 및 구글 블로거 초안 전송 중...")
     html_content = markdown.markdown(clean_content, extensions=['extra', 'nl2br'])
     
-    upload_success = blog_publisher.post_to_blogger(config['id'], final_topic, html_content, is_draft=True)
+    upload_success = blog_publisher.post_to_blogger(config['id'], final_topic, html_content, is_draft=False)
     
     if upload_success:
         print("💾 [진행 4/4] 데이터 업데이트 및 히스토리 깃헙 동기화 중...")
