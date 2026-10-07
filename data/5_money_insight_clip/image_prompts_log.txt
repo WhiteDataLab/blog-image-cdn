@@ -1663,3 +1663,24 @@ A diverse group of people engaged in various offline activities – hiking, read
 🖼️ [BODY PROMPT 3]
 A close-up shot of a hand meticulously organizing a physical budget planner, with a smartphone placed face down nearby, symbolizing a deliberate shift from digital distraction to mindful financial planning. The background is softly blurred, highlighting the planner.
 ------------------------------------------------------------
+
+[2026-10-07 12:38:54] 신경과학 기반 투자 전략: 뇌 과학으로 탐색하는 개인 투자자의 의사결정 최적화
+📸 [THUMBNAIL PROMPT]
+A futuristic brain graphic overlaid with financial charts and data, representing the intersection of neuroscience and investment. The colors are sleek and professional, with a focus on blues, greens, and subtle golds. High-tech, conceptual art style.
+🖼️ [BODY PROMPT 1]
+A detailed 3D rendering of the human brain with specific areas highlighted (e.g., prefrontal cortex, amygdala, nucleus accumbens) connected by glowing neural pathways, superimposed on a background of abstract financial data visualizations. Scientific and high-tech feel.
+🖼️ [BODY PROMPT 2]
+A person meditating calmly in front of a holographic display showing subtle stock market fluctuations and brain activity patterns. The person exudes a sense of control and focus amidst potential market volatility. Serene yet high-tech.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist desk setup with a tablet displaying a neuro-financial app. The app shows personalized investment recommendations based on real-time biometric data (e.g., heart rate, subtle facial expressions detected by camera). A user's hand is interacting with the tablet, reflecting a calm and informed decision-making process. Modern, clean aesthetic.
+🖼️ [BODY PROMPT 4]
+A diverse group of investors (representing different ages and backgrounds) confidently looking at a large, transparent screen displaying a balanced and growing investment portfolio, with subtle neural network graphics in the background. They appear empowered and in control of their financial future. Optimistic and inclusive.
+🖼️ [BODY PROMPT 5]
+A detailed 3D rendering of the human brain with specific areas highlighted (e.g., prefrontal cortex, amygdala, nucleus accumbens) connected by glowing neural pathways, superimposed on a background of abstract financial data visualizations. Scientific and high-tech feel.
+🖼️ [BODY PROMPT 6]
+A person meditating calmly in front of a holographic display showing subtle stock market fluctuations and brain activity patterns. The person exudes a sense of control and focus amidst potential market volatility. Serene yet high-tech.
+🖼️ [BODY PROMPT 7]
+A sleek, minimalist desk setup with a tablet displaying a neuro-financial app. The app shows personalized investment recommendations based on real-time biometric data (e.g., heart rate, subtle facial expressions detected by camera). A user's hand is interacting with the tablet, reflecting a calm and informed decision-making process. Modern, clean aesthetic.
+🖼️ [BODY PROMPT 8]
+A diverse group of investors (representing different ages and backgrounds) confidently looking at a large, transparent screen displaying a balanced and growing investment portfolio, with subtle neural network graphics in the background. They appear empowered and in control of their financial future. Optimistic and inclusive.
+------------------------------------------------------------
