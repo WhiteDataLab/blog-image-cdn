@@ -1716,3 +1716,16 @@ A person engaged in a creative activity (e.g., sketching, brainstorming with sti
 🖼️ [BODY PROMPT 4]
 A diverse group of professionals participating in a dynamic learning environment, perhaps interacting with AR/VR elements displaying skill trees and knowledge graphs, symbolizing continuous upskilling and reskilling for the AI era. Focus on active engagement and adaptability in a modern, tech-enabled classroom.
 ------------------------------------------------------------
+
+[2026-10-08 12:52:11] AI 시대, '직업 정체성' 재구성: 기술 변화 속 흔들리지 않는 나만의 커리어 가치 찾기
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic human silhouette stands confidently amidst a swirling vortex of glowing AI data streams and abstract technological symbols, representing the redefinition of professional identity in the AI era. The background is a blend of digital blue and purple hues, conveying innovation and change.
+🖼️ [BODY PROMPT 1]
+A dynamic infographic illustrating the shift in the job market, with old job titles fading out and new, AI-centric roles emerging from a vibrant, interconnected network of data and technology. The visual should convey both challenge and opportunity.
+🖼️ [BODY PROMPT 2]
+A person (male or female, diverse) is cultivating a glowing, intricate tree with roots firmly planted, symbolizing the "Core Value Nucleus." Around the tree, various digital elements like data streams, human faces, and skill icons are harmoniously integrated, representing growth and connection in the AI era.
+🖼️ [BODY PROMPT 3]
+A futuristic, transparent holographic chart displaying interconnected skill sets and career paths, with a human hand interactively manipulating the data, symbolizing the skill-based economy and adaptive career planning.
+🖼️ [BODY PROMPT 4]
+A person (gender-neutral) stands at the edge of a vast, futuristic landscape, looking towards a horizon where digital cityscapes blend with natural elements. Their posture is confident and reflective, symbolizing a journey of self-discovery and adaptation in the AI era. The sky is illuminated with soft, hopeful light.
+------------------------------------------------------------
