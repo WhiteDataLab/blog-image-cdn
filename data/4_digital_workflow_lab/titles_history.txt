@@ -152,3 +152,4 @@
 - 초개인화된 'AI 기반 지식 그래프' 구축으로 업무 통찰력 극대화 전략
 - Many existing topics are indeed covered (AI agents, AI ethics, digital identity, skill economy, circular economy, human-centric design, data governance, cyber resilience). However, the *specific framings* I developed still appear to be novel in their focus.
 - AI의 '자율적 학습'과 '진화'가 직장인의 역할과 스킬셋에 미치는 영향: 예측 불가능한 AI 파트너 시대에 필요한 적응 전략
+- AI 시대, '직업 정체성' 재구성: 기술 변화 속 흔들리지 않는 나만의 커리어 가치 찾기
