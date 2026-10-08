@@ -147,3 +147,4 @@
 - I need to carefully filter these to find topics that are *not* in the `[과거 발행된 글 제목 리스트]` and are suitable for the "웰니스 라이프 레시피" blog.
 - 생체 모방형 자유 아미노산(FAA) 기반 영양: 2026년 최적의 흡수와 세포 활성을 위한 과학적 접근
 - 엑소좀의 미래: 단순한 뷰티를 넘어 질병 치료와 재생 의학의 핵심으로 떠오르는 2026년 웰니스 혁명
+- 양자 생물학 기반 웰니스: 미세 에너지 교환으로 몸의 잠재력을 깨우는 법
