@@ -1689,3 +1689,16 @@ A serene image of a human hand gently touching a vibrant, healthy plant, with su
 🖼️ [BODY PROMPT 4]
 A futuristic, minimalist laboratory scene with scientists (diverse, professional, 30s-40s) interacting with advanced holographic displays showing complex exosome structures and data. The atmosphere is collaborative and innovative, with glowing blue and white light.
 ------------------------------------------------------------
+
+[2026-10-08 12:55:11] 양자 생물학 기반 웰니스: 미세 에너지 교환으로 몸의 잠재력을 깨우는 법
+📸 [THUMBNAIL PROMPT]
+A futuristic, ethereal image depicting subtle energy flows within a human silhouette, rendered with glowing quantum particles and light, set against a backdrop of natural elements like water and light, symbolizing the intersection of biology and quantum physics. The overall mood is serene and enlightening.
+🖼️ [BODY PROMPT 1]
+A highly detailed 3D rendering of a human cell emitting subtle, glowing biophotons, with intricate quantum energy pathways visualized around it. The background is a soft, scientific blue, emphasizing precision and discovery.
+🖼️ [BODY PROMPT 2]
+A person meditating in a serene, nature-inspired room, surrounded by subtle glowing energy fields and soft, harmonious light. The scene conveys peace, balance, and advanced wellness technology seamlessly integrated into daily life.
+🖼️ [BODY PROMPT 3]
+A minimalist, sleek smart device displaying a complex holographic chart of a human body's energy fields and quantum wellness data. The device is held by hands, suggesting user interaction and personalized health management.
+🖼️ [BODY PROMPT 4]
+An abstract, artistic representation of interconnectedness and harmony, featuring glowing lines and subtle energy patterns flowing between human figures and natural elements. The color palette is calming, with blues, greens, and soft whites, evoking a sense of holistic well-being.
+------------------------------------------------------------
