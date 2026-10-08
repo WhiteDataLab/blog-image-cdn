@@ -1684,3 +1684,16 @@ A sleek, minimalist desk setup with a tablet displaying a neuro-financial app. T
 🖼️ [BODY PROMPT 8]
 A diverse group of investors (representing different ages and backgrounds) confidently looking at a large, transparent screen displaying a balanced and growing investment portfolio, with subtle neural network graphics in the background. They appear empowered and in control of their financial future. Optimistic and inclusive.
 ------------------------------------------------------------
+
+[2026-10-08 12:53:46] 2026년 평생 학습 시대, '인적 자본'에 투자하여 미래 소득을 극대화하는 재정 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, vibrant cityscape at sunset, with holographic charts representing human capital growth and lifelong learning pathways. A diverse group of people of various ages are seen engaging in learning activities, some with subtle digital overlays indicating skill acquisition. The overall mood is optimistic and forward-looking, emphasizing investment in oneself.
+🖼️ [BODY PROMPT 1]
+A person of indeterminate age sitting at a desk, surrounded by holographic screens displaying various learning modules, skill trees, and career pathways. The person is actively engaging with a digital interface, symbolizing lifelong learning and skill acquisition in a high-tech environment. The background shows a blurred office or home setting.
+🖼️ [BODY PROMPT 2]
+A person reviewing their financial dashboard on a tablet, with various government support program logos (e.g., National Tomorrow Learning Card, Lifelong Education Voucher) subtly integrated into the interface. The person looks confident and informed, symbolizing smart financial planning for education. The setting is a modern, minimalist home office.
+🖼️ [BODY PROMPT 3]
+A diverse group of professionals networking at a modern conference, with some individuals exchanging digital business cards via augmented reality. The atmosphere is dynamic and collaborative, highlighting the importance of human connections and shared learning in a professional context. A subtle overlay of skill badges or certifications is visible on some participants.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of a human brain connected to a network of glowing nodes, symbolizing enhanced cognitive abilities and continuous learning. The nodes are labeled with terms like "AI Literacy," "Critical Thinking," "Creativity," and "Financial Wisdom," indicating a holistic approach to human capital investment.
+------------------------------------------------------------
