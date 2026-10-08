@@ -1707,3 +1707,16 @@ An infographic-style image showing a map of South Korea with various traditional
 🖼️ [BODY PROMPT 4]
 A diverse group of young, international travelers sharing a laugh with an elderly Korean villager, perhaps over a shared meal or during a cultural activity. The scene is warm, genuine, and shows cross-cultural connection.
 ------------------------------------------------------------
+
+[2026-10-08 12:49:06] Result discusses general podcast trends, including the shift to video, but doesn't negate the existence or growth of audio dramas. This seems like a valid, distinct trend.
+📸 [THUMBNAIL PROMPT]
+A dynamic, futuristic image depicting a split screen. One side shows a podcast studio with a host speaking into a microphone, surrounded by vibrant sound waves. The other side shows a sleek, modern video podcast set with a host engaging with a camera, displaying high-quality visuals and graphics. A subtle overlay of holographic data charts indicating growth trends in both audio and video formats. The overall aesthetic is clean, professional, and forward-thinking, with a global feel.
+🖼️ [BODY PROMPT 1]
+A sleek, modern podcast studio featuring multiple high-definition cameras capturing hosts and guests engaged in lively discussion. Large monitor screens in the background display dynamic graphics and audience comments. The lighting is professional, and the overall atmosphere is energetic and contemporary, reflecting the high production value of 2026 video podcasts.
+🖼️ [BODY PROMPT 2]
+A person wearing stylish, noise-canceling headphones, completely engrossed in an audio drama. Their eyes are closed, and a subtle smile plays on their lips, suggesting deep immersion. The background is softly blurred, perhaps a cozy living room or a serene park, emphasizing the personal and transportive nature of audio-only storytelling.
+🖼️ [BODY PROMPT 3]
+A split image showcasing the versatility of podcast consumption. On one side, a person is watching a video podcast on a tablet while cooking in a modern kitchen. On the other side, another person is jogging outdoors, listening to an audio-only podcast through earbuds. The image emphasizes seamless integration into daily life, with clean, vibrant aesthetics.
+🖼️ [BODY PROMPT 4]
+A diverse group of young adults, some holding smartphones displaying podcast apps, others wearing headphones, gathered in a vibrant, modern co-working space or cafe. They are engaged in discussion, some pointing to screens, others gesturing animatedly, symbolizing the active and diverse community of podcast creators and listeners in 2026.
+------------------------------------------------------------
