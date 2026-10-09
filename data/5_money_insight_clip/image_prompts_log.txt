@@ -1697,3 +1697,16 @@ A diverse group of professionals networking at a modern conference, with some in
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of a human brain connected to a network of glowing nodes, symbolizing enhanced cognitive abilities and continuous learning. The nodes are labeled with terms like "AI Literacy," "Critical Thinking," "Creativity," and "Financial Wisdom," indicating a holistic approach to human capital investment.
 ------------------------------------------------------------
+
+[2026-10-09 12:59:42] '탈성장 경제' 시대, 개인 자산 관리의 새로운 지평: GDP를 넘어선 '웰빙 자산' 증식 전략
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist illustration depicting a balanced scale with traditional financial assets on one side and intangible well-being assets (like a blooming plant, a book, a community symbol, and a healthy human silhouette) on the other, set against a backdrop of a subtly declining GDP chart and a rising well-being index. The overall aesthetic is clean, modern, and hopeful, with soft, optimistic lighting.
+🖼️ [BODY PROMPT 1]
+A sophisticated infographic or dashboard displaying various well-being indicators (e.g., environmental quality, social cohesion, health index, education levels) alongside a flat or slightly declining GDP growth line. The design should be clean and data-driven, emphasizing the shift in focus from purely economic metrics to a broader definition of societal and individual prosperity.
+🖼️ [BODY PROMPT 2]
+A diverse group of individuals (representing various ages and backgrounds) engaging in different activities that symbolize well-being assets: one person meditating, another learning a new skill on a tablet, a couple enjoying a sustainable farm-to-table meal, and a family volunteering in a community garden. The scene should convey a sense of genuine happiness and connection.
+🖼️ [BODY PROMPT 3]
+A person (gender-neutral, perhaps a young professional) sitting comfortably in a modern, minimalist home office, looking thoughtfully at a holographic projection. The projection displays a balanced financial portfolio on one side and a tree with roots representing social connections, health, and learning on the other, symbolizing a holistic approach to wealth management. The atmosphere is calm and forward-thinking.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of growth, not as a linear upward arrow, but as a blossoming tree or a ripple effect, where the central financial growth is surrounded by expanding circles of social, intellectual, and experiential well-being. The colors are vibrant and organic, conveying a sense of holistic and sustainable prosperity.
+------------------------------------------------------------
