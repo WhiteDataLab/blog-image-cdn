@@ -145,3 +145,4 @@
 - Data as a Strategic Asset for National AI Sovereignty: Architecting Secure and Independent AI Ecosystems.
 - Data Architectures for Superconducting AI: Navigating the Ultra-Low Latency Frontier in 2026.
 - 
+- Architecting for Data Empathy: Designing Human-Centric Data Systems in the AI Era (2026)
