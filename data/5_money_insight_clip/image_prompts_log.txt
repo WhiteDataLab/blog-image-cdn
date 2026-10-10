@@ -1710,3 +1710,16 @@ A person (gender-neutral, perhaps a young professional) sitting comfortably in a
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of growth, not as a linear upward arrow, but as a blossoming tree or a ripple effect, where the central financial growth is surrounded by expanding circles of social, intellectual, and experiential well-being. The colors are vibrant and organic, conveying a sense of holistic and sustainable prosperity.
 ------------------------------------------------------------
+
+[2026-10-10 12:47:16] 2026년 에이지테크(AgeTech) 혁명: 고령화 사회의 삶을 바꾸는 기술 투자 기회와 현명한 재정 설계
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic image showing diverse seniors (active, engaged) interacting seamlessly with advanced technology (e.g., a senior using a holographic interface for health monitoring, another enjoying a VR experience, a smart home environment in the background). The overall mood is optimistic and empowering, reflecting a positive vision of aging with technology.
+🖼️ [BODY PROMPT 1]
+A sophisticated 3D infographic or chart depicting exponential growth curves for the AgeTech market, with icons representing different segments like health, smart homes, and finance, against a backdrop of a global map with increasing senior population density. The colors are vibrant and convey innovation and progress.
+🖼️ [BODY PROMPT 2]
+An elderly person at home, looking healthy and happy, being subtly monitored by various smart devices (e.g., a sleek wearable on the wrist, a non-contact sensor on the ceiling, a friendly AI companion robot nearby). The setting is modern, comfortable, and conveys a sense of security and independence.
+🖼️ [BODY PROMPT 3]
+A diverse group of "active seniors" (e.g., one consulting a tablet with financial data, another participating in an online learning session, a couple planning a trip) in a bright, modern setting, symbolizing financial independence and active engagement in later life. The atmosphere is positive and aspirational.
+🖼️ [BODY PROMPT 4]
+A modern, minimalist smart home interior with an elderly couple comfortably living. Subtle smart devices are integrated into the environment (e.g., a voice assistant speaker, a discreet fall sensor on the wall, a tablet displaying family video calls). The scene emphasizes ease, safety, and connection.
+------------------------------------------------------------
