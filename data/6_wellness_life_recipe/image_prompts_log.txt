@@ -1715,3 +1715,16 @@ A futuristic medical lab scene with a scientist observing a holographic display 
 🖼️ [BODY PROMPT 4]
 A diverse group of people of varying ages, including a senior couple, engaging in moderate, joint-friendly exercises like walking in a park, gentle stretching, and swimming. The scene is bright and encouraging, emphasizing active and healthy lifestyles for all, with a focus on holistic well-being.
 ------------------------------------------------------------
+
+[2026-10-11 12:20:20] 2026년 웰니스 혁명: 식물 기반 생물학제로 여는 질병 치료의 새 지평
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic laboratory scene where scientists are working with glowing plant cells in bioreactors, symbolizing the innovation in plant-based biologics. The atmosphere is clean, high-tech, and hopeful, with subtle green hues.
+🖼️ [BODY PROMPT 1]
+A close-up of a scientist's hands carefully pipetting a liquid into a petri dish containing plant cell cultures, with glowing green hues emanating from the cells, set in a modern, brightly lit lab.
+🖼️ [BODY PROMPT 2]
+A futuristic infographic displaying the various applications of plant-based biologics in different disease areas (cancer, autoimmune, infectious diseases), using sleek 3D graphics and glowing data points. The overall aesthetic is clean and high-tech.
+🖼️ [BODY PROMPT 3]
+A diverse group of people of various ages and ethnicities smiling and engaging in healthy activities (yoga, light jogging, gardening) in a lush, green, natural setting, symbolizing a future where plant-based medicine contributes to widespread wellness and vitality.
+🖼️ [BODY PROMPT 4]
+A stylized illustration of a single, vibrant green plant with intricate root systems extending downwards, and its leaves transforming into glowing molecular structures and pharmaceutical symbols, representing the journey from plant to powerful medicine.
+------------------------------------------------------------
