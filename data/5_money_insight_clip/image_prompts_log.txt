@@ -1736,3 +1736,14 @@ A stylized, glowing brain icon at the center of a complex network of digital sec
 🖼️ [BODY PROMPT 4]
 A person (could be male or female, diverse) looking thoughtfully at a holographic projection of their own digital timeline or a digital representation of their assets, with a subtle smile, conveying a sense of empowerment and foresight in managing their digital legacy.
 ------------------------------------------------------------
+
+[2026-10-12 12:37:40] 2026년 '관심 경제' 시대, 개인의 시간과 주의를 자산으로 전환하는 재테크 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic city skyline at dawn, with digital overlays of data streams and glowing network connections, symbolizing the 'attention economy'. A person is silhouetted in the foreground, looking at a holographic financial chart, representing individual wealth management in this new era.
+🖼️ [BODY PROMPT 1]
+A close-up of a person's hand interacting with a holographic interface displaying various digital assets, social media metrics, and financial graphs, symbolizing the monetization of attention and data in a futuristic setting.
+🖼️ [BODY PROMPT 2]
+A diverse group of people from different backgrounds (a gamer, a content creator, a financial analyst) are connected by glowing lines to a central holographic globe, representing a decentralized network where individual contributions and attention are valued and monetized.
+🖼️ [BODY PROMPT 3]
+A person meditating in a serene, minimalist digital space, surrounded by calm, flowing data visualizations instead of chaotic information, symbolizing mindful attention management and focus on valuable financial insights.
+------------------------------------------------------------
