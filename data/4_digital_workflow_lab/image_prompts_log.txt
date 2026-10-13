@@ -1790,3 +1790,16 @@ An office worker wearing AR glasses interacts with a holographic projection of t
 
 우리가 업무 공간을 '소비'하는 방식에서 '참여'하고 '설계'하는 방식으로 전환될 때, 진정한 의미의 스마트 워크가 실현될 것입니다. '자가 조립성' 오피스는 이러한 변화의 최전선에 서서, 미래의 업무 공간이 어떻게 우리의 잠재력을 최대한 발휘하도록 도울 수 있을지 보여주고 있습니다. 지금부터 우리 회사에 맞는 유연한 업무 환경을 고민하고, '자가 조립성' 오피스가 가져올 혁신에 동참할 때입니다.
 ------------------------------------------------------------
+
+[2026-10-13 13:49:13] AI 시대, '디지털 시민권'의 재정의: 업무 환경에서의 권리와 책임
+📸 [THUMBNAIL PROMPT]
+A futuristic, professional office environment where diverse human employees are seamlessly collaborating with subtle, glowing AI interfaces and holographic displays. The overall tone is sophisticated and harmonious, symbolizing the redefined digital citizenship in the AI era. Focus on a balanced integration of human and AI elements, with a sense of clarity and purpose.
+🖼️ [BODY PROMPT 1]
+A diverse group of office workers in a modern, open-plan office, looking at a large, transparent holographic screen displaying AI-generated data and insights. One worker is pointing to a specific data point, engaging in discussion with human colleagues, while a subtle AI interface glows around the edges, symbolizing human oversight and ethical interaction with AI.
+🖼️ [BODY PROMPT 2]
+A person (could be male or female, diverse ethnicity) in a modern, minimalist workspace, wearing augmented reality glasses. Holographic charts and data visualizations float around them, showing skill trees and learning paths. The person is actively engaging with the information, symbolizing continuous learning and reskilling in the AI era.
+🖼️ [BODY PROMPT 3]
+A conceptual image of a balanced scale. On one side, glowing digital icons representing "Rights" (privacy, transparency, human oversight). On the other side, similar icons representing "Responsibilities" (ethical use, continuous learning, critical evaluation). The scale is perfectly balanced, with a subtle AI network flowing beneath, symbolizing the redefinition of digital citizenship.
+🖼️ [BODY PROMPT 4]
+A group of diverse professionals, smiling and confident, standing in a modern, collaborative workspace. Behind them, a subtle, abstract representation of interconnected AI nodes and human brain patterns merge, symbolizing the "Centaur" concept – human intelligence and creativity augmented by AI. The overall mood is optimistic and forward-looking.
+------------------------------------------------------------
