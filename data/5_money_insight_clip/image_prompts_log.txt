@@ -1747,3 +1747,16 @@ A diverse group of people from different backgrounds (a gamer, a content creator
 🖼️ [BODY PROMPT 3]
 A person meditating in a serene, minimalist digital space, surrounded by calm, flowing data visualizations instead of chaotic information, symbolizing mindful attention management and focus on valuable financial insights.
 ------------------------------------------------------------
+
+[2026-10-13 13:51:12] 2026년 K-GX 1000조 투자 시대: 탄소중립 전환이 만드는 개인 투자자의 새로운 성장 동력 발굴 전략
+📸 [THUMBNAIL PROMPT]
+A dynamic and futuristic image of a bustling Korean city skyline integrated with renewable energy sources like wind turbines and solar panels, with digital overlays showing green investment charts and a subtle "K-GX 1000조" holographic text. A diverse group of confident individual investors, in modern business attire, are looking towards the horizon with optimism.
+🖼️ [BODY PROMPT 1]
+A futuristic infographic showing the breakdown of the 1000 trillion KRW K-GX investment across different sectors like renewable energy, green mobility, and industrial decarbonization, with a subtle background of a thriving, green Korean landscape.
+🖼️ [BODY PROMPT 2]
+A vivid illustration of various green technologies converging: a sleek electric car charging, a wind farm silhouetted against a sunset, a solar panel array, and a modern factory with carbon capture technology, all symbolizing the "Top 10 Green Industries."
+🖼️ [BODY PROMPT 3]
+A person, possibly an individual investor, is intently looking at a holographic stock chart with green upward trends, surrounded by various investment icons representing ETFs, green bonds, and company logos, symbolizing a diversified K-GX investment portfolio.
+🖼️ [BODY PROMPT 4]
+A serene yet powerful image of a person standing on a hill overlooking a vibrant, green landscape where a modern city seamlessly blends with nature, with clean energy infrastructure in the distance, symbolizing a sustainable and prosperous future achieved through green investments.
+------------------------------------------------------------
