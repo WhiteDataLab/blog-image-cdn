@@ -1739,3 +1739,16 @@ A diverse group of women of different ages (20s, 40s, 60s) smiling and engaging 
 🖼️ [BODY PROMPT 3]
 A serene, futuristic garden where glowing, bioluminescent plants represent a perfectly balanced internal ecosystem. Subtle, ethereal lines connect these plants to a stylized, translucent human female figure, symbolizing the interconnectedness of nature, internal microbial balance, and long-term, radiant women's health. The overall aesthetic is one of harmony and advanced well-being.
 ------------------------------------------------------------
+
+[2026-10-13 13:52:42] 2026년, 빛 스펙트럼의 비밀: 실내 조명으로 기분, 수면, 호르몬까지 디자인하는 법
+📸 [THUMBNAIL PROMPT]
+A futuristic, minimalist living space bathed in dynamic, human-centric lighting. The light subtly shifts from a cool, energizing blue-white near a home office area to a warm, calming amber in a relaxation zone, illustrating the power of light spectrum design. Holographic interfaces display light settings.
+🖼️ [BODY PROMPT 1]
+A detailed infographic illustrating the human circadian rhythm, showing how different light colors (blue for morning, warm amber for evening) influence the secretion patterns of melatonin and cortisol throughout a 24-hour cycle, with a subtle biological clock motif.
+🖼️ [BODY PROMPT 2]
+A person meditating or reading a book in a cozy, modern living room during the evening. The room is illuminated with soft, warm amber lighting, creating a serene and relaxing atmosphere, with smart lighting fixtures subtly visible.
+🖼️ [BODY PROMPT 3]
+A sleek, futuristic smart home control panel or a modern smartphone app interface displaying customizable light spectrum settings for different rooms (e.g., "Morning Boost," "Evening Calm," "Focus Mode") with real-time adjustments and AI integration icons.
+🖼️ [BODY PROMPT 4]
+A diverse group of people (a family, a student, a remote worker) in different rooms of a modern, smart home. Each room is perfectly illuminated with spectrum-optimized lighting tailored to their activity – bright, cool light for study, warm, soft light for family relaxation, and a dim, red-toned light for a person preparing for sleep. The overall image conveys harmony and well-being.
+------------------------------------------------------------
