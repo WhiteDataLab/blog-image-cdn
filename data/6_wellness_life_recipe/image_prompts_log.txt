@@ -1752,3 +1752,8 @@ A sleek, futuristic smart home control panel or a modern smartphone app interfac
 🖼️ [BODY PROMPT 4]
 A diverse group of people (a family, a student, a remote worker) in different rooms of a modern, smart home. Each room is perfectly illuminated with spectrum-optimized lighting tailored to their activity – bright, cool light for study, warm, soft light for family relaxation, and a dim, red-toned light for a person preparing for sleep. The overall image conveys harmony and well-being.
 ------------------------------------------------------------
+
+[2026-10-15 11:42:25] 2026년, 장 건강을 넘어선 마음의 열쇠: '사이코바이오틱스'로 기분까지 디자인하는 법
+📸 [THUMBNAIL PROMPT]
+N/A
+------------------------------------------------------------
