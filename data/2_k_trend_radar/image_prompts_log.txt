@@ -1785,3 +1785,16 @@ A sleek, minimalist digital dashboard displaying real-time data on flexible work
 🖼️ [BODY PROMPT 4]
 A group of diverse international professionals networking and smiling in a modern, open-plan office in Seoul. They are casually dressed but professional, reflecting the evolving workplace culture. A cityscape is visible through large windows in the background.
 ------------------------------------------------------------
+
+[2026-10-15 11:36:43] The Rise of "Experience-Driven Collecting": Beyond K-Pop Merch to Niche Korean Cultural Artifacts and Their Stories in 2026
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist image featuring a beautifully crafted Korean ceramic piece (e.g., a celadon vase or a modern buncheong ware bowl) on a wooden pedestal, with blurred traditional Korean architecture in the background. Soft, natural lighting highlights the texture and form of the artifact, evoking a sense of history and refined taste. The overall aesthetic is elegant and serene, appealing to discerning collectors.
+🖼️ [BODY PROMPT 1]
+A diverse group of international individuals, ranging in age, are engaged in a traditional Korean pottery workshop. They are smiling and focused, hands covered in clay, working alongside a Korean artisan who is patiently guiding them. The workshop space is bright and airy, filled with examples of beautiful ceramic pieces. The atmosphere is one of shared learning and cultural exchange.
+🖼️ [BODY PROMPT 2]
+A close-up shot of an antique Korean *minhwa* (folk painting) being carefully examined by a collector. The painting depicts vibrant, symbolic animals or scenes. The collector's hands are gloved, and a magnifying glass is held over a detail, suggesting careful appraisal. In the background, a knowledgeable Korean art dealer is smiling, ready to share the painting's history.
+🖼️ [BODY PROMPT 3]
+A vibrant, bustling scene at a traditional Korean market. Stalls are overflowing with colorful textiles, unique ceramic pieces, and various handcrafted goods. Sunlight streams through the awnings, highlighting the lively atmosphere. Foreign visitors are seen interacting with local vendors, pointing at items and engaging in friendly conversation, capturing the essence of discovery.
+🖼️ [BODY PROMPT 4]
+A beautifully arranged flat lay of various Korean cultural artifacts on a rustic wooden table. Items include a small, elegant celadon teacup, a delicate piece of *hanji* art, a vintage Korean hairpin, and a small, intricately carved wooden ornament. The composition is artistic and inviting, showcasing the diversity and beauty of niche Korean collectibles.
+------------------------------------------------------------
