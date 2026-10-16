@@ -1757,3 +1757,14 @@ A diverse group of people (a family, a student, a remote worker) in different ro
 📸 [THUMBNAIL PROMPT]
 N/A
 ------------------------------------------------------------
+
+[2026-10-16 11:38:54] 플로팅 테라피: 무중력 공간에서 찾는 진정한 몸과 마음의 평화 (2026년 최신 동향)
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist floatation tank pod in a futuristic, calming spa environment. Soft, diffused ambient lighting. No visible people, focus on the sleek design and the tranquil water surface. High-resolution, clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A person floating peacefully in a dark, calm floatation tank, with only subtle, ethereal light outlining their relaxed silhouette. Emphasize the sense of weightlessness and deep tranquility. Realistic, high-quality photograph.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a hand gently touching the surface of highly saline water, creating small, peaceful ripples. The water glistens under soft, indirect light, conveying a sense of purity and calm. Focus on texture and light. High-quality, artistic.
+🖼️ [BODY PROMPT 3]
+A modern, spacious spa reception area with natural light and minimalist design. A friendly, professional staff member is guiding a relaxed-looking client towards the floatation therapy area. Emphasize a welcoming, high-end atmosphere. Realistic, high-quality.
+------------------------------------------------------------
