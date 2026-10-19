@@ -1794,3 +1794,16 @@ A close-up shot of a smartphone screen displaying a user-friendly app interface.
 🖼️ [BODY PROMPT 4]
 A group of smiling, diverse individuals (including a family with children and an elderly couple) happily harvesting vegetables in a community garden. The scene is bathed in warm, natural light, conveying a sense of community, health, and connection to nature. The vegetables they hold are fresh and vibrant.
 ------------------------------------------------------------
+
+[2026-10-19 11:44:16] 어싱(Earthing) 또는 접지(Grounding) 과학: 2026년, 맨발로 자연과 연결하여 몸과 마음의 활력을 되찾는 법
+📸 [THUMBNAIL PROMPT]
+A serene, sun-drenched landscape where a person is walking barefoot on a lush green path leading to a sparkling lake, with a subtle glow around their feet symbolizing Earth's energy connection. The atmosphere is peaceful and invigorating, with soft natural light and a sense of deep connection to nature.
+🖼️ [BODY PROMPT 1]
+A diverse group of Koreans, including middle-aged and elderly individuals, happily walking barefoot on a well-maintained red clay path in a lush park. Some are smiling and chatting, while others are deeply focused on their steps, feeling the earth beneath their feet. The scene is vibrant and full of natural light, emphasizing community and well-being.
+🖼️ [BODY PROMPT 2]
+A person sleeping peacefully on a bed with a subtle, futuristic grounding mat visible beneath the sheets. The room is dimly lit with warm, calming light, and a digital clock on the nightstand shows "3:00 AM" with a low heart rate, symbolizing improved sleep quality through indoor grounding.
+🖼️ [BODY PROMPT 3]
+A close-up shot of bare feet gently pressing into wet, glistening sand on a beach at sunrise. The sand shows ripples from the receding tide, and the sun's golden light casts long shadows, highlighting the texture and the sense of direct connection to the Earth. The overall mood is tranquil and powerful.
+🖼️ [BODY PROMPT 4]
+A modern, minimalist living room with a large window overlooking a serene natural landscape. On the floor, a sleek, subtly textured grounding mat is placed, and a person is sitting comfortably on it, reading a book, with a sense of calm and connection. The design is clean and emphasizes wellness integration into daily life.
+------------------------------------------------------------
