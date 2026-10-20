@@ -1807,3 +1807,16 @@ A close-up shot of bare feet gently pressing into wet, glistening sand on a beac
 🖼️ [BODY PROMPT 4]
 A modern, minimalist living room with a large window overlooking a serene natural landscape. On the floor, a sleek, subtly textured grounding mat is placed, and a person is sitting comfortably on it, reading a book, with a sense of calm and connection. The design is clean and emphasizes wellness integration into daily life.
 ------------------------------------------------------------
+
+[2026-10-20 11:59:29] 2026년, '작심삼일' 끝! 운동 습관을 지속시키는 행동 과학 기반 동기 부여 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic gym setting with diverse individuals engaging in various exercises, some interacting with holographic fitness coaches or smart mirrors displaying personalized data. The atmosphere is energetic and positive, with subtle elements of behavioral science symbols like small steps leading to a larger goal, or a reward system icon. The overall aesthetic is clean, modern, and inspiring.
+🖼️ [BODY PROMPT 1]
+A minimalist, modern living room with a yoga mat subtly placed near a window, sunlight streaming in. On a sleek side table, a smart water bottle and a pair of stylish running shoes are visible. The overall impression is one of effortless integration of wellness into daily life.
+🖼️ [BODY PROMPT 2]
+A professional in a modern office setting, wearing smart casual attire, discreetly performing a few squats next to their desk. A smart watch is visible on their wrist, and a minimalist digital clock on the computer screen shows a short break time. The scene emphasizes integrating quick bursts of exercise into a busy workday.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand holding a smartphone displaying a fitness app interface. The app shows personalized exercise recommendations, progress tracking, and a notification for a "health reward" or "wellness discount." The background is slightly blurred, suggesting a focus on the digital interaction.
+🖼️ [BODY PROMPT 4]
+A person in athletic wear, standing confidently at the top of a scenic hiking trail, looking out over a vast, beautiful landscape. Their arms are slightly raised in a gesture of accomplishment, symbolizing the successful journey of building sustainable exercise habits. The morning sun casts a warm glow, highlighting a sense of peace and achievement.
+------------------------------------------------------------
