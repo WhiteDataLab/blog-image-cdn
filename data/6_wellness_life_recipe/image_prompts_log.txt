@@ -1820,3 +1820,16 @@ A close-up shot of a hand holding a smartphone displaying a fitness app interfac
 🖼️ [BODY PROMPT 4]
 A person in athletic wear, standing confidently at the top of a scenic hiking trail, looking out over a vast, beautiful landscape. Their arms are slightly raised in a gesture of accomplishment, symbolizing the successful journey of building sustainable exercise habits. The morning sun casts a warm glow, highlighting a sense of peace and achievement.
 ------------------------------------------------------------
+
+[2026-10-21 11:51:07] '정신 건강'을 넘어 'MEB 웰빙'으로: 2026년, 전인적 관점에서 삶의 질을 높이는 새로운 접근법
+📸 [THUMBNAIL PROMPT]
+A serene, futuristic infographic depicting interconnected spheres representing Mental, Emotional, and Bodily well-being, with subtle glowing lines illustrating their synergy. The background is a soft, calming gradient of blues and greens, suggesting harmony and growth. A minimalist "MEB Well-being" typography is integrated into the design.
+🖼️ [BODY PROMPT 1]
+A diverse group of people engaged in various holistic wellness activities: one person meditating calmly, another doing gentle yoga stretches, and a third enjoying a healthy, colorful meal. The scene is bright and harmonious, emphasizing balance and well-being.
+🖼️ [BODY PROMPT 2]
+A person wearing a sleek, minimalist wearable device on their wrist, looking at a holographic display showing personalized health data – heart rate, sleep quality, and a mood indicator, all interconnected. The background is a modern, clean home environment.
+🖼️ [BODY PROMPT 3]
+A group of friends laughing and enjoying a healthy picnic in a sunlit park, surrounded by lush greenery. They are sharing food and engaging in lively conversation, embodying strong social connections and emotional well-being.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of growth and interconnectedness. Multiple glowing lines converge and diverge, forming a complex yet harmonious network, symbolizing the holistic nature of MEB well-being and its positive impact on life quality.
+------------------------------------------------------------
