@@ -1833,3 +1833,16 @@ A group of friends laughing and enjoying a healthy picnic in a sunlit park, surr
 🖼️ [BODY PROMPT 4]
 A stylized, abstract representation of growth and interconnectedness. Multiple glowing lines converge and diverge, forming a complex yet harmonious network, symbolizing the holistic nature of MEB well-being and its positive impact on life quality.
 ------------------------------------------------------------
+
+[2026-10-22 11:52:33] 2026년 소아청소년 비만, 만성질환으로의 접근: 정부의 새로운 예방·관리 수칙 집중 분석
+📸 [THUMBNAIL PROMPT]
+A vibrant, optimistic image showing diverse children and teenagers engaging in various healthy activities (playing outdoors, eating fresh fruits, cycling) with a subtle overlay of a futuristic, clean health data interface. The overall mood is hopeful and proactive, emphasizing prevention and well-being.
+🖼️ [BODY PROMPT 1]
+A conceptual image showing a child's silhouette with various health indicators (blood pressure monitor, glucose meter, heart icon) subtly integrated, illustrating the chronic disease aspect of pediatric obesity. The background is a soft, warm gradient, suggesting a focus on care and monitoring.
+🖼️ [BODY PROMPT 2]
+A futuristic, clean graphic showing a child interacting with a tablet displaying a personalized health dashboard. The screen shows data points like activity levels, meal plans, and progress charts, all managed by an AI system. The child looks engaged and happy.
+🖼️ [BODY PROMPT 3]
+A dynamic infographic or 3D chart illustrating the rising trend of pediatric and adolescent obesity rates in Korea over the past few years, culminating in 2026 data. The chart uses clear, bold numbers and a slightly alarming but professional color palette to convey urgency.
+🖼️ [BODY PROMPT 4]
+A heartwarming image of a family (parents and two children) happily preparing a healthy meal together in a modern, bright kitchen. They are smiling and interacting, emphasizing the family-centered approach to wellness. The overall feeling is one of togetherness and proactive health.
+------------------------------------------------------------
