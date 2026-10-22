@@ -1853,3 +1853,16 @@ A close-up shot of a hand holding a transparent tablet, displaying a complex yet
 🖼️ [BODY PROMPT 5]
 A person wearing sleek, futuristic smart glasses that project a personalized health dashboard, showing real-time biometric data, genetic predispositions, and recommended lifestyle adjustments. The background is a clean, modern home environment, emphasizing personal control over health.
 ------------------------------------------------------------
+
+[2026-10-22 11:51:09] 초개인화된 건강 데이터 기반 금융 상품 설계: 나의 유전 정보가 보험료와 투자 포트폴리오를 결정하는 미래
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek infographic showing a human DNA helix intertwining with financial charts and digital currency symbols, against a backdrop of glowing data streams. The color palette is cool blues, greens, and purples, emphasizing technology and health.
+🖼️ [BODY PROMPT 1]
+A person looking at a holographic display showing their DNA sequence alongside a personalized insurance premium calculation, with a secure lock icon emphasizing data privacy. The setting is a modern, minimalist financial advisory office.
+🖼️ [BODY PROMPT 2]
+A diverse group of investors, each holding a tablet displaying a unique, AI-generated investment portfolio chart, with subtle genetic helix patterns integrated into the design. They are in a collaborative, high-tech meeting space.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist smartphone displaying a financial app interface. On the screen, a DNA strand icon is subtly integrated into a personalized financial dashboard, showing insurance details and investment suggestions. The background is blurred, modern city lights.
+🖼️ [BODY PROMPT 4]
+A person standing at a crossroads, one path leading towards a vibrant, green landscape symbolizing health, and the other towards a cityscape with glowing financial graphs, symbolizing wealth. The person is looking confidently towards the horizon where both paths converge, representing integrated health and wealth management.
+------------------------------------------------------------
