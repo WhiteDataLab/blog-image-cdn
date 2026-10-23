@@ -1876,3 +1876,14 @@ A close-up shot of a young Korean media artist wearing mixed reality glasses, in
 🖼️ [BODY PROMPT 4]
 An abstract, colorful world map made of interconnected glowing lines, with various points highlighting cities where "Touring K-Arts" programs are taking place. Small icons representing different art forms (a traditional fan, a modern sculpture, a musical note) are scattered across the map, symbolizing the global reach and diversity of the initiative.
 ------------------------------------------------------------
+
+[2026-10-23 11:46:04] The Rise of "Digital Twin Cities" for Urban Planning and Citizen Engagement in 2026: South Korea is actively advancing Urban Digital Twin (UDT) projects in 2026, moving beyond mere simulation to foster direct citizen engagement in urban planning and decision-making through interactive 3D city models and immersive governance platforms like the "Citiverse". This initiative aims to create more inclusive, transparent, and participatory urban environments, with projects like Busan's "Digital Twin Pilot Zone Development" focusing on citizen-centered services to solve urban problems.
+📸 [THUMBNAIL PROMPT]
+A futuristic, vibrant cityscape of Busan at dusk, with holographic overlays showcasing interactive 3D urban models and data visualizations. Citizens are seen engaging with these digital projections, pointing and discussing, symbolizing direct participation in urban planning. The overall aesthetic is high-tech, inclusive, and forward-looking.
+🖼️ [BODY PROMPT 1]
+A diverse group of Busan citizens, including young professionals, families, and seniors, gathered around a large, interactive holographic map of their city. They are actively pointing, swiping, and discussing urban development plans, with data visualizations responding to their input in real-time. The atmosphere is collaborative and innovative.
+🖼️ [BODY PROMPT 2]
+A sophisticated, minimalist infographic showcasing the interconnectedness of various urban data streams (traffic, environment, citizen feedback) feeding into a central "Digital Twin" core. Holographic lines extend from the core to different city functions, illustrating seamless integration and real-time updates. The color palette is clean and modern.
+🖼️ [BODY PROMPT 3]
+A group of international residents in Seoul using a mobile application that overlays augmented reality elements onto their physical surroundings. They are exploring a proposed park design in their neighborhood, with virtual trees and pathways appearing on their screens, allowing them to provide feedback directly through the app. The setting is a bustling urban street with traditional Korean architecture in the background.
+------------------------------------------------------------
