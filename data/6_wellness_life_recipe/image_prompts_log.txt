@@ -1846,3 +1846,24 @@ A dynamic infographic or 3D chart illustrating the rising trend of pediatric and
 🖼️ [BODY PROMPT 4]
 A heartwarming image of a family (parents and two children) happily preparing a healthy meal together in a modern, bright kitchen. They are smiling and interacting, emphasizing the family-centered approach to wellness. The overall feeling is one of togetherness and proactive health.
 ------------------------------------------------------------
+
+[2026-10-23 11:58:29] 과도한 건강 데이터 최적화의 역설: 소셜 미디어 속 '웰니스 비교 문화'에서 벗어나는 법
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist illustration of a person meditating with a subtle digital overlay of health data points, which are gently fading away. The background is soft, pastel, and calming, suggesting a shift from data obsession to inner peace. The aesthetic is modern and clean.
+🖼️ [BODY PROMPT 1]
+A person looking stressed while staring at a smart watch displaying overwhelming health data. The background is a blurry, idealized social media feed with perfectly healthy-looking people. The lighting is slightly dim, emphasizing the feeling of burden.
+🖼️ [BODY PROMPT 2]
+A person mindfully enjoying a simple, healthy meal, with no digital devices in sight. The focus is on the textures and colors of the food, and the person's calm, content expression. Natural light fills the scene, creating a sense of peace.
+🖼️ [BODY PROMPT 3]
+A diverse group of people engaged in various joyful, non-competitive wellness activities outdoors – some walking in nature, some doing gentle yoga, others simply laughing and chatting. The atmosphere is collaborative and authentic, without any visible screens or tracking devices.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of a balanced mind and body. Two hands gently holding a glowing, ethereal sphere that symbolizes inner peace and holistic well-being, surrounded by soft, flowing lines. No digital elements are present, emphasizing a human-centric approach.
+🖼️ [BODY PROMPT 5]
+A person looking stressed while staring at a smart watch displaying overwhelming health data. The background is a blurry, idealized social media feed with perfectly healthy-looking people. The lighting is slightly dim, emphasizing the feeling of burden.
+🖼️ [BODY PROMPT 6]
+A person mindfully enjoying a simple, healthy meal, with no digital devices in sight. The focus is on the textures and colors of the food, and the person's calm, content expression. Natural light fills the scene, creating a sense of peace.
+🖼️ [BODY PROMPT 7]
+A diverse group of people engaged in various joyful, non-competitive wellness activities outdoors – some walking in nature, some doing gentle yoga, others simply laughing and chatting. The atmosphere is collaborative and authentic, without any visible screens or tracking devices.
+🖼️ [BODY PROMPT 8]
+A stylized, abstract representation of a balanced mind and body. Two hands gently holding a glowing, ethereal sphere that symbolizes inner peace and holistic well-being, surrounded by soft, flowing lines. No digital elements are present, emphasizing a human-centric approach.
+------------------------------------------------------------
