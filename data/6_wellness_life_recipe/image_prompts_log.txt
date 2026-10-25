@@ -1880,3 +1880,16 @@ A modern, sleek supplement bottle labeled "Saffron Extract" with a clear indicat
 🖼️ [BODY PROMPT 4]
 A beautifully plated, vibrant saffron risotto or a delicate saffron-infused dessert, garnished with fresh saffron threads. The setting is bright and inviting, emphasizing the culinary versatility and aesthetic appeal of saffron.
 ------------------------------------------------------------
+
+[2026-10-25 11:42:44] AI 기반 생체 신호 분석: 수면 데이터가 밝히는 130가지 질병 조기 예측의 미래
+📸 [THUMBNAIL PROMPT]
+A futuristic, serene bedroom with a smart mattress glowing subtly, displaying holographic sleep data analytics in the air, a smart ring on a bedside table, and a peaceful sleeping figure, emphasizing advanced AI and wellness.
+🖼️ [BODY PROMPT 1]
+A sleek, minimalist smart ring on a person's finger, glowing with subtle data visualizations, connected to a holographic display showing complex biosignal graphs and AI analysis, set against a dark, futuristic background.
+🖼️ [BODY PROMPT 2]
+A diverse group of people (various ages, genders, ethnicities) engaging in healthy activities like yoga, meditation, and light exercise, all wearing sleek, modern wearable devices that subtly glow, symbolizing personalized wellness powered by AI.
+🖼️ [BODY PROMPT 3]
+A futuristic medical consultation scene where a patient is discussing their sleep data with a doctor. The doctor is pointing at a transparent screen displaying detailed sleep analytics, disease risk predictions, and personalized health recommendations, all powered by AI.
+🖼️ [BODY PROMPT 4]
+A serene, minimalist bedroom with soft, warm lighting. A person is peacefully sleeping in a comfortable bed, while a subtle, glowing aura around them symbolizes positive energy and optimal health, representing the future of wellness through sleep.
+------------------------------------------------------------
