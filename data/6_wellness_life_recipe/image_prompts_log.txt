@@ -1893,3 +1893,16 @@ A futuristic medical consultation scene where a patient is discussing their slee
 🖼️ [BODY PROMPT 4]
 A serene, minimalist bedroom with soft, warm lighting. A person is peacefully sleeping in a comfortable bed, while a subtle, glowing aura around them symbolizes positive energy and optimal health, representing the future of wellness through sleep.
 ------------------------------------------------------------
+
+[2026-10-26 11:38:37] 감각 과부하 시대, 뇌 피로 해소를 위한 '감각 다이어트' 전략: 디지털 디톡스를 넘어선 오감 관리법
+📸 [THUMBNAIL PROMPT]
+A serene, minimalist scene with a person meditating amidst soft, diffused natural light, surrounded by subtle elements representing each of the five senses (a small plant for smell, a smooth stone for touch, a faint sound wave graphic, a blurred natural landscape for sight, and a single, perfectly ripe fruit for taste). The overall mood is calm, balanced, and sophisticated, with a touch of modern wellness technology subtly integrated in the background, like a smart diffuser or a minimalist sound device.
+🖼️ [BODY PROMPT 1]
+A person in a modern, minimalist home environment, intentionally putting away their smartphone into a stylish, opaque box. The lighting is soft, and a small, natural plant is visible nearby, symbolizing a shift from digital to natural sensory input.
+🖼️ [BODY PROMPT 2]
+A person wearing minimalist, high-quality headphones, sitting by a window overlooking a lush green park. They are listening to calming nature sounds, with a subtle graphic overlay of gentle sound waves emanating from the headphones, indicating selective auditory input.
+🖼️ [BODY PROMPT 3]
+A close-up shot of hands gently holding a beautifully arranged plate of fresh, colorful, wholesome food. The focus is on the textures and natural colors of the ingredients, suggesting mindful eating and appreciation of taste and sight. The background is softly blurred, emphasizing the food.
+🖼️ [BODY PROMPT 4]
+A sleek, futuristic smart home control panel displaying various wellness settings: ambient lighting, calming soundscapes, and a subtle aroma diffuser. The interface is intuitive and minimalist, reflecting advanced technology designed for sensory well-being.
+------------------------------------------------------------
