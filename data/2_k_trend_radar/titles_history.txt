@@ -174,3 +174,4 @@
 - The Rise of "Digital Twin Cities" for Urban Planning and Citizen Engagement in 2026: South Korea is actively advancing Urban Digital Twin (UDT) projects in 2026, moving beyond mere simulation to foster direct citizen engagement in urban planning and decision-making through interactive 3D city models and immersive governance platforms like the "Citiverse". This initiative aims to create more inclusive, transparent, and participatory urban environments, with projects like Busan's "Digital Twin Pilot Zone Development" focusing on citizen-centered services to solve urban problems.
 - Korea's Digital Afterlife: Navigating Online Legacies and Virtual Memorials in a Hyper-Connected Society in 2026
 - Harvesting the Future: How Korea's Agritech Revolution is Redefining Food Security and Sustainable Farming in 2026.
+- Seoul's Therapeutic Green Spaces: Designing for Mental Well-being and Inclusive Accessibility in 2026
