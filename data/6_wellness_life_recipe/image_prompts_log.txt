@@ -1906,3 +1906,24 @@ A close-up shot of hands gently holding a beautifully arranged plate of fresh, c
 🖼️ [BODY PROMPT 4]
 A sleek, futuristic smart home control panel displaying various wellness settings: ambient lighting, calming soundscapes, and a subtle aroma diffuser. The interface is intuitive and minimalist, reflecting advanced technology designed for sensory well-being.
 ------------------------------------------------------------
+
+[2026-10-27 12:17:17] 글리칸(Glycan) 과학으로 여는 2026년 세포 소통 혁명: 면역부터 노화까지, 내 몸의 숨겨진 언어를 해독하는 법
+📸 [THUMBNAIL PROMPT]
+A futuristic, intricate illustration of a human cell with glowing glycan structures on its surface, communicating with other cells through vibrant, interconnected light pathways. The background is a sophisticated, clean laboratory setting with subtle holographic data displays.
+🖼️ [BODY PROMPT 1]
+A highly magnified, abstract illustration of immune cells interacting with a pathogen. Glycan structures on the cell surfaces are depicted as glowing, intricate networks, guiding the recognition and communication process.
+🖼️ [BODY PROMPT 2]
+A vibrant, aesthetically pleasing plate of diverse, colorful fruits and vegetables, emphasizing a healthy, glycan-friendly diet. The setting is a modern, clean kitchen.
+🖼️ [BODY PROMPT 3]
+A sophisticated 3D rendering of a human body's internal network, with specific glycan pathways highlighted in glowing blue and green, illustrating targeted therapeutic interventions.
+🖼️ [BODY PROMPT 4]
+A person (gender-neutral, healthy appearance) in a bright, modern wellness center, looking at a holographic display showing personalized health data, including intricate glycan patterns. The person has a thoughtful, empowered expression.
+🖼️ [BODY PROMPT 5]
+A highly magnified, abstract illustration of immune cells interacting with a pathogen. Glycan structures on the cell surfaces are depicted as glowing, intricate networks, guiding the recognition and communication process.
+🖼️ [BODY PROMPT 6]
+A vibrant, aesthetically pleasing plate of diverse, colorful fruits and vegetables, emphasizing a healthy, glycan-friendly diet. The setting is a modern, clean kitchen.
+🖼️ [BODY PROMPT 7]
+A sophisticated 3D rendering of a human body's internal network, with specific glycan pathways highlighted in glowing blue and green, illustrating targeted therapeutic interventions.
+🖼️ [BODY PROMPT 8]
+A person (gender-neutral, healthy appearance) in a bright, modern wellness center, looking at a holographic display showing personalized health data, including intricate glycan patterns. The person has a thoughtful, empowered expression.
+------------------------------------------------------------
