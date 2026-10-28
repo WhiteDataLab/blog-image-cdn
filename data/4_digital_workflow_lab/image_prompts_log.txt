@@ -1968,3 +1968,16 @@ A person wearing a sleek, futuristic VR headset, immersed in a virtual office en
 🖼️ [BODY PROMPT 4]
 An abstract, artistic representation of scent molecules intertwining with digital data streams, forming a harmonious, vibrant network. The colors are soft blues, greens, and purples, symbolizing well-being, focus, and technological integration. No human figures are present, focusing on the concept.
 ------------------------------------------------------------
+
+[2026-10-28 12:22:28] **'생체 적응형 스마트 가구': 2026년, 개인의 컨디션에 맞춰 스스로 최적화되는 업무 공간 혁신 전략**
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic office chair and desk setup dynamically adjusting to a person's posture and focus, with subtle glowing lines indicating data flow and adaptation. The overall aesthetic is minimalist and high-tech, set in a modern, sunlit office environment. Korean office worker in professional attire, looking focused and comfortable.
+🖼️ [BODY PROMPT 1]
+A dynamic infographic displaying various biometric data points (heart rate, posture, stress levels) flowing into a stylized smart desk and chair, which then visually adjusts its height, tilt, and lighting in real-time. The background is a modern, clean office setting.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a smart office chair's backrest with embedded sensors subtly glowing, indicating active monitoring. A hand gently touches the fabric, highlighting the advanced material. In the background, a person is working comfortably at a smart desk.
+🖼️ [BODY PROMPT 3]
+A diverse group of office workers (male and female, various ethnicities) in a modern, open-plan office. Each person is seated at a bio-adaptive smart desk and chair, which are subtly different, reflecting individual optimization. They appear relaxed, focused, and engaged in their work, some collaborating, others in deep concentration.
+🖼️ [BODY PROMPT 4]
+A serene, futuristic office environment at dusk. A smart desk and chair are subtly illuminated, showing a user-friendly interface on the desk. The room features soft, adaptive lighting and a tranquil atmosphere, symbolizing a perfectly optimized and calming workspace after a productive day. No person is present, emphasizing the intelligent autonomy of the furniture.
+------------------------------------------------------------
