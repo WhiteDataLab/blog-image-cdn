@@ -165,3 +165,4 @@
 - The Data Science of Human Behavior Prediction in Complex Adaptive Systems: Beyond Individual Personalization to Group Dynamics and Societal Trends.
 - Data Architectures for Generative Digital Twins: Synthesizing High-Fidelity Simulations from Sparse Real-World Data in 2026.
 - Architecting Adaptive Learning: Data Strategies for AI-Powered Personalized Education Systems in 2026.
+- Data Architectures for AI-Driven Scientific Method Automation: Beyond Discovery to Autonomous Experimentation
