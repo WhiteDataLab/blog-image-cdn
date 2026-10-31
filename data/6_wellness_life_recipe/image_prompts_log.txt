@@ -1953,3 +1953,16 @@ A modern, clean hospital consultation room. A doctor in a white coat is explaini
 🖼️ [BODY PROMPT 4]
 A stylized infographic or holographic chart displaying a downward trend line for blood pressure over time, with a clear indication of "Renal Denervation" as the turning point. Surrounding elements represent improved health metrics and a vibrant, active lifestyle.
 ------------------------------------------------------------
+
+[2026-10-31 12:38:19] 침 분비물 기반 전신 질환 예측: 2026년, 침 한 방울로 알아보는 내 몸의 미래 건강 지도
+📸 [THUMBNAIL PROMPT]
+A single drop of saliva magnified to show intricate biological markers, glowing with futuristic data streams, against a backdrop of a blurred, healthy human silhouette. The overall aesthetic is clean, scientific, and hopeful, with a blend of natural elements and advanced technology.
+🖼️ [BODY PROMPT 1]
+A futuristic, sleek device analyzing a single drop of saliva on a microchip, displaying complex biological data on a holographic interface. The person observing is a young, healthy-looking Korean woman, looking intrigued.
+🖼️ [BODY PROMPT 2]
+A diverse group of people of various ages and ethnicities, smiling and looking healthy, each holding a small, elegant saliva collection device. The background is a bright, modern clinic or wellness center.
+🖼️ [BODY PROMPT 3]
+A family (parents and two children) engaging in a fun, educational activity at home, using a small, user-friendly saliva testing kit. The results are displayed on a tablet, showing personalized health insights in an easy-to-understand graphic.
+🖼️ [BODY PROMPT 4]
+A person standing on a mountain peak, overlooking a vast, vibrant landscape, symbolizing a future of clear health. A subtle, glowing network of data lines connects the person to the landscape, representing integrated health insights.
+------------------------------------------------------------
