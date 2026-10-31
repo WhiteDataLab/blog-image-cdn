@@ -1953,3 +1953,16 @@ A diverse group of people (young and old) participating in a vibrant local marke
 🖼️ [BODY PROMPT 4]
 A stylized map of Korea with glowing dots representing rural basic income pilot areas, connected by lines symbolizing economic and social networks.
 ------------------------------------------------------------
+
+[2026-10-31 12:36:40] 2026년 전환금융 시대: 고탄소 산업의 녹색 전환을 이끄는 금융 전략과 개인 투자 기회
+📸 [THUMBNAIL PROMPT]
+A sophisticated, futuristic graphic depicting a financial chart with an upward trend, overlaid with subtle green energy symbols like wind turbines and solar panels, emerging from industrial silhouettes. The background is a gradient of deep blues and greens, symbolizing transition and growth. A subtle holographic effect adds to the 2026 futuristic feel.
+🖼️ [BODY PROMPT 1]
+A detailed 3D rendering of a complex financial ecosystem. Industrial facilities are subtly transforming into cleaner, more modern structures, connected by glowing green lines representing financial flows. Digital data streams and holographic charts show growth and investment.
+🖼️ [BODY PROMPT 2]
+A diverse group of investors, both young and experienced, looking intently at a transparent holographic display showing various investment options, including green bonds and sustainability-linked funds. They are in a modern, brightly lit financial hub.
+🖼️ [BODY PROMPT 3]
+A close-up shot of a hand holding a smartphone, displaying a financial app interface that shows various green investment options. In the background, a subtle image of a wind farm or solar park is visible, symbolizing the real-world impact of the investments.
+🖼️ [BODY PROMPT 4]
+A stylized infographic showing the journey of a high-carbon industry facility transforming into a green, sustainable one. Arrows indicate financial flows and technological advancements. The overall aesthetic is clean, modern, and optimistic.
+------------------------------------------------------------
