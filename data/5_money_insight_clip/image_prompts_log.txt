@@ -1966,3 +1966,16 @@ A close-up shot of a hand holding a smartphone, displaying a financial app inter
 🖼️ [BODY PROMPT 4]
 A stylized infographic showing the journey of a high-carbon industry facility transforming into a green, sustainable one. Arrows indicate financial flows and technological advancements. The overall aesthetic is clean, modern, and optimistic.
 ------------------------------------------------------------
+
+[2026-11-01 12:44:44] 과거 발행된 글 제목 리스트와 중복되지 않으면서 재테크 및 자산 관리에 관심 있는 한국인 타겟 독자에게 매력적인 블로그 글 주제 4가지를 제안합니다.
+📸 [THUMBNAIL PROMPT]
+A sophisticated, modern infographic representing global financial flows and digital nomad lifestyle, with subtle elements of ocean sustainability and AI-driven data visualization. The color palette should be professional and inviting, featuring blues, greens, and subtle tech gradients. Focus on abstract concepts rather than specific people or locations.
+🖼️ [BODY PROMPT 1]
+A person working on a laptop on a beach, with a world map hologram overlaid, showing interconnected financial data and currency symbols flowing between different continents. The scene should convey freedom and global connectivity, with a warm, aspirational aesthetic.
+🖼️ [BODY PROMPT 2]
+A serene underwater scene with advanced marine technology seamlessly integrated: a smart aquaculture farm with glowing sensors, a sleek underwater drone monitoring marine life, and distant offshore wind turbines on the horizon. The water should be clear and vibrant, emphasizing sustainability and innovation.
+🖼️ [BODY PROMPT 3]
+A person sitting in front of a holographic interface displaying complex financial data, news feeds, and charts. A stylized, glowing AI assistant figure is helping filter the information, highlighting key insights. The background should be a modern, minimalist home office, emphasizing sophisticated technology and focused analysis.
+🖼️ [BODY PROMPT 4]
+A diverse group of individuals (various ages, ethnicities) each engaged in different flexible work activities (coding on a laptop in a cafe, sketching designs on a tablet in a park, consulting via video call, managing an online store). Financial charts and graphs subtly overlay the scene, symbolizing diversified income streams and dynamic asset allocation. The overall mood should be energetic and empowered.
+------------------------------------------------------------
