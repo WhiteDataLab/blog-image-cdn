@@ -1979,3 +1979,16 @@ A person sitting in front of a holographic interface displaying complex financia
 🖼️ [BODY PROMPT 4]
 A diverse group of individuals (various ages, ethnicities) each engaged in different flexible work activities (coding on a laptop in a cafe, sketching designs on a tablet in a park, consulting via video call, managing an online store). Financial charts and graphs subtly overlay the scene, symbolizing diversified income streams and dynamic asset allocation. The overall mood should be energetic and empowered.
 ------------------------------------------------------------
+
+[2026-11-02 12:48:10] AR/VR 기반 초실감형 금융 시대, 가상과 현실을 넘나드는 개인 자산 관리 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic financial advisor wearing sleek AR glasses, gesturing towards a holographic display showing a dynamic investment portfolio with virtual and real assets seamlessly integrated, in a modern, minimalist office setting. The overall mood is innovative and professional.
+🖼️ [BODY PROMPT 1]
+A person wearing sleek AR glasses, looking at a holographic projection of their financial portfolio floating in their living room. The projection shows dynamic charts and numbers, seamlessly integrated with the real environment. The person is interacting with the holograms with hand gestures. The setting is a modern, cozy home.
+🖼️ [BODY PROMPT 2]
+A user in a VR headset immersed in a hyper-realistic virtual trading floor. Holographic stock charts and financial news feeds surround them. They are making virtual trades with hand controllers, experiencing market fluctuations in a simulated, risk-free environment. The atmosphere is intense but controlled.
+🖼️ [BODY PROMPT 3]
+A sophisticated dashboard in a virtual reality environment, displaying both traditional financial assets (stocks, bonds) and tokenized real-world assets (digital art, fractionalized real estate). The user, represented by a stylized avatar, is interacting with the dashboard using intuitive hand gestures, analyzing integrated data streams.
+🖼️ [BODY PROMPT 4]
+A person standing at a crossroads, one path leading to a vibrant, futuristic virtual city with holographic financial displays, and the other to a serene, grounded natural landscape with traditional financial symbols subtly integrated. The person is looking thoughtfully at both paths, symbolizing a balanced approach to managing assets in both virtual and real worlds. The mood is contemplative and forward-looking.
+------------------------------------------------------------
