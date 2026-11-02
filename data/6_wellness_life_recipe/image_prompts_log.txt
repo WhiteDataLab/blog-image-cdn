@@ -1979,3 +1979,14 @@ A futuristic medical lab scene with scientists observing holographic projections
 🖼️ [BODY PROMPT 4]
 A person smiling confidently, holding a toothbrush and a glass of water, with a healthy, vibrant plate of colorful vegetables and fruits in the background. The scene should convey a sense of wellness, daily routine, and proactive health management. Bright, clean, and inviting.
 ------------------------------------------------------------
+
+[2026-11-02 12:49:32] 치과 교정을 넘어선 구강 근기능 요법: 2026년, 혀 위치와 호흡이 전신 건강에 미치는 놀라운 영향
+📸 [THUMBNAIL PROMPT]
+A visually striking image of a human head in profile, with subtle, glowing lines illustrating the connection between the tongue resting on the palate, clear nasal passages, and a healthy spine/brain. The overall aesthetic is modern, clean, and emphasizes holistic wellness, perhaps with a soft, warm color palette.
+🖼️ [BODY PROMPT 1]
+A detailed, semi-transparent 3D rendering of a human skull and oral cavity, showing the ideal tongue position gently resting against the hard palate. Subtle arrows indicate proper airflow through the nasal passages. The image should be clean, scientific, and aesthetically pleasing, perhaps with a soft glow around the tongue.
+🖼️ [BODY PROMPT 2]
+A split image or infographic showing the "before" and "after" effects of proper oral myofunctional therapy. "Before" might show a person with a slightly open mouth, tired eyes, and perhaps a subtle forward head posture. "After" shows a person with a closed mouth, bright eyes, and improved posture, exuding vitality. The style should be modern and illustrative.
+🖼️ [BODY PROMPT 3]
+A serene, minimalist image of a person (gender neutral) practicing a simple oral myofunctional exercise, perhaps gently pressing their tongue to the palate, with a calm expression. The background could be a soft, blurred wellness clinic or a tranquil home setting, emphasizing ease and accessibility.
+------------------------------------------------------------
