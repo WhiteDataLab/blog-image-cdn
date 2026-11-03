@@ -1992,3 +1992,16 @@ A sophisticated dashboard in a virtual reality environment, displaying both trad
 🖼️ [BODY PROMPT 4]
 A person standing at a crossroads, one path leading to a vibrant, futuristic virtual city with holographic financial displays, and the other to a serene, grounded natural landscape with traditional financial symbols subtly integrated. The person is looking thoughtfully at both paths, symbolizing a balanced approach to managing assets in both virtual and real worlds. The mood is contemplative and forward-looking.
 ------------------------------------------------------------
+
+[2026-11-03 13:55:21] 2026년 '글로벌 시민권' 시대: 이중 국적 및 해외 거주를 통한 개인 자산 최적화 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist illustration of a globe with interconnected lines representing global financial flows and dual citizenship symbols. In the foreground, a subtle overlay of digital charts and graphs, all in a sleek, modern aesthetic with a focus on financial growth and global connectivity. The color palette is professional and calm, with touches of gold or silver for wealth.
+🖼️ [BODY PROMPT 1]
+A person (gender-neutral, professional attire) stands confidently on a world map projected onto a holographic display, pointing to different regions with data overlays showing economic indicators and tax rates. The scene is futuristic and emphasizes strategic global decision-making.
+🖼️ [BODY PROMPT 2]
+A diverse group of individuals from different ethnicities and ages, all looking confident and engaged, are seated around a modern conference table. On the table, various digital devices display stock charts, real estate listings from different countries, and currency exchange rates, symbolizing global investment and diversification.
+🖼️ [BODY PROMPT 3]
+A sleek, modern apartment building with a panoramic view of a vibrant international city skyline at sunset. In the foreground, a person is looking out from a balcony, holding a tablet displaying real estate investment data and a global map, suggesting overseas property ownership and lifestyle.
+🖼️ [BODY PROMPT 4]
+A diverse group of financial advisors, lawyers, and international tax specialists are collaborating around a large, interactive digital table. The table displays complex legal documents, tax codes from multiple countries, and intricate financial models, emphasizing the need for expert consultation and comprehensive planning.
+------------------------------------------------------------
