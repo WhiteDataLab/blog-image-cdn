@@ -2015,3 +2015,16 @@ An aerial view of a revitalized urban alleyway in a historic Korean city, now ad
 🖼️ [BODY PROMPT 3]
 A diverse group of Korean community members, including elderly residents and young artists, collaborating on a vibrant public mural in a newly transformed plaza. They are laughing and interacting, showcasing intergenerational connection and teamwork in a beautifully designed outdoor space.
 ------------------------------------------------------------
+
+[2026-11-04 13:11:26] The 4B Movement: Decoding South Korea's Radical Feminist Stance on Marriage and Motherhood in 2026.
+📸 [THUMBNAIL PROMPT]
+A striking, minimalist graphic featuring four overlapping "B" letters, stylized in a modern, slightly rebellious font. The background subtly incorporates traditional Korean patterns with a futuristic, digital overlay, symbolizing the clash between tradition and radical modern movements. The color palette uses deep purples, strong blacks, and hints of neon pink or electric blue.
+🖼️ [BODY PROMPT 1]
+A visually striking infographic illustrating the gender pay gap and unequal distribution of domestic labor in South Korea in 2026. One side shows a woman burdened with multiple household items and a briefcase, while the other shows a man with fewer items. Bar graphs or pie charts clearly display the percentage differences in earnings and housework hours.
+🖼️ [BODY PROMPT 2]
+A vibrant, optimistic 3D graphic showing a stylized family unit (parents and child) surrounded by elements representing government support: a house icon, a piggy bank overflowing with coins, and a calendar highlighting parental leave. The overall aesthetic is clean and modern, suggesting proactive policy interventions.
+🖼️ [BODY PROMPT 3]
+A dynamic, abstract art piece using bold lines and contrasting colors to represent the tension between traditional societal expectations and radical feminist ideals. Silhouettes of women are integrated into the design, some breaking free from geometric constraints, others standing in solidarity.
+🖼️ [BODY PROMPT 4]
+A futuristic, minimalist cityscape of Seoul at dusk, with subtle holographic data visualizations floating above, representing demographic trends and social indicators. In the foreground, a diverse group of young women are engaged in conversation, symbolizing a new generation shaping the future.
+------------------------------------------------------------
