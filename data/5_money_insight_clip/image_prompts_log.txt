@@ -2005,3 +2005,16 @@ A sleek, modern apartment building with a panoramic view of a vibrant internatio
 🖼️ [BODY PROMPT 4]
 A diverse group of financial advisors, lawyers, and international tax specialists are collaborating around a large, interactive digital table. The table displays complex legal documents, tax codes from multiple countries, and intricate financial models, emphasizing the need for expert consultation and comprehensive planning.
 ------------------------------------------------------------
+
+[2026-11-04 13:17:11] 2026년 '가치 사슬 재편' 시대, 개인의 '생산적 소비'를 통한 자산 증식 전략: 로컬 생산, 직접 투자, 공유 경제 참여를 통한 새로운 부의 창출
+📸 [THUMBNAIL PROMPT]
+A sophisticated, abstract illustration representing interconnected global and local value chains, with glowing nodes signifying productive consumption and wealth creation. A subtle human hand interacts with a holographic financial chart in the foreground, symbolizing individual agency in the new economic landscape.
+🖼️ [BODY PROMPT 1]
+A bustling, modern local market scene with diverse people interacting with local producers, fresh produce, and artisanal goods. Sunlight streams through a glass ceiling, highlighting the vibrant community atmosphere and sustainable practices.
+🖼️ [BODY PROMPT 2]
+A person in a modern, minimalist home office, looking at multiple screens displaying complex financial charts and data visualizations. One screen shows a map with local business icons, and another displays a fractional ownership platform interface. The overall mood is focused and forward-thinking.
+🖼️ [BODY PROMPT 3]
+A diverse group of people engaging in various sharing economy activities in a vibrant urban setting. One person is unlocking a shared e-scooter, another is exchanging a tool, and a third is working in a modern co-working space. The scene is dynamic and collaborative, emphasizing resource efficiency.
+🖼️ [BODY PROMPT 4]
+A stylized, clean infographic displaying a balanced investment portfolio. Different segments represent traditional assets (stocks, bonds) and new assets from productive consumption (local business crowdfunding, sharing economy income, direct platform investments). Arrows show growth and diversification, set against a backdrop of a thriving community.
+------------------------------------------------------------
