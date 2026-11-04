@@ -2003,3 +2003,14 @@ A woman enjoying an outdoor activity like a gentle yoga stretch or a peaceful wa
 🖼️ [BODY PROMPT 4]
 A minimalist graphic or illustration showing the evolution of beauty standards. On one side, a highly stylized, almost artificial figure; on the other, a more diverse, natural, and confident silhouette, emphasizing "authenticity" and "wellness" through flowing lines and a sense of inner peace.
 ------------------------------------------------------------
+
+[2026-11-04 13:18:56] 구강 미학의 새로운 지평: 2026년 '콰이어트 럭셔리 스마일' 트렌드와 나만의 맞춤 디자인 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist close-up of a person's mouth with a subtle, naturally radiant smile, emphasizing healthy, well-aligned teeth and soft pink gums. The background is blurred, suggesting a high-end, serene environment. The lighting is soft and natural, highlighting the quiet luxury aesthetic.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a dental professional using a digital tablet to show a patient a 3D simulation of their future 'quiet luxury smile'. The patient is looking at the screen with a thoughtful, pleased expression. The clinic setting is modern, clean, and subtly luxurious.
+🖼️ [BODY PROMPT 2]
+A serene, close-up shot of a person gently flossing their teeth, with a focus on healthy gums and naturally clean teeth. The background is a soft, warm bathroom setting, emphasizing a daily wellness routine. The overall mood is calm and self-care oriented.
+🖼️ [BODY PROMPT 3]
+A futuristic, elegant graphic depicting a holographic projection of a personalized smile design, showcasing subtle enhancements. The graphic integrates elements of AI, 3D modeling, and natural aesthetics, set against a clean, high-tech background.
+------------------------------------------------------------
