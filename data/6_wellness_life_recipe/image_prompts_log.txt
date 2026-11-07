@@ -2040,3 +2040,16 @@ A close-up shot of various RF lifting device tips, ranging from small, precise t
 🖼️ [BODY PROMPT 4]
 A woman in her late 30s or early 40s with radiant, firm skin, smiling confidently. She is applying a high-quality moisturizer to her face in a bright, natural light setting, symbolizing the importance of consistent home care after advanced aesthetic treatments.
 ------------------------------------------------------------
+
+[2026-11-07 13:03:54] 지열(Geothermal) 에너지 활용 웰니스: 2026년, 땅의 치유력으로 몸과 마음을 정화하는 법
+📸 [THUMBNAIL PROMPT]
+A serene, luxurious geothermal hot spring resort at dawn, steam rising from turquoise pools, surrounded by lush, untouched nature. A person is meditating peacefully by the water. High-end, inviting, and natural aesthetic.
+🖼️ [BODY PROMPT 1]
+A dynamic infographic showing the global growth of geothermal energy for direct use and wellness, with rising bar charts and glowing lines connecting to spa icons, all in a modern, clean 3D graphic style. Text overlays highlight "2026 Market Trends" and "Sustainable Wellness."
+🖼️ [BODY PROMPT 2]
+A person (gender neutral) performing gentle stretching or yoga poses on a wooden deck overlooking a steaming geothermal pool, surrounded by lush, misty forest. The atmosphere is calm and restorative, emphasizing mental and physical harmony.
+🖼️ [BODY PROMPT 3]
+A modern, minimalist bathroom with a sleek, freestanding bathtub filled with steaming, mineral-rich water. High-tech diffusers release a soothing aroma, and a tablet displays personalized wellness data. Emphasizes home wellness and advanced tech integration.
+🖼️ [BODY PROMPT 4]
+A diverse group of people (various ages and ethnicities) happily enjoying different aspects of a geothermal wellness center – some soaking in a pool, others receiving a mud treatment, and one person enjoying a relaxing massage. The scene is vibrant yet peaceful, showcasing community and diverse experiences.
+------------------------------------------------------------
