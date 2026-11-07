@@ -173,3 +173,4 @@
 - Architecting Data for the Tactile Internet: Real-time Haptic Feedback and Ultra-Low Latency Data Pipelines in 2026.
 - Computational Storage: Architecting for In-Situ Data Processing and Ultra-Low Latency in 2026.
 - Data Orchestration for Everything-to-Grid Energy Systems: Powering the Future of Distributed Energy Management.
+- Navigating the New Frontier: Data Strategies for AI-Generated Intellectual Property and Creative Ownership in 2026.
