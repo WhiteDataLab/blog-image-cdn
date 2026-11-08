@@ -2053,3 +2053,14 @@ A modern, minimalist bathroom with a sleek, freestanding bathtub filled with ste
 🖼️ [BODY PROMPT 4]
 A diverse group of people (various ages and ethnicities) happily enjoying different aspects of a geothermal wellness center – some soaking in a pool, others receiving a mud treatment, and one person enjoying a relaxing massage. The scene is vibrant yet peaceful, showcasing community and diverse experiences.
 ------------------------------------------------------------
+
+[2026-11-08 12:52:54] 산업화 이전 인류의 자연스러운 수면 패턴, 이상성 수면(Biphasic Sleep)의 현대적 재해석과 활용법
+📸 [THUMBNAIL PROMPT]
+A serene, warm-toned image of a person peacefully waking up in a cozy, dimly lit bedroom during the "first sleep" period, with a soft glow of a bedside lamp and a journal open nearby. The overall atmosphere is calm and reflective, emphasizing natural rhythms.
+🖼️ [BODY PROMPT 1]
+A split image showing two distinct sleep environments. On one side, a cozy, dark bedroom for nighttime sleep. On the other, a bright, airy office space with a comfortable, ergonomic napping pod or a quiet corner for a short, refreshing daytime nap. Emphasize the contrast and balance.
+🖼️ [BODY PROMPT 2]
+A stylized infographic showing the human circadian rhythm with two distinct peaks for sleep pressure, contrasting it with a single, long sleep period. The infographic should be clean, modern, and easy to understand, possibly with subtle glow effects to represent energy levels.
+🖼️ [BODY PROMPT 3]
+A diverse group of people (various ages, ethnicities) engaging in different quiet, reflective activities during a "wake window" – one person meditating, another reading a physical book by soft lamplight, someone else gently stretching, and a couple quietly conversing. The scene should convey peace and intentionality.
+------------------------------------------------------------
