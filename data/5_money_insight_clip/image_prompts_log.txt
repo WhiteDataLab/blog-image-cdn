@@ -2057,3 +2057,16 @@ A user-friendly, minimalist mobile app interface for a "Personal Data Wallet," s
 🖼️ [BODY PROMPT 4]
 A diverse group of individuals, each with a subtle, glowing aura around them representing their unique sensory data, standing confidently in a futuristic financial hub. Holographic charts and secure data locks are visible in the background, symbolizing empowered individuals managing their data assets.
 ------------------------------------------------------------
+
+[2026-11-08 12:51:17] 2026년, AI가 비(非)IT 산업을 재편하는 방식: 숨겨진 투자 기회 발굴 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic infographic showing various non-IT industries (e.g., agriculture, manufacturing, healthcare, logistics) interconnected by glowing AI neural pathways, with investment charts and growth arrows superimposed. The overall aesthetic is professional and high-tech, with a focus on data visualization.
+🖼️ [BODY PROMPT 1]
+A futuristic smart factory floor where autonomous robots work alongside human technicians. AI interfaces are displayed on transparent screens, showing real-time data analytics and predictive maintenance alerts. The scene is clean, efficient, and well-lit, emphasizing advanced manufacturing.
+🖼️ [BODY PROMPT 2]
+A farmer in a modern agricultural field, looking at a tablet displaying AI-driven crop health data. A drone hovers in the background, scanning the fields. The scene conveys innovation in agriculture, with lush green crops and clear skies.
+🖼️ [BODY PROMPT 3]
+A diverse group of professionals (e.g., a healthcare worker, a logistics manager, a retail executive) collaboratively analyzing a holographic AI dashboard. The dashboard displays complex data visualizations related to their respective industries, emphasizing cross-industry AI application and human-AI collaboration.
+🖼️ [BODY PROMPT 4]
+A stylized, abstract representation of a neural network expanding and connecting various industrial icons (e.g., a factory, a farm, a hospital, a cargo ship). The connections are glowing, symbolizing growth and opportunity, set against a dark, sophisticated background.
+------------------------------------------------------------
