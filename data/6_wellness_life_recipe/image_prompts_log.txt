@@ -2064,3 +2064,16 @@ A stylized infographic showing the human circadian rhythm with two distinct peak
 🖼️ [BODY PROMPT 3]
 A diverse group of people (various ages, ethnicities) engaging in different quiet, reflective activities during a "wake window" – one person meditating, another reading a physical book by soft lamplight, someone else gently stretching, and a couple quietly conversing. The scene should convey peace and intentionality.
 ------------------------------------------------------------
+
+[2026-11-09 13:04:01] 부유층의 새로운 지위 상징: 2026년 '생물학적 자본'이 프리미엄 웰니스를 재정의하는 법
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist image depicting a glowing, intricate human DNA helix intertwined with subtle digital data streams, set against a luxurious, muted background. A faint, elegant silhouette of a person in a state of calm well-being is visible in the background, symbolizing the ultimate biological capital.
+🖼️ [BODY PROMPT 1]
+A futuristic, clean laboratory setting where a scientist in a white coat is observing a complex 3D holographic projection of a human cell undergoing rejuvenation, with intricate data points floating around. The atmosphere is one of cutting-edge research and precision.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a human hand gently touching a sleek, transparent tablet displaying a personalized genetic map with glowing, optimized sequences. The background is a blurred, luxurious home interior, suggesting seamless integration of advanced tech into daily life.
+🖼️ [BODY PROMPT 3]
+A serene, high-tech wellness retreat overlooking a pristine natural landscape. A person is meditating in a beautifully designed, minimalist space, while subtle biometric data visualizations are projected onto the transparent walls, blending nature and technology seamlessly.
+🖼️ [BODY PROMPT 4]
+A diverse group of affluent individuals, appearing vibrant and youthful, engaging in a sophisticated social gathering. They are subtly interacting with advanced personal health devices (e.g., smart rings, discreet implants) that display their optimized biological metrics, symbolizing a new form of social currency and status.
+------------------------------------------------------------
