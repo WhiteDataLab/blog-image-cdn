@@ -2141,3 +2141,16 @@ A young Korean person engaged in a practical "adulting" activity, such as attend
 🖼️ [BODY PROMPT 4]
 A stylized graphic or abstract art piece blending traditional Korean motifs (e.g., delicate patterns, vibrant colors like celadon green or royal blue) with modern digital elements (e.g., glowing lines, subtle tech interfaces, geometric shapes). The overall composition symbolizes the harmonious integration of past and future in identity formation. Minimalist, high-tech, elegant, and culturally resonant.
 ------------------------------------------------------------
+
+[2026-11-12 14:07:08] Unearthing Korea's Past: A Foreigner's Guide to 2026's Emerging Dark Tourism Experiences.
+📸 [THUMBNAIL PROMPT]
+A striking, somber yet hopeful image of a foreigner looking at a historical monument in South Korea, perhaps a memorial wall or a symbolic sculpture, with a soft, respectful light. The architecture should reflect a blend of traditional Korean design and modern memorial aesthetics, conveying a sense of reflection and learning.
+🖼️ [BODY PROMPT 1]
+A foreigner wearing an AR headset, deeply engrossed in a holographic projection of a Korean War scene within the modern, solemn interior of the War Memorial of Korea. The projection shows historical figures or events in a respectful, educational manner.
+🖼️ [BODY PROMPT 2]
+A diverse group of foreigners, respectfully listening to a local guide at the Jeju 4.3 Peace Park. The guide is gesturing towards a memorial sculpture, with lush green Jeju landscape in the background, conveying a sense of serene remembrance.
+🖼️ [BODY PROMPT 3]
+A dimly lit, atmospheric shot inside a preserved coal mine tunnel in Taebaek, South Korea. Industrial equipment is visible, and a lone figure (foreigner) with a thoughtful expression is observing the historical environment, emphasizing the somber yet educational nature of the experience.
+🖼️ [BODY PROMPT 4]
+A minimalist, elegant infographic or digital chart showcasing "Tips for Responsible Dark Tourism in Korea." Icons represent research, respectful dress, quiet demeanor, local guides, emotional preparedness, and accessibility. The aesthetic should be clean, modern, and trustworthy.
+------------------------------------------------------------
