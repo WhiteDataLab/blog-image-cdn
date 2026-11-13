@@ -2092,3 +2092,16 @@ A person (representing a financial advisor or a high-net-worth individual) is si
 🖼️ [BODY PROMPT 3]
 A close-up of a secure, encrypted digital padlock icon superimposed on a network of data flowing between a user's device and a cloud server, symbolizing data privacy and security in AI legal services. The background is a subtle, abstract representation of digital information.
 ------------------------------------------------------------
+
+[2026-11-13 13:27:44] 개인의 특화된 역량과 취미를 자산화하는 '패션 이코노미' 재테크: N잡러를 넘어선 새로운 수입원 발굴 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic cityscape at dusk, with glowing holographic charts depicting financial growth and interconnected digital networks. In the foreground, a diverse group of individuals, each representing a unique skill or hobby (e.g., a digital artist, a chef, a coder, a musician), are seamlessly integrated into the digital economy, their passions radiating as tangible assets. The overall mood is optimistic and empowering, with a focus on innovation and financial independence.
+🖼️ [BODY PROMPT 1]
+A diverse group of individuals, each engaged in a unique passion project on their laptops or tablets. One is editing a video, another is designing digital art, a third is teaching an online class, and a fourth is composing music. They are in a modern, sunlit co-working space, symbolizing collaboration and individual empowerment in the digital economy.
+🖼️ [BODY PROMPT 2]
+A person confidently presenting an online workshop on a large screen, with participants from various backgrounds visible in smaller windows. The presenter is energetic, using a digital whiteboard with complex diagrams and data visualizations. The atmosphere is engaging and educational, highlighting the power of online learning and skill sharing.
+🖼️ [BODY PROMPT 3]
+A person sitting at a modern desk, reviewing financial data on multiple screens. One screen shows a detailed income breakdown from various passion economy ventures (e.g., online course sales, digital art commissions, consulting fees), another displays investment portfolio performance, and a third shows a budget tracker. The scene emphasizes smart financial management and strategic reinvestment.
+🖼️ [BODY PROMPT 4]
+A close-up of hands holding a glowing, holographic sphere that projects various symbols of passion and finance: a paintbrush, a musical note, a code snippet, a dollar sign, and a growth chart. The background is a soft, blurred image of a thriving digital community, symbolizing the interconnectedness of individual passions and collective economic growth.
+------------------------------------------------------------
