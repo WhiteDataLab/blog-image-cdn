@@ -2103,3 +2103,16 @@ A vibrant, abstract illustration representing the interconnectedness of body and
 🖼️ [BODY PROMPT 4]
 A close-up of hands gently clasped in a meditative gesture, with soft, diffused sunlight illuminating them. In the background, out of focus, a person is seen performing a Tai Chi movement in a peaceful, natural setting, emphasizing tranquility and inner peace.
 ------------------------------------------------------------
+
+[2026-11-13 13:29:15] 정보 과부하 시대, 뇌를 위한 '감각 필터링' 훈련: 2026년 집중력과 마음의 평화를 되찾는 법
+📸 [THUMBNAIL PROMPT]
+A person meditating in a serene, minimalist room, surrounded by soft, diffused natural light. Their eyes are gently closed, and a subtle, almost ethereal glow emanates from their head, symbolizing mental clarity and peace amidst a faint, abstract background of swirling digital data and noise, which they are clearly filtering out. The overall aesthetic is clean, modern, and calming.
+🖼️ [BODY PROMPT 1]
+A vibrant, abstract representation of the human brain with various sensory inputs (eyes, ears, hands) depicted as light streams. A central, glowing filter mechanism within the brain is actively sorting these streams, allowing only a calm, focused beam to pass through, while chaotic, colorful noise is deflected away. The style is modern, dynamic, and conceptual.
+🖼️ [BODY PROMPT 2]
+A person performing a mindful breathing exercise outdoors, perhaps in a quiet park or by a lake. Their eyes are closed, hands resting gently, and a sense of calm radiates from them. Soft, blurred natural elements (trees, water) are in the background, emphasizing connection with nature and sensory awareness.
+🖼️ [BODY PROMPT 3]
+A person in a modern, well-lit gym, engaged in a dual-task exercise. They are lightly jumping on a balance board while simultaneously solving a simple math problem displayed on a holographic interface in front of them. The scene conveys active cognitive and physical engagement, with a focus on brain training.
+🖼️ [BODY PROMPT 4]
+A minimalist home office space with a large window looking out onto a calm, green landscape. The desk is clear of clutter, with only a single plant and a notebook. Soft, diffused light fills the room, and a pair of high-quality noise-canceling headphones rests on the desk, symbolizing a deliberate reduction of sensory input for focused work.
+------------------------------------------------------------
