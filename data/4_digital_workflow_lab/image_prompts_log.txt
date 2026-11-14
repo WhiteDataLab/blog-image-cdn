@@ -2161,3 +2161,16 @@ An abstract, minimalist representation of challenges in quantum machine learning
 🖼️ [BODY PROMPT 4]
 A vibrant, optimistic image of a professional working in a smart office environment, seamlessly interacting with holographic interfaces that display both classical business data and subtle, glowing quantum patterns. The individual is focused and empowered, surrounded by a clean, modern workspace that blends technology and human ingenuity. The overall mood is one of future-forward productivity and innovation.
 ------------------------------------------------------------
+
+[2026-11-14 13:21:35] 디지털 감성 지능(EQ) 트레이닝: AI 시대, 공감 능력과 관계 기술을 강화하는 스마트 워크 실천 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic office worker, with a subtle glow of digital interfaces around them, actively engaged in a deep, empathetic conversation with a holographic team member. The background is a sleek, minimalist smart office, emphasizing human connection amidst advanced technology. The overall mood is collaborative and understanding.
+🖼️ [BODY PROMPT 1]
+A diverse group of professionals in a modern, brightly lit co-working space, engaged in a lively discussion. One person is gesturing expressively, another is listening intently, and a third is interacting with a transparent digital display showing collaborative project progress. The atmosphere is vibrant and inclusive.
+🖼️ [BODY PROMPT 2]
+A professional wearing a sleek VR headset, immersed in a virtual meeting room. The virtual environment shows diverse avatars interacting, with speech bubbles and emotional indicators floating above their heads, demonstrating a digital EQ training scenario. The user's facial expression shows focused engagement.
+🖼️ [BODY PROMPT 3]
+A group of professionals, diverse in age and background, participating in an interactive workshop focused on emotional intelligence. They are engaged in a group activity, possibly a role-playing exercise, with a facilitator guiding them. The room is modern and conducive to collaborative learning.
+🖼️ [BODY PROMPT 4]
+A symbolic image of a human brain intertwined with glowing digital neural pathways, representing the synergy between human emotional intelligence and artificial intelligence. The background is a subtle blend of natural elements and futuristic tech, symbolizing balance and integration.
+------------------------------------------------------------
