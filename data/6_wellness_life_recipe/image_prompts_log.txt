@@ -2116,3 +2116,16 @@ A person in a modern, well-lit gym, engaged in a dual-task exercise. They are li
 🖼️ [BODY PROMPT 4]
 A minimalist home office space with a large window looking out onto a calm, green landscape. The desk is clear of clutter, with only a single plant and a notebook. Soft, diffused light fills the room, and a pair of high-quality noise-canceling headphones rests on the desk, symbolizing a deliberate reduction of sensory input for focused work.
 ------------------------------------------------------------
+
+[2026-11-14 13:24:56] 2026년 최신 웰니스: 갈색 지방 활성화를 통한 신진대사 최적화, '콜드 서모제네시스'의 과학
+📸 [THUMBNAIL PROMPT]
+A futuristic, vibrant illustration of a human body with glowing brown fat cells, surrounded by cool blue and white energy waves, symbolizing metabolic activation through cold thermogenesis. The background is sleek and minimalist, with subtle scientific data overlays.
+🖼️ [BODY PROMPT 1]
+A person confidently stepping into a modern, sleek cryotherapy chamber, exhaling a visible breath of cold air. The chamber has soft blue interior lighting, and the person looks invigorated and focused, symbolizing the embrace of cold for wellness.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a sophisticated, minimalist smart wearable device gently cooling a person's neck or wrist, emitting a subtle blue glow. The device blends seamlessly with the skin, representing advanced, non-invasive wellness technology.
+🖼️ [BODY PROMPT 3]
+A vibrant, abstract infographic illustrating the metabolic pathways activated by cold thermogenesis. Brown fat cells are shown burning glucose and fatty acids, releasing heat, with arrows indicating improved insulin sensitivity and overall energy expenditure.
+🖼️ [BODY PROMPT 4]
+A serene and empowered individual, possibly in their 30s or 40s, standing outdoors in a slightly cool, natural environment (e.g., by a lake or forest in early morning mist), taking a deep, refreshing breath. Their posture is confident and their expression calm, embodying vitality and optimal metabolism.
+------------------------------------------------------------
