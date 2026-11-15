@@ -2129,3 +2129,16 @@ A vibrant, abstract infographic illustrating the metabolic pathways activated by
 🖼️ [BODY PROMPT 4]
 A serene and empowered individual, possibly in their 30s or 40s, standing outdoors in a slightly cool, natural environment (e.g., by a lake or forest in early morning mist), taking a deep, refreshing breath. Their posture is confident and their expression calm, embodying vitality and optimal metabolism.
 ------------------------------------------------------------
+
+[2026-11-15 13:09:45] 신경 다양성을 존중하는 웰니스: 개인의 뇌 특성을 고려한 맞춤형 건강 전략
+📸 [THUMBNAIL PROMPT]
+A vibrant, abstract illustration depicting diverse brain patterns and neural connections, with elements of nature and technology intertwined, symbolizing personalized wellness for neurodiversity. Soft, inviting colors dominate, suggesting harmony and understanding.
+🖼️ [BODY PROMPT 1]
+A person with headphones in a calm, minimalist room, adjusting ambient lighting with a smart device. The person appears focused and at ease, surrounded by subtle, soothing sensory elements. The overall atmosphere is one of personalized comfort and control.
+🖼️ [BODY PROMPT 2]
+A diverse group of people, some with visible neurodivergent traits (e.g., fidget toys, headphones), engaging in a calm, inclusive group activity like mindful stretching or gentle yoga in a bright, open space. The atmosphere is supportive and understanding.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist smart device displaying personalized wellness data (e.g., brainwave patterns, heart rate variability) with a subtle holographic overlay. The device is on a clean desk, surrounded by elements of calm and focus, like a small plant or a smooth stone.
+🖼️ [BODY PROMPT 4]
+A person smiling confidently, looking towards a bright future, with subtle, abstract neural network patterns gently overlaid on their silhouette. The image conveys empowerment, self-acceptance, and a sense of personalized well-being.
+------------------------------------------------------------
