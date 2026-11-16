@@ -2142,3 +2142,16 @@ A sleek, minimalist smart device displaying personalized wellness data (e.g., br
 🖼️ [BODY PROMPT 4]
 A person smiling confidently, looking towards a bright future, with subtle, abstract neural network patterns gently overlaid on their silhouette. The image conveys empowerment, self-acceptance, and a sense of personalized well-being.
 ------------------------------------------------------------
+
+[2026-11-16 13:16:48] **'미토호르메시스'의 비밀: 2026년, 미토콘드리아를 자극하여 세포 활력과 장수를 극대화하는 새로운 전략**
+📸 [THUMBNAIL PROMPT]
+A futuristic, glowing mitochondria illustration at the center, surrounded by subtle lines representing mild stressors like cold, exercise, and fasting, all within a vibrant, energetic cell. The background is a sophisticated, clean lab or wellness environment, with a hint of digital data overlays. The overall aesthetic is high-tech and health-focused, with a bright, optimistic feel.
+🖼️ [BODY PROMPT 1]
+A sleek, minimalist kitchen counter with various health supplements (NMN, resveratrol bottles), fresh colorful vegetables, and a tablet displaying a personalized meal plan based on genetic data. The lighting is bright and natural, emphasizing a clean, modern wellness lifestyle.
+🖼️ [BODY PROMPT 2]
+A person emerging from a cold plunge bath, steam gently rising, with a look of invigoration and focus. The background is a modern, clean wellness spa with natural light. Emphasize the sense of refreshing challenge and cellular awakening.
+🖼️ [BODY PROMPT 3]
+A serene bedroom scene at night, with a person sleeping peacefully. Subtle smart home devices are visible, emitting soft, warm light. A smart mattress or pillow is subtly highlighted, suggesting advanced sleep technology designed for cellular recovery. The overall mood is calm and restorative.
+🖼️ [BODY PROMPT 4]
+A person, possibly a wellness coach, is reviewing a holographic display showing personalized health data (genomic markers, activity levels, sleep patterns) with a client. The client looks engaged and empowered. The setting is a modern, clean wellness clinic or consultation room, emphasizing data-driven, personalized health.
+------------------------------------------------------------
