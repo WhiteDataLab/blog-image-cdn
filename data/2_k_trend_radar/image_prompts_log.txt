@@ -2206,3 +2206,14 @@ An aerial shot of the Seoul Queer Parade route, showing a long, colorful process
 🖼️ [BODY PROMPT 4]
 A stylized graphic or abstract art piece representing the concept of intersectionality, with overlapping circles of different colors and textures, symbolizing various social justice movements converging and creating a unified, vibrant whole. The background is clean and modern.
 ------------------------------------------------------------
+
+[2026-11-17 14:58:45] K-Crafts as Global Export: How Korean Artisans are Leveraging E-commerce and Social Media to Reach International Markets in 2026.
+📸 [THUMBNAIL PROMPT]
+A vibrant, modern flat lay image showcasing a variety of exquisite Korean crafts – perhaps a delicately embroidered pouch, a minimalist celadon vase, and a piece of contemporary Hanji art – arranged on a sleek, digital tablet displaying an e-commerce interface with global currency symbols. Soft, natural light illuminates the scene, emphasizing both tradition and technology.
+🖼️ [BODY PROMPT 1]
+A split image. On one side, a Korean artisan meticulously hand-painting a traditional ceramic piece in a sunlit studio. On the other side, the same ceramic piece is beautifully displayed on a modern e-commerce website, viewed on a laptop screen with various international shipping options visible.
+🖼️ [BODY PROMPT 2]
+A dynamic short-form video montage playing on a smartphone, showcasing a Korean artisan's hands working on different crafts – weaving a colorful textile, shaping clay on a potter's wheel, carving intricate patterns into wood. Overlay text indicates "Process," "Passion," "K-Crafts." The background is a softly blurred, modern studio.
+🖼️ [BODY PROMPT 3]
+A diverse group of Korean artisans, young and old, participating in a modern digital marketing workshop. They are engaged with laptops and tablets, learning about e-commerce strategies and social media analytics, with traditional craft tools subtly visible in the background.
+------------------------------------------------------------
