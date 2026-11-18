@@ -2200,3 +2200,14 @@ A close-up shot of a hand interacting with a transparent tablet displaying a per
 🖼️ [BODY PROMPT 4]
 A futuristic, abstract representation of a brain connected to a network of glowing data lines and strategic pathways, symbolizing enhanced human cognitive abilities through AI. The colors are vibrant and inspiring, conveying intelligence and innovation.
 ------------------------------------------------------------
+
+[2026-11-18 14:28:57] 초국경 스마트 워크 시대: 2026년 한국 직장인을 위한 글로벌 세금 및 법률 컴플라이언스 전략
+📸 [THUMBNAIL PROMPT]
+A sleek, modern desk setup with a laptop displaying global maps and financial charts, surrounded by diverse currency symbols and legal documents, reflecting the complexity of cross-border smart work in 2026. The scene should be dynamic and professional, with a subtle glow of digital connectivity.
+🖼️ [BODY PROMPT 1]
+A Korean professional woman in her early 30s, confidently working on a laptop in a modern co-working space in a vibrant, non-capital city in Korea. She is surrounded by diverse international colleagues, with a subtle overlay of global connectivity lines and a digital nomad visa icon.
+🖼️ [BODY PROMPT 2]
+A diverse group of Korean and international professionals gathered around a holographic display showing complex tax forms and global legal frameworks, with a tax advisor explaining the intricacies. The atmosphere is serious but collaborative, set in a futuristic office environment.
+🖼️ [BODY PROMPT 3]
+A close-up of a hand holding a stylus, interacting with a tablet displaying a personalized digital dashboard. The dashboard visualizes real-time tax obligations, legal compliance statuses, and upcoming deadlines for a cross-border remote worker, with a clean, minimalist design.
+------------------------------------------------------------
