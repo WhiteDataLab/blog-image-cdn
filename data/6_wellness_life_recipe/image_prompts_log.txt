@@ -2155,3 +2155,16 @@ A serene bedroom scene at night, with a person sleeping peacefully. Subtle smart
 🖼️ [BODY PROMPT 4]
 A person, possibly a wellness coach, is reviewing a holographic display showing personalized health data (genomic markers, activity levels, sleep patterns) with a client. The client looks engaged and empowered. The setting is a modern, clean wellness clinic or consultation room, emphasizing data-driven, personalized health.
 ------------------------------------------------------------
+
+[2026-11-18 14:34:03] 세포외 소포체(EV) 기반 정밀 웰니스: 질병 예측을 넘어선 개인 맞춤형 건강 최적화 로드맵
+📸 [THUMBNAIL PROMPT]
+A futuristic, sleek image symbolizing precision wellness. A glowing, intricate network of microscopic extracellular vesicles (EVs) forms a roadmap, leading towards a silhouette of a healthy, vibrant person. The background is a soft, clean gradient of blues and greens, representing health and technology. Minimalist design with subtle holographic elements.
+🖼️ [BODY PROMPT 1]
+A visually stunning, abstract representation of extracellular vesicles (EVs) as tiny, glowing spheres, each containing intricate data patterns. They are shown moving through a complex, interconnected biological network, symbolizing cellular communication. The color palette is vibrant yet sophisticated, with deep blues, purples, and touches of gold.
+🖼️ [BODY PROMPT 2]
+A clean, modern laboratory setting where a diverse team of scientists (male and female, various ethnicities) are working collaboratively. One scientist is observing a holographic display showing complex EV data visualizations, while another is operating a sophisticated liquid biopsy machine. The atmosphere is focused and innovative.
+🖼️ [BODY PROMPT 3]
+A person (gender-neutral, healthy appearance) is holding a transparent tablet displaying personalized health data derived from EV analysis. On the screen, a colorful, easy-to-understand infographic shows recommendations for diet, exercise, and stress management. The person is in a bright, modern home environment, perhaps preparing a healthy meal or stretching.
+🖼️ [BODY PROMPT 4]
+A vibrant, uplifting image of a person standing on a mountain peak at sunrise, arms outstretched, symbolizing health, vitality, and a bright future. Below them, a subtle, ethereal network of glowing EVs emanates from the landscape, connecting to the person, representing the integration of advanced science with holistic well-being. The colors are warm and inspiring.
+------------------------------------------------------------
