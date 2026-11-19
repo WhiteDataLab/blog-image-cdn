@@ -2168,3 +2168,14 @@ A person (gender-neutral, healthy appearance) is holding a transparent tablet di
 🖼️ [BODY PROMPT 4]
 A vibrant, uplifting image of a person standing on a mountain peak at sunrise, arms outstretched, symbolizing health, vitality, and a bright future. Below them, a subtle, ethereal network of glowing EVs emanates from the landscape, connecting to the person, representing the integration of advanced science with holistic well-being. The colors are warm and inspiring.
 ------------------------------------------------------------
+
+[2026-11-19 14:22:43] 퀀텀닷 기술로 여는 초정밀 건강 모니터링: 2026년, 내 몸의 숨겨진 신호를 실시간으로 읽다
+📸 [THUMBNAIL PROMPT]
+A futuristic, glowing infographic showing a human body outline with various organs highlighted by tiny, vibrant quantum dots, connected to a sleek, transparent wearable device displaying real-time health data. The background is a soft, blurred medical lab or a futuristic home environment, emphasizing precision and personalized health monitoring.
+🖼️ [BODY PROMPT 1]
+A close-up, artistic shot of glowing quantum dots in various colors, resembling tiny stars, flowing through a microscopic representation of blood vessels or cellular structures, illustrating ultra-sensitive detection at a molecular level.
+🖼️ [BODY PROMPT 2]
+A person (ethnically Korean, 30s-40s, healthy appearance) looking at a holographic display projected from a sleek, minimalist wrist-worn device. The display shows various real-time health metrics (heart rate, glucose, stress levels) represented by colorful, dynamic graphs and quantum dot-like particles, all within a modern, clean home setting.
+🖼️ [BODY PROMPT 3]
+A sophisticated 3D rendering of a human silhouette composed of interconnected data points and glowing lines, representing personalized health insights. Surrounding the silhouette are abstract, swirling patterns of quantum dots, symbolizing the underlying technology and the flow of information, set against a clean, minimalist background.
+------------------------------------------------------------
