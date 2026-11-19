@@ -2230,3 +2230,16 @@ A vibrant community garden in the heart of a Korean city. Diverse groups of peop
 🖼️ [BODY PROMPT 4]
 A diverse group of friends, including a foreigner, are sitting on a uniquely designed, ergonomically shaped public bench made of sustainable wood and recycled materials in a Korean plaza. They are laughing and enjoying the atmosphere, with subtle sensory elements like soft lighting and distant calming sounds in the background. Candid, lifestyle shot, late afternoon.
 ------------------------------------------------------------
+
+[2026-11-19 14:16:36] Urban Micro-Adventures: Exploring Accessible Nature Challenges in Korea's Cities and Beyond (2026)
+📸 [THUMBNAIL PROMPT]
+A vibrant, elevated view of Seoul's cityscape seamlessly blending with lush green mountains and winding accessible trails, showcasing diverse individuals enjoying micro-adventures. The sky is clear, with a modern, clean aesthetic.
+🖼️ [BODY PROMPT 1]
+A diverse group of young adults, dressed in stylish yet practical outdoor gear, laughing as they navigate a well-maintained, accessible hiking trail on a lush mountain overlooking a modern Korean city skyline at sunrise. The trail is clearly marked with eco-friendly signage.
+🖼️ [BODY PROMPT 2]
+An aerial shot capturing a vibrant urban park in Seoul, featuring winding paths, diverse flora, and small groups of people engaged in activities like yoga, tai chi, and casual strolling. Modern skyscrapers frame the background, emphasizing the blend of city and nature.
+🖼️ [BODY PROMPT 3]
+A close-up of a smartphone screen displaying a user-friendly Korean hiking app with a detailed map of a city mountain trail, showing elevation, points of interest, and real-time crowd data. In the background, a person is lacing up hiking boots.
+🖼️ [BODY PROMPT 4]
+A group of international tourists participating in a guided "forest bathing" (shinrin-yoku) session in a serene urban forest in Korea, led by a local guide. They are engaged in mindful breathing exercises, surrounded by tall trees and dappled sunlight.
+------------------------------------------------------------
