@@ -2181,3 +2181,16 @@ A diverse group of people from different age groups and backgrounds, each holdin
 🖼️ [BODY PROMPT 3]
 A futuristic digital magnifying glass hovering over a complex financial chart, highlighting specific data points with a green glow, while other parts of the chart appear blurred or red, symbolizing AI-powered tools helping to verify and filter information. The background is a sophisticated, minimalist financial office.
 ------------------------------------------------------------
+
+[2026-11-20 14:09:23] 2026년 '기후 난민' 재정 플랜: 기후 변화로 인한 이주 비용, 자산 재배치, 새로운 정착지에서의 재테크 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic showing a digital globe with interconnected financial lines, overlaid with subtle climate change indicators like rising sea levels or extreme weather patterns, symbolizing global financial resilience amidst climate migration. The color palette is modern and professional, with cool blues and greens accented by gold.
+🖼️ [BODY PROMPT 1]
+A digital rendering of a family standing before a partially submerged house, looking towards a distant, vibrant city skyline, symbolizing the difficult decision of climate migration and the hope for a new beginning. The image conveys both loss and resilience, with a slightly futuristic, hopeful tone.
+🖼️ [BODY PROMPT 2]
+A person is meticulously organizing digital financial charts and documents on a holographic interface, with a serene yet determined expression. The background shows a modern, minimalist office space, emphasizing proactive and tech-savvy financial planning.
+🖼️ [BODY PROMPT 3]
+A diverse group of individuals, representing various backgrounds, are engaged in a collaborative discussion around a table with a holographic display showing investment charts and sustainable development goals. The atmosphere is optimistic and forward-looking, emphasizing community and shared financial planning.
+🖼️ [BODY PROMPT 4]
+A close-up shot of a hand holding a smartphone displaying a financial app with green graphs and a small icon of a sprouting plant, symbolizing sustainable and growth-oriented investment in a new environment. The background is slightly blurred, suggesting a bustling but hopeful new city.
+------------------------------------------------------------
