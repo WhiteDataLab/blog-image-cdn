@@ -2224,3 +2224,16 @@ A close-up of a hand interacting with a sleek, minimalist tablet displaying a "K
 🖼️ [BODY PROMPT 4]
 A stylized illustration of a thriving digital ecosystem within a company. Diverse employees are depicted as nodes in a network, with bright lines of knowledge flowing between them. In the center, a large, glowing tree-like structure symbolizes continuous growth and innovation fueled by shared knowledge. The overall aesthetic is optimistic and forward-looking.
 ------------------------------------------------------------
+
+[2026-11-20 14:07:20] AI 시대, '디지털 윤리 코치'와 함께하는 업무: 직장인의 AI 활용 도덕적 나침반 찾기
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic digital compass glowing with ethical guidelines, superimposed over a professional office worker interacting with a holographic AI interface. The colors are muted blues and greens, symbolizing trust and innovation.
+🖼️ [BODY PROMPT 1]
+A diverse group of office workers in a modern, collaborative workspace, each looking thoughtfully at their screens displaying AI-generated content or data. Subtle visual cues like blurred faces or skewed charts hint at underlying ethical dilemmas such as privacy concerns or algorithmic bias.
+🖼️ [BODY PROMPT 2]
+A conceptual image of a 'Digital Ethics Coach.' It could be represented as a sophisticated, glowing AI assistant icon or a stylized, abstract human-like figure made of light, offering guidance to a person engaged in a complex digital task. The background is a clean, minimalist office setting.
+🖼️ [BODY PROMPT 3]
+A person in a modern office setting, looking at a tablet or screen that displays a clear, intuitive interface of a 'Digital Ethics Coach.' The interface shows a decision tree or a set of ethical considerations, helping the user navigate a complex AI-related task, perhaps involving data sharing or content creation. The user appears confident and informed.
+🖼️ [BODY PROMPT 4]
+A harmonious blend of human and AI elements. A human hand and a glowing, stylized AI hand are gently touching, symbolizing collaboration and ethical guidance. In the background, a subtle, abstract representation of a global network or a data stream reinforces the idea of responsible AI integration in a connected world.
+------------------------------------------------------------
