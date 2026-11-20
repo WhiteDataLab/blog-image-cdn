@@ -2179,3 +2179,16 @@ A person (ethnically Korean, 30s-40s, healthy appearance) looking at a holograph
 🖼️ [BODY PROMPT 3]
 A sophisticated 3D rendering of a human silhouette composed of interconnected data points and glowing lines, representing personalized health insights. Surrounding the silhouette are abstract, swirling patterns of quantum dots, symbolizing the underlying technology and the flow of information, set against a clean, minimalist background.
 ------------------------------------------------------------
+
+[2026-11-20 14:10:42] 만성 통증의 새로운 이해: 뇌와 유전자가 밝히는 통증의 비밀과 웰니스 전략
+📸 [THUMBNAIL PROMPT]
+A sophisticated 3D rendering of a human brain with glowing neural pathways intertwined with DNA helix structures, symbolizing the complex interplay of brain and genetics in chronic pain. The background is a soft, futuristic gradient of blues and purples, with subtle data visualizations. High-tech, conceptual, and clean.
+🖼️ [BODY PROMPT 1]
+A vibrant, abstract illustration of neural networks in the brain, with some pathways glowing intensely red to represent overactive pain signals, while others are dim, indicating underactive pain modulation. The style is modern, digital art, with a sense of complex interconnectedness.
+🖼️ [BODY PROMPT 2]
+A close-up, artistic depiction of a DNA double helix, with subtle glowing markers on certain segments, representing epigenetic modifications. Surrounding the helix are abstract elements symbolizing environmental factors like stress, diet, and exercise, interacting with the DNA.
+🖼️ [BODY PROMPT 3]
+A person wearing a sleek, futuristic VR headset, immersed in a calming virtual environment that features subtle neural network patterns and soothing nature elements. The person looks relaxed and focused, indicating a digital therapy session for pain management.
+🖼️ [BODY PROMPT 4]
+A serene scene of a person practicing gentle yoga or meditation in a sunlit, minimalist room. The focus is on calm and mindful movement, with a subtle glow around the person suggesting inner peace and connection between mind and body.
+------------------------------------------------------------
