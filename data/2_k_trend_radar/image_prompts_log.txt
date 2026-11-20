@@ -2243,3 +2243,16 @@ A close-up of a smartphone screen displaying a user-friendly Korean hiking app w
 🖼️ [BODY PROMPT 4]
 A group of international tourists participating in a guided "forest bathing" (shinrin-yoku) session in a serene urban forest in Korea, led by a local guide. They are engaged in mindful breathing exercises, surrounded by tall trees and dappled sunlight.
 ------------------------------------------------------------
+
+[2026-11-20 14:04:31] The Rise of Urban Plant Butlers: Niche Green Services Thriving in Korea's Compact Cityscapes in 2026.
+📸 [THUMBNAIL PROMPT]
+A stylish, minimalist apartment living room in Seoul, bathed in soft, natural light, with a diverse collection of lush indoor plants thriving. A sophisticated plant butler, wearing a subtle uniform, is meticulously tending to a large fiddle leaf fig, with advanced plant care tools neatly arranged beside them. The scene conveys urban tranquility and professional green service.
+🖼️ [BODY PROMPT 1]
+A plant butler in a modern Seoul apartment, gently misting an exotic orchid while explaining its care to a curious client. The apartment features large windows overlooking a bustling city, contrasting with the serene indoor garden.
+🖼️ [BODY PROMPT 2]
+A close-up shot of a plant butler's hands, equipped with delicate tools, meticulously pruning a bonsai tree in a client's home. The background is softly blurred, highlighting the intricate detail of the plant and the focused care.
+🖼️ [BODY PROMPT 3]
+A sleek, modern mobile application interface displaying a "plant health dashboard" with real-time data on a client's indoor plants. The screen shows metrics like soil moisture, light exposure, and a schedule for the next plant butler visit.
+🖼️ [BODY PROMPT 4]
+A diverse group of urban dwellers, including young professionals and an elderly couple, happily interacting with their flourishing indoor plants. A friendly plant butler is seen in the background, offering advice, symbolizing community and shared green living.
+------------------------------------------------------------
