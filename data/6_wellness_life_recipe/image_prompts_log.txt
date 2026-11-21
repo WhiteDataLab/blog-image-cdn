@@ -2192,3 +2192,16 @@ A person wearing a sleek, futuristic VR headset, immersed in a calming virtual e
 🖼️ [BODY PROMPT 4]
 A serene scene of a person practicing gentle yoga or meditation in a sunlit, minimalist room. The focus is on calm and mindful movement, with a subtle glow around the person suggesting inner peace and connection between mind and body.
 ------------------------------------------------------------
+
+[2026-11-21 14:06:52] 2026년, 미네랄 워터의 재발견: 단순한 수분 보충을 넘어선 '생체 활성수'의 비밀
+📸 [THUMBNAIL PROMPT]
+A sleek, futuristic glass bottle of mineral water glowing softly, surrounded by subtle digital representations of swirling minerals and water molecules, set against a minimalist, high-tech wellness lab background. The bottle has a label indicating "Bioactive Water 2026".
+🖼️ [BODY PROMPT 1]
+A diverse group of modern, health-conscious individuals in a sleek, minimalist cafe, each holding a distinct, elegantly designed bottle of premium mineral water. The bottles showcase various sustainable packaging materials like glass and aluminum, with subtle labels highlighting their unique mineral compositions. A digital display in the background shows a rising graph of "Premium Water Market Growth 2026".
+🖼️ [BODY PROMPT 2]
+A close-up shot of water molecules and various mineral ions (calcium, magnesium, potassium) rendered in a vibrant, almost glowing 3D graphic, illustrating their rapid absorption into human cells. The background shows a subtle, healthy human body outline with glowing veins and organs.
+🖼️ [BODY PROMPT 3]
+A sophisticated, minimalist infographic comparing different types of "bioactive water" – mineral water, hydrogen water, and alkaline water. Each type has icons representing its claimed benefits and scientific backing, with a clear distinction between scientifically proven benefits and marketing claims. The overall aesthetic is clean, modern, and data-driven.
+🖼️ [BODY PROMPT 4]
+A person in a modern kitchen thoughtfully examining the label of a premium mineral water bottle. The label clearly displays mineral content and a sustainable packaging certification. In the background, a sleek, smart water dispenser is visible, and a tablet shows a health app with personalized hydration goals and mineral intake tracking.
+------------------------------------------------------------
