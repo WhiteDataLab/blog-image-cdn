@@ -2194,3 +2194,16 @@ A diverse group of individuals, representing various backgrounds, are engaged in
 🖼️ [BODY PROMPT 4]
 A close-up shot of a hand holding a smartphone displaying a financial app with green graphs and a small icon of a sprouting plant, symbolizing sustainable and growth-oriented investment in a new environment. The background is slightly blurred, suggesting a bustling but hopeful new city.
 ------------------------------------------------------------
+
+[2026-11-21 14:04:44] 2026년 '디지털 시민권'과 개인의 금융 주권: 온라인 활동이 자산이 되는 미래 재정 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic cityscape with glowing digital lines connecting individuals to financial symbols, representing digital citizenship and financial sovereignty in 2026. The image should convey a sense of empowerment and innovation.
+🖼️ [BODY PROMPT 1]
+A person interacting with a holographic interface displaying their personal data represented as digital assets, with secure blockchain symbols in the background, emphasizing data ownership and monetization.
+🖼️ [BODY PROMPT 2]
+A diverse group of digital avatars engaging in a bustling metaverse marketplace, with various digital assets like virtual land and unique avatar outfits being displayed and traded, symbolizing the metaverse economy.
+🖼️ [BODY PROMPT 3]
+A close-up of a hand holding a smartphone displaying a sleek, user-friendly Web3 wallet interface, with various digital assets and cryptocurrencies clearly visible, set against a blurred background of financial charts.
+🖼️ [BODY PROMPT 4]
+A person sitting at a desk, surrounded by multiple screens displaying financial data, blockchain diagrams, and educational content, symbolizing continuous learning and adaptation in the digital finance era.
+------------------------------------------------------------
