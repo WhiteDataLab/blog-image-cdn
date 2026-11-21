@@ -2256,3 +2256,16 @@ A sleek, modern mobile application interface displaying a "plant health dashboar
 🖼️ [BODY PROMPT 4]
 A diverse group of urban dwellers, including young professionals and an elderly couple, happily interacting with their flourishing indoor plants. A friendly plant butler is seen in the background, offering advice, symbolizing community and shared green living.
 ------------------------------------------------------------
+
+[2026-11-21 13:58:51] The Rise of "Haptic Heritage": Experiencing Korea's Past Through Touch and Interactive Sensory Exhibits in 2026.
+📸 [THUMBNAIL PROMPT]
+A close-up of a hand gently touching a holographic projection of ancient Korean pottery, with subtle haptic feedback ripples emanating from the touchpoint, set in a modern, dimly lit museum exhibit. The background shows blurred figures engaging with other interactive displays. High-tech, artistic, and inviting.
+🖼️ [BODY PROMPT 1]
+A visitor wearing haptic gloves and AR glasses interacts with a holographic projection of a traditional Korean ceramic vase, feeling its contours and texture. The museum setting is modern and minimalist, with soft, directional lighting highlighting the interaction.
+🖼️ [BODY PROMPT 2]
+A group of diverse visitors, including children and adults, are engaged in a museum workshop. They are touching and feeling different textures of traditional Korean fabrics like silk and ramie, with a museum guide explaining the historical context. The atmosphere is bright and engaging.
+🖼️ [BODY PROMPT 3]
+A visually impaired person with a guide dog is confidently navigating a museum exhibit, touching a tactile relief map of an ancient Korean palace. The scene emphasizes accessibility and independent exploration.
+🖼️ [BODY PROMPT 4]
+A futuristic museum interior with holographic displays and interactive touchpoints. A diverse group of people are exploring, some wearing subtle wearable tech. The overall aesthetic is clean, sophisticated, and technologically advanced, with elements of traditional Korean design subtly integrated.
+------------------------------------------------------------
