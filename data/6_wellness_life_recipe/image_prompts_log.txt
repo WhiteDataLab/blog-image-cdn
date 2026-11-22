@@ -2205,3 +2205,16 @@ A sophisticated, minimalist infographic comparing different types of "bioactive 
 🖼️ [BODY PROMPT 4]
 A person in a modern kitchen thoughtfully examining the label of a premium mineral water bottle. The label clearly displays mineral content and a sustainable packaging certification. In the background, a sleek, smart water dispenser is visible, and a tablet shows a health app with personalized hydration goals and mineral intake tracking.
 ------------------------------------------------------------
+
+[2026-11-22 13:25:17] 숫자 강박은 그만! 2026년 웰니스 트렌드, '인간 본연의 즐거움'으로 돌아가는 법
+📸 [THUMBNAIL PROMPT]
+A person joyfully stretching in a sun-drenched natural landscape, with blurred digital metrics floating away in the background, symbolizing freedom from data obsession and a return to intrinsic well-being. Soft, warm lighting.
+🖼️ [BODY PROMPT 1]
+A person smiling genuinely while eating a delicious, vibrant meal outdoors, without any visible screens or tracking devices. The focus is on the sensory experience of food and nature. High-quality, warm lighting.
+🖼️ [BODY PROMPT 2]
+A group of adults laughing and engaging in a playful, lighthearted activity like flying kites or playing a simple outdoor game in a park. The atmosphere is joyful and uninhibited. Bright, natural lighting.
+🖼️ [BODY PROMPT 3]
+A serene individual sitting comfortably in a cozy, minimalist room, meditating or simply enjoying a quiet moment. Soft, natural light fills the space, and there are subtle elements of nature like a small plant. The overall feeling is one of peace and contentment.
+🖼️ [BODY PROMPT 4]
+A vibrant, abstract representation of interconnected human figures and natural elements, forming a harmonious circle. The colors are warm and inviting, symbolizing collective well-being and intrinsic joy. 3D virtual graphic style.
+------------------------------------------------------------
