@@ -2271,3 +2271,16 @@ A diverse group of IT professionals collaboratively analyzing a large, transpare
 🖼️ [BODY PROMPT 8]
 A modern, minimalist office space with a large digital screen displaying a roadmap for AIOps implementation. Arrows and milestones indicate a gradual, strategic approach. Diverse professionals are engaged in a discussion, symbolizing organizational change management and collaboration.
 ------------------------------------------------------------
+
+[2026-11-23 14:05:30] 생성형 AI 기반 '온디맨드 맞춤형 학습 콘텐츠' 생성: 직장인의 초개인화된 역량 개발 가속화 전략
+📸 [THUMBNAIL PROMPT]
+A professional Korean office worker, mid-30s, looking thoughtfully at a holographic interface displaying a personalized learning roadmap and dynamically generated content modules. The background is a modern, minimalist office with subtle AI-themed elements. The overall aesthetic is clean, futuristic, and empowering.
+🖼️ [BODY PROMPT 1]
+A diverse group of professional Korean office workers, each engaged in personalized learning on their devices (laptops, tablets). Holographic elements above their heads show unique, dynamically generated learning modules tailored to their individual needs. The atmosphere is focused and collaborative, set in a modern, open office space.
+🖼️ [BODY PROMPT 2]
+A close-up of a generative AI interface on a tablet, showing code being written in real-time to create a personalized learning module. The screen displays various content types like text, interactive quizzes, and video snippets, all being dynamically assembled. A human hand is gently interacting with the screen.
+🖼️ [BODY PROMPT 3]
+A futuristic dashboard displaying various metrics related to employee learning and development. The dashboard shows real-time skill acquisition rates, personalized learning paths, and overall competency growth, all powered by AI. The data is presented in an engaging, easy-to-understand visual format with glowing charts and graphs.
+🖼️ [BODY PROMPT 4]
+A diverse team of office workers collaborating in a modern meeting room. One person is presenting a complex problem on a large interactive screen, while another is quickly generating a personalized micro-learning module using a generative AI tool on their tablet to address a specific skill gap identified in the discussion. The scene emphasizes seamless integration of AI into daily work and learning.
+------------------------------------------------------------
