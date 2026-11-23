@@ -2220,3 +2220,16 @@ A close-up shot of a human hand and a robotic hand gently touching above a glowi
 🖼️ [BODY PROMPT 4]
 A dynamic, multi-screen display in a modern trading room, showing a diversified investment portfolio with various asset classes (stocks, bonds, real estate, digital assets). Overlayed on the screens are subtle AI analysis graphics, highlighting trends and risk factors, with a sense of informed control.
 ------------------------------------------------------------
+
+[2026-11-23 14:07:15] **시민 과학 참여로 새로운 수익 창출: 개인의 지식과 노력이 자산이 되는 법**
+📸 [THUMBNAIL PROMPT]
+A vibrant, futuristic image showing diverse individuals from different backgrounds collaboratively engaging with glowing holographic data visualizations and scientific instruments, symbolizing citizen science. One person is holding a tablet displaying financial graphs, with subtle blockchain elements in the background, representing knowledge turning into assets. The overall aesthetic is clean, modern, and inspiring.
+🖼️ [BODY PROMPT 1]
+A sleek, minimalist infographic showing the exponential growth of citizen science participation and its monetary value from 2020 to 2026, with upward-trending graphs and icons representing data, AI, and blockchain. The background is a subtle network of interconnected nodes.
+🖼️ [BODY PROMPT 2]
+A person (could be male or female, diverse ethnicity) intently looking at a screen filled with complex scientific data, with a subtle overlay of financial charts and blockchain symbols. The person looks focused and empowered, symbolizing the active role of individuals in monetizing their knowledge. The setting is modern and bright.
+🖼️ [BODY PROMPT 3]
+A group of diverse individuals (multi-ethnic, various ages) collaborating around a large interactive screen or table displaying a complex scientific project. They are engaged in discussion and analysis, with a sense of shared purpose and innovation. The setting is a modern, collaborative workspace.
+🖼️ [BODY PROMPT 4]
+A stylized image of a human brain with glowing neural pathways, connected to a network of financial symbols and data points, all within a futuristic, clean interface. It represents the idea of individual intellect and knowledge being directly linked to financial growth and asset creation.
+------------------------------------------------------------
