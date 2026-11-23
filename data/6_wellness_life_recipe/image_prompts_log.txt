@@ -2218,3 +2218,16 @@ A serene individual sitting comfortably in a cozy, minimalist room, meditating o
 🖼️ [BODY PROMPT 4]
 A vibrant, abstract representation of interconnected human figures and natural elements, forming a harmonious circle. The colors are warm and inviting, symbolizing collective well-being and intrinsic joy. 3D virtual graphic style.
 ------------------------------------------------------------
+
+[2026-11-23 14:08:48] 2026년, '정보 감염병' 시대의 과학적 웰니스 리터러시: 가짜 뉴스 속 진짜 건강 상식 분별법
+📸 [THUMBNAIL PROMPT]
+A person standing at a crossroads, with one path labeled "Real Health Info" and the other "Fake News," surrounded by glowing, interconnected digital information streams and a subtle overlay of a human brain icon, symbolizing critical thinking in a high-tech, slightly futuristic setting. The overall mood is discerning and empowered, with a clean, modern aesthetic.
+🖼️ [BODY PROMPT 1]
+A stylized infographic showing two distinct pathways. One path is clear, well-lit, and labeled "Evidence-Based Health." The other is dark, winding, and filled with distorted, blurry text bubbles representing "Misinformation." A magnifying glass icon hovers over the clear path, symbolizing scrutiny and discernment.
+🖼️ [BODY PROMPT 2]
+A diverse group of people, young and old, engaged in various activities like reading a scientific journal on a tablet, discussing with a doctor, and using a fact-checking app on a smartphone. The scene emphasizes active learning and critical thinking in a modern, inclusive setting.
+🖼️ [BODY PROMPT 3]
+A sleek, minimalist smartphone displaying a health app interface with a "fact-check" button. Around the phone, subtle holographic projections show data points, graphs, and a network of verified sources, illustrating the integration of technology in health information discernment.
+🖼️ [BODY PROMPT 4]
+A close-up of a person's hands holding a book titled "Wellness Literacy" with a soft, warm glow emanating from it. In the background, blurred but visible, are elements of a healthy lifestyle like fresh fruits, a yoga mat, and a subtle digital interface, symbolizing the integration of knowledge into daily life.
+------------------------------------------------------------
