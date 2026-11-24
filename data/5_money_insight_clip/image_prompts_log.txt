@@ -2233,3 +2233,16 @@ A group of diverse individuals (multi-ethnic, various ages) collaborating around
 🖼️ [BODY PROMPT 4]
 A stylized image of a human brain with glowing neural pathways, connected to a network of financial symbols and data points, all within a futuristic, clean interface. It represents the idea of individual intellect and knowledge being directly linked to financial growth and asset creation.
 ------------------------------------------------------------
+
+[2026-11-24 16:52:12] 사모 크레딧 시장의 개인 투자 기회: 고금리 시대, 새로운 대안 자산으로 주목해야 할 이유
+📸 [THUMBNAIL PROMPT]
+A sophisticated, minimalist graphic depicting intertwined financial charts and a stylized "PC" (Private Credit) emblem, set against a backdrop of a subtly glowing digital cityscape, symbolizing growth and alternative investment in a high-tech financial era. The color palette is deep blues, golds, and silvers, conveying trust and premium value.
+🖼️ [BODY PROMPT 1]
+A dynamic 3D infographic showing a rapidly ascending bar chart representing private credit AUM growth from 2020 to 2028, with a spotlight on the 2026 data point. The background features subtle financial market trends and a diverse group of investors (institutional and individual) looking at the chart with interest.
+🖼️ [BODY PROMPT 2]
+A diverse group of individuals (representing retail investors) actively engaging with digital tablets and laptops, displaying simplified financial interfaces for private credit investments. The setting is a modern, bright co-working space, emphasizing accessibility and technology.
+🖼️ [BODY PROMPT 3]
+A balanced visual representing the pros and cons of private credit. On one side, a stack of gold coins with upward-trending arrows (high returns), and on the other, a locked, complex puzzle piece (illiquidity and complexity). The overall aesthetic is clean and conceptual, using muted financial colors.
+🖼️ [BODY PROMPT 4]
+A futuristic holographic chart displaying interconnected trends: a rising line for "Tech & Growth Sector Lending," an expanding network for "Retail Investor Access (STO)," and a green leaf icon integrated into a financial graph for "ESG Integration." The background is a subtle, abstract representation of data flowing.
+------------------------------------------------------------
