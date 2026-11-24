@@ -2231,3 +2231,16 @@ A sleek, minimalist smartphone displaying a health app interface with a "fact-ch
 🖼️ [BODY PROMPT 4]
 A close-up of a person's hands holding a book titled "Wellness Literacy" with a soft, warm glow emanating from it. In the background, blurred but visible, are elements of a healthy lifestyle like fresh fruits, a yoga mat, and a subtle digital interface, symbolizing the integration of knowledge into daily life.
 ------------------------------------------------------------
+
+[2026-11-24 16:53:39] 향기 레이어링으로 찾는 나만의 감정 웰니스: 일상 속 예술적 치유법
+📸 [THUMBNAIL PROMPT]
+An elegant, artistic flat lay of various perfume bottles, essential oil droppers, and small, delicate flowers or botanical elements on a soft, textured background, evoking a sense of calm and personalized luxury. The lighting is soft and natural, highlighting the subtle interplay of colors and textures.
+🖼️ [BODY PROMPT 1]
+A stylized 3D rendering of the human brain, with specific areas like the limbic system (amygdala and hippocampus) highlighted and connected by glowing lines to an abstract representation of scent molecules entering the nasal cavity, illustrating the direct neural pathway.
+🖼️ [BODY PROMPT 2]
+A modern, minimalist perfume mixing bar inside a chic boutique. Various small, elegant bottles with different essential oils and fragrance bases are arranged meticulously. A person (gender-neutral) is thoughtfully selecting and combining scents, with soft, artistic lighting creating an inviting atmosphere.
+🖼️ [BODY PROMPT 3]
+A person (female, 30s-40s, serene expression) gently applying a scented body oil to her wrist, followed by a light spray of perfume. The background is a soft-focus, sunlit bedroom, emphasizing a personal, calming morning ritual.
+🖼️ [BODY PROMPT 4]
+A close-up, high-angle shot of a person's hand delicately holding a small, artfully designed perfume bottle, with a soft, ethereal glow surrounding it. The background is blurred, suggesting a focus on the intimate act of choosing and applying scent, symbolizing personal emotional artistry.
+------------------------------------------------------------
