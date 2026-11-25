@@ -2246,3 +2246,16 @@ A balanced visual representing the pros and cons of private credit. On one side,
 🖼️ [BODY PROMPT 4]
 A futuristic holographic chart displaying interconnected trends: a rising line for "Tech & Growth Sector Lending," an expanding network for "Retail Investor Access (STO)," and a green leaf icon integrated into a financial graph for "ESG Integration." The background is a subtle, abstract representation of data flowing.
 ------------------------------------------------------------
+
+[2026-11-25 15:26:32] 2026년 정부 주도 '초장기기술투자펀드' 활용: 개인 투자자를 위한 딥테크 간접 투자 전략
+📸 [THUMBNAIL PROMPT]
+A futuristic, glowing hologram of a financial chart overlaid with deep tech symbols like a microchip, a DNA strand, and a quantum computing qubit, all within a sleek, modern investment office setting, with a subtle Korean flag motif in the background.
+🖼️ [BODY PROMPT 1]
+A diverse group of professionals, including scientists and investors, collaboratively looking at a holographic projection of complex deep tech concepts like AI neural networks, gene sequencing, and quantum entanglement in a modern, brightly lit research lab.
+🖼️ [BODY PROMPT 2]
+A sleek, minimalist 3D rendering of interconnected digital nodes forming a complex network, symbolizing diversified investment portfolios across various deep tech sectors, with a subtle upward trend line in the background.
+🖼️ [BODY PROMPT 3]
+A young, confident investor, possibly an MZ generation individual, analyzing complex financial data on a transparent tablet, with a backdrop of a bustling, futuristic city skyline at dusk, symbolizing long-term vision and cutting-edge technology.
+🖼️ [BODY PROMPT 4]
+A stylized infographic showing a timeline from 2026 to 2036, with key milestones in deep tech development and corresponding growth curves for investment, emphasizing the "ultra-long-term" aspect, rendered in a clean, professional style.
+------------------------------------------------------------
