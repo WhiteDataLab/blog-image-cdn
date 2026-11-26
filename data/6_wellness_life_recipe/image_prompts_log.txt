@@ -2244,3 +2244,14 @@ A person (female, 30s-40s, serene expression) gently applying a scented body oil
 🖼️ [BODY PROMPT 4]
 A close-up, high-angle shot of a person's hand delicately holding a small, artfully designed perfume bottle, with a soft, ethereal glow surrounding it. The background is blurred, suggesting a focus on the intimate act of choosing and applying scent, symbolizing personal emotional artistry.
 ------------------------------------------------------------
+
+[2026-11-26 15:18:35] 정신신경면역학(PNI)의 이해: 마음이 면역력을 좌우하는 과학적 원리와 실천법
+📸 [THUMBNAIL PROMPT]
+A vibrant, abstract representation of the human brain and immune system interconnected by glowing neural pathways and cellular structures, set against a futuristic, clean wellness background. The colors are calming blues, greens, and purples, with subtle energetic pulses.
+🖼️ [BODY PROMPT 1]
+A detailed, artistic rendering of neurons firing and immune cells (like lymphocytes and macrophages) interacting, with subtle glowing connections between them. The background is a sophisticated, clean laboratory setting with blurred scientific equipment.
+🖼️ [BODY PROMPT 2]
+A person meditating calmly in a modern, minimalist living room with soft, natural light streaming in. A subtle holographic display shows brainwave patterns and heart rate variability data, indicating a state of deep relaxation.
+🖼️ [BODY PROMPT 3]
+A diverse group of people engaging in various forms of moderate physical activity outdoors, such as walking, light jogging, and stretching in a lush park setting. The atmosphere is joyful and collaborative, emphasizing social connection.
+------------------------------------------------------------
