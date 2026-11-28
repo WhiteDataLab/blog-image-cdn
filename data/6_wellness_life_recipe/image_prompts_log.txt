@@ -2255,3 +2255,14 @@ A person meditating calmly in a modern, minimalist living room with soft, natura
 🖼️ [BODY PROMPT 3]
 A diverse group of people engaging in various forms of moderate physical activity outdoors, such as walking, light jogging, and stretching in a lush park setting. The atmosphere is joyful and collaborative, emphasizing social connection.
 ------------------------------------------------------------
+
+[2026-11-28 14:54:48] 2026년 미각과 건강을 동시에 잡는 새로운 식단 트렌드: '스위시(Swish)' 맛과 균형 잡힌 스낵 플레이트
+📸 [THUMBNAIL PROMPT]
+A vibrant and aesthetically pleasing "Swish" snack plate featuring an array of colorful, healthy ingredients like fresh berries, cucumber sticks, hummus, whole-grain crackers, roasted chickpeas, and a small portion of nuts, artfully arranged on a minimalist, modern ceramic plate. Soft, natural lighting highlights the textures and freshness. The background is subtly blurred, suggesting a clean, wellness-focused environment.
+🖼️ [BODY PROMPT 1]
+A close-up shot of a gourmet "Swish" snack plate, showcasing a vibrant mix of textures and colors. It includes crispy seaweed snacks, creamy avocado slices, spicy-sweet gochujang-glazed nuts, and fresh, colorful bell pepper strips. The focus is on the intricate details of each ingredient, emphasizing both visual appeal and imagined taste.
+🖼️ [BODY PROMPT 2]
+A person (gender-neutral, healthy appearance) mindfully assembling a "Swish" snack plate in a modern, sunlit kitchen. They are carefully placing vibrant fruits, crunchy vegetables, and a small bowl of hummus onto a stylish plate. The scene emphasizes the joy and intention behind healthy eating, with a focus on fresh ingredients and a calm atmosphere.
+🖼️ [BODY PROMPT 3]
+A beautifully arranged "Swish" snack plate on a wooden table, surrounded by ingredients like a bowl of mixed nuts, a glass of infused water with cucumber and mint, and a small cutting board with sliced fruits. The overall scene conveys a sense of calm, natural abundance, and healthy living.
+------------------------------------------------------------
